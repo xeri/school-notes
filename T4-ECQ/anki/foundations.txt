@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::1 Scarcity, choice and economic systems
+Definition of scarcity	Limited resources against unlimited wants
+The basic economic problem	Unlimited wants against scarce resources, which forces choice
+Definition of a need	Something essential for survival, such as food, water or shelter
+Definition of a want	Something desired but not essential for survival
+Definition of opportunity cost	The next best alternative forgone
+Is opportunity cost the sum of everything rejected?	No — only the single next best alternative forgone
+Opportunity cost for a government that builds a hospital	The next best public project forgone, such as the school not built
+Opportunity cost for a producer using a factory for product A	The output of product B forgone
+Name the four factors of production	Land, labour, capital, enterprise
+Reward to land	Rent
+Reward to labour	Wages
+Reward to capital	Interest
+Reward to enterprise	Profit
+Definition of land as a factor of production	All natural resources: soil, minerals, water, forests
+Definition of labour as a factor of production	Human physical and mental effort
+Definition of capital as a factor of production	Man-made goods used to produce other goods: machinery, factories, tools
+Definition of enterprise	Organising the other three factors and bearing the risk
+Does capital mean money in economics?	No — it means productive equipment; money is only a means of acquiring it
+What does a production possibility curve show?	The maximum combinations of two goods an economy can produce with its resources used fully and efficiently
+Meaning of a point on the PPC	Efficient — all resources employed
+Meaning of a point inside the PPC	Inefficient, or resources unemployed
+Meaning of a point outside the PPC	Unattainable with current resources and technology
+What does a movement along the PPC show?	Resources reallocated between the two goods, which is where opportunity cost is visible
+Four causes of an outward shift of the PPC	More or better resources, new technology, more training, investment in capital
+Three causes of an inward shift of the PPC	War, natural disaster, a fall in the workforce
+What does a bowed (concave) PPC show?	Increasing opportunity cost
+Why does a bowed PPC show increasing opportunity cost?	Resources are not equally suited to both goods, so each extra unit costs more of the other
+What does a straight-line PPC assume?	Constant opportunity cost
+Opportunity cost when a workshop gives up 4 tables to gain 12 chairs	4 tables
+On a bowed PPC, does the next 12 chairs cost the same?	No — it costs more, because opportunity cost increases
+Three questions every economic system must answer	What to produce, how to produce it, and for whom
+Who decides in a market economy?	Consumers and firms, through prices
+Who decides in a planned economy?	The government, centrally
+Ownership in a market economy	Private
+Ownership in a planned economy	State
+Motive in a market economy	Profit and self-interest
+Motive in a planned economy	Social and political objectives
+Two strengths of a market economy	Strong incentives and efficiency, plus choice and innovation
+Three weaknesses of a market economy	Inequality, market failure, public goods undersupplied
+Two strengths of a planned economy	It can provide for all and reduce inequality, and it can supply public goods
+Three weaknesses of a planned economy	Weak incentives, poor information, shortages and surpluses
+Definition of a mixed economy	An economy in which both private firms and the state allocate resources
+Four criteria for comparing economic systems	Incentives, information, equity, and the ability to respond to unmet needs
+Three functions of the price mechanism	Signalling, incentive, rationing
+The signalling function of price	A rising price tells producers buyers want more and tells consumers to look for substitutes
+The incentive function of price	A higher price rewards producers for supplying more and draws resources into that market
+The rationing function of price	When a good is scarce the price rises, so only those willing and able to pay the most obtain it
+Four limits of the price mechanism	It ignores external costs, undersupplies public and merit goods, overprovides demerit goods, and allocates by ability to pay rather than need

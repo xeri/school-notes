@@ -1,0 +1,61 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::3 Elasticity, market failure and market structures
+Formula for price elasticity of demand	\(\text{PED} = \frac{\%\Delta Q_d}{\%\Delta P}\)
+Why is PED normally negative?	Price and quantity demanded move in opposite directions
+PED when price rises from 10 to 12 and quantity falls from 100 to 70	\(-30/20 = -1.5\), magnitude 1.5
+PED magnitude greater than 1	Elastic — quantity responds more than proportionately
+PED magnitude less than 1	Inelastic — quantity responds less than proportionately
+PED equal to 1	Unit elastic — a proportionate response
+PED equal to 0	Perfectly inelastic — quantity does not change at all
+PED equal to infinity	Perfectly elastic — any price rise kills demand entirely
+Effect of a price rise on revenue when demand is elastic	Revenue falls
+Effect of a price fall on revenue when demand is elastic	Revenue rises
+Effect of a price rise on revenue when demand is inelastic	Revenue rises
+Effect of a price fall on revenue when demand is inelastic	Revenue falls
+Is a change in revenue the same as a change in profit?	No — profit also depends on costs, and selling fewer units cuts total variable cost
+Strongest determinant of PED	The availability of close substitutes
+Effect of necessity on PED	Necessities have inelastic demand; luxuries are elastic
+Effect of the proportion of income spent on PED	A cheap item is inelastic; an expensive one is elastic
+Effect of time on PED	Demand is more elastic in the long run, as consumers find alternatives
+Effect of habit or addiction on PED	Demand is inelastic
+Effect of brand loyalty on PED	Demand is inelastic
+Formula for price elasticity of supply	\(\text{PES} = \frac{\%\Delta Q_s}{\%\Delta P}\)
+Sign of PES	Positive
+Name five determinants of PES	Spare capacity, time, stock levels, mobility of factors, length of the production period
+Effect of spare capacity on PES	Plenty of spare capacity makes supply elastic
+Effect of time on PES	Supply is inelastic in the short run and elastic in the long run
+PES of agriculture in the short run	Highly inelastic, because a crop takes a season to grow
+Why elasticity matters to a firm	It shows whether a price change raises or lowers revenue, and whether a cost rise can be passed on
+When does an indirect tax raise the most revenue?	When demand is inelastic
+When does an indirect tax cut consumption the most?	When demand is elastic
+The conflict in taxing a demerit good	Raising revenue needs inelastic demand, but cutting consumption needs elastic demand
+Definition of market failure	Where the free market allocates resources inefficiently, producing too much or too little from society's point of view
+Definition of private cost	The cost to the decision-maker
+Definition of external cost	A cost falling on a third party, not paid by the decision-maker
+Formula for social cost	Social cost = private cost + external cost
+Formula for social benefit	Social benefit = private benefit + external benefit
+Effect of an external cost on market output	The market over-produces, because the polluter does not pay for the harm
+Effect of an external benefit on market output	The market under-produces, because the provider is not paid for the wider gain
+Two examples of a negative externality	A factory's pollution harming neighbours, and traffic congestion
+Two examples of a positive externality	Vaccination protecting the unvaccinated, and education raising economy-wide productivity
+Definition of a merit good	A good with external benefits that consumers undervalue, so it is underconsumed
+Definition of a demerit good	A good with external costs whose harm consumers undervalue, so it is overconsumed
+Two properties of a public good	Non-rival and non-excludable
+Three examples of a public good	Street lighting, national defence, flood defences
+Definition of the free-rider problem	Non-excludability means nobody will pay voluntarily, so the market supplies none at all
+Definition of information failure	Consumers cannot judge what they are buying, so they choose badly
+Two limits of an indirect tax on a demerit good	Ineffective if demand is inelastic, and regressive on low incomes
+Two limits of a subsidy	It costs public money with an opportunity cost, and producers may not pass it all on
+Two limits of regulation	It needs monitoring and enforcement, and it is blunt, hitting compliant firms too
+Limit of an information campaign	It is slow, and often ignored
+How tradable permits work	A cap is set on total pollution and firms are free to trade their allowances
+Number of firms in competition, oligopoly and monopoly	Many; a few large firms; one dominant firm
+Price control in competition	None — firms are price takers
+Barriers to entry in a monopoly	Very high
+Main form of competition in an oligopoly	Non-price competition: heavy advertising and branding
+Name five barriers to entry	Large capital requirements, existing economies of scale, patents, brand loyalty, legal protection
+Three arguments against monopoly	Higher prices, less choice, less incentive to innovate or improve quality
+Two arguments that monopoly can benefit consumers	Economies of scale can lower unit cost, and large profits can fund research and innovation
+Definition of a natural monopoly	A market where a single supplier avoids wasteful duplication, such as water or rail track

@@ -1,0 +1,62 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Geography::3 Economic development and resources
+Definition of development	An improvement in the quality of life and standard of living of a population
+Difference between growth and development	Growth is a rise in output or income; development is the improvement in people's lives
+Four types of development	Economic, social, political, environmental
+Definition of GDP per capita	The total value of goods and services produced in a year divided by population
+Three limitations of GDP per capita	An average that hides inequality, excludes the informal economy, distorted by exchange rates
+Why use GNI per capita at PPP?	It adjusts income for what money actually buys locally
+Definition of infant mortality rate	Deaths under one year of age per 1000 live births
+Limitation of people per doctor	It says nothing about distribution between city and countryside
+Three components of the HDI	Income, education, life expectancy
+Three limitations of the HDI	Ignores the environment, political freedom and internal inequality
+Formula for percentage change	\(\frac{\text{new} - \text{old}}{\text{old}} \times 100\)
+What the Brandt Line was	A 1980 line separating a richer North from a poorer South, now out of date
+What SEEP stands for	Social, economic, environmental, political causes of uneven development
+The trade trap in one line	Raw material exports at volatile prices give unreliable revenue, so no capital to build processing industry
+Rostow's five stages	Traditional society, pre-conditions for take-off, take-off, drive to maturity, age of mass consumption
+Frank's dependency theory	The core developed by extracting surplus from the periphery, so underdevelopment is caused by the relationship
+Typical pattern of inequality within a country	Core-periphery: investment and jobs concentrate in the largest city and accessible regions
+Difference between formal and informal sector	Formal work is registered, taxed and protected; informal work is unregistered, untaxed and insecure
+Primary sector	Extracting or growing raw materials: farming, fishing, forestry, mining
+Secondary sector	Processing and manufacturing
+Tertiary sector	Providing services
+Quaternary sector	Knowledge, research and information services
+Employment structure of a post-industrial HIC	Small primary, falling secondary, dominant tertiary, growing quaternary
+Economic transition in one line	Mechanisation releases farm labour, factories draw it to towns, rising incomes raise demand for services
+Graph for employment by sector	Triangular graph, because the three percentages sum to 100
+Definition of globalisation	The increasing interconnection of economies, cultures and populations through trade, investment, migration and communication
+Four drivers of globalisation	Containerisation and cheap air freight, the internet, trade liberalisation, growth of TNCs
+Definition of a TNC	A company with its headquarters in one country and operations in others
+Three benefits of a TNC to a host country	Jobs and skills, tax and export earnings, multiplier effect on local suppliers
+Three drawbacks of a TNC to a host country	Profits repatriated, lower wages and conditions, the plant can be closed and relocated
+Difference between commercial and subsistence farming	Commercial farming grows for sale; subsistence farming feeds the farmer's own household
+Difference between intensive and extensive farming	Intensive uses high inputs per hectare for high yield; extensive uses large areas with low inputs
+Four physical factors in farming location	Climate, relief, soil, water
+Farming as a system	Inputs, processes, outputs, feedback
+How farming causes eutrophication	Nitrate from fertiliser and effluent leaches into water, fuelling algal growth
+Three sustainable farming practices	Riparian planting and fencing, nutrient budgeting, minimum tillage or crop rotation
+Most modern food shortages are failures of what?	Access and affordability, not global production
+Definition of footloose industry	Industry not tied to raw materials or fuel, so free to choose its location
+When does an industry locate near its raw materials?	When the inputs are bulky or perishable
+Five causes of tourism growth	Rising incomes, paid holidays, cheap air travel, online booking, political stability
+Three benefits of tourism	Jobs, foreign currency, a multiplier effect on local businesses
+Three problems of tourism	Seasonal low-paid jobs, profits leaking abroad, environmental damage
+Definition of leakage in tourism	Profits flowing out to foreign-owned airlines and hotel chains
+Three sustainable tourism measures	Visitor caps and permits, boardwalks and marked tracks, local ownership and guides
+Four non-renewable energy sources	Coal, oil, natural gas, nuclear
+Definition of renewable energy	Energy replenished on a human timescale
+Does renewable mean clean and reliable?	No, wind and solar are intermittent and hydro floods valleys
+Two disadvantages of hydroelectric power	Floods valleys and displaces people, traps sediment and blocks fish
+Main limitation of geothermal power	It is only possible in volcanic regions
+Main disadvantage of wind and solar power	Intermittent output needing back-up or storage
+Four effects of over-abstracting water	Lower water tables, dried wetlands, saltwater intrusion, conflict between users
+Definition of sustainable development	Meeting present needs without preventing future generations from meeting theirs
+Definition of the enhanced greenhouse effect	Extra warming from human emissions raising greenhouse gas concentrations
+Four greenhouse gases	Carbon dioxide, methane, nitrous oxide, halocarbons
+Main human sources of methane	Ruminant livestock, rice paddies, landfill, leaks from fossil fuel extraction
+Four carbon stores	Atmosphere, oceans, biosphere, geological stores
+Two causes of sea-level rise	Thermal expansion of seawater and melting land ice
+Cause of acid rain	Sulphur and nitrogen oxides dissolving in cloud water and falling downwind

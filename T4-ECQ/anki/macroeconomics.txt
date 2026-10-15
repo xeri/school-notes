@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::5 Macroeconomics and policy
+Four functions of money	Medium of exchange, measure or unit of account, store of value, standard of deferred payment
+Five characteristics of good money	Acceptability, divisibility, portability, durability, scarcity
+Four problems with barter	It needs a double coincidence of wants, there is no agreed measure of value, goods perish, and value is subjective
+Definition of disposable income	The income left to spend or save after taxes and deductions
+Effect of a rise in interest rates on spending, saving and borrowing	Spending falls, saving rises, borrowing falls
+Role of a commercial bank	An intermediary that takes deposits, makes loans, and provides credit, payments and foreign exchange
+Name five roles of the central bank	Issuing currency, holding government accounts, managing the national debt and reserves, regulating and lending to commercial banks, operating monetary policy
+What is the interest rate?	The price of borrowing money and the reward for saving it
+Name five government macroeconomic objectives	Economic growth, full employment, price stability, balance of payments stability, redistribution of income
+Definition of GDP	The money value of all goods and services produced within a country in a period, usually a year
+Formula for GDP by expenditure	\(\text{GDP} = C + I + G + (X - M)\)
+Definition of economic growth	The annual percentage change in real GDP
+Four causes of economic growth	Better factor endowments, a larger or more skilled labour force, higher labour productivity, investment in capital
+Difference between nominal and real GDP	Nominal GDP is valued at current prices; real GDP has the effect of price changes removed
+Formula for real GDP	\(\text{real GDP} = \frac{\text{nominal GDP}}{\text{price index}/100}\)
+Why use real GDP per head?	It allows for both inflation and population change, so it tracks average output per person
+Five limitations of GDP as a measure of welfare	It ignores unpaid work, income distribution, the composition of output, negative externalities, and leisure and health
+Difference between economic growth and economic development	Growth is a rise in output; development is an improvement in living standards and opportunity
+Four stages of the economic cycle	Growth, boom or peak, recession or downturn, recovery or upturn
+What happens at the recession stage?	Growth slows or turns negative, demand and profits fall, investment is cut and redundancies raise unemployment
+Definition of a recession	A sustained fall in real GDP
+Definition of inflation	A sustained rise in the general price level
+How is inflation measured?	By a consumer price index tracking a weighted basket of goods and services bought by a typical household
+What is a weighting in a price index?	The share of household spending taken by that item, so food at 20 per cent of spending gets a 20 per cent weighting
+Formula for a price index	\(\text{index} = \frac{\text{weighted average price this year}}{\text{weighted average price in the base year}}\times100\)
+What does a price index of 120 mean?	Prices are 20 per cent higher than in the base year — not 120 per cent higher, and not 20 per cent inflation this year
+Cause of demand-pull inflation	Total demand rising faster than firms can supply, so prices are bid up
+Cause of cost-push inflation	Rising production costs that firms pass on in higher prices to protect margins
+Effect of inflation on savers and borrowers	Savers lose as the real value of savings falls; borrowers gain as the real value of debt falls
+Why does inflation hit fixed and low-income earners hardest?	They cannot negotiate rises and they spend most of their income
+Definition of deflation	A sustained fall in the general price level
+Difference between deflation and disinflation	Deflation is falling prices; disinflation is inflation slowing down, so prices still rise but more slowly
+Definition of the labour force	Those of working age who are both willing and able to work
+Formula for the unemployment rate	\(\text{unemployment rate} = \frac{\text{number unemployed}}{\text{labour force}}\times100\)
+Four types of unemployment	Cyclical, structural, frictional, seasonal
+Cause of cyclical unemployment	Low total demand for goods and services in a recession
+Cause of structural unemployment	The long-term decline of an industry, leaving workers with the wrong skills or in the wrong place
+Cause of frictional unemployment	The time spent between leaving one job and finding the next
+Why can low unemployment be inflationary?	Vacancies are hard to fill, so firms bid wages up and pass the cost on in prices
+Definition of fiscal policy	Varying government spending and taxation to influence total demand
+Difference between direct and indirect tax	Direct tax is taken from income, profit or wealth; indirect tax is levied on spending
+Four principles of a good tax	Equity, non-distortionary, certainty, convenience
+Definition of a progressive tax	One where the proportion of income taken rises as income rises
+Definition of a proportional tax	One that takes the same proportion of income at every income level
+Definition of a regressive tax	One where the proportion of income taken falls as income rises
+Why are indirect taxes regressive in effect?	Low-income households spend nearly all their income, so nearly all of it is taxed, while higher earners save part of theirs
+Tax due on 60000 at 10 per cent to 20000, 20 per cent to 50000 and 30 per cent above	2000 + 6000 + 3000 = 11000
+Definition of a budget deficit	Government spending exceeding government revenue
+Definition of expansionary fiscal policy	Raising government spending or cutting taxes to boost total demand
+Definition of contractionary fiscal policy	Cutting government spending or raising taxes to slow demand and reduce debt
+Three problems with fiscal policy	The size and timing are hard to judge, borrowing leaves less finance for private firms, and higher taxes may blunt incentives
+Definition of monetary policy	The central bank's management of interest rates and the money supply
+Effect of expansionary monetary policy	A lower interest rate makes borrowing cheaper and saving less attractive, so consumption and investment rise
+Effect of a rise in interest rates on the exchange rate	The currency tends to appreciate, as higher returns attract foreign savers
+Definition of supply-side policy	Policy designed to raise the economy's productive capacity rather than its demand
+Name five supply-side policies	Education and training, infrastructure, tax incentives for investment, deregulation, privatisation
+Why do growth and price stability conflict?	If demand rises faster than capacity, the result is higher prices rather than more output
+Why do full employment and price stability conflict?	Less spare labour means wages are bid up and feed through into prices
+Why do growth and the balance of payments conflict?	Rising incomes raise spending on imports, worsening the current account
+Why does the economy's starting position matter?	With spare capacity a demand boost mainly raises output; at full capacity it mainly raises prices

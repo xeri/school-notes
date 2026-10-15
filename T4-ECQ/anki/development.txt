@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::7 Development, population and poverty
+Is economic growth quantitative or qualitative?	Quantitative: a rise in real output
+Is economic development quantitative or qualitative?	Both: an improvement in living standards and opportunity
+Three reasons growth may not bring development	Gains captured by an elite, spent on consumption rather than capacity, or offset by environmental damage
+Definition of economic welfare	The level of prosperity and the quality of living standards in an economy
+Three typical development objectives	Producing more necessities, raising living standards through education and healthcare, widening economic and social choice
+Limitation of real GDP per head as a development indicator	An average conceals distribution and ignores unpaid work, externalities and what is produced
+Limitation of life expectancy as an indicator	It lags and says nothing about quality of life while alive
+Limitation of the literacy rate as an indicator	It measures access to education, not the quality of schooling
+Limitation of doctors per 1000 people as an indicator	It says nothing about distribution between city and countryside
+Why use several development indicators together?	Single indicators mislead, and countries can score well on one and badly on another
+Three dimensions of the Human Development Index	Income, education, health
+What measures each HDI dimension?	GDP or GNI per head, years of schooling, life expectancy at birth
+Range of the HDI	0 to 1, higher meaning more developed
+Four limitations of the HDI	Ignores income distribution, ignores gender equality and freedom, ignores the environment, weighting is a judgement
+What the Gini coefficient measures	The distribution of income across a population
+Gini coefficient values for perfect equality and perfect inequality	0 and 1
+Why can Gini and GDP per head disagree?	Gini measures distribution, not the level of income, so a poor country can be equal and a rich one unequal
+What MEDC and LEDC stand for	More Economically Developed Country, Less Economically Developed Country
+Four limits of the MEDC and LEDC labels	Two boxes for a continuous spectrum, many countries fit neither, implies one path, hides within-country variation
+Definition of a newly industrialised or emerging economy	One that is industrialising rapidly
+Five typical features of an LEDC	Low-output farming, large primary sector, poor transport and communications, weak government, low life expectancy and schooling
+Six reasons some countries have low development	Dependence on agriculture, lack of capital, little investment in skills and health, poor infrastructure, high population growth, weak government or conflict
+Four types of within-country development gap	Urban and rural, region and region, formal and informal employment, ethnic, gender and disability groups
+Definition of birth rate	Live births per 1000 of the population per year
+Definition of death rate	Deaths per 1000 of the population per year
+Formula for the natural increase rate	\(\text{birth rate} - \text{death rate}\)
+Definition of net migration	Immigration minus emigration
+Formula for population growth	\(\text{natural increase} + \text{net migration}\)
+Natural increase for 10 million people, birth rate 22 and death rate 9 per 1000	\(13/1000 \times 10\,000\,000 = 130\,000\)
+Definition of life expectancy	The average number of years a newborn is expected to live
+Four factors that lower the birth rate	Fewer child deaths, contraception, female education and employment, later marriage
+Two factors that raise the birth rate	Custom and religion favouring large families, children needed as farm labour and old-age support
+Three factors that lower the death rate	Better food, water and sanitation, medical advances and vaccination, healthcare access
+Definition of brain drain	The emigration of skilled workers, losing the sending country the cost of training them
+What a sending country gains from emigration	Remittances sent home
+Definition of population structure	The distribution of the population by age and sex
+Shape of a young population pyramid	Wide base, narrow top
+Shape of an ageing population pyramid	Narrow base, bulge in the middle and upper age groups
+Formula for the dependency ratio	\(\frac{\text{aged } 0\text{–}14 + \text{aged } 65+}{\text{aged } 15\text{–}64} \times 100\)
+Dependency ratio with 3 million under 15, 1 million over 64 and 6 million of working age	\((3+1)/6 \times 100 = 66.7\)
+Why is the dependency ratio not an employment measure?	It is an age calculation and does not show who actually works or who is dependent
+Two causes of an ageing population	A falling birth rate and rising life expectancy
+Three pressures from an ageing population	Pensions, healthcare, residential care
+Three pressures from a young population	Schools, maternity care, enough jobs to avoid youth unemployment
+Three government measures to slow population growth	Provide contraception, educate about family planning, raise female education and employment
+Three government measures to raise population growth	Open borders to immigration, paid parental leave and child support, flexible working
+Definition of over-population	Too many people for the available resources
+Definition of under-population	Too few people to use the available resources
+Definition of optimum population	The population at which output per head is maximised
+Is a densely populated country automatically over-populated?	No, it depends on its resources and technology
+Definition of absolute poverty	Income too low to meet basic needs such as food, clean water, clothing and shelter
+Definition of relative poverty	Income low compared with others in the same society
+Which poverty measure can be eliminated in principle?	Absolute poverty; relative poverty exists while incomes differ
+Six causes of poverty	No work or livelihood, low insecure wages, poor education, poor health, conflict, discrimination
+The poverty cycle in one line	Low income, poor food and healthcare, illness, poor schooling and work, few skills, low-paid work, low income
+Why does education reduce poverty?	It raises skills, productivity and earning power, and lowers birth rates
+Three drawbacks of aid	It may create dependency, be misdirected, and carry conditions
+Limitation of a minimum wage as an anti-poverty policy	It does nothing for the informal sector and may cut formal employment
+Four tests for any anti-poverty policy	Access, quality, implementation capacity, time before benefits arrive

@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:English::2 Paper 3 Othello
+Paper 3 format	One hour, 25 marks, one essay on Othello: either a general question or a passage-based question
+May you take the play into the Paper 3 exam?	No; the studied text may not be taken in, so quotations must be memorised
+Restriction stated on the 2025 paper for the general question	You may not use any evidence from the printed passage
+Usual wording of the Othello general question	Examine the ways in which Shakespeare presents a named abstract noun in the play
+Usual wording of the Othello passage question	Comment on how, and with what effects, Shakespeare presents or creates X at this point in the play
+First recorded performance of Othello	At court on 1 November 1604, in the reign of James I
+What does the move from Venice to Cyprus do structurally?	It ends the external war and begins the internal one
+The pivot scene of the play	Act III scene iii, the temptation scene
+Othello's language across the play	Blank verse, then shared lines with Iago, then fragmentary prose, then recovered verse in the final speech
+Which register does Iago use with Roderigo, and which alone on stage?	Prose with Roderigo, verse in soliloquy
+How many motives does Iago give for his hatred?	At least four, and he commits to none
+Coleridge's phrase for Iago's shifting justifications	The motive-hunting of motiveless Malignity
+Iago's central technique	Insinuation rather than assertion: he refuses to speak and lets Othello supply the content
+The echo technique in III.iii	Iago repeats Othello's words back as questions, so the implication seems to originate in Othello
+Whose warning does Iago recycle against Desdemona?	Brabantio's, that a daughter who deceived her father may deceive her husband
+What does Iago offer when Othello demands proof?	A fabricated story of Cassio talking in his sleep
+Why is the demand for ocular proof the fatal error?	Othello asks for visible evidence and accepts a narrative instead
+What makes the audience complicit?	Iago announces his plan in soliloquy, so the audience watches a known catastrophe arrive on schedule
+How often does honest and its cognates appear?	Around fifty times, almost always ironically
+Who introduces animal imagery, and who has adopted it by Act IV?	Iago introduces it in I.i; Othello is using it by IV.i
+The argument to make about poison imagery	Iago's imagery is medical because his method is infection, and the ear is the point of entry
+What does the handkerchief stand for?	White cloth spotted with red: the wedding sheets, and so Desdemona's sexual honour made portable
+Why do Othello's two accounts of the handkerchief matter?	They contradict each other, proving its meaning is invested rather than inherent
+Significance of the willow in IV.iii	The tree of forsaken lovers, in a song inherited from a woman who died singing it
+How does the play treat conventional colour symbolism?	It sets it up and then detonates it: the white Venetian is the devil and the woman named White is a courtesan
+Emilia's arc	From complicity over the handkerchief to open defiance, and death for telling the truth
+The three women and their social positions	Desdemona idealised, Emilia pragmatic, Bianca commodified, all destroyed or degraded by one system
+Definition of a shared line, and its use in III.iii	Two speakers completing one verse line; Othello begins finishing Iago's, dramatising the takeover of his thought
+Structure for the general question	Chronological by act: establishment, escalation, collapse, consequence
+Structure for the passage question	Structure and pacing, one speaker's language, the other's in contrast, then dramatic irony and links out
+Appearance and reality, in five words	I am not what I am, says Iago in I.i
+Iago naming his own technique of seeming	Divinity of hell, when devils will the blackest sins put on, they do suggest at first with heavenly shows, says Iago in II.iii
+Poison imagery named by the poisoner	I'll pour this pestilence into his ear, says Iago in II.iii
+Iago's nearest thing to a genuine motive	He hath a daily beauty in his life that makes me ugly, says Iago in V.i
+Iago's final refusal to speak	Demand me nothing: what you know, you know, says Iago in V.ii
+Jealousy as self-consuming	The green-eyed monster which doth mock the meat it feeds on, says Iago in III.iii
+Flimsy evidence treated as scripture	Trifles light as air are to the jealous confirmations strong as proofs of holy writ, says Iago in III.iii
+Reputation called worthless, and to whom	Reputation is an idle and most false imposition, says Iago to Cassio in II.iii
+Reputation called priceless, and to whom	Good name in man and woman is the immediate jewel of their souls, says Iago to Othello in III.iii
+Reputation as identity	I have lost the immortal part of myself, and what remains is bestial, says Cassio in II.iii
+The seed of the whole tragedy	She has deceived her father, and may thee, says Brabantio in I.iii
+Authority exercised without violence	Keep up your bright swords, for the dew will rust them, says Othello in I.ii
+Love built on narrative	She loved me for the dangers I had pass'd, and I loved her that she did pity them, says Othello in I.iii
+Love as the only thing holding a self together	When I love thee not, chaos is come again, says Othello in III.iii
+Public identity mourned before the private	Othello's occupation's gone, says Othello in III.iii
+Irreversibility imagined as geography	Like to the Pontic sea, whose icy current and compulsive course ne'er feels retiring ebb, says Othello in III.iii
+The collapse of Othello's language into prose	Lie with her? lie on her? says Othello in IV.i
+Animal imagery transferred from Iago to Othello	Goats and monkeys, says Othello in IV.i
+Desdemona as a text others inscribe	Was this fair paper, this most goodly book, made to write whore upon? asks Othello in IV.ii
+The murder staged as ritual justice	It is the cause, it is the cause, my soul, says Othello in V.ii
+Light imagery at its terminus	Put out the light, and then put out the light, says Othello in V.ii
+Othello's last request about his reputation	Speak of me as I am, says Othello in V.ii
+Race, and love as an act of interpretation	I saw Othello's visage in his mind, says Desdemona in I.iii
+A woman asking whether she has become a word	Am I that name, Iago? asks Desdemona in IV.ii
+Desdemona's last line	Nobody; I myself, says Desdemona in V.ii
+Marriage seen clearly from below	They are all but stomachs, and we all but food, says Emilia in III.iv
+Dramatic irony at maximum pressure	I will be hanged if some eternal villain have not devised this slander, says Emilia in IV.ii
+The play's counter-argument on gender	Let husbands know their wives have sense like them, says Emilia in IV.iii
+The limit of Iago's power	Tis proper I obey him, but not now, says Emilia in V.ii
+Racial slander and animal imagery introduced together	An old black ram is tupping your white ewe, says Iago in I.i

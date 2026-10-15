@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::6 International trade and exchange rates
+Definition of specialisation (countries)	Concentrating resources on producing the goods a country's land, climate, skills and capital best suit it to
+Why does specialisation lead to trade?	A specialised country is short of everything it has stopped producing, so it must exchange its surplus for them
+Six reasons countries trade	Goods they cannot produce, goods others make more cheaply or better, selling a surplus for foreign currency, more choice and competition, larger markets for economies of scale, political ties
+Definition of globalisation	The process by which economies become increasingly interconnected through trade, investment, migration and the flow of information
+Three drivers of globalisation	Cheaper transport, faster communication, rising incomes
+Main risk of specialising in one or two exports	Over-dependence: a fall in world demand or price for those exports hits the whole economy
+Who bears the adjustment costs of trade?	Particular workers, industries and regions, not the nation evenly
+Definition of absolute advantage	Producing more of a good from the same resources than another country
+Definition of comparative advantage	Producing a good at a lower opportunity cost than another country
+Can a country with an absolute disadvantage in everything gain from trade?	Yes, by specialising where its comparative advantage lies
+Opportunity cost of 1 tobacco if 200 tobacco costs 250 beef	\(250 / 200 = 1.25\) beef
+Three conditions for comparative advantage gains to hold	Opportunity-cost ratios differ, transport costs are not prohibitive, resources can be switched between industries
+Definition of a multinational company (MNC)	A firm with its headquarters in one country and operations in others
+Three gains to a host country from an MNC	Jobs and transferred skills, capital investment adding to GDP, tax revenue
+Three costs to a host country from an MNC	Local firms forced out, profits sent home, tax avoided through transfer pricing
+Definition of free trade	Trade with the barriers removed, so goods and services move freely between countries
+Definition of protectionism	Restricting trade to shield domestic producers from foreign competition
+Definition of a tariff	An indirect tax on imports
+Definition of a quota	A physical limit on the quantity of a good that can be imported
+Key difference between a tariff and a quota for the government	A tariff raises tax revenue; a quota raises none
+How does a subsidy to domestic producers protect them?	It lowers their costs, shifts domestic supply right and lets them undercut imports
+Examples of administrative barriers	Paperwork, licensing, safety and labelling standards, slow customs
+Definition of an embargo	A total ban on importing a good
+Infant industry argument and its weakness	A new industry needs shelter until it reaches efficient scale; the protection may become permanent
+Definition of dumping	Foreign firms selling below cost to destroy local rivals
+Strategic industry argument	Food, energy and defence should not depend on foreign supply
+Why does protecting jobs in one industry cost jobs elsewhere?	Input costs rise for other firms and exporters face retaliation
+Four costs of protectionism	Higher prices and less choice, dearer imported inputs, inefficient firms kept alive, retaliation against exports
+What a free trade agreement does	Removes tariffs, bans subsidies, simplifies customs and eases movement of businesspeople
+Difference between a free trade agreement and a customs union	A customs union also applies a common external tariff to non-members
+Four things the judgement on protection depends on	How long it lasts, which industry and whether it can become competitive, the risk of retaliation, whether a cheaper alternative exists
+Definition of an exchange rate	The price of one currency in terms of another
+Four sources of demand for a currency	Foreigners buying exports, foreign investors and savers, incoming tourists, speculators expecting a rise
+Four sources of supply of a currency	Residents buying imports, residents investing abroad, residents travelling abroad, speculators expecting a fall
+Effect of a rise in relative interest rates on the currency	It appreciates, as foreign savers seek the higher return
+Effect of higher relative inflation on the currency	It depreciates, as exports become uncompetitive and demand for the currency falls
+Effect of a rise in demand for imports on the currency	It depreciates, as more of the currency is supplied to buy foreign currency
+Definition of appreciation	A rise in a currency's value, so one unit buys more foreign currency
+Definition of depreciation	A fall in a currency's value, so one unit buys less foreign currency
+Fixed-rate equivalents of appreciation and depreciation	Revaluation and devaluation
+Cost in domestic currency of a 120000 foreign good at 1 domestic = 0.60 foreign	\(120\,000 / 0.60 = 200\,000\)
+Floating exchange rate: strength and weakness	Adjusts automatically with no reserves needed; volatile and uncertain for traders
+Fixed exchange rate: strength and weakness	Certainty for trade and investment; needs large reserves and ties interest rates to the peg
+What SPICED stands for	Strong Pound, Imports Cheap, Exports Dear
+Effect of a depreciation on export and import prices	Export prices abroad fall; import prices at home rise
+Effect of a depreciation on inflation	It rises, as imports become dearer (imported inflation)
+Effect of an appreciation on firms using imported inputs	They gain, because their materials become cheaper
+When does a depreciation raise export revenue?	Only when demand for exports is price elastic
+Four reasons a depreciation may not improve the current account	Inelastic demand, time lags in contracts, capacity constraints, dearer imported inputs
+Definition of the balance of payments	A record of all transactions between a country's residents and the rest of the world over a period
+Four components of the current account	Balance on goods, balance on services, net primary income, net secondary income
+Definition of the balance of trade	Visible exports minus visible imports
+What goes in net primary income?	Interest, dividends and profits from abroad, and wages sent home
+What goes in net secondary income?	Aid and grants, migrant remittances, contributions to international organisations
+Is a goods-trade deficit the same as a current-account deficit?	No, services and income flows can offset it
+Five causes of a current-account deficit	Uncompetitive exports, an overvalued currency, strong income growth pulling in imports, loss of an export market, a fall in a key export price
+When does a current-account deficit matter less?	When it is financed by equity, buys capital goods, and is small and temporary
+Three possible problems with a current-account surplus	Weak domestic demand, inflationary pressure and appreciation, retaliation from deficit partners
+Four policies to correct a current-account deficit	Depreciation, contractionary fiscal or monetary policy, protectionism, supply-side policy
+Why choose supply-side over demand-reducing policy for a deficit?	It attacks structural uncompetitiveness rather than the symptom, but takes years

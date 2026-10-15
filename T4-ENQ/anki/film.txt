@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:English::3 Paper 4 film analysis
+Paper 4 format	One hour, 25 marks, one essay on the studied film, chosen from several questions
+Are the Paper 4 questions text-specific?	No; they are written so that any film studied in the year group can answer them
+How many questions does Paper 4 currently offer?	Four in the current details, though an older guide says four or five, so confirm the count
+What follows from the questions not being text-specific?	You memorise sequences and techniques, not essays, and re-angle them onto whatever appears
+What does criterion 3 demand of filmic conventions?	That they are identified and analysed in detail, with sensitivity to effect
+Marks for naming a technique without explaining its effect	One or two out of five
+Definition of mise-en-scene	Everything arranged in front of the camera: setting, props, costume, lighting, blocking and performance
+Effect of an extreme long shot	It subordinates the human figure to place, scale or system
+Effect of a close-up	It forces intimacy or scrutiny and denies the viewer context
+Effect of an extreme close-up	It fragments the body and turns a person into a surface
+What does a two-shot decide?	Whether two characters share a frame or are cut apart, which is an argument about their relationship
+Effect of a point-of-view shot	It collapses viewer and character, the strongest available alignment device
+Effect of a frame within a frame	Surveillance, entrapment, or a relationship mediated by something in between
+Effect of deep space staging	It makes the viewer search the image rather than be directed to it
+Effect of a high angle	It diminishes the subject and places them under something
+Effect of a low angle	It confers stature or threat
+Effect of a Dutch angle	Instability, wrongness, psychological disturbance
+Difference between a tracking shot and a zoom	A tracking shot moves the camera with the action; a zoom changes focal length only and flattens space
+Effect of handheld camerawork	Immersion, or disorientation and documentary urgency
+Effect of a static locked-off camera	It makes the viewer scan the frame unaided, often producing scrutiny or helplessness
+Effect of shallow focus	It isolates a figure and renders the surroundings irrelevant or unknowable
+Effect of deep focus	It keeps relationships and context legible at once and lets the viewer choose where to look
+Effect of a rack focus	It redirects attention without a cut, implying a connection between the two planes
+Effect of a long lens	It compresses depth and makes the camera feel distant and observational, the look of surveillance
+Effect of high key lighting	Clarity, safety, comedy, or an artificial cleanliness
+Effect of low key lighting	Threat, concealment, moral ambiguity
+Definition of chiaroscuro	Extreme contrast of light and dark within a single image, often splitting a face into opposed halves
+Definition of motivated lighting	Light that appears to come from a source within the scene, such as a window, lamp or fire
+Definition of a practical	A lamp visible in the shot that actually provides its light
+Effect of backlighting into silhouette	It removes identity and turns a person into a shape
+Definition of continuity editing	Cutting designed to be spatially coherent and effectively invisible
+What is the 180-degree rule?	The camera stays on one side of an imaginary line between subjects, keeping screen direction consistent
+Definition of shot and reverse shot	The alternating pattern that conventionally covers a conversation
+What does a withheld reverse shot do?	It denies the answering view, so the viewer is refused what the character sees or how they react
+Definition of an eyeline match	A cut from a character looking to the thing they see, which grants their perspective authority
+Definition of a match cut	A cut joining two shots by visual, graphic or aural similarity, asserting an equivalence
+Effect of a jump cut	Disruption, compulsion, a mind that cannot proceed smoothly
+Definition of cross-cutting	Alternation between two simultaneous actions, which builds tension and forces comparison
+Definition of elliptical editing	Part of an action is omitted, so the viewer must infer what was not shown
+Definition of montage	A compressed sequence making an argument by accumulation rather than by scene
+Effect of a long take	It refuses to intervene, so the duration itself becomes the content
+Diegetic or non-diegetic: what is the test?	Whether a character in the film could hear it
+Give an example of diegetic music	Music playing on a radio or performed in the scene, which the characters can hear
+Definition of non-diegetic sound	Sound the characters cannot hear: score, voiceover, added effect
+Definition of a leitmotif	A musical phrase attached to a character or idea, which makes a connection on its return
+Definition of a sound bridge	Sound carried across a cut, beginning under the previous scene or continuing into the next
+When does silence actually work?	Only in a film that has established a soundscape to remove
+Effect of foregrounding ambient diegetic sound instead of score	It makes the world feel observed rather than dramatised
+Definition of restricted narration	The viewer knows only what one character knows, which generates suspense
+Definition of omniscient narration	The viewer knows more than the characters, which generates dramatic irony
+What does an absent antagonist achieve?	A structural choice: the opposing force is never shown, so it becomes a system rather than a person
+The shape of an analytical sentence about film	Name the technique, describe what it does in the image or soundtrack, state the effect on the viewer, connect it to the question
+What does film mean by, besides what it shows?	Exclusion: what is outside the frame, cut away from, or left unheard
+How many categories should evidence come from in one paragraph?	At least three different ones, such as framing, editing and sound
+How many sequences should you prepare, and which?	Five: an opening, a confrontation, a sequence of concealment, a revelation, and the ending
+What do you record for each prepared sequence?	Narrative context in one sentence, three observable details from three categories, one effect each, one thematic link
+Most repeated Paper 4 question topics	Conflict, a character or relationship, a technique, setting, and context
+How should the thesis be phrased for Paper 4?	As a claim about the director's method, not about what the characters do
+What to do when a film is set in one period and made in another	Say which context you mean before arguing from it
+Why must you never report a shot you have not seen?	Invented or half-remembered detail is not evidence, and accuracy is what the conventions criterion rewards

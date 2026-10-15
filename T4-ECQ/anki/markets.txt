@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::2 Demand, supply and the market
+Definition of demand	The quantity consumers are willing and able to buy at each price over a stated period
+Definition of supply	The quantity producers are willing and able to sell at each price over a stated period
+The law of demand	As price rises, quantity demanded falls, so the demand curve slopes downward
+Two reasons the demand curve slopes downward	The good becomes dearer relative to substitutes, and real income buys less
+The law of supply	As price rises, quantity supplied rises, so the supply curve slopes upward
+Why does the supply curve slope upward?	A higher price makes production more profitable and covers the higher cost of extra output
+Name six conditions of demand	Income, tastes and fashion, price of substitutes, price of complements, population, advertising
+Effect of a rise in income on a normal good	Demand increases
+Effect of a rise in income on an inferior good	Demand decreases
+Definition of a normal good	One whose demand rises as income rises
+Definition of an inferior good	One whose demand falls as income rises
+Definition of substitutes	Goods where one can replace the other, such as tea and coffee
+Definition of complements	Goods consumed together, such as printers and ink
+Effect of a rise in the price of a substitute	Demand for this good rises
+Effect of a rise in the price of a complement	Demand for this good falls
+Effect on demand of expecting a future price rise	Demand increases now
+Effect of lower interest rates on demand for credit-financed goods	Demand rises
+Name six conditions of supply	Costs of production, technology, indirect taxes, subsidies, number of producers, weather
+Effect on supply of a rise in wages or material costs	Supply shifts left
+Effect on supply of an improvement in technology	Supply shifts right
+Effect on supply of an indirect tax on the producer	Supply shifts left, because the tax acts like a cost
+Effect on supply of a subsidy to the producer	Supply shifts right
+Effect on supply of more firms entering the market	Supply shifts right
+Effect of a drought on agricultural supply	Supply shifts left
+What causes a movement along a curve?	A change in the good's own price
+What causes a curve to shift?	A change in anything other than the good's own price
+Correct term for a movement along the demand curve	An extension or a contraction of demand
+Correct term for a shift of the demand curve	An increase or a decrease in demand
+Is it correct to say demand increased because the price fell?	No — a price fall causes an extension of demand, not an increase
+Definition of market equilibrium	Where quantity demanded equals quantity supplied, so the market clears
+Situation at a price below equilibrium	Excess demand (a shortage), so price is pushed up
+Situation at a price above equilibrium	Excess supply (a surplus), so price is pushed down
+Does equilibrium mean the outcome is fair?	No — it only means the market clears, not that everyone can afford the good
+Effect of an increase in demand on equilibrium	Price rises and quantity rises
+Effect of a decrease in demand on equilibrium	Price falls and quantity falls
+Effect of an increase in supply on equilibrium	Price falls and quantity rises
+Effect of a decrease in supply on equilibrium	Price rises and quantity falls
+Effect when demand and supply both increase	Quantity definitely rises, but the price change depends on which shift is larger
+Two steps to describe after a curve shifts	The shift of one curve, then the movement along the other
+Equilibrium when \(Q_d = 100 - 2P\) and \(Q_s = 20 + 2P\)	\(P = 20\) and \(Q = 60\)
+Equilibrium when \(Q_d = 120 - 2P\) and \(Q_s = 20 + 2P\)	\(P = 25\) and \(Q = 70\)
+Check to perform after solving for equilibrium	Substitute the price back into both equations
+Definition of a maximum price	A legal price ceiling, set below equilibrium to make a good affordable
+Consequences of a maximum price	Excess demand: shortages, queues, waiting lists, rationing and black markets
+Definition of a minimum price	A legal price floor, set above equilibrium to protect producers or discourage consumption
+Consequences of a minimum price	Excess supply: surpluses that may have to be bought and stored, and unemployment in a labour market
+Two examples of a maximum price	Rent controls and controlled prices for basic food
+Three examples of a minimum price	Farm support prices, minimum alcohol pricing, the minimum wage
+How to evaluate a price control	Ask who gains, who loses, and whether the intended group actually benefits
+Cost-plus pricing	Adding a mark-up to unit cost
+Penetration pricing	A low launch price to build market share
+Price skimming	A high launch price, lowered later
+Definition of price discrimination	Charging different prices to different groups for the same good
+What price discrimination requires	Groups that can be kept separate and that have different elasticities of demand

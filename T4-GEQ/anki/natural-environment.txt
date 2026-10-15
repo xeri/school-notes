@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Geography::2 The natural environment
+What drives plate movement?	Convection currents in the mantle, powered by heat from radioactive decay
+Constructive plate boundary	Plates pull apart and magma rises: mid-ocean ridges, rift valleys, shield volcanoes, shallow earthquakes
+Destructive plate boundary	Denser oceanic plate subducts under continental: trench, fold mountains, composite volcanoes, deep earthquakes
+Collision plate boundary	Two continental plates meet and neither subducts: high fold mountains, strong earthquakes, no volcanoes
+Conservative plate boundary	Plates slide past each other: fault line, shallow earthquakes, no volcanoes
+Difference between the focus and the epicentre	The focus is where the rock ruptures underground; the epicentre is the point on the surface directly above it
+Volcano formed by runny low-silica basaltic magma	Shield volcano
+Volcano formed by sticky andesitic magma	Composite cone
+Which is more predictable, earthquakes or eruptions?	Eruptions, from gas emissions, ground deformation and tremors; earthquakes have no reliable short-term prediction
+Four ways to reduce earthquake impact	Monitoring, aseismic building design, drills and preparation, land-use planning away from faults
+Difference between weathering and erosion	Weathering breaks rock down in place; erosion removes the loosened material
+Freeze-thaw weathering	Water in a crack freezes and expands about 9 per cent, prising the rock apart over repeated cycles
+Carbonation	Rainwater with dissolved CO2 forms carbonic acid, which dissolves calcium carbonate in limestone
+Hydrolysis	Acidic water reacts with feldspar in granite, rotting it to clay
+Exfoliation	Daily heating and cooling makes the outer skin of rock expand and contract until it peels off
+Plucking	Meltwater refreezes onto rock at the base of a glacier and the moving ice tears blocks away
+Formation of a cirque	Snow collects in a hollow, freeze-thaw steepens the back wall, rotational slip and abrasion deepen the floor
+Definition of an arête	A knife-edge ridge where two cirques erode back-to-back
+Definition of a hanging valley	A tributary valley left above the main glacial trough because its smaller glacier eroded less deeply
+Definition of a drainage basin	The area drained by one river and its tributaries
+Definition of a watershed	The ridge of high ground separating one drainage basin from the next
+Difference between infiltration and percolation	Infiltration is water soaking into the soil; percolation is water passing from soil into rock
+Difference between throughflow and surface runoff	Throughflow moves laterally through the soil; surface runoff flows over the ground when rain exceeds infiltration
+Definition of baseflow	Slow groundwater seepage that sustains a river between storms
+Formula for river discharge	\(Q = \text{cross-sectional area} \times \text{mean velocity}\), in m³/s
+Definition of lag time	The gap between peak rainfall and peak discharge
+Five factors giving a short lag time and high peak	Intense rain, steep slopes, impermeable rock, saturated ground, urban land use
+Why urbanisation worsens floods in one line	Impermeable surfaces cut infiltration, drains speed runoff, lag time shortens and peak discharge rises
+Hydraulic action	The force of moving water pushing into cracks and compressing trapped air
+Abrasion in a river	The load scraping and grinding against the bed and banks
+Attrition	Load particles colliding with each other, becoming smaller and rounder downstream
+Four transport processes in a river	Solution, suspension, saltation, traction
+What the Hjulström curve shows	The velocity needed to pick up, carry and drop particles of each size
+Bradshaw model: what increases downstream	Discharge, width, depth, velocity, load quantity
+Bradshaw model: what decreases downstream	Gradient, bed roughness, load particle size
+Formation of a waterfall	Hard rock over soft; the soft rock is undercut, the hard cap collapses, and the fall retreats upstream leaving a gorge
+Formation of an ox-bow lake	A meander neck narrows, a flood cuts through, and deposition seals off the old loop
+Formation of a levée	In a flood the coarsest sediment is dropped first at the channel edge, building a raised bank
+Difference between hard and soft flood management	Hard engineering controls the river with structures; soft approaches work with natural processes and land use
+Difference between weather and climate	Weather is the atmosphere over hours or days; climate is the average weather over 30 years or more
+Instrument for temperature	Maximum-minimum thermometer in a Stevenson screen
+Instrument for humidity	Wet-and-dry bulb thermometer (hygrometer)
+Siting of a rain gauge	Sunk into short grass, rim above ground, away from buildings and trees
+Instrument for wind speed	Anemometer, 10 m above open ground
+How wind direction is named	By the direction the wind comes from
+Instrument and unit for air pressure	Barometer, millibars
+Four features of a Stevenson screen	White paint, louvred sides, legs about 1.25 m above grass, door facing the pole
+Main steady-rain cloud	Nimbostratus
+Cloud bringing heavy showers, thunder and hail	Cumulonimbus
+Formation of rain in one line	Air rises, cools to its dew point, vapour condenses on nuclei, droplets coalesce until heavy enough to fall
+Three types of rainfall	Convectional, relief (orographic), frontal
+Definition of a rain shadow	The dry leeward side of a mountain range after air has lost its moisture rising over the windward side
+Weather in a depression	Rising air, cloud, rain and fronts
+Weather in an anticyclone	Sinking air, settled clear weather, frost or fog in winter
+Six factors affecting climate	Latitude, altitude, distance from the sea, ocean currents, prevailing winds, relief
+Why rainforest soils are poor	Rapid decomposition puts nutrients into the biomass, and heavy rain leaches what remains
+Constructive and destructive waves	Constructive: strong swash builds beaches; destructive: strong backwash removes them
+Longshore drift	Swash carries sediment obliquely up the beach, backwash pulls it straight down, moving it along the coast
+Erosion sequence of a headland	Crack, cave, arch, stack, stump
+Formation of a spit	Longshore drift carries sediment past a change in coastline direction, where it builds out into open water

@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:English::4 Writing and argument
+Which papers are sat in Term 4?	Papers 1, 3 and 4; Paper 2 is excluded
+Time and marks for each Term 4 paper	One hour and 25 marks each
+Total time and marks for the three-paper set in 2025	Three hours and 75 marks
+The three parts of every question	The command word, the focus noun, and the stated limits
+What does analyse demand?	Break the method into parts and explain how each produces its effect
+What does discuss demand?	A reasoned case with more than one side acknowledged, then a position reached
+What does evaluate demand?	A judgement made against stated criteria for success or failure
+What does explore demand?	Following an idea through the text, including where it complicates itself
+What does examine the ways demand?	Identify the methods and analyse the effect of each; ways is plural, so at least three
+What does to what extent demand?	A judgement of degree: largely, because of X, but not in respect of Y
+What does how does the writer demand?	Method only, with the writer as the subject of your sentences
+What does comment on how, and with what effects demand?	Two things: the method, and its effect on the reader or viewer
+What does compare demand?	Sustained two-way comparison inside each paragraph, not one text and then the other
+What does with this comment in mind demand?	That you test the quoted position and say how far it holds
+What must you do with an and/or question?	Choose one, and say in the thesis which you have chosen
+What is a thesis?	A single arguable sentence stating an informed position in answer to the question
+Why is naming a device not a thesis?	It makes no claim anyone could disagree with
+Where does the thesis go?	As the final sentence of the introduction
+Three steps to building a thesis	Write the focus noun, ask what the text finally claims about it, phrase it with an intention verb
+Examples of author-intention verbs	Exposes, undercuts, qualifies, interrogates, satirises, legitimises, refuses, complicates
+The four moves of an introduction	Hook, transition, rationale, thesis
+What is the hook?	A broad, universally applicable claim about human experience, which the next sentence narrows to the text
+What must the transition contain?	The title and the writer, playwright or director, named accurately
+What is the rationale?	A brief indication of the sequence of points to come, in the order they will come
+Extra move for a passage-based introduction	One or two sentences placing the extract in the plot, without retelling the story
+How much evidence belongs in the introduction?	None
+The five moves of a body paragraph	Point, evidence, analysis, explanation, link
+How is the weight distributed in a paragraph?	Point and evidence carry about a quarter; the exploration carries the rest
+How many language features per paragraph?	At least two, from different categories
+How many short quotations per paragraph?	Three to five
+Three levels every paragraph must pass through	Language, then literary or filmic element such as character or structure, then theme
+The how failure	Wiring a device straight to a universal theme without passing through character or narrative
+The so what failure	Stopping the analysis at the character and never reaching the argument
+Three legal ways to embed a quotation	Dialogue tag with a comma, a colon after an independent clause, or flowing it into your own syntax
+What do ellipses and square brackets do in a quotation?	Ellipses mark what you cut; square brackets mark a word, pronoun or tense you altered
+How do you contextualise a quotation?	By speaker, moment and circumstance, not by page number
+How long should a quotation be?	Four or five words: keep only what would be meaningless if removed
+Why are long quotations costly?	They consume time, fill the page without earning credit, and show you have not decided which word matters
+Test for plot summary	Ask whether the sentence could appear in a plot summary; if it could, rewrite or delete it
+What counts as a choice even with no obvious device?	Selection, placement, omission, repetition, contrast and sequence
+Three ways to handle counter-argument	Concede and qualify, name a competing reading and adjudicate, or argue against the premise
+Useful concession markers	Although, While it is true that, Even though, It may well be that, Nonetheless
+The two moves of a conclusion	Summation of the thesis as demonstrated, then a widening into moral or philosophical terms
+Three rules for conclusions	No new evidence, no sentence repeated verbatim, and write it even if a paragraph is unfinished
+Whose present should the widening belong to?	The writer's own moment; anachronistic links to the reader's present are a named fault
+What is a comma splice?	Two independent clauses joined by only a comma, the commonest expression error in timed essays
+Which tense for the text, and which for history?	Present tense for the text, past tense for historical events
+What is banned instead of this quote shows?	Name the device and describe its mechanism, or use a precise verb such as conveys, connotes or undercuts
+Which words count as vague praise?	Strong imagery, effective scene, powerfully written, interesting, important
+Which words are assertion adverbs?	Clearly, obviously, undoubtedly, used in place of argument
+Who makes a play, a film and a novel?	A playwright, a director and a novelist; never call a film's maker an author
+Minutes 0 to 5 of the hour	Read all the questions, choose, and annotate the command word, focus noun and limits
+Minutes 5 to 12 of the hour	Plan four or five point sentences with two or three pieces of evidence each, and draft the thesis
+Minutes 12 to 52 of the hour	Write, at roughly eight minutes per paragraph
+Minutes 52 to 57 of the hour	Write the conclusion: summation and widening
+Minutes 57 to 60 of the hour	Proofread for comma splices, contractions, tense slippage and misspelt names or titles
+How many body paragraphs should you aim for?	Four as the target, three as the floor
+What do you do if time runs out mid-paragraph?	Stop and write the conclusion; a complete argument outscores an incomplete one
+Why can excellent expression still fail?	An essay with excellent expression cannot score full marks if the material is not relevant to the question
+What must a passage-based essay show beyond the extract?	Knowledge of the wider text, which is credited under three of the five criteria

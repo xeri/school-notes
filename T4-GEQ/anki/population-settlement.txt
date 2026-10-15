@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Geography::1 Population and settlement
+Definition of population density	The average number of people per square kilometre
+Formula for population density	\(\text{total population} \div \text{area in km}^2\)
+Difference between density and distribution	Density is a number of people per unit area; distribution is the pattern of where they are
+Four physical factors encouraging high population density	Flat lowland, deep fertile soil, moderate climate with reliable rainfall, a reliable water supply
+Four human factors encouraging high population density	Jobs and industry, ports and trade routes, services, political stability
+Formula for population change	\((\text{births} - \text{deaths}) \pm \text{net migration}\)
+Definition of birth rate	Live births per 1000 people per year
+Definition of death rate	Deaths per 1000 people per year
+Formula for a rate per 1000	\(\frac{\text{events}}{\text{population}} \times 1000\)
+Definition of natural increase	Birth rate minus death rate
+Convert a natural increase per 1000 into a percentage	Divide by 10, so 19 per 1000 is 1.9 per cent
+Difference between birth rate and fertility rate	Birth rate is births per 1000 people per year; fertility rate is the average number of children per woman over her lifetime
+Four factors that keep birth rates high	Children needed as farm labour, high infant mortality, no pensions, little education or employment for women
+Four factors that lower birth rates	Educated women marrying and working later, cheap contraception, state pensions, low infant mortality
+Three factors that lower death rates	Clean water and sewerage, vaccination and medical care, peace and stable government
+DTM stage 1	High fluctuating: high birth and death rates, natural increase near zero, low stable population
+DTM stage 2	Early expanding: high birth rate, rapidly falling death rate, very high natural increase
+DTM stage 3	Late expanding: rapidly falling birth rate, low death rate, population still rising more slowly
+DTM stage 4	Low fluctuating: low birth and death rates, natural increase near zero, high stable population
+DTM stage 5	Declining: very low birth rate, death rate slightly above it, population slowly falling
+Why the death rate falls before the birth rate in the DTM	Clean water and medicine cut deaths quickly, while family-size expectations change slowly
+Three limitations of the DTM	Based on industrialised countries, ignores migration, stage timing varies between countries
+Order for reading a population pyramid	Shape, base, apex, sides, then one figure quoted with its unit
+What a wide pyramid base shows	A high birth rate and a youthful population
+What a notch in one cohort of a pyramid shows	A past war, epidemic or sharp dip in births
+What a male bulge in the working ages shows	In-migration of male labour
+Formula for the dependency ratio	\(\frac{(0\text{–}14) + (65+)}{15\text{–}64} \times 100\)
+Definition of over-population	Too many people for the resources and technology available, so living standards fall
+Definition of under-population	Too few people to use the resources fully, so potential output is lost
+Definition of optimum population	The number giving the highest standard of living with the resources available
+Three pressures from a youthful population	Schools, child healthcare, housing and future jobs
+Three pressures from an ageing population	Pensions, hospitals, residential care
+Definition of anti-natalist policy	A policy to reduce the birth rate, such as family planning and educating girls
+Definition of pro-natalist policy	A policy to raise the birth rate, such as child payments, parental leave and subsidised childcare
+Definition of migration	A permanent or semi-permanent change of residence
+Difference between emigration and immigration	Emigration is leaving a country; immigration is entering one
+Definition of net migration	Immigration minus emigration
+Difference between voluntary and forced migration	Voluntary migrants choose to move; forced migrants have no real choice because of war, persecution or disaster
+Definition of a refugee	A person who has fled their country because of a well-founded fear of persecution or conflict
+Definition of an internally displaced person	Someone forced to move but still inside their own country
+Three parts of Lee's push-pull model	Push factors at the origin, pull factors at the destination, intervening obstacles between them
+Four intervening obstacles to migration	Distance, cost, border controls, language
+Two positive impacts of emigration on the source area	Remittances sent home, less pressure on jobs, land and services
+Two negative impacts of emigration on the source area	Brain drain of young skilled workers, an ageing and unbalanced population structure
+Rural-to-urban migration in an LIC in one line	Rural jobs lost, urban opportunity perceived, young adults move, housing lags, informal settlement grows
+Four settlement patterns	Dispersed, nucleated, linear, clustered
+Difference between site and situation	Site is the land a settlement is built on; situation is its position relative to the surrounding region
+Definition of a bridging point site	The lowest or narrowest crossing point of a river
+Difference between a wet point and a dry point site	A wet point has a reliable spring in a dry area; a dry point is raised above flood level
+Definition of range in the settlement hierarchy	The furthest distance a person will travel to use a service
+Definition of threshold population	The minimum number of customers a service needs to survive
+How settlements change moving up the hierarchy	Fewer, larger and further apart, with larger spheres of influence and more high-order services
+Burgess model in one line	Concentric rings of decreasing age and density outwards from the CBD
+Hoyt model in one line	Sectors radiating along transport routes from the CBD
+Bid-rent theory in one line	Land value falls with distance from the CBD, so retail outbids industry and industry outbids housing at the centre
+Difference between urbanisation and urban growth	Urbanisation is a rising proportion living in urban areas; urban growth is a rise in urban population or area
+Definition of counter-urbanisation	Movement of people from cities to smaller towns and rural areas
+Definition of gentrification	Higher-income residents buying and improving inner-city housing, raising prices
+Five problems of rapid urban growth	Squatter settlements, poor water and sanitation, congestion, pollution, urban sprawl

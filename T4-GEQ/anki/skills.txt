@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Geography::4 Geographical skills
+Five things to check before answering a map question	Title and date, scale, north arrow, key, grid interval
+Where must map-question evidence come from?	The map only, not general knowledge
+Order of a grid reference	Eastings before northings: along the corridor, then up the stairs
+What a four-figure grid reference identifies	A whole 1 km grid square
+How to read a four-figure reference	The easting line to the left of the square, then the northing line below it
+What a six-figure grid reference identifies	A point inside a grid square, to the nearest tenth of each side
+Formula for ground distance	\(\text{map distance} \times \text{scale factor}\)
+1 cm on a 1:50 000 map represents	500 m
+1 cm on a 1:25 000 map represents	250 m
+Ground distance of 7.4 cm on a 1:50 000 map	\(7.4 \times 500 = 3700\) m, or 3.7 km
+How to measure a curved route	Mark a paper edge along each straight section, pivoting at each bend, then read it against the linear scale
+How to estimate area from a grid	Count whole squares, then add part-squares as halves
+Order of the 16 compass points from N to E	N, NNE, NE, ENE, E
+Rule for stating direction	Always from the first place named to the second
+Definition of a bearing	The clockwise angle from grid north, written as three digits
+Bearings of east, south and west	090°, 180°, 270°
+What closely spaced contours show	A steep slope
+What contours in a V pointing upslope show	A valley, with the V pointing upstream
+What concentric closed contours show	A hill or summit
+Formula for gradient	\(\frac{\text{vertical rise}}{\text{horizontal distance}}\), both in metres
+Gradient of a 180 m rise over 1500 m	\(180/1500 = 0.12\), or 1 in 8.3, or 12 per cent
+Most common gradient error	Forgetting to convert map centimetres into ground metres first
+How to join the points of a cross-section	With a smooth curve, never ruled straight segments
+Three drainage patterns	Dendritic, radial, trellis
+How to describe a distribution from a map	General pattern, then exceptions, anchored with grid references or named places and a direction
+How to divide an oblique photograph	Foreground, middle distance and background; left, centre and right
+Difference between a label and an annotation	A label names a feature; an annotation explains what it is doing
+Five features of a sketch map	Frame, title, north arrow, scale or not-to-scale note, key
+Graph for proportions of one whole	Pie graph
+Degrees per 1 per cent on a pie graph	3.6°
+Graph for a relationship between two variables	Scatter graph
+What a scatter graph cannot show	Cause: correlation is not causation
+Graph for three components totalling 100 per cent	Triangular graph
+Map for rates or densities by area	Choropleth map
+Weakness of a choropleth map	It hides variation inside each area
+What an isoline joins	Points of equal value
+What line width means on a flow-line map	Quantity moving between places
+How to read a climate graph	Quote maximum and minimum temperature, annual range and total rainfall
+What the longest arm of a wind rose shows	The prevailing wind direction
+Formula for percentage	\(\frac{\text{part}}{\text{whole}} \times 100\)
+Formula for percentage change	\(\frac{\text{new} - \text{old}}{\text{old}} \times 100\)
+Formula for the mean	\(\frac{\sum x}{n}\)
+Definition of the median	The middle value when the data are ranked
+Definition of the mode	The most frequently occurring value
+Formula for the range	\(\text{maximum} - \text{minimum}\)
+Formula for the interquartile range	\(Q_3 - Q_1\)
+Advantage of the interquartile range over the range	It describes the middle half of the data, so one extreme value does not distort it
+Births per 1000 for 1260 births in 45000 people	\(1260 \div 45\,000 \times 1000 = 28\)
+Three sampling methods	Random, systematic, stratified
+Difference between primary and secondary data	Primary data is collected yourself; secondary data comes from existing sources
+Five river fieldwork measurements	Width, depth, velocity, bedload size and roundness, gradient
+Three possible fieldwork conclusions about a hypothesis	Supported, partly supported, not supported
+Describe versus explain	Describe says what or where with no reasons; explain gives causes and the mechanism
+Test of whether a sentence explains	It contains because, so, this causes or as a result
+What compare demands	Comparative statements such as whereas or more than, not two separate descriptions
+What justify demands	Why you chose that option and why you rejected the others
+Three steps for using data as evidence	State the pattern, quote the figure with unit and date, say what it shows
+What SDEEL stands for	Statement, describe, explain, example, link
+What a strong evaluative conclusion does	Takes a position and names the condition it depends on

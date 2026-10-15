@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::4 Firms, costs and labour markets
+Difference between production and productivity	Production measures the value or volume of output; productivity measures efficiency, such as output per worker
+Formula for labour productivity	\(\text{labour productivity} = \frac{\text{total output}}{\text{number of workers}}\)
+Does a rise in production prove a rise in productivity?	No — output may have risen only because more inputs were used
+Four things that raise labour productivity	Training, investment in new capital, better technology, division of labour
+Definition of division of labour	Splitting production into separate tasks, each performed by a different specialised worker
+Three gains from division of labour	Workers become expert at one task, no time is lost switching tasks, training is cheaper
+Two drawbacks of division of labour	Repetitive work lowers motivation, and the whole line stops if one stage fails
+Definition of labour-intensive production	Production that uses relatively more labour than capital
+Definition of capital-intensive production	Production that uses relatively more capital than labour
+Cost structure of labour-intensive versus capital-intensive production	Labour-intensive is mostly variable costs with a lower break-even output; capital-intensive is mostly fixed costs with a higher break-even output
+Definition of a sole trader	A business owned and controlled by one person with unlimited liability
+Definition of a partnership	A business owned by two or more partners who share profits and, usually, unlimited liability
+Definition of unlimited liability	The owner is personally responsible for all the debts of the business
+Definition of limited liability	A shareholder can lose no more than the amount invested
+What makes limited liability possible?	Separate legal identity — the company is a legal person distinct from its owners
+Difference between an Ltd and a plc	An Ltd sells shares privately with all shareholders agreeing the buyer; a plc trades shares openly on the stock exchange
+Is a plc a public-sector business?	No — it is private sector; public refers to the sale of shares, not state ownership
+Definition of a franchise	An agreement in which the franchisee pays the franchisor to trade using its brand, products and systems
+Difference between franchisor and franchisee	The franchisor is the original business selling the rights; the franchisee is the new outlet buying them
+Definition of a co-operative	A business owned and democratically run by its members, who share the profits
+Four functions of the stock exchange	Raising share capital, facilitating growth, trading government bonds, pricing shares by demand and supply
+Difference between a share and a government bond	A share gives ownership, a vote and a dividend; a bond gives no ownership but fixed interest and repayment at maturity
+Five ways to measure business size	Number of employees, sales revenue, capital employed, value of output, market share
+Definition of internal or organic growth	Expanding the firm's own operations, usually funded from retained profit
+Two forms of external growth	A merger and a takeover
+Definition of horizontal integration	Joining a firm in the same industry at the same stage of production
+Definition of vertical integration, backwards and forwards	Backwards is joining a firm closer to the raw materials; forwards is joining one closer to the end consumer
+Definition of conglomerate integration	Joining a firm in a completely unrelated industry, which spreads the risk of failure
+Three reasons for the growth of a firm	Economies of scale, affordable specialist managers, market power and easier access to finance
+Three reasons against the growth of a firm	Diseconomies of scale, slower decision-making, loss of personal service and flexibility
+Definition of economies of scale	Average cost per unit falls as the scale of production rises
+Name six internal economies of scale	Purchasing, marketing, financial, technical, managerial, risk-bearing
+Definition of external economies of scale	Cost advantages that arise outside the firm but within its industry
+Three external economies of scale	A pool of skilled workers, nearby ancillary suppliers, improved shared infrastructure
+Definition of diseconomies of scale	Average cost rises because the firm has grown too large to coordinate
+Name four diseconomies of scale	Communication, management, labour, agglomeration
+Definition of fixed cost	A cost that does not change with output, such as rent or insurance
+Definition of variable cost	A cost that changes with the level of output, such as materials
+Formula for total cost	\(TC = FC + VC\)
+Formula for average cost	\(AC = TC / Q\)
+Formula for total revenue	\(TR = P \times Q\)
+Formula for profit	\(\text{profit} = TR - TC\)
+Why is the average cost curve U-shaped?	Economies of scale lower it at first, then diseconomies of scale raise it
+What does SMART stand for?	Specific, measurable, achievable, realistic, time-specific
+Five business objectives	Survival, profit maximisation, profit satisficing, growth or market share, social objectives
+Why is the demand for labour a derived demand?	Labour is demanded for the goods and services it produces, not for itself
+Three things that shift the demand for labour right	Higher total demand in the economy, higher labour productivity, capital becoming relatively dearer
+Who counts in the supply of labour?	People of working age who are both willing and able to work
+Three things that shift the supply of labour right	Population growth or net immigration, a higher retirement age, more training places
+Formula for the labour force participation rate	\(\text{LFPR} = \frac{\text{labour force}}{\text{working-age population}}\times100\)
+Definition of the equilibrium wage	The wage at which the demand for labour equals the supply of labour
+Five causes of wage differentials between occupations	Qualifications and skill, length of training, danger and unsociable hours, job satisfaction, scarcity of the skill
+Three causes of pay differences within the same occupation	Regional demand and supply conditions, experience and length of service, discrimination
+Definition of a trade union	An organisation that works to improve its members' pay and conditions and provides them with support and legal services
+Definition of collective bargaining	Negotiation by a union on behalf of all its members rather than worker by worker
+Four types of trade union	Craft, industrial, general, white-collar
+Four types of industrial action	Strike, sit-in, go-slow, work-to-rule
+Two ways stronger trade unions may help and two ways they may harm	Help: higher wages and safer conditions. Harm: higher firm costs causing cost-push inflation and unemployment
+What the effect of a union wage rise depends on	Whether productivity rises with it, and the elasticity of demand for the firm's product and for labour
+Effect of a minimum wage set above the equilibrium wage	Excess supply of labour: more workers offer themselves than firms wish to hire, so those still employed gain but some lose their jobs
