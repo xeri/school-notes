@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::3 Coordinate geometry and graphs
+#deck:Mathematics::3 Coordinate geometry and graphs
 Equation of a straight line	\(y = mx+c\)
 What are m and c?	m is the gradient, c is the y-intercept
 Gradient from two points	\(m = \frac{y_2-y_1}{x_2-x_1}\)

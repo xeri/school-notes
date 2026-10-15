@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::8 Statistics and probability
+#deck:Mathematics::8 Statistics and probability
 Probability formula	favourable outcomes / total outcomes
 Range of the probability scale	0 (impossible) to 1 (certain)
 Complement rule	\(P(\text{not }A) = 1 - P(A)\)

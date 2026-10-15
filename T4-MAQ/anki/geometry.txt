@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::4 Geometry
+#deck:Mathematics::4 Geometry
 Angles at a point	Sum to 360°
 Angles on a straight line	Sum to 180°
 Vertically opposite angles	Equal

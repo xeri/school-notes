@@ -2,7 +2,7 @@
 
 Pre-Q syllabuses, revision notes and Anki decks for six subjects.
 
-**📖 Read the notes in the [wiki](https://github.com/mr-enderman280/school-notes/wiki)** — that is the reading format. This repository is where the notes are authored.
+**📖 Read the notes in the [wiki](https://github.com/xeri/school-notes/wiki)** — that is the reading format. This repository is where the notes are authored.
 
 | Subject | Syllabus | Reference |
 |---|---|---|

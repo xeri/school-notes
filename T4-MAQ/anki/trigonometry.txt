@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::6 Trigonometry
+#deck:Mathematics::6 Trigonometry
 To what accuracy are angles required?	Degrees to one decimal place
 Pythagoras' theorem	\(a^2+b^2 = c^2\), c being the hypotenuse
 How do you find a shorter side with Pythagoras?	Subtract: \(a = \sqrt{c^2-b^2}\)

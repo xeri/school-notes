@@ -31,7 +31,7 @@ SUBJECTS = {
     "PHQ": "Physics",
 }
 
-REPO = "https://github.com/mr-enderman280/school-notes"
+REPO = "https://github.com/xeri/school-notes"
 
 
 # --------------------------------------------------------------------------- #

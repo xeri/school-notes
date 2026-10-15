@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::7 Vectors, matrices and transformations
+#deck:Mathematics::7 Vectors, matrices and transformations
 What does the column vector (x, y) mean?	x across and y up
 How must you mark a vector in a handwritten answer?	Underline it or use an arrow — an unmarked letter loses the mark
 Magnitude of a vector	\(|\mathbf{a}| = \sqrt{x^2+y^2}\)

@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::5 Mensuration
+#deck:Mathematics::5 Mensuration
 How many mm² in 1 cm²?	100 (the length factor is squared)
 How many cm² in 1 m²?	10 000
 How many mm³ in 1 cm³?	1000 (the length factor is cubed)

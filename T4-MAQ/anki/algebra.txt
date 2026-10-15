@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:Maths::2 Algebra
+#deck:Mathematics::2 Algebra
 Expand \((x+4)(x-7)\)	\(x^2 - 3x - 28\)
 Expand \((2x-3)^2\)	\(4x^2 - 12x + 9\)
 Factorise \(9x^2+15xy\)	\(3x(3x+5y)\)
