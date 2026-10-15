@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::8 Statistics and probability
+Probability formula	favourable outcomes / total outcomes
+Range of the probability scale	0 (impossible) to 1 (certain)
+Complement rule	\(P(\text{not }A) = 1 - P(A)\)
+Relative frequency formula	number of successes / number of trials
+What happens to relative frequency as trials increase?	It tends towards the theoretical probability
+Expected frequency formula	probability × number of trials
+What does a possibility diagram show?	All outcomes as points on a grid
+Outcomes on a two-dice grid	36
+P(total = 7) with two dice	6/36 = 1/6
+Tree diagram: along the branches	Multiply (AND)
+Tree diagram: between complete paths	Add (OR)
+What must the branches from any one point sum to?	1
+What changes in a without-replacement tree?	The second set of probabilities — the denominator drops by one
+Bag of 5 red and 3 blue, two drawn without replacement — P(both red)?	\(\frac58\times\frac47 = \frac{5}{14}\)
+How can you check a tree diagram?	All the complete-path probabilities should sum to 1
+Difference between discrete and continuous data	Discrete takes separate values; continuous can take any value in a range
+Pie chart angle formula	\(\frac{f}{\text{total}}\times360°\)
+What is the key difference between a bar chart and a histogram?	A bar chart has gaps and equal widths; a histogram has no gaps and may have unequal widths
+What does the AREA of a histogram bar represent?	The frequency
+Frequency density formula	frequency / class width
+What must the vertical axis of an unequal-interval histogram be labelled?	Frequency density
+How do you get frequency back from a histogram?	Frequency density × class width
+Mean formula	\(\frac{\sum x}{n}\)
+Definition of the median	The middle value when the data is ordered
+Median of an even number of values	The mean of the middle two
+Definition of the mode	The most frequent value
+Range formula	Highest − lowest
+Which average is affected by outliers?	The mean — the median is not
+When is the median the better average?	When there are extreme values
+When is the mode the most useful?	For categorical data, or when you want the most common value
+Mean from a frequency table	\(\frac{\sum fx}{\sum f}\)
+Why is the mean of grouped data only an estimate?	You do not know the individual values, so you use class midpoints
+Estimated mean of grouped data	\(\frac{\sum f\times\text{midpoint}}{\sum f}\)
+What is the modal class?	The class with the highest frequency (highest frequency DENSITY if widths differ)
+What do you plot cumulative frequency against?	The upper class boundary
+Shape of a cumulative frequency curve	A smooth S-shape
+Where do you read the median on a cumulative frequency curve?	At n/2
+Where do you read the lower quartile?	At n/4
+Where do you read the upper quartile?	At 3n/4
+Interquartile range formula	\(Q_3 - Q_1\)
+Why is the IQR better than the range?	It describes the middle half of the data and is unaffected by extreme values
+What does a smaller IQR mean?	More consistent data
+Positive correlation	As one variable increases, so does the other
+Negative correlation	As one variable increases, the other decreases
+What does strong correlation look like?	Points lying close to a straight line
+How do you draw a line of best fit by eye?	Follow the trend with roughly equal numbers of points either side, through the mean point
+Why is estimating outside the plotted range unreliable?	The trend is not known to continue beyond the data
+Does correlation prove causation?	No

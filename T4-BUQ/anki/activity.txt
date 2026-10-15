@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Business::1 Understanding business activity
+Definition of opportunity cost	The next best alternative given up when a choice is made
+Definition of added value	Selling price minus the cost of bought-in materials
+Is added value the same as profit?	No — wages, rent and overheads still come out of it
+Four ways to add value	Branding, better quality, convenience, after-sales service
+Four factors of production	Land, labour, capital, enterprise
+Primary sector	Extracting natural resources — farming, fishing, mining
+Secondary sector	Manufacturing and construction
+Tertiary sector	Providing services — retail, banking, transport
+What is de-industrialisation?	The falling share of employment in the secondary sector as an economy develops
+Difference between private and public sector	Private is owned by individuals and usually profit-seeking; public is government-owned and service-providing
+Two purposes of a business plan	To force the owner to think the venture through, and to persuade a lender or investor
+Five causes of business failure	Poor cash-flow management, no market research, poor management of growth, over-borrowing, external shocks
+Four ways to measure business size	Number of employees, revenue, capital employed, market share
+Why can size measures disagree?	A capital-intensive firm can have huge revenue with very few employees
+Definition of economies of scale	The fall in average cost per unit as the scale of operations expands
+Purchasing economy of scale	Bulk buying earns discounts per unit
+Technical economy of scale	Specialist machinery spreads its cost over more units
+Financial economy of scale	Larger firms are seen as lower risk so borrow more cheaply
+Marketing economy of scale	One advertising campaign supports a larger volume
+Three diseconomies of scale	Poor communication, poor coordination, low morale
+A $6000 campaign over 2000 vs 6000 units	$3 per unit vs $1 per unit
+Liability of a sole trader	Unlimited — personally responsible for all business debts
+Two advantages of being a sole trader	Total control and keeps all the profit (also easy to set up)
+Two drawbacks of being a sole trader	Hard to raise capital, unlimited liability (also no continuity)
+Two advantages of a partnership	Combines finance and expertise, shares the workload
+Two drawbacks of a partnership	Disagreements, and each partner is bound by the others' decisions
+Definition of limited liability	A shareholder can lose no more than the amount invested
+What makes limited liability possible?	The company has separate legal identity from its owners
+Is a public limited company in the public sector?	No — "public" means shares are offered to the public; it is a private-sector business
+Difference between Ltd and plc	Ltd sells shares privately; plc may offer shares to the public
+Two drawbacks of becoming a plc	Expensive to set up and must publish accounts; risk of takeover and loss of control
+What does a franchisee pay the franchisor?	An initial fee plus ongoing royalties
+Two benefits to the franchisee	Established brand and lower failure risk; training and support
+Two drawbacks to the franchisee	Fees reduce profit; little freedom over product or pricing
+Two benefits to the franchisor	Rapid expansion using someone else's capital; royalty income
+Definition of a joint venture	Two businesses creating a separate shared enterprise, sharing cost, risk and profit
+Definition of a co-operative	A business owned and democratically run by its members, who share the profits
+Definition of a social enterprise	A business trading to pursue a social or environmental purpose, reinvesting its surplus
+What does SMART stand for?	Specific, measurable, achievable, relevant, time-bound
+Why do objectives change over time?	A start-up aims to survive, then to grow, then perhaps to maximise profit
+Give an example of conflicting objectives	Growth may require cutting prices, reducing short-run profit
+Definition of corporate social responsibility	Accepting responsibility for the business's effects on society and the environment beyond legal requirements
+Three arguments for CSR	Better reputation and sales, easier recruitment, avoids fines and boycotts
+Three arguments against CSR	Higher costs, shareholders may prefer dividends, non-complying competitors undercut you
+Difference between ethics and legal compliance	Ethics is about what is right; legality is a separate, usually lower, boundary
+Definition of a stakeholder	Any individual or group with an interest in the business's activities
+Is a shareholder the same as a stakeholder?	No — a shareholder is one kind of stakeholder
+Main aim of employees as stakeholders	Fair pay, job security and good working conditions
+Main aim of suppliers as stakeholders	Regular orders and prompt payment
+Main aim of the local community as a stakeholder	Jobs with little pollution and congestion
+Give an example of stakeholder conflict	Raising wages pleases employees but reduces shareholders' profit
+Effect of technology on operations	Automation cuts unit costs and raises consistency, but needs capital and may cut jobs
+Effect of technology on employment	Demand shifts from unskilled to skilled work, creating retraining and redundancy costs
+Three continuing costs of technology	Maintenance, training, and the risk of obsolescence or system failure

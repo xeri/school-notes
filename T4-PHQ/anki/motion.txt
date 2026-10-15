@@ -1,0 +1,40 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::2 Motion
+Definition of speed	The rate of change of distance
+Average speed formula	average speed = total distance / total time
+Difference between speed and velocity	Speed is a scalar; velocity is speed in a stated direction (a vector)
+Definition of acceleration	The rate of change of velocity, \(a=(v-u)/t\)
+What is deceleration?	Negative acceleration — the speed decreases
+What does the gradient of a distance–time graph give?	Speed
+What does the gradient of a speed–time graph give?	Acceleration
+What does the area under a speed–time graph give?	Distance travelled
+Distance–time graph: horizontal line means?	At rest
+Distance–time graph: straight slope means?	Constant speed
+Distance–time graph: curve means?	Changing speed
+Speed–time graph: horizontal line means?	Constant speed, zero acceleration
+Speed–time graph: straight slope means?	Constant acceleration
+Speed–time graph: curve means?	Changing acceleration
+Value of free-fall acceleration near Earth	\(g = 9.81\) m/s²
+What is terminal velocity?	The steady speed reached when drag grows equal in magnitude to weight, so the resultant force is zero
+Why does a falling body's acceleration decrease?	Drag increases with speed, so the resultant force (weight − drag) falls
+Shape of the speed–time graph for a body falling in air	A curve of decreasing gradient flattening to a horizontal line
+Why do a coin and a feather fall together in a vacuum?	No drag acts, so both have acceleration g regardless of mass
+What does s stand for in SUVAT?	Displacement (m)
+What does u stand for in SUVAT?	Initial velocity (m/s)
+What does v stand for in SUVAT?	Final velocity (m/s)
+What does a stand for in SUVAT?	Constant acceleration (m/s²)
+SUVAT equation linking v, u, a, t	\(v = u + at\)
+SUVAT equation linking s, u, a, t	\(s = ut + \tfrac12 at^2\)
+SUVAT equation linking s, u, v, t	\(s = \tfrac12(u+v)t\)
+SUVAT equation with no t	\(v^2 = u^2 + 2as\)
+When does SUVAT reduce to s = ut?	When the acceleration is zero
+What condition must hold for SUVAT to apply?	The acceleration must be constant (or zero)
+Graphical meaning of \(s = ut + \tfrac12at^2\)	The area under a velocity–time graph (rectangle + triangle)
+Graphical meaning of a in \(v = u + at\)	The gradient of the velocity–time graph
+Object starts at 2.0 m/s, accelerates 3.0 m/s² for 4.0 s: final velocity?	\(v = 2.0 + 3.0(4.0) = 14\) m/s
+Object starts at 2.0 m/s, accelerates 3.0 m/s² for 4.0 s: distance?	\(s = 2.0(4.0) + \tfrac12(3.0)(16) = 32\) m
+Stone dropped from 45 m: speed on landing?	\(v^2 = 2(9.81)(45) \Rightarrow v = 30\) m/s
+How do you choose which SUVAT equation to use?	Pick the one that omits the quantity you were not given and do not need
+What must you do before using negative velocities?	Choose and state a positive direction, then keep it

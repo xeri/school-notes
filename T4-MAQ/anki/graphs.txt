@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::3 Coordinate geometry and graphs
+Equation of a straight line	\(y = mx+c\)
+What are m and c?	m is the gradient, c is the y-intercept
+Gradient from two points	\(m = \frac{y_2-y_1}{x_2-x_1}\)
+Length of a line segment	\(\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}\)
+Midpoint of a line segment	\(\left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}\right)\)
+Midpoint of (1,3) and (5,6)	(3, 4.5)
+Length from (1,3) to (5,6)	\(\sqrt{16+9} = 5\)
+Gradient relationship for parallel lines	Equal gradients
+Gradient relationship for perpendicular lines	\(m_1m_2 = -1\), so \(m_2 = -1/m_1\)
+Gradient of a line perpendicular to \(y = 3x+1\)	\(-1/3\)
+Line parallel to \(y = 4x-1\) through (0,-3)	\(y = 4x-3\)
+How do you find c once you have m?	Substitute the coordinates of a known point
+What does the gradient of a distance–time graph give?	Speed
+What does the gradient of a speed–time graph give?	Acceleration
+What does the area under a speed–time graph give?	Distance travelled
+How do you find the area under a linear speed–time graph?	Split it into triangles and rectangles
+Shape of \(y = ax^2\)	A parabola — minimum if a > 0, maximum if a < 0
+Shape of \(y = ax^3\)	A cubic with rotational symmetry about the origin
+Shape of \(y = a/x\)	A reciprocal curve with two branches and both axes as asymptotes
+Shape of \(y = a/x^2\)	Two branches, both above the x-axis when a > 0
+Shape of \(y = a^x\)	Exponential — rises steeply and never reaches zero
+Shape of \(y = ax^0\)	The horizontal line y = a
+What is an asymptote?	A line the curve approaches but never meets
+What do you write in a table of values at x = 0 for \(y = a/x\)?	Nothing — the function is undefined there
+Which powers of \(ax^n\) appear in the syllabus?	n = −2, −1, 0, 1, 2, 3, in sums of up to three terms
+How should you join points on a curve?	With a single smooth curve — never dot-to-dot
+How do you solve \(f(x) = k\) graphically?	Draw the line y = k and read the x-coordinates where it cuts the curve
+How do you solve \(f(x) = g(x)\) graphically?	Draw both and read the x-coordinates of the intersections
+How do you estimate the gradient of a curve at a point?	Draw a tangent at that point and find its gradient with a large triangle
+Gradient of the tangent at a maximum or minimum	Zero
+Shape of an exponential decay curve	Falls steeply then flattens towards the x-axis without reaching it
+Real-world example of exponential growth	Compound interest, bacterial growth, population growth
+Real-world example of exponential decay	Depreciation, radioactive decay

@@ -1,0 +1,6 @@
+local/
+pdf/
+wiki/
+.wiki-clone/
+__pycache__/
+*.pyc

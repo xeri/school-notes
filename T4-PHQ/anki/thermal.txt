@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::5 Thermal physics
+Particle arrangement in a solid	Regular lattice, touching, vibrating about fixed positions
+Particle arrangement in a liquid	Close together but disordered, sliding past each other
+Particle arrangement in a gas	Far apart (~10 diameters), random fast motion, straight lines between collisions
+Which state is easily compressible and why?	Gas — the particles are far apart with large gaps
+What does temperature measure?	The average kinetic energy of the molecules
+What is internal energy?	The total of molecular kinetic AND potential energy
+Why is Kelvin the scientific temperature scale?	It is proportional to molecular kinetic energy
+What happens at 0 K?	Molecular motion stops — absolute zero, the lowest possible temperature
+Celsius to Kelvin conversion	\(T/\mathrm{K} = T/^\circ\mathrm{C} + 273\)
+Convert 27 °C to kelvin	300 K
+Is a change of 20 °C the same as a change of 20 K?	Yes — the interval is identical, only the zero differs
+Explain gas pressure in terms of molecules	Molecules collide with the walls; each collision reverses their momentum, exerting a force spread over the wall area
+What is Brownian motion?	The random jittering of smoke particles seen under a microscope
+What does Brownian motion show?	That invisible, fast-moving air molecules are bombarding the particle unevenly — evidence for the kinetic model
+Do molecular collisions lose kinetic energy?	No — molecules never slow down and stop, even after millions of collisions
+Boyle's law	\(pV = \text{constant}\) at constant temperature
+Gay-Lussac's law	\(P/T = \text{constant}\) at constant volume
+Charles' law	\(V/T = \text{constant}\) at constant pressure
+Combined gas law	\(\dfrac{P_1V_1}{T_1} = \dfrac{P_2V_2}{T_2}\)
+What units must temperature be in for the gas laws?	Kelvin, always
+Why does reducing volume raise pressure at constant temperature?	The same molecules hit the walls more often per second in a smaller space
+Why does raising temperature raise pressure at constant volume?	Molecules move faster, so they hit the walls harder and more often
+Explain evaporation molecularly	The fastest molecules at the surface escape
+Why does evaporation cool a liquid?	Losing the fastest molecules lowers the average kinetic energy of those left
+Three factors that speed up evaporation	Higher temperature, larger surface area, a draught over the surface
+Difference between evaporation and boiling	Evaporation is at the surface only at any temperature; boiling is throughout the liquid at a fixed point
+Order of thermal expansion magnitude	gases ≫ liquids > solids
+Why do gases expand most?	The forces between their molecules are weakest, so separation grows most freely
+Three applications of thermal expansion	Bridge expansion gaps, bimetallic strip thermostats, liquid-in-glass thermometers
+What are fixed points?	Reproducible reference temperatures used to define a scale — pure melting ice (0 °C) and boiling water (100 °C)
+How does a liquid-in-glass thermometer work?	The liquid in the bulb expands much more than the glass, so it rises up the narrow capillary
+How do you make a liquid-in-glass thermometer more sensitive?	A larger bulb or a narrower capillary
+What does a narrower capillary cost you?	A smaller range
+When is a thermocouple used instead?	For high temperatures and rapidly varying temperatures — it has a tiny junction and no liquid to boil
+Definition of specific heat capacity	The energy needed to raise 1 kg of a substance by 1 K
+Specific heat capacity formula	\(Q = mc\Delta T\)
+Specific heat capacity of water	4200 J/kg·K
+Thermal capacity of a whole object	\(Q = mc\) per kelvin, in J/K
+Main error in a specific heat capacity experiment	Heat loss to the surroundings, which makes the measured value too high — reduce it by lagging
+Why does temperature stay constant during melting or boiling?	The energy input changes the molecular arrangement (breaks bonds) rather than increasing molecular speed
+Specific latent heat formula	\(Q = ml\)
+Definition of specific latent heat	The energy per kilogram needed to change state at constant temperature
+Latent heat of fusion refers to which change?	Solid ↔ liquid
+Latent heat of vaporisation refers to which change?	Liquid ↔ gas
+Explain conduction in a non-metal	Hot molecules vibrate more and jostle their neighbours, passing energy along
+Why do metals conduct much better?	They also have free (delocalised) electrons that travel through the lattice carrying kinetic energy
+Which state is the worst conductor?	Gas — the molecules are far apart
+Describe an experiment comparing conductors	Identical rods of copper, aluminium, glass and wood with pins waxed to the far ends, heated at one end; the pins fall in order of conductivity
+Explain a convection current	Heating a fluid lowers its density, so it rises; denser cold fluid sinks to replace it, circulating
+Does radiation need a medium?	No — it crosses a vacuum, which is how the Sun's energy reaches Earth
+Which surface is the best emitter and absorber of radiation?	Dull black
+Which surface is the best reflector of radiation?	Shiny silver
+Two other factors affecting radiation emitted	Surface temperature and surface area
+What does Leslie's cube demonstrate?	That dull black faces emit more infrared radiation than shiny ones, at the same temperature
+How does a vacuum flask block all three transfers?	Vacuum stops conduction and convection, silvered walls reduce radiation, a stopper stops evaporation

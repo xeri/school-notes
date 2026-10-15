@@ -1,0 +1,43 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::3 Forces and momentum
+Definition of mass	A measure of a body's resistance to a change in its state of motion (inertia), in kg — a scalar
+Definition of weight	The gravitational force on a mass in a gravitational field, in N, acting vertically downwards — a vector
+Formula for weight	\(W = mg\)
+Weight of a 60 kg student on Earth	\(60 \times 9.81 = 589\) N
+Why does a balance only work in a gravitational field?	It compares masses by comparing their weights, and weight needs a field
+Name the experiment showing all objects fall at the same rate in a vacuum	The guinea-and-feather experiment (coin and feather in an evacuated tube)
+Three things a force can change	Size/shape, speed, direction (so velocity)
+What does zero resultant force mean?	The body stays at rest OR continues at constant velocity in a straight line
+Newton's second law	\(F = ma\)
+Definition of friction	The force between two surfaces that impedes motion and causes heating
+What is drag?	Air resistance — a form of friction
+State Hooke's law	Extension is proportional to the stretching force, up to the limit of proportionality
+Hooke's law formula	\(F = kx\), where k is the spring constant in N/m
+What is x in F = kx?	The extension (stretched length − natural length), NOT the total length
+What is the limit of proportionality?	The point beyond which extension stops being proportional to force and the graph curves
+How do you find a spring constant experimentally?	Plot force against extension; the gradient of the straight section is k
+What force is needed for circular motion?	A resultant force towards the centre, perpendicular to the velocity
+Circular motion formula	\(F = \dfrac{mv^2}{r}\)
+Why does a centripetal force not change speed?	It acts perpendicular to the motion, so it does no work — only the direction changes
+What happens if the centripetal force is removed?	The body travels off along the tangent
+Definition of the moment of a force	The product of the force and the perpendicular distance from the pivot to its line of action
+Units of moment	N·m
+Two ways to increase a moment	Increase the force, or increase the perpendicular distance from the pivot
+State the principle of moments	For a body in equilibrium, total clockwise moments = total anticlockwise moments
+4.0 N at 0.30 m left of a pivot; where must 6.0 N hang on the right?	\(6.0d = 4.0(0.30) \Rightarrow d = 0.20\) m
+Conditions for equilibrium	No resultant force AND no resultant moment
+Definition of centre of mass	The point at which all of a body's weight can be taken to act
+How do you find the centre of mass of a plane lamina?	Hang it from a pin at three different holes with a plumb-line each time; the three vertical lines cross at the centre of mass
+Stable equilibrium	Displaced slightly, the weight's line of action stays inside the base, so a restoring moment returns it
+Unstable equilibrium	Displaced slightly, the weight's line of action falls outside the base and topples it further
+Neutral equilibrium	Displacement produces no moment either way, e.g. a ball on a flat table
+What makes an object harder to topple?	A wide base and a low centre of mass
+Momentum formula	\(p = mv\), in kg·m/s — a vector
+Definition of impulse	The change in momentum, \(Ft = mv - mu\)
+Why do crumple zones reduce injury?	For the same momentum change, a longer contact time gives a smaller average force
+State conservation of momentum	In an isolated system, total momentum stays constant
+Definition of an isolated system	One with no external forces acting on the bodies, e.g. no friction with the floor
+2.0 kg at 3.0 m/s hits a stationary 1.0 kg and they stick: final speed?	\(6.0 = 3.0v \Rightarrow v = 2.0\) m/s
+Are elastic and inelastic collision labels in scope?	No — but momentum calculations on collisions are

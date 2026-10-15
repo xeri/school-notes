@@ -1,0 +1,60 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Business::2 People in business
+Definition of motivation	The willingness to work towards the business's objectives
+Five benefits of a motivated workforce	Higher productivity, better quality, lower absenteeism, lower labour turnover, more willingness to accept change
+Taylor's view of motivation	People are motivated primarily by money — use piece rate and simplified tasks
+Criticism of Taylor	Ignores job satisfaction and teamwork, and encourages speed over quality
+Maslow's five levels, bottom to top	Physiological, safety, social, esteem, self-actualisation
+How does a business meet safety needs?	Job security, safe conditions, a contract
+How does a business meet esteem needs?	Recognition, status, job titles, praise
+Criticism of Maslow	People do not all follow the same order, and the levels are hard to measure
+Herzberg's hygiene factors	Pay, conditions, supervision, job security — their absence causes dissatisfaction but they do not motivate
+Herzberg's motivators	Achievement, recognition, responsibility, the work itself, advancement
+Herzberg's practical conclusion	Improving pay removes a grievance; enriching the job creates motivation
+How does piece rate work, and what is the risk?	Paid per unit produced — encourages speed but quality may fall without monitoring
+How does commission work?	Payment as a percentage of sales value
+Risk of profit sharing	Individual effort is diluted across the whole workforce
+Four examples of fringe benefits	Company car, staff discounts, health cover, pension
+Definition of job rotation	Moving between tasks of similar difficulty to reduce boredom
+Definition of job enlargement	Adding more tasks at the same level
+Definition of job enrichment	Adding more challenging tasks and genuine responsibility, with training
+Which non-financial motivator does Herzberg recommend?	Job enrichment
+Two costs of training	Time away from production and the expense; the trained worker may also leave
+Definition of chain of command	The route down which instructions pass
+Definition of span of control	The number of subordinates a manager directly supervises
+Definition of delegation	Passing authority for a task downwards
+Who keeps accountability after delegation?	The manager — accountability cannot be delegated
+Definition of de-layering	Removing a level of management
+Advantages of a tall structure	Close supervision and clear promotion steps
+Disadvantages of a tall structure	Slow communication and high management cost
+Advantages of a flat structure	Fast communication and cheaper management
+Disadvantages of a flat structure	Thinner supervision and fewer promotion opportunities
+When does a wide span of control work?	With experienced capable staff doing similar low-risk work
+Five functions of management	Planning, organising, coordinating, commanding, controlling
+When does autocratic leadership suit?	Emergencies, inexperienced staff, safety-critical work
+When does democratic leadership suit?	Skilled experienced teams, and decisions needing buy-in
+When does laissez-faire leadership suit?	Creative, highly expert professionals
+Three factors determining a suitable leadership style	Urgency, the experience of the staff, and the level of risk
+Five elements of the communication process	Sender, message, channel, receiver, feedback
+Main weakness of one-way communication	No feedback, so no confirmation of understanding
+What is the grapevine?	Informal communication — fast but unreliable and prone to rumour
+Remedy for a message distorted by too long a chain of command	De-layer, or communicate directly
+Remedy for no feedback	Ask the receiver to confirm or repeat back the instruction
+Which channel suits detailed technical information?	Written, so it can be referred back to
+Which channel suits sensitive news?	Face-to-face, allowing questions and reassurance
+Definition of a trade union	An organisation of employees that represents members collectively
+Definition of collective bargaining	Negotiation between a union and an employer on behalf of all members
+Four forms of industrial action	Overtime ban, work to rule, go-slow, strike
+Who loses from a strike?	Both — the business loses output and revenue, the employees lose pay
+Difference between a job description and a person specification	The description states the duties; the specification states the skills and qualities needed
+Two advantages of internal recruitment	Cheaper and quicker, and the candidate is already known
+Two disadvantages of internal recruitment	A narrower pool, no new ideas, and it leaves another vacancy
+Two advantages of external recruitment	A wider pool and new skills and fresh ideas
+Purpose of induction training	To introduce a new employee to the premises, procedures, safety rules and colleagues
+On-the-job training: advantage and drawback	Cheap and directly relevant; bad habits can pass on and the trainer's output falls
+Off-the-job training: advantage and drawback	Broader higher-quality skills; expensive and time away from work
+Difference between dismissal and redundancy	Dismissal is for the employee's conduct or performance; redundancy is because the job no longer exists
+What makes a dismissal unfair?	No adequate reason, or the correct procedure was not followed
+Four areas of employment law	Minimum wage, maximum hours, health and safety, protection from discrimination

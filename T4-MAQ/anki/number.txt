@@ -1,0 +1,53 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::1 Number
+Is 1 a prime number?	No — it has only one factor
+Which is the only even prime?	2
+Definition of a rational number	One that can be written as a fraction a/b with integers a and b
+Two examples of irrational numbers	π and √2
+How do you find the HCF from prime factorisations?	Multiply the lowest power of each shared prime
+How do you find the LCM from prime factorisations?	Multiply the highest power of every prime that appears
+Relationship between HCF, LCM and the two numbers	HCF × LCM = the product of the two numbers
+Meaning of \(x \in A\)	x is an element of A
+Meaning of \(A'\)	The complement — everything not in A
+Meaning of \(A \cup B\)	Union — in A or B (or both)
+Meaning of \(A \cap B\)	Intersection — in A and B
+Meaning of \(A \subset B\)	A is a proper subset of B
+Symbol for the empty set	∅
+Symbol for the universal set	Ԑ
+What should you fill in first on a Venn diagram?	The intersection, then work outwards
+Convert \(0.\dot7\) to a fraction	\(10x - x = 7 \Rightarrow x = 7/9\)
+Convert \(0.\dot2\dot7\) to a fraction	\(100x - x = 27 \Rightarrow x = 27/99 = 3/11\)
+Order of operations	Brackets, indices, division and multiplication, addition and subtraction
+How do you divide by a fraction?	Multiply by its reciprocal
+\(a^m \times a^n\)	\(a^{m+n}\)
+\(a^m \div a^n\)	\(a^{m-n}\)
+\((a^m)^n\)	\(a^{mn}\)
+\(a^0\)	1
+\(a^{-n}\)	\(1/a^n\)
+\(a^{1/n}\)	The nth root of a
+\(a^{m/n}\)	The nth root of a, all raised to the power m
+Evaluate \(16^{3/4}\)	\((\sqrt[4]{16})^3 = 2^3 = 8\)
+Evaluate \(25^{-1/2}\)	1/5
+Range of A in standard form \(A\times10^n\)	\(1 \leqslant A < 10\)
+Write 0.000082 in standard form	\(8.2\times10^{-5}\)
+How do you count significant figures?	From the first non-zero digit
+Bounds of a length given as 4.6 cm to 1 d.p.	\(4.55 \leqslant l < 4.65\)
+How do you find the maximum of a product?	Multiply the two upper bounds
+How do you find the maximum of a quotient a/b?	Largest numerator ÷ smallest denominator
+Share £450 in the ratio 4:5:6	15 parts, so £120 : £150 : £180
+Increase 80 in the ratio 7:5	\(80\times7/5 = 112\)
+Equation for direct proportion	\(y = kx\)
+Equation for inverse proportion	\(y = k/x\)
+First step in any variation question	Find k from the given pair of values
+Formula for average speed	Total distance ÷ total time (never the average of two speeds)
+Multiplier to increase by 15%	×1.15
+Multiplier to decrease by 15%	×0.85
+How do you do a reverse percentage?	Divide by the multiplier, do not add the percentage back
+A coat costs £84 after a 30% reduction — original price?	\(84 \div 0.70 = £120\)
+Compound interest formula	\(P(1+r/100)^n\)
+Depreciation formula	\(P(1-r/100)^n\)
+Simple interest formula	\(I = Prt/100\)
+£2000 at 4% compound for 5 years	\(2000\times1.04^5 = £2433.31\)
+How do you write 14:35 as 12-hour time?	2:35 pm

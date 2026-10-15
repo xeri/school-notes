@@ -1,0 +1,42 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::6 Trigonometry
+To what accuracy are angles required?	Degrees to one decimal place
+Pythagoras' theorem	\(a^2+b^2 = c^2\), c being the hypotenuse
+How do you find a shorter side with Pythagoras?	Subtract: \(a = \sqrt{c^2-b^2}\)
+sin θ	opposite / hypotenuse
+cos θ	adjacent / hypotenuse
+tan θ	opposite / adjacent
+Where is the hypotenuse?	Always opposite the right angle
+What happens to "opposite" and "adjacent" if you switch acute angles?	They swap
+How do you find an angle from a ratio?	Use the inverse function, e.g. \(\tan^{-1}\)
+Angle of elevation	Measured UP from the horizontal
+Angle of depression	Measured DOWN from the horizontal
+Relationship between elevation and depression between two points	They are equal (alternate angles)
+How are three-figure bearings measured?	Clockwise from North, written with three digits, 000°–360°
+Bearing of East	090°
+Bearing of South-west	225°
+How do you write 7° east of north as a bearing?	007°
+How do you find a back bearing?	Add 180° (or subtract 180° if over 360°)
+Back bearing of 125°	305°
+What should every bearings sketch include?	A North arrow at EACH point
+\(\sin(180° - \theta)\)	\(\sin\theta\)
+\(\cos(180° - \theta)\)	\(-\cos\theta\)
+Value of sin 150°	0.5, same as sin 30°
+Value of cos 150°	−0.866, the negative of cos 30°
+Why can the sine rule give two answers?	\(\sin^{-1}\) returns only the acute angle; the obtuse option is 180° minus it
+Sine rule	\(\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}\)
+When do you use the sine rule?	When you have an angle and its opposite side, plus one more piece of information
+Form of the sine rule for finding an angle	\(\frac{\sin A}{a} = \frac{\sin B}{b}\)
+Cosine rule	\(a^2 = b^2+c^2-2bc\cos A\)
+Cosine rule rearranged for an angle	\(\cos A = \frac{b^2+c^2-a^2}{2bc}\)
+When do you use the cosine rule?	Two sides and the included angle, or all three sides
+Why is the cosine rule unambiguous?	A negative cosine gives the obtuse angle directly
+Area of a triangle (non-right-angled)	\(\tfrac12 ab\sin C\), C being the angle between a and b
+Sides 5, 7, 9 — largest angle?	\(\cos A = (25+49-81)/70 = -0.1 \Rightarrow 95.7°\)
+How do you tackle a 3-D trigonometry problem?	Draw one right-angled triangle at a time, separately from the 3-D figure
+How do you find the angle between a line and a plane?	Drop a perpendicular to the plane and use the projection of the line on it
+Cuboid 4 × 3 × 12 — base diagonal?	\(\sqrt{16+9} = 5\) cm
+Cuboid 4 × 3 × 12 — space diagonal?	\(\sqrt{25+144} = 13\) cm
+Cuboid 4 × 3 × 12 — angle of the space diagonal to the base?	\(\tan\theta = 12/5 \Rightarrow 67.4°\)

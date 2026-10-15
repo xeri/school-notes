@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::4 Geometry
+Angles at a point	Sum to 360°
+Angles on a straight line	Sum to 180°
+Vertically opposite angles	Equal
+Corresponding angles (F shape)	Equal
+Alternate angles (Z shape)	Equal
+Co-interior angles (C shape)	Sum to 180°
+Angles in a triangle	Sum to 180°
+Exterior angle of a triangle	Equals the sum of the two opposite interior angles
+Angles in a quadrilateral	Sum to 360°
+Sum of interior angles of an n-sided polygon	\((n-2)\times180°\)
+Sum of exterior angles of any polygon	360°
+Exterior angle of a regular n-sided polygon	\(360°/n\)
+Interior angle of a regular octagon	\(180 - 45 = 135°\)
+A regular polygon has interior angles of 162° — how many sides?	Exterior angle 18°, so \(360/18 = 20\) sides
+Angle in a semicircle	90°
+Angle between a tangent and a radius	90°
+Angle at the centre vs angle at the circumference	The angle at the centre is twice the angle at the circumference on the same arc
+Angles in the same segment	Equal
+Opposite angles of a cyclic quadrilateral	Supplementary — sum to 180°
+Equal chords in a circle	Are equidistant from the centre
+Perpendicular bisector of a chord	Passes through the centre
+Tangents from an external point	Are equal in length
+What must you always include with an angle answer?	The name of the geometrical rule used as the reason
+Properties of a rhombus	4 equal sides, opposite angles equal, diagonals bisect at 90°
+Properties of a parallelogram	Opposite sides parallel and equal, opposite angles equal
+Properties of a kite	Two pairs of adjacent equal sides, one line of symmetry
+Definition of a trapezium	Exactly one pair of parallel sides
+Difference between similar and congruent	Similar: same shape, sides in proportion. Congruent: identical in shape AND size
+Lines of symmetry in a parallelogram	None
+Order of rotational symmetry of a parallelogram	2
+Order of rotational symmetry of a scalene triangle	1 (no rotational symmetry)
+Planes of symmetry of a cylinder	Infinitely many
+Area scale factor for similar figures	\(k^2\)
+Volume scale factor for similar figures	\(k^3\)
+Two similar cones, heights 6 cm and 9 cm — area scale factor?	\(k = 1.5\), so \(k^2 = 2.25\)
+Volumes are 8 and 27 — length scale factor?	\(k = 3/2\)
+How do you construct a triangle from three sides?	Draw the longest side, then intersecting arcs of the other two lengths from each end
+How do you construct a perpendicular bisector?	Equal arcs above and below from each end, then join the intersections
+Which points lie on a perpendicular bisector?	Those equidistant from the two end points
+How do you construct an angle bisector?	Arc across both arms from the vertex, then equal arcs from each crossing, joined to the vertex
+Which points lie on an angle bisector?	Those equidistant from the two arms
+What must you NOT erase in a construction?	The construction arcs — they carry the marks
+Scale 1:50 000 — what does 1 cm represent?	50 000 cm = 0.5 km
+Locus of points a fixed distance from a point	A circle
+Locus of points a fixed distance from a line	Two parallel lines either side (semicircular ends on a segment)
+Locus of points equidistant from two points	The perpendicular bisector
+Locus of points equidistant from two intersecting lines	The two angle bisectors
+Solid or dashed boundary line for a strict inequality?	Dashed

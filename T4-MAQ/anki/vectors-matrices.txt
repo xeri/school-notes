@@ -1,0 +1,48 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::7 Vectors, matrices and transformations
+What does the column vector (x, y) mean?	x across and y up
+How must you mark a vector in a handwritten answer?	Underline it or use an arrow — an unmarked letter loses the mark
+Magnitude of a vector	\(|\mathbf{a}| = \sqrt{x^2+y^2}\)
+Magnitude of (5, −12)	13
+How do you add vectors?	Component by component
+What is \(-\mathbf{a}\)?	The same magnitude as a but the opposite direction
+Relationship between \(\overrightarrow{AB}\) and \(\overrightarrow{BA}\)	\(\overrightarrow{BA} = -\overrightarrow{AB}\)
+How do you tell whether two vectors are parallel?	One is a scalar multiple of the other
+\(\overrightarrow{AB}\) in terms of position vectors	\(\mathbf{b}-\mathbf{a}\) — destination minus start
+Position vector of the midpoint of AB	\(\tfrac12(\mathbf{a}+\mathbf{b})\)
+How do you find a route vector like \(\overrightarrow{AC}\)?	Travel along available arrows: \(\overrightarrow{AB}+\overrightarrow{BC}\), negating any arrow you go against
+How do you prove two lines are parallel with vectors?	Show one vector is a scalar multiple of the other
+How do you prove three points are collinear?	Show two vectors between them are parallel and share a point
+What must you state to describe a reflection fully?	The equation of the mirror line
+What must you state to describe a rotation fully?	The angle, the direction, and the centre
+What must you state to describe a translation fully?	The column vector
+What must you state to describe an enlargement fully?	The scale factor and the centre
+Reflection in y = x maps (a,b) to	(b, a)
+Reflection in y = −x maps (a,b) to	(−b, −a)
+Reflection in the x-axis maps (a,b) to	(a, −b)
+Rotation 90° anticlockwise about O maps (a,b) to	(−b, a)
+Rotation 180° about O maps (a,b) to	(−a, −b)
+Rotation 90° clockwise about O maps (a,b) to	(b, −a)
+What does an enlargement with 0 < k < 1 do?	Makes the shape smaller — it is still called an enlargement
+What does a negative scale factor do?	Puts the image on the opposite side of the centre, inverted
+Enlarge (5,3) by scale factor −2 about the origin	(−10, −6)
+How do you find the centre of a rotation?	Construct the perpendicular bisectors of two lines joining corresponding points
+Area factor under an enlargement of scale factor k	\(k^2\)
+What is the order of a matrix?	Rows × columns
+Condition for multiplying an m×n by a p×q matrix	n must equal p
+Is matrix multiplication commutative?	No — AB ≠ BA in general
+The 2×2 identity matrix	\(\begin{pmatrix}1&0\\0&1\end{pmatrix}\)
+Determinant of \(\begin{pmatrix}a&b\\c&d\end{pmatrix}\)	\(ad-bc\)
+Inverse of a 2×2 matrix	\(\frac{1}{ad-bc}\begin{pmatrix}d&-b\\-c&a\end{pmatrix}\)
+What is a singular matrix?	One with determinant 0 — it has no inverse
+Matrix for reflection in the x-axis	\(\begin{pmatrix}1&0\\0&-1\end{pmatrix}\)
+Matrix for reflection in y = x	\(\begin{pmatrix}0&1\\1&0\end{pmatrix}\)
+Matrix for rotation 90° anticlockwise	\(\begin{pmatrix}0&-1\\1&0\end{pmatrix}\)
+Matrix for rotation 180°	\(\begin{pmatrix}-1&0\\0&-1\end{pmatrix}\)
+Matrix for enlargement scale factor k	\(\begin{pmatrix}k&0\\0&k\end{pmatrix}\)
+How do you find the matrix of a transformation?	Apply it to (1,0) and (0,1); the images are the columns
+What does RM(a) = c mean?	Apply M first, then R
+Determinant of a reflection matrix	−1 — area preserved, orientation flipped
+What does the determinant tell you geometrically?	Area is multiplied by its absolute value under the transformation

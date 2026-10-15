@@ -1,0 +1,49 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Business::4 Operations management
+Labour productivity formula	Total output in a period ÷ number of employees
+Why does higher productivity lower unit labour cost?	The same wage bill is spread over more units — provided pay and quality are unchanged
+Five ways to raise productivity	Training, better equipment, improved motivation, better layout, automation
+Capital-intensive: two advantages	Low unit cost at volume and consistent quality
+Capital-intensive: two drawbacks	High fixed cost and inflexibility
+Labour-intensive: two advantages	Lower set-up cost and the flexibility to customise
+Definition of job production	One distinct product made at a time to order
+Job production: advantage and drawback	Fully customised at a premium price; high unit cost and slow
+Definition of batch production	Groups of identical items made before changing task
+Batch production: main drawback	Downtime between batches and stocks of part-finished goods
+Definition of flow production	Continuous mass production of a standardised product along a line
+Flow production: two advantages	Very low unit cost and consistent quality
+Flow production: two drawbacks	Huge capital cost and inflexibility; a breakdown halts everything
+Which method suits high customisation?	Job production
+Definition of lean production	Reducing every form of waste in the process
+Definition of kaizen	Continuous small improvements
+Definition of just-in-time	Holding almost no stock; materials arrive as they are needed
+Three benefits of JIT	Less capital tied up in stock, lower storage cost, less waste from obsolete stock
+Three risks of JIT	A late delivery halts production, no buffer for a demand surge, loses bulk discounts
+Definition of fixed cost	A cost that does not change with output in the short run
+Three examples of fixed cost	Rent, insurance, salaries
+Definition of variable cost	A cost that changes directly with output
+Three examples of variable cost	Materials, piece-rate wages, power used in production
+Total cost formula	Fixed costs + (variable cost per unit × output)
+Contribution per unit formula	Selling price − variable cost per unit
+Break-even output formula	Fixed costs ÷ contribution per unit
+Profit formula using contribution	(output × contribution per unit) − fixed costs
+Margin of safety formula	Actual output − break-even output
+Output needed for a target profit	(fixed costs + target profit) ÷ contribution per unit
+F = $4800, p = $20, v = $12 — break-even?	Contribution $8, so 4800 ÷ 8 = 600 units
+At 750 units with those figures — profit and margin of safety?	Profit $1200; margin of safety 150 units
+On a break-even chart, where is break-even?	Where the total revenue line crosses the total cost line
+Three assumptions of break-even analysis	Constant unit price and variable cost, fixed costs unchanged across the range, everything produced is sold
+What does break-even analysis ignore?	Capacity limits, demand uncertainty, and bulk discounts that make the lines non-linear
+Definition of quality control	Inspecting finished output and rejecting defects
+Definition of quality assurance	Designing the process so defects are prevented at each stage
+Main weakness of quality control	The waste has already been created, and workers take no responsibility for it
+Definition of total quality management	An organisation-wide commitment to zero defects through continuous improvement
+Four costs of poor quality	Scrap and rework, warranty claims, lost customers, damaged reputation
+Three costs of improving quality	Training, inspection and monitoring time, better materials
+Which location factor matters most for a retailer?	Proximity to the market — passing trade and customer access
+Which location factor matters most for a bulky-input factory?	Proximity to raw materials, to cut transport cost
+Does the lowest rent give the lowest total cost?	No — cheap premises far from customers add transport cost and lose sales
+Three benefits of locating abroad	Lower labour costs, access to a new market, avoiding tariffs
+Three risks of locating abroad	Quality control at a distance, longer supply chains, exchange-rate movements

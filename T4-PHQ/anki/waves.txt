@@ -1,0 +1,74 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::6 Waves, light and sound
+What does a wave transfer?	Energy, without transferring matter
+Definition of wavelength	The distance between matching points on consecutive waves
+Definition of frequency	The number of oscillations per second, in Hz
+Definition of period	The time for one oscillation, \(T = 1/f\)
+Definition of amplitude	The maximum displacement from the undisturbed position
+Definition of a wavefront	A line joining points oscillating in step
+Wave equation	\(v = f\lambda\)
+A 50 Hz wave of wavelength 0.40 m: speed and period?	\(v = 20\) m/s, \(T = 0.020\) s
+Definition of a transverse wave	Oscillation perpendicular to the direction of travel
+Definition of a longitudinal wave	Oscillation parallel to the direction of travel
+Three transverse wave examples	Water waves, all electromagnetic waves, a wave on a rope
+Two longitudinal wave examples	Sound, a slinky pushed along its length
+What changes during refraction?	Speed, wavelength and direction — the frequency stays the same
+When is diffraction through a gap greatest?	When the gap size is about equal to the wavelength
+Which wavelengths diffract most at an edge?	Longer ones — which is why low-pitched sound bends round corners more easily
+What apparatus demonstrates reflection, refraction and diffraction of waves?	A ripple tank
+State the law of reflection	Angle of incidence = angle of reflection, both measured from the normal
+Four properties of a plane-mirror image	Same size, same distance behind the mirror, laterally inverted, virtual
+What is a virtual image?	One the rays only appear to come from — it cannot be caught on a screen
+Which way does light bend entering a denser medium?	Towards the normal (it slows down)
+When does a ray not bend at a boundary?	When it travels along the normal
+What happens to a ray through a parallel-sided glass block?	It emerges parallel to its original direction, displaced sideways
+Refractive index from angles	\(n = \sin i / \sin r\)
+Refractive index from speeds	\(n = \) speed in vacuum / speed in the medium
+Refractive index of glass	About 1.5
+Two conditions for total internal reflection	Travelling from denser to less dense medium, AND angle of incidence greater than the critical angle
+Critical angle formula	\(n = 1/\sin c\)
+Critical angle for n = 1.5	42°
+How do you demonstrate the critical angle?	Aim a ray at the centre of the flat face of a semicircular glass block and rotate it
+Medical use of optical fibres	An endoscope carries light in and an image out of the body without surgery
+Communications advantage of optical fibres	Far more data, less signal loss, no electrical interference
+Definition of principal focus	The point where a converging lens brings a parallel beam to meet
+Definition of focal length	The distance from the lens to the principal focus
+Ray rule 1 for a converging lens	A ray parallel to the axis passes through the principal focus
+Ray rule 2 for a converging lens	A ray through the centre of the lens continues straight
+Image when the object is beyond 2f	Real, inverted, diminished
+Image when the object is between f and 2f	Real, inverted, enlarged
+Image when the object is inside f	Virtual, upright, enlarged — a magnifying glass
+Why does a prism disperse white light?	Each colour has a slightly different refractive index, so each bends by a different amount
+Which colour bends most in a prism?	Violet (red bends least)
+Seven colours of the spectrum in order	Red, orange, yellow, green, blue, indigo, violet
+Meaning of monochromatic	Light of a single frequency
+Primary colours of light	Red, green, blue
+Red + green =	Yellow
+Green + blue =	Cyan
+Red + blue =	Magenta
+Why does a red book look black under blue light?	It absorbs blue and has no red light to reflect
+Electromagnetic spectrum in order of increasing frequency	Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma
+Speed of all EM waves in a vacuum	\(3.0\times10^8\) m/s
+Uses of microwaves	Satellite television, mobile phones, cooking
+Uses of infrared	Electrical appliances, TV remote controls, intruder alarms, thermal imaging
+Uses of X-rays	Medical imaging, airport security scanning
+Safety danger of microwaves	They are absorbed by water and heat body cells
+Safety danger of X-rays and gamma rays	They are ionising — they damage DNA and can cause cell mutation
+Which EM regions are NOT ionising?	Radio, microwave, infrared (and visible)
+How is sound produced?	By a vibrating source
+Is sound transverse or longitudinal?	Longitudinal
+What are compressions and rarefactions?	Regions where air particles are closer/higher pressure and further apart/lower pressure
+Why does a bell in a bell jar go silent as air is pumped out?	Sound is a mechanical vibration of particles, so it needs a medium
+Audible range for a healthy human ear	About 20 Hz to 20 000 Hz
+Definition of ultrasound	Sound of frequency above the human audible range
+Speed of sound in air	About 330–340 m/s
+Speed of sound in water	About 1500 m/s
+Speed of sound in steel	About 5000 m/s
+Why is sound fastest in solids?	The particles are closest together with the strongest forces between them
+What does loudness depend on?	Amplitude
+What does pitch depend on?	Frequency
+Echo method for the speed of sound	Clap at a measured distance d from a wall, time the echo t; \(v = 2d/t\)
+What does the eardrum do?	Vibrates in response to pressure variations in the air
+What does the cochlea do?	Converts mechanical vibration into electrical impulses carried to the brain by the auditory nerve

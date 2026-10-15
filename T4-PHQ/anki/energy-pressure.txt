@@ -1,0 +1,44 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::4 Density, energy and pressure
+Density formula	\(\rho = m/V\)
+Density of water	1.00 g/cm³ = 1000 kg/m³
+Condition for an object to float	Its density is less than the fluid's
+Volume of a sphere	\(\tfrac43\pi r^3\)
+Volume of a triangular prism	\(\tfrac12 bh \times\) length
+How do you find the volume of an irregular solid?	Displacement — note the water level rise in a measuring cylinder, or collect the overflow from a eureka can
+How do you find the density of a liquid?	Weigh an empty measuring cylinder, add a measured volume, weigh again; mass = difference
+Most common error in a density calculation	Not converting the volume to m³ before dividing
+Name the six energy stores in scope	Kinetic, gravitational potential, chemical, elastic (strain), nuclear, internal (thermal)
+Four ways energy is transferred	Forces (mechanical working), electric currents (electrical working), heating, waves
+Kinetic energy formula	\(E_k = \tfrac12 mv^2\)
+Gravitational potential energy formula	\(\Delta E_p = mg\Delta h\)
+State conservation of energy	The total energy of a closed system is constant — energy is never destroyed
+What is dissipation?	Energy spreading out among objects and the surroundings as thermal energy, where it is no longer useful
+What does arrow width represent on a Sankey diagram?	The amount of energy — widths must add up
+Work done formula	\(W = Fd = \Delta E\)
+In which direction must the distance be measured for work done?	In the direction of the force
+How much work does a perpendicular force do?	None — it changes direction but not speed
+Power formula	\(P = \Delta E / t\)
+Units of power	watt (W) = J/s
+Efficiency formula (energy)	useful energy output / total energy input × 100%
+Efficiency formula (power)	useful power output / total power input × 100%
+Can efficiency exceed 100%?	No
+Which energy resources do NOT originate from the Sun?	Geothermal, nuclear and tidal
+How does the Sun release energy?	Nuclear fusion of small nuclei
+Advantages of wind power	Renewable, no fuel cost, no CO₂ in operation
+Disadvantages of wind power	Intermittent, low output per turbine, visual and noise impact
+Advantages of nuclear fission	Huge output, no CO₂ in operation, reliable
+Disadvantages of nuclear fission	Radioactive waste, high build and decommissioning cost, non-renewable fuel
+Five criteria for judging an energy resource	Renewability, cost, reliability, scale, environmental impact
+Pressure formula	\(P = F/A\)
+Units of pressure	N/m² = pascal (Pa)
+Must the force be parallel or normal to the surface?	Normal (perpendicular)
+Why do snowshoes stop you sinking?	The same weight spread over a larger area gives a smaller pressure
+Liquid pressure formula	\(P = \rho g h\)
+What is h in P = ρgh?	The depth below the liquid surface — never the volume or width
+How does liquid pressure vary with direction at a given depth?	It acts equally in all directions
+How does a mercury barometer work?	An inverted mercury-filled tube stands in a reservoir; the column height at which it balances atmospheric pressure measures that pressure, with a vacuum above
+Typical atmospheric pressure in mm of mercury	About 760 mm
+How does a manometer measure pressure?	The difference in liquid levels h in a U-tube gives the excess pressure as ρgh

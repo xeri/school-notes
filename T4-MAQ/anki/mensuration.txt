@@ -1,0 +1,42 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Maths::5 Mensuration
+How many mm² in 1 cm²?	100 (the length factor is squared)
+How many cm² in 1 m²?	10 000
+How many mm³ in 1 cm³?	1000 (the length factor is cubed)
+How many cm³ in 1 m³?	1 000 000
+How many cm³ in 1 litre?	1000
+How many litres in 1 m³?	1000
+Commonest error in unit conversion	Not squaring or cubing the length factor
+Area of a rectangle	\(lw\)
+Area of a triangle	\(\tfrac12 bh\)
+Area of a parallelogram	\(bh\)
+Area of a trapezium	\(\tfrac12(a+b)h\)
+Area of a circle	\(\pi r^2\)
+Circumference of a circle	\(2\pi r = \pi d\)
+What kind of height is h in the triangle and parallelogram formulas?	The perpendicular height, not a slant side
+Arc length of a sector	\(\frac{\theta}{360}\times2\pi r\)
+Area of a sector	\(\frac{\theta}{360}\times\pi r^2\)
+Perimeter of a sector	The arc PLUS the two radii
+Area of a segment	Sector area − triangle area (using ½ab sin C)
+Volume of a cuboid	\(lwh\)
+Surface area of a cuboid	\(2(lw+lh+wh)\)
+Volume of a prism	Cross-sectional area × length
+Volume of a cylinder	\(\pi r^2h\)
+Total surface area of a closed cylinder	\(2\pi r^2 + 2\pi rh\)
+Curved surface area of a cylinder only	\(2\pi rh\)
+Why is the curved surface of a cylinder 2πrh?	It unrolls into a rectangle of width 2πr and height h
+Volume of a sphere (given in the exam)	\(\tfrac43\pi r^3\)
+Surface area of a sphere (given)	\(4\pi r^2\)
+Volume of a cone (given)	\(\tfrac13\pi r^2 h\)
+Curved surface area of a cone (given)	\(\pi r l\)
+Volume of a pyramid (given)	\(\tfrac13\times\) base area \(\times h\)
+Which formulae ARE given in the exam?	Surface area and volume of the sphere, pyramid and cone
+Slant height of a cone	\(l = \sqrt{r^2+h^2}\)
+Cone with r = 5, h = 12 — slant height?	13 cm
+Cone with r = 5, h = 12 — total surface area?	\(\pi(5)(13)+\pi(25) = 283\) cm²
+Does a cut-out reduce a compound shape's perimeter?	No — add every edge you actually walk along
+In a compound solid, is the joining face part of the surface area?	No — it is internal
+Should you round before the final step?	No — keep π on the calculator and round only at the end
+Default accuracy for an answer	3 significant figures, unless told otherwise

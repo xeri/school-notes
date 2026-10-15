@@ -1,0 +1,55 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Business::3 Marketing
+Four objectives of marketing	Identify and satisfy customer needs, maintain or increase market share, build loyalty and brand image, target a chosen segment
+Definition of market segmentation	Dividing a market into groups of customers with shared characteristics
+Six bases for segmentation	Age, income, gender, lifestyle, location, usage
+Advantage of segmentation	A focused mix with less wasted promotion
+Disadvantage of segmentation	Narrows potential sales and costs more if several versions are needed
+Niche market: two advantages	Fewer direct rivals and the ability to charge a premium price
+Niche market: main risk	Vulnerable to a single change in taste, with a small customer base
+Mass market: two advantages	Low unit cost from economies of scale, and high potential volume
+Market share formula	(firm's sales ÷ total market sales) × 100
+Definition of market growth	The percentage increase in the size of the whole market
+Definition of primary research	Collecting new data for the present purpose
+Definition of secondary research	Using data that already exists
+Four primary research methods	Questionnaires, interviews, focus groups, observation
+Four secondary research sources	Internal sales records, government statistics, trade journals, competitors' accounts
+Primary research: advantage and drawback	Specific and up to date; slow and expensive
+Secondary research: advantage and drawback	Cheap and quick; may be out of date or collected for a different purpose
+Qualitative vs quantitative data	Qualitative explains why (opinions, motives); quantitative gives measurable numbers
+Why is surveying only current customers biased?	It misses everyone who considered the product and rejected it
+Five checks on research reliability	How the sample was selected, sample size, question wording, date, who funded it
+Four elements of product	Features, quality, branding, packaging (plus the service around it)
+Definition of product differentiation	Making a product distinguishable from rivals'
+Two benefits of branding	A premium price and repeat purchase through loyalty
+Risk of a strong brand	One scandal damages the whole range
+Four functions of packaging	Protects, eases transport and storage, carries legal information, promotes at point of sale
+Five stages of the product life cycle	Introduction, growth, maturity, decline (preceded by development)
+What happens to sales in the growth stage?	They rise fast, and the first profits appear
+Typical pricing in the maturity stage	Competitive pricing, with persuasive promotion and extension strategies
+Five extension strategies	A new version, new packaging, a new target market or country, more promotion, a new use
+Why hold a product portfolio?	A product in decline is balanced by one in growth, spreading risk
+Cost-plus pricing	Add a fixed mark-up to unit cost — simple but ignores demand and competitors
+Penetration pricing	A low launch price to build volume and market share
+Price skimming	A high launch price, lowered later; suits a genuinely new or advanced product
+Psychological pricing	Pricing at $9.99 rather than $10 to appear cheaper
+Elastic demand: effect of a price rise on revenue	Total revenue falls
+Inelastic demand: effect of a price rise on revenue	Total revenue rises
+Four features of inelastic demand	Few substitutes, essential product, strong brand, small share of income
+400 bottles at $20 — how many at $18 to match revenue?	8000 ÷ 18 = 444.4, so 445 whole bottles
+Does matching revenue mean matching profit?	No — extra units carry extra variable cost and the promotion itself costs money
+Five sales promotion methods	BOGOF, coupons, free gifts, competitions, loyalty cards
+Purpose of sales promotion vs advertising	Promotion gives a short-term volume boost; advertising informs or persuades over the longer term
+Two things promotion needs besides reach	A clear objective and a measure of response
+How do you judge whether a campaign was cost-effective?	Compare the extra contribution generated with the cost of the campaign
+Four distribution channels	Direct, via retailer, via wholesaler, e-commerce
+Advantages of e-commerce as a channel	National or global reach, low overheads, 24-hour selling
+Drawbacks of e-commerce as a channel	Delivery costs, returns, and no personal contact
+Four criteria for choosing a channel	The product, the market, the cost, the degree of control wanted
+What makes a marketing mix coherent?	All four elements support each other and the target segment
+Five reasons to enter a foreign market	Saturated home market, larger customer base, spreading risk, lower costs, extending the product life cycle
+Six risks of entering a foreign market	Different tastes, language and culture, legal differences, distribution, exchange rates, tariffs and quotas
+Four methods of entering a foreign market	Exporting, a local agent, a joint venture, a franchise (or direct investment)
+Should a successful domestic mix be copied abroad?	No — it usually needs adapting to the new market

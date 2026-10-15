@@ -1,0 +1,68 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::8 Atomic physics and space
+Four atomic models in order	Hard sphere (Dalton), plum pudding (Thomson), nuclear (Rutherford), Bohr shells
+Rutherford result 1: most α-particles pass straight through — conclusion?	The atom is mostly empty space
+Rutherford result 2: some are deflected slightly — conclusion?	There is a concentrated positive charge repelling them
+Rutherford result 3: a very few bounce back over 90° — conclusion?	That positive charge is in a very small, very massive nucleus
+Why did α-scattering kill the plum-pudding model?	Plum pudding predicts only tiny deflections, never a bounce-back
+Relative size of nucleus to inner electron orbits	The nucleus is about \(10^5\) times smaller
+Charges of proton, neutron, electron	+1, 0, −1
+What is Z?	Proton number (atomic number) — it identifies the element
+What is A?	Nucleon number (atomic mass) = protons + neutrons
+How do you find the number of neutrons?	\(A - Z\)
+Nuclide notation	\(^{A}_{Z}X\)
+Definition of isotopes	Nuclides of the same element — same Z, different A
+Definition of nuclear fission	Splitting a large nucleus into smaller pieces
+Definition of nuclear fusion	Joining two small nuclei into a larger one
+What must balance in a nuclear equation?	Total A and total Z on both sides
+Alpha decay of uranium-238	\(^{238}_{92}\mathrm{U} \rightarrow\ ^{234}_{90}\mathrm{Th} + ^{4}_{2}\alpha\)
+Beta decay of carbon-14	\(^{14}_{6}\mathrm{C} \rightarrow\ ^{14}_{7}\mathrm{N} + ^{\ \ 0}_{-1}\mathrm{e}\)
+What is an alpha particle?	A helium nucleus — 2 protons and 2 neutrons, charge +2
+What is a beta particle?	A fast-moving electron, charge −1
+What is a gamma ray?	A high-frequency electromagnetic wave, no charge, no mass
+Order of ionising power	α (most) > β > γ (least)
+What stops alpha radiation?	Paper, or a few cm of air
+What stops beta radiation?	A few mm of aluminium
+What stops gamma radiation?	Thick lead or very thick rock
+Why is alpha the most ionising?	Large mass and double charge mean strong interaction with every atom it passes — so it loses energy quickly over a short range
+Which emissions are deflected by a magnetic field?	α and β (both charged); γ is undeflected
+Is β+ (positron) emission in scope?	No — all β here means β⁻
+Two properties of radioactive decay	Random and spontaneous
+Does temperature or chemistry affect decay rate?	No — decay is unaffected by temperature, pressure or chemical state
+Sources of background radiation	Rocks (especially radon), cosmic rays, food, medical and industrial sources
+What must you do with background before analysing a count rate?	Subtract it
+What detects ionising radiation?	A Geiger–Müller tube with a counter (also film, cloud chamber, spark counter)
+Why does a smoke detector use alpha?	It ionises air across a short gap; smoke interrupts the resulting current
+Why is beta used for thickness monitoring?	It passes through thin sheets and its absorption varies with thickness
+Why is gamma used for sterilising and tracing leaks?	It penetrates packaging, tissue and pipe walls
+Definition of half-life	The time for the number of undecayed nuclei, or the count rate, to fall to half
+Fraction remaining after 3 half-lives	1/8
+Fraction remaining after n half-lives	\((\tfrac12)^n\)
+Count falls 800 → 50 in 4 hours: half-life?	4 half-lives in 4 hours, so 1 hour
+Background 20; sample 340 → 100 in 90 min: half-life?	Corrected 320 → 80 is 2 half-lives, so 45 minutes
+Most common error in half-life questions	Forgetting to subtract the background count
+Two biological effects of ionising radiation	Cell death (high dose) and cell mutation leading to cancer (lower dose)
+Four radiation safety precautions	Lead-lined storage, long tongs, short exposure time, large distance (plus a film badge)
+What process do nuclear power stations use?	Fission of a large nucleus such as uranium
+What process powers the Sun?	Fusion of small nuclei such as hydrogen
+Why does fusion need extreme conditions?	Enormous temperature and pressure are needed to overcome the repulsion between positive nuclei
+Definition of an orbit	The curved path of one body around another under gravity
+Shape of a planetary orbit	Elliptical, with the Sun at one focus
+Orbital speed formula	\(v = 2\pi r/T\)
+Satellite at \(r = 7.0\times10^6\) m, T = 6000 s: speed?	\(7.3\times10^3\) m/s
+What force keeps a body in orbit?	Gravity, providing the centripetal force
+What does surface gravitational field strength depend on?	The planet's mass (and radius)
+How does gravitational field strength vary with distance from a planet?	It decreases as distance increases
+Is a light year a time or a distance?	A distance
+Value of a light year	About \(9.5\times10^{15}\) m
+Diameter of the Milky Way	About 100 000 light-years
+How is the distance to a far galaxy measured?	From the observed brightness of a supernova of known actual brightness
+Definition of redshift	An increase in the observed wavelength of radiation from a receding star or galaxy
+What does the redshift of almost all galaxies show?	The Universe is expanding — evidence for the Big Bang theory
+Hubble's law	\(H_0 = v/d\)
+Definition of the Hubble constant	The ratio of a galaxy's recession speed to its distance from Earth
+Current estimate of \(H_0\)	About \(2.2\times10^{-18}\) s⁻¹
+How do you estimate the age of the Universe?	\(1/H_0 \approx 4.5\times10^{17}\) s ≈ 14 billion years
+What does one consistent \(H_0\) in all directions imply?	All the matter in the Universe was once at a single point

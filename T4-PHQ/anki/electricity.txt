@@ -1,0 +1,84 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics::7 Electricity and magnetism
+What are magnetic domains?	Small crystal regions that each act as a tiny magnet; aligning them magnetises the material
+Why does a magnet attract unmagnetised iron but only repel another magnet?	Attraction needs only induced domain alignment; repulsion needs an existing opposing pole
+Which way do magnetic field lines run outside a magnet?	From N to S
+Where is a magnetic field strongest?	At the poles, where the field lines are closest together
+Can magnetic field lines cross?	No — magnetic forces arise from field lines that cannot intersect
+What do iron filings show, and what do they not show?	The field pattern, but not the direction — use a plotting compass for that
+What is a neutral point?	A point where two fields cancel, e.g. between two facing N poles
+Three ways to magnetise a material	Stroking with one pole, placing in a coil carrying d.c., hammering inside a magnetic field
+Three ways to demagnetise a material	Hammering, heating strongly, placing in a coil carrying a.c.
+Property of soft iron	It loses its magnetism as soon as the external field is removed — ideal for electromagnet and transformer cores
+Property of a hard magnetic material like steel	It keeps its magnetism — ideal for permanent magnets
+Two advantages of an electromagnet over a permanent magnet	It can be switched off, and its strength can be varied
+Charge of a proton vs an electron	Equal in magnitude, opposite in sign (+1 and −1)
+Unit of charge	coulomb (C)
+What actually moves when you charge by friction?	Electrons only — protons stay in the nucleus
+How does a gold-leaf electroscope detect charge?	The leaf and stem acquire like charges and repel, so the leaf rises
+Steps for charging by induction	Bring a charged rod near, earth the far side briefly, remove the earth, then remove the rod — the sphere keeps the opposite charge
+Why do metals conduct?	They have free (delocalised) electrons that drift through the lattice
+Definition of an electric field	A region in which a charge experiences a force
+Direction of an electric field at a point	The direction of the force on a positive charge there
+Field pattern between two parallel plates	Uniform — evenly spaced parallel lines from + to −
+Field pattern around a charged conducting sphere	Radial outside as if from the centre; zero inside
+Definition of current	The rate of flow of charge
+Current formula	\(I = Q/t\)
+Which way do electrons flow compared with conventional current?	Opposite — electrons go negative to positive, conventional current positive to negative
+Definition of e.m.f.	The energy change inside the supply, per unit charge, that drives charge round a complete circuit
+Definition of potential difference	The energy transferred per unit charge in a component
+What is 1 volt in base terms?	1 J/C
+Resistance formula	\(R = V/I\)
+Is current used up passing through a resistor?	No — charge is conserved
+How does resistance depend on wire length?	Directly proportional — double the length, double the resistance
+How does resistance depend on cross-sectional area?	Inversely proportional — double the diameter (×4 area) and the resistance quarters
+Resistivity formula	\(R = \rho L / A\)
+I–V graph of an ohmic resistor	A straight line through the origin
+I–V graph of a filament lamp	An S-shaped curve that flattens
+Why does a filament lamp's resistance rise with current?	It heats up, the lattice ions vibrate more, and electrons collide more often
+Current in a series circuit	The same at every point
+P.d. in a series circuit	The p.d.s across components add to the supply p.d.
+Current in a parallel circuit	The source current equals the sum of the branch currents
+P.d. in a parallel circuit	The same across each branch
+Series resistance formula	\(R_T = R_1 + R_2\)
+Parallel resistance formula	\(R_T = \dfrac{R_1R_2}{R_1+R_2}\)
+Why is combined parallel resistance less than either resistor?	There are more paths for the charge to take
+Three reasons household lamps are wired in parallel	Each can be switched independently, each gets full mains p.d., one failing does not black out the house
+Electrical power formula	\(P = IV\)
+Electrical energy formula	\(E = IVt\)
+6.0 V across 3.0 Ω: current and power?	\(I = 2.0\) A, \(P = 12\) W
+What does a potential divider do?	Taps off a fraction of the supply p.d. from two resistors in series
+Potential divider formula	\(V_{out} = V_{in}\dfrac{R_2}{R_1+R_2}\)
+How does a thermistor's resistance change?	It falls sharply as temperature rises
+How does an LDR's resistance change?	It falls as light intensity rises
+What does a relay do?	A small coil current closes contacts in a separate circuit, letting a small safe current switch a large one, with electrical isolation
+What does a diode do?	Conducts in one direction only; as a rectifier it converts a.c. to d.c.
+How do you build a light-sensitive switch?	LDR in a potential divider; the changing output p.d. operates a relay that switches the lamp
+Three electrical hazards	Damaged insulation, overheating cables, damp conditions
+Plug wire colours	Live brown, neutral blue, earth green/yellow stripes
+What does a fuse protect?	The appliance and the wiring — NOT the person
+Fuse for a 230 V, 700 W appliance	\(I = 700/230 = 3.0\) A, so a 5 A fuse
+How does earthing make an appliance safe?	A fault makes a large current flow to earth through a low-resistance path, blowing the fuse at once so the case cannot stay live
+When is an e.m.f. induced in a conductor?	When it moves across a magnetic field, or the field linking it changes
+Three factors increasing an induced e.m.f.	Faster rate of change of field, more turns on the coil, a stronger magnet
+State Lenz's law	The induced e.m.f. opposes the change that caused it
+Fleming's right-hand rule is used for what?	The generator effect — thumb motion, first finger field, second finger induced current
+Difference between a.c. and d.c.	d.c. flows one way only; a.c. reverses direction periodically
+What do slip rings do in an a.c. generator?	Keep each coil end connected to the same brush, so the output alternates with the coil
+When is a generator's output at a peak?	When the coil is parallel to the field, cutting field lines fastest
+When is a generator's output zero?	When the coil is perpendicular to the field, momentarily cutting no lines
+Why must a transformer use a.c.?	Only a changing magnetic field induces an e.m.f. in the secondary
+Transformer turns equation	\(V_p/V_s = N_p/N_s\)
+Transformer power equation (100% efficient)	\(I_pV_p = I_sV_s\)
+Why is electricity transmitted at high voltage?	For a given power, higher V means lower I, and cable loss is \(I^2R\)
+Cable power-loss formula	\(P = I^2R\)
+Field pattern around a straight current-carrying wire	Concentric circles, weakening with distance; use the right-hand grip rule
+Field pattern around a solenoid	Like a bar magnet's — strong and uniform inside, poles at the ends
+Three ways to strengthen a solenoid's field	More current, more turns, an iron core
+Fleming's left-hand rule is used for what?	The motor effect — first finger field, second finger current, thumb force
+When is the force on a current-carrying wire greatest?	When the wire is perpendicular to the field (zero when parallel)
+What happens if you reverse both the current and the field?	The force acts in the original direction
+Three ways to increase a motor's turning effect	More turns, larger current, stronger magnetic field
+What does a split-ring commutator do?	Reverses the current in the coil every half turn, so the turning effect always acts the same way and rotation continues
