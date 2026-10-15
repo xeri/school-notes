@@ -8,6 +8,7 @@
 |---|---|
 | Average | $\bar{x} = \dfrac{\sum x}{n}$ |
 | Gradient | $\dfrac{\Delta y}{\Delta x}$ |
+| Resultant of perpendicular vectors | $R = \sqrt{a^2 + b^2}$ (Pythagoras) |
 
 ## Motion
 
@@ -30,10 +31,11 @@ Free fall: $g = 9.81$ m/s².
 | Newton's second law | $F = ma$ |
 | Hooke's law | $F = kx$ |
 | Circular motion | $F = \dfrac{mv^2}{r}$ |
-| Moment | $M = Fd$ |
+| Moment | $M = Fd$, $d$ = perpendicular distance from pivot to line of action |
 | Principle of moments | $\sum M_{cw} = \sum M_{acw}$ |
 | Momentum | $p = mv$ |
-| Impulse | $Ft = mv - mu$ |
+| Impulse | $Ft = \Delta p = mv - mu$ |
+| Force as rate of change of momentum | $F = \dfrac{\Delta p}{t}$ |
 
 ## Density, energy, pressure
 
@@ -53,15 +55,17 @@ Free fall: $g = 9.81$ m/s².
 | Quantity | Equation |
 |---|---|
 | Kelvin conversion | $T/\mathrm{K} = T/^\circ\mathrm{C} + 273$ |
-| Thermal capacity | $Q = mc$ per K |
+| Thermal capacity | $C = mc$ (J/K) |
 | Specific heat capacity | $Q = mc\Delta T$ |
 | Specific latent heat | $Q = ml$ |
+| Heat exchange | energy lost by hot body = energy gained by cold body |
 | Boyle's law | $pV = \text{constant}$ |
 | Gay-Lussac | $\dfrac{P}{T} = \text{constant}$ |
 | Charles | $\dfrac{V}{T} = \text{constant}$ |
 | Combined gas law | $\dfrac{P_1V_1}{T_1} = \dfrac{P_2V_2}{T_2}$ |
 
-Specific heat capacity of water: 4200 J/kg·K.
+Gas laws: fixed mass of gas, $T$ in kelvin; $p$ and $V$ in any consistent units.
+Specific heat capacity of water: about 4200 J/(kg·K). $c$ is in J/(kg·K); $l$ is in J/kg.
 
 ## Waves
 
@@ -69,9 +73,9 @@ Specific heat capacity of water: 4200 J/kg·K.
 |---|---|
 | Wave equation | $v = f\lambda$ |
 | Period | $T = \dfrac{1}{f}$ |
-| Law of reflection | $i = r$ |
+| Law of reflection | angle of incidence = angle of reflection |
 | Refractive index | $n = \dfrac{\sin i}{\sin r}$ |
-| | $n = \dfrac{c_{vacuum}}{c_{medium}}$ |
+| | $n = \dfrac{c}{v} = \dfrac{\text{speed in vacuum}}{\text{speed in medium}}$ |
 | Critical angle | $n = \dfrac{1}{\sin c}$ |
 | Speed of sound (echo) | $v = \dfrac{2d}{t}$ |
 

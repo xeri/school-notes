@@ -1,0 +1,49 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:English::2 Paper 3 Othello
+Paper 3 format	One hour, 25 marks: a general question on the whole play or a passage-based question. Closed book
+Rule for the Paper 3 general question	Do not use any evidence from the printed passage
+First recorded performance of Othello	At court in Whitehall, 1 November 1604, by the King's Men, under James I
+Coleridge's phrase for Iago, set as the 2024 question	<i>the motive-hunting of motiveless malignity</i>
+Iago's stated motives	Passed over for promotion; rumours about Emilia with Othello and Cassio; desire for Desdemona; envy of Cassio's daily beauty
+Venice against Cyprus	Venice is law and order; Cyprus is passion and confusion (Garber). The storm ends the outer war and begins the inner one
+Turning point of Act I	Brabantio's warning that a daughter who deceived her father may deceive her husband
+Turning point of Act II	Cassio's drunken brawl and dismissal, which sends him to Desdemona to plead
+The pivot of the play	III.iii, the temptation scene: Othello transfers his trust from his wife to his ensign
+Turning point of Act IV	Bianca appears with the handkerchief, which Othello takes as proof
+Turning point of Act V	Emilia refuses to obey Iago and exposes him
+Iago's central method	Insinuation: he withholds and hesitates, and Othello supplies the content
+Iago's echo technique (III.iii)	He repeats Othello's words back as questions, so the suspicion seems to start in Othello's head
+Iago's borrowed authority (III.iii)	<i>She did deceive her father, marrying you</i>: Brabantio's warning reused
+Iago's fabricated evidence (III.iii)	Asked for ocular proof, he invents Cassio talking in his sleep about Desdemona
+Iago's staged scene (IV.i)	He hides Othello to overhear Cassio laughing about Bianca, and Othello takes it as about Desdemona
+Othello's language across the play	Assured blank verse, then lines shared with Iago, then fragmented prose in IV.i, then recovered verse at the end
+Iago on himself (I.i)	<i>I am not what I am</i>
+Iago on the birth of his plot (I.iii)	<i>Hell and night / Must bring this monstrous birth to the world's light</i>
+Iago on his own method (II.iii)	<i>When devils will the blackest sins put on, / They do suggest at first with heavenly shows</i>
+Iago on poison and the ear (II.iii)	<i>I'll pour this pestilence into his ear</i>
+Iago's final refusal (V.ii)	<i>Demand me nothing. What you know, you know</i>
+Iago's animal slander to Brabantio (I.i)	<i>an old black ram / Is tupping your white ewe</i>
+Brabantio's warning to Othello (I.iii)	<i>Look to her, Moor, if thou hast eyes to see: / She has deceived her father, and may thee</i>
+Cassio on reputation (II.iii)	<i>Reputation, reputation, reputation! O, I have lost my reputation!</i>
+Iago to Cassio on reputation (II.iii)	<i>Reputation is an idle and most false imposition</i>
+Iago to Othello on reputation (III.iii)	<i>Good name in man and woman, dear my lord, / Is the immediate jewel of their souls</i>
+Iago on jealousy (III.iii)	<i>the green-eyed monster which doth mock / The meat it feeds on</i>
+Iago on flimsy evidence (III.iii)	<i>Trifles light as air / Are to the jealous confirmations strong / As proofs of holy writ</i>
+Othello demands proof (III.iii)	<i>Give me the ocular proof</i>
+Iago's vow as he kneels with Othello (III.iii)	<i>I am your own for ever</i>
+Othello on love and chaos (III.iii)	<i>when I love thee not, / Chaos is come again</i>
+Othello on race (III.iii)	<i>Haply, for I am black</i>
+Othello on his lost career (III.iii)	<i>Othello's occupation's gone!</i>
+Othello's language collapsing (IV.i)	<i>Lie with her? Lie on her?</i> and <i>Goats and monkeys!</i>
+Othello on Desdemona as a book (IV.ii)	<i>Was this fair paper, this most goodly book, / Made to write "whore" upon?</i>
+Othello before the murder (V.ii)	<i>Put out the light, and then put out the light</i>
+Othello's mythical allusion (V.ii)	<i>I know not where is that Promethean heat / That can thy light relume</i>
+Othello's epitaph for himself (V.ii)	<i>one that loved not wisely but too well</i>
+Othello on how he won Desdemona (I.iii)	<i>She loved me for the dangers I had passed, / And I loved her that she did pity them</i>
+Desdemona on the slander (IV.ii)	<i>Am I that name, Iago?</i>
+Desdemona's last words (V.ii)	<i>Nobody. I myself.</i>
+Emilia on men (III.iv)	<i>They are all but stomachs, and we all but food</i>
+Emilia on wives (IV.iii)	<i>Let husbands know / Their wives have sense like them</i>
+Emilia defying Iago (V.ii)	<i>'Tis proper I obey him, but not now</i>

@@ -8,7 +8,7 @@ Definition of the dependent variable	The one you measure
 Definition of a control variable	One kept the same so it cannot affect the result
 Control variables in a pendulum investigation	Mass of bob, small and consistent amplitude, same pivot, no push on release
 Where is a pendulum's length measured from and to?	From the pivot to the centre of the bob
-Why time 20 oscillations rather than one?	A ±0.2 s reaction error is 1% of 20 s but 10% of 2 s
+Why time 20 oscillations rather than one?	For a 2.0 s period, a ±0.2 s reaction error is 10% of one swing but only 0.5% of the 40 s for 20 swings
 What should you use to measure a wire's diameter?	A micrometer (±0.01 mm) — a metre rule cannot resolve it
 What goes in a table column heading?	The quantity AND its unit, e.g. Length / m
 How many decimal places should a column use?	The same for every value, set by the instrument's resolution
@@ -18,18 +18,15 @@ How much of the grid should a graph scale use?	More than half in both directions
 Which scale steps are acceptable?	1, 2, 5, 10 — never 3 per square
 Should you join points dot-to-dot?	No — draw a single best-fit straight line or smooth curve
 Which points do you use for a gradient triangle?	Two widely separated points ON the line, not data points
-What must you state with a gradient?	Its units
 What does a non-zero intercept suggest when physics predicts zero?	A systematic error
 What is the correct response to an anomalous result?	Check and repeat that measurement, then exclude it only with a stated reason
-Should you delete a point because it spoils the line?	No — identify, repeat, and state why it was excluded
 What does random error look like?	Scatter either side of the best-fit line; repeats differ
 What does systematic error look like?	All readings shifted the same way, often a non-zero intercept
 How do you reduce random error?	Repeat and average; measure larger quantities
 Does repeating fix a systematic error?	No — only calibration or correcting the zero does
 What is a zero error?	The instrument reads non-zero with nothing loaded; note it and subtract it
 Four things a full-mark calculation needs	The equation, the substitution, the final answer with correct significant figures, and the unit
-How many significant figures should an answer have?	The same as the data — not all the calculator digits
+How many significant figures should an answer have?	The same as the least precise data used — not all the calculator digits
 Why is "be more accurate" worth no marks?	It is not specific — name the change and what error it fixes
-Good improvement for a heat-capacity experiment	Lag the calorimeter to reduce heat loss, which made the measured value too high
 Good improvement for timing	Use light gates instead of a stopwatch to remove reaction-time error
 What must a conclusion include?	Evidence from the data (gradient or values) plus the limits — the range tested and the conditions held constant

@@ -30,6 +30,8 @@ A ripple tank demonstrates all the behaviours below: a vibrating bar makes strai
 
 **Diffraction depends on gap size versus wavelength.** Spreading is greatest when the gap is about equal to the wavelength; a gap much wider than the wavelength barely diffracts. At an **edge**, longer wavelengths spread more — which is why you hear low-pitched sound round a corner more easily than high.
 
+**Interference (superposition).** Where two waves overlap, their displacements add. Crest meeting crest gives a bigger crest (constructive); crest meeting trough cancels (destructive). Two dippers in a ripple tank give a fixed pattern of calm and rough lines.
+
 ## Reflection of light
 
 The **law of reflection**: angle of incidence = angle of reflection, both measured from the **normal**.
@@ -139,7 +141,7 @@ Because sound is a mechanical vibration of particles, it needs a **medium**. An 
 
 Sound travels fastest in solids, because the particles are closest and the forces between them strongest.
 
-The healthy human audible range is about **20 Hz to 20 000 Hz**. **Ultrasound** is any frequency above that range.
+The healthy human audible range is about **20 Hz to 20 000 Hz**. **Ultrasound** is any frequency above that range. Uses: prenatal and medical scanning (echoes from tissue boundaries, no ionising radiation), sonar and echo-sounding for sea depth, and detecting cracks in metal.
 
 - **Loudness** depends on **amplitude**.
 - **Pitch** depends on **frequency**.

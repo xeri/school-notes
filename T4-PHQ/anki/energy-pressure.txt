@@ -21,7 +21,6 @@ Work done formula	\(W = Fd = \Delta E\)
 In which direction must the distance be measured for work done?	In the direction of the force
 How much work does a perpendicular force do?	None — it changes direction but not speed
 Power formula	\(P = \Delta E / t\)
-Units of power	watt (W) = J/s
 Efficiency formula (energy)	useful energy output / total energy input × 100%
 Efficiency formula (power)	useful power output / total power input × 100%
 Can efficiency exceed 100%?	No
@@ -33,7 +32,6 @@ Advantages of nuclear fission	Huge output, no CO₂ in operation, reliable
 Disadvantages of nuclear fission	Radioactive waste, high build and decommissioning cost, non-renewable fuel
 Five criteria for judging an energy resource	Renewability, cost, reliability, scale, environmental impact
 Pressure formula	\(P = F/A\)
-Units of pressure	N/m² = pascal (Pa)
 Must the force be parallel or normal to the surface?	Normal (perpendicular)
 Why do snowshoes stop you sinking?	The same weight spread over a larger area gives a smaller pressure
 Liquid pressure formula	\(P = \rho g h\)

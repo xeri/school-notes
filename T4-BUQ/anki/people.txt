@@ -2,51 +2,49 @@
 #html:true
 #notetype:Basic
 #deck:Business::2 People in business
-Definition of motivation	The willingness to work towards the business's objectives
-Five benefits of a motivated workforce	Higher productivity, better quality, lower absenteeism, lower labour turnover, more willingness to accept change
-Taylor's view of motivation	People are motivated primarily by money — use piece rate and simplified tasks
-Criticism of Taylor	Ignores job satisfaction and teamwork, and encourages speed over quality
+Definition of motivation	The driving force behind behaviour — at work, the desire to work hard and do a good job
+Five benefits of a satisfied, motivated workforce	Higher productivity, higher morale, better co-operation, lower absenteeism, lower labour turnover
+Taylor's view of motivation	Money is the main motivator — make each task as efficient as possible and pay piece rate
+Criticism of Taylor	Assumes everyone is motivated only by money; repetitive tasks demotivate
 Maslow's five levels, bottom to top	Physiological, safety, social, esteem, self-actualisation
 How does a business meet safety needs?	Job security, safe conditions, a contract
 How does a business meet esteem needs?	Recognition, status, job titles, praise
-Criticism of Maslow	People do not all follow the same order, and the levels are hard to measure
-Herzberg's hygiene factors	Pay, conditions, supervision, job security — their absence causes dissatisfaction but they do not motivate
-Herzberg's motivators	Achievement, recognition, responsibility, the work itself, advancement
+Criticism of Maslow	Assumes everyone is the same — not all employees are motivated by the same needs
+Herzberg's hygiene factors	Pay, conditions, job security, status, relationships with managers — they do not motivate, but must be satisfied or satisfaction falls
+Herzberg's motivators	Achievement, recognition, responsibility, interesting work, promotion, personal development
 Herzberg's practical conclusion	Improving pay removes a grievance; enriching the job creates motivation
-How does piece rate work, and what is the risk?	Paid per unit produced — encourages speed but quality may fall without monitoring
-How does commission work?	Payment as a percentage of sales value
-Risk of profit sharing	Individual effort is diluted across the whole workforce
-Four examples of fringe benefits	Company car, staff discounts, health cover, pension
-Definition of job rotation	Moving between tasks of similar difficulty to reduce boredom
+How does piece rate work, and what is the risk?	Paid per unit produced — encourages speed but quality may fall, so costly quality control is needed
+How does commission work?	A percentage of the sales the employee makes — common for sales staff
+Risk of profit sharing	Less profit is left to reinvest in the business
+Four examples of fringe benefits	Company car, staff discounts, health insurance, gym membership
+Definition of job rotation	Employees swap tasks for limited periods — more variety and easier cover, but the tasks are no more enjoyable
 Definition of job enlargement	Adding more tasks at the same level
 Definition of job enrichment	Adding more challenging tasks and genuine responsibility, with training
 Which non-financial motivator does Herzberg recommend?	Job enrichment
 Two costs of training	Time away from production and the expense; the trained worker may also leave
 Definition of chain of command	The route down which instructions pass
 Definition of span of control	The number of subordinates a manager directly supervises
-Definition of delegation	Passing authority for a task downwards
+Definition of delegation	Entrusting tasks and responsibilities from senior managers to junior managers or employees
 Who keeps accountability after delegation?	The manager — accountability cannot be delegated
 Definition of de-layering	Removing a level of management
-Advantages of a tall structure	Close supervision and clear promotion steps
-Disadvantages of a tall structure	Slow communication and high management cost
-Advantages of a flat structure	Fast communication and cheaper management
-Disadvantages of a flat structure	Thinner supervision and fewer promotion opportunities
+Advantages of a tall structure	Easier supervision, managers can specialise, delegation prepares staff for promotion
+Disadvantages of a tall structure	High management cost and slow decision-making
+Advantages of a flat structure	Lower management cost and more freedom to make decisions, which can raise motivation
+Disadvantages of a flat structure	Harder to supervise and communicate; staff may lack skills; objectives may be unclear
 When does a wide span of control work?	With experienced capable staff doing similar low-risk work
 Five functions of management	Planning, organising, coordinating, commanding, controlling
 When does autocratic leadership suit?	Emergencies, inexperienced staff, safety-critical work
 When does democratic leadership suit?	Skilled experienced teams, and decisions needing buy-in
 When does laissez-faire leadership suit?	Creative, highly expert professionals
-Three factors determining a suitable leadership style	Urgency, the experience of the staff, and the level of risk
 Five elements of the communication process	Sender, message, channel, receiver, feedback
 Main weakness of one-way communication	No feedback, so no confirmation of understanding
 What is the grapevine?	Informal communication — fast but unreliable and prone to rumour
-Remedy for a message distorted by too long a chain of command	De-layer, or communicate directly
 Remedy for no feedback	Ask the receiver to confirm or repeat back the instruction
 Which channel suits detailed technical information?	Written, so it can be referred back to
 Which channel suits sensitive news?	Face-to-face, allowing questions and reassurance
-Definition of a trade union	An organisation of employees that represents members collectively
+Definition of a trade union	An organisation that aims to improve its members' conditions and provide support and legal services
 Definition of collective bargaining	Negotiation between a union and an employer on behalf of all members
-Four forms of industrial action	Overtime ban, work to rule, go-slow, strike
+Four forms of industrial action, most to least severe	Strike, sit-in, go-slow, work to rule (also an overtime ban)
 Who loses from a strike?	Both — the business loses output and revenue, the employees lose pay
 Difference between a job description and a person specification	The description states the duties; the specification states the skills and qualities needed
 Two advantages of internal recruitment	Cheaper and quicker, and the candidate is already known
@@ -57,4 +55,12 @@ On-the-job training: advantage and drawback	Cheap and directly relevant; bad hab
 Off-the-job training: advantage and drawback	Broader higher-quality skills; expensive and time away from work
 Difference between dismissal and redundancy	Dismissal is for the employee's conduct or performance; redundancy is because the job no longer exists
 What makes a dismissal unfair?	No adequate reason, or the correct procedure was not followed
-Four areas of employment law	Minimum wage, maximum hours, health and safety, protection from discrimination
+Five protections employment law gives	A written statement of terms, protection from unfair dismissal, protection from discrimination, a safe workplace, wage protection
+Theory X manager	Believes workers dislike work and responsibility, so supervises closely — motivated only by money or threat
+Theory Y manager	Believes workers are self-motivated and want responsibility, so supports and develops them
+Definition of performance-related pay	Pay linked to an appraisal of how effectively the employee works — used where output cannot be counted
+Centralised vs decentralised organisation	Centralised keeps decisions at the top (tall structures); decentralised delegates them down (flat structures)
+Labour turnover formula	(employees leaving in a year ÷ number employed) × 100
+Voluntary vs compulsory redundancy	Voluntary: the employee chooses to leave for compensation; compulsory: the employee is forced to leave, with compensation
+Five ways to overcome communication barriers	Keep records to re-send, choose the right method for the audience, keep it short and jargon-free, train staff, use several methods
+What is a sit-in?	Union members occupy the premises but do not do their normal work

@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::6 International trade and exchange rates
+Definition of globalisation	The process by which the world becomes increasingly interconnected through increased trade and cultural exchange
+Two benefits of globalisation for consumers	More choice, and lower prices from specialist producers
+Two benefits of globalisation for producers	Larger markets, and the chance to locate where labour and materials are cheaper
+Why does specialisation lead to trade?	A specialised country produces little of other goods, so it must trade to obtain them
+Main risk of specialising in one or two exports	Over-dependence — a fall in world demand or price for them hits the whole economy
+Definition of absolute advantage	Producing more of a good than another country using the same resources
+Definition of comparative advantage	Having a lower opportunity cost of producing a good than another country
+Australia makes 250 beef or 200 tobacco with half its resources. Opportunity cost of 1 tobacco?	250 ÷ 200 = 1.25 beef
+Malawi makes 100 beef or 150 tobacco with half its resources. Opportunity cost of 1 tobacco?	100 ÷ 150 = 0.67 beef
+Australia (250 beef, 200 tobacco) and Malawi (100 beef, 150 tobacco): which advantages does each have?	Australia has an absolute advantage in both; Malawi has the comparative advantage in tobacco, Australia in beef
+Can a country with an absolute disadvantage in everything gain from trade?	Yes — if it specialises where its opportunity cost is lower and trades at a rate between the two countries' opportunity costs
+Four conditions for gains from comparative advantage	Opportunity-cost ratios differ, the trading rate lies between them, transport costs are not prohibitive, resources can switch industries
+Definition of a multinational company	A business with headquarters in one country and operations in others
+Four advantages of an MNC to a host country	Jobs and training, investment that adds to GDP, competition that improves local firms, tax revenue
+Four disadvantages of an MNC to a host country	Local firms forced to close, exploitation where labour law is weak, profits sent home, tax avoidance through transfer pricing
+Definition of free trade	The elimination of trade barriers to create large open markets
+Definition of protectionism	Restricting trade with other nations to protect domestic firms
+Definition of a tariff	An indirect tax on imported goods
+Definition of an import quota	A limit on the quantity of a product that can be imported
+Definition of an embargo	A total ban on importing a good
+Difference between a tariff and a quota for the government	A tariff raises tax revenue; a quota raises none
+Infant industry argument for protection	New industries need shelter until they are big enough to compete
+Sunset industry argument for protection	Protecting declining industries avoids sudden large-scale unemployment
+Five arguments for protection	Infant industries, sunset industries, limiting over-specialisation, correcting a trade imbalance, others are doing it
+Four arguments against protection	Less consumer choice and higher prices, protects inefficient firms, fewer new opportunities, retaliation
+How can protection harm the protected country's exporters?	Other countries retaliate, raising the price of its exports, and imported materials cost more
+What does a free trade agreement do?	Removes tariffs, bans subsidies, simplifies customs and eases business travel between members
+Definition of a customs union	A group of countries with no tariffs between them and a common external tariff
+Definition of an exchange rate	The value of one currency compared with another
+Definition of appreciation	A rise in a currency's value, so one unit buys more foreign currency
+Definition of depreciation	A fall in a currency's value, so one unit buys less foreign currency
+Convert NZ$25 into US dollars at NZ$1 = US$0.70	25 × 0.70 = US$17.50
+A car costs €120 000. Price in NZ$ at NZ$1 = €0.60 and at NZ$1 = €0.62	NZ$200 000, then NZ$193 548 — the NZ dollar has appreciated
+An American car's NZ price rises from NZ$50 000 to NZ$60 000 with no change in its US price. What happened?	The NZ dollar depreciated against the US dollar
+How are floating exchange rates determined?	By the demand for and supply of the currency on the foreign exchange market
+Who demands NZ dollars?	Foreigners buying NZ goods, services or assets, or wanting to hold NZ dollars
+Effect of higher relative interest rates on a currency	It appreciates, as savers seek the higher return
+Effect of higher relative inflation on a currency	It depreciates, as exports become dearer and demand for the currency falls
+Effect of rising demand for a country's exports on its currency	It appreciates
+Difference between floating, fixed and managed exchange rates	Floating: set by demand and supply alone; fixed: pegged to an anchor currency; managed: steered by the central bank around a preferred rate
+What does SPICED stand for?	Strong Pound, Imports Cheap, Exports Dear
+Effect of a depreciation on export and import prices	Export prices fall abroad; import prices rise at home
+Effect of an appreciation on firms that use imported materials	They gain, because their materials become cheaper
+Effect of a depreciation on inflation	It rises — imported inflation from dearer imports and materials
+Effect of an appreciation on jobs and growth	Export jobs are likely lost and net exports fall, so growth is likely to slow
+Four reasons a depreciation may not improve the current account	Inelastic demand for exports or imports, time lags, capacity constraints, dearer imported inputs
+Five ways exporters can cope with a high exchange rate	Cut prices and margins, find cheaper suppliers, raise efficiency, compete on quality and brand, focus on inelastic goods
+Definition of the balance of payments	A record of a country's transactions with the rest of the world over a period, usually a year
+Three accounts of the balance of payments	Current account, capital account, financial account
+Difference between visible and invisible trade	Visible trade is in goods; invisible trade is in services such as tourism, banking and insurance
+Is a New Zealander paying for a hotel in Europe an import or an export?	An invisible import for NZ — money leaves NZ for a service
+Formula for the balance of trade	Visible exports − visible imports
+Four components of the current account	Balance on goods, balance on services, primary income, secondary income
+What is in primary income?	Interest, dividends, profits and wages earned abroad, minus those paid to foreigners
+What is in secondary income?	One-way transfers such as foreign aid, migrants' remittances and contributions to international organisations
+Current account with trade −446.2, services +66.5, primary income +21, secondary income −58.6 ($bn)	−417.3, a deficit of $417.3bn
+What does the financial account record?	Financial investment flows — foreign direct investment, shares and bonds, and hot money
+When might a current account deficit not matter?	When it is small (under about 5% of GDP), financed by equity investment, or funds capital goods
+When is a current account deficit a problem?	When it is large and persistent, financed by borrowing, or caused by uncompetitive exports
+Four policies to correct a current account deficit	Depreciation, contractionary fiscal or monetary policy, protectionism, supply-side policy

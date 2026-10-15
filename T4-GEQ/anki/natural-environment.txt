@@ -1,0 +1,86 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Geography::2 The natural environment
+Three components of the geomorphic cycle	Land building (folding, faulting, volcanism), land modifying (weathering and erosion), recycling into sedimentary and metamorphic rock
+Which processes are land-modifying agents of erosion?	Fluvial, glacial, aeolian and marine — not folding, faulting or volcanism
+Causal chain of mantle convection currents	Radioactive decay heats the mantle → hot, less dense rock rises → cools near the crust, becomes denser and sinks → drags the plates
+Constructive (divergent) plate boundary	Plates move apart, magma rises — ridges, rift valleys, shield volcanoes (Mid-Atlantic Ridge, Iceland)
+Destructive (convergent) plate boundary	Denser oceanic plate subducts — trench, fold mountains, composite volcanoes, violent earthquakes
+Conservative plate boundary	Plates slide past each other — earthquakes but no volcanoes (San Andreas Fault)
+The plate boundary through New Zealand	Pacific–Australian: the Pacific plate subducts under the North Island; the Alpine Fault runs through the South Island
+Formation of fold mountains	Converging plates squeeze sea-floor sediments → layers buckle into anticlines and synclines and are thrust up → thickened crust rises
+Basaltic magma and its landform	Low silica, runny, gentle frequent eruptions — shield volcano
+Andesitic magma and its landform	Intermediate silica, sticky, explosive — composite cone
+Rhyolitic magma and its landform	High silica, very sticky, violently explosive — lava dome or caldera
+Focus versus epicentre	Focus: where the rock ruptures underground; epicentre: the point on the surface directly above it
+Magnitude versus intensity	Magnitude: energy released (Richter or moment magnitude scale); intensity: shaking and damage at a place (Modified Mercalli)
+Definition of pyroclastic flow	A fast, extremely hot avalanche of gas, ash and rock down the side of a volcano
+Four reasons people live near volcanoes	Fertile soils, geothermal energy, tourism, minerals (also jobs, family ties, low perception of risk)
+Why volcanoes are easier to predict than earthquakes	Volcanoes give warning signs — gas, ground swelling, tremor swarms; earthquakes have no reliable short-term warning
+Christchurch earthquake: date, magnitude and deaths	22 February 2011; magnitude 6.2; 185 deaths, 115 in the CTV building
+Why the Christchurch 2011 earthquake was so destructive	Very shallow focus (about 5 km), epicentre close to the city, struck at lunchtime, liquefaction of soft sediment
+Whakaari / White Island eruption: date, type and toll	9 December 2019; phreatic (steam-driven); 22 of the 47 people on the island died
+Whakaari's lesson for hazard management	The alert level had been raised to 2 but tours continued — monitoring fails without control of access
+Formation of Rangitoto (field trip)	About 600 years ago: underwater eruption → scoria cone with a tuff ring → basaltic lava flows built the shield shape
+Weathering versus erosion	Weathering breaks rock down in place; erosion removes it by a moving agent
+Freeze–thaw weathering	Water in cracks freezes and expands about 9%, prising the rock apart; repeated cycles shatter it
+Carbonation	Rainwater plus CO₂ forms weak carbonic acid, which dissolves the calcium carbonate of limestone
+Hydrolysis	Slightly acidic water reacts with feldspar in granite, rotting it to clay
+Formation of a granite tor	Hydrolysis rots granite along close joints underground; widely jointed blocks survive and stand up once the clay is removed
+Formation of glacier ice	More snow falls than melts → compression expels air → névé (firn) → dense glacier ice that moves downslope under gravity
+Formation of a cirque	Snow fills a hollow; freeze–thaw and plucking steepen the back wall; rotational slip and abrasion deepen the floor, leaving a rock lip
+Definition of a fiord, with a NZ example	A glacial trough eroded below sea level and later drowned — Milford Sound / Piopiotahi
+Drainage basin and watershed	A drainage basin is the area drained by a river and its tributaries; the watershed is the ridge dividing it from the next basin
+River discharge: formula and unit	Cross-sectional area × mean velocity, in cumecs (m³/s)
+Definition of lag time	The time between peak rainfall and peak discharge
+Four factors giving a short lag time and high peak	Steep slopes, impermeable rock, saturated or frozen ground, urban surfaces (also bare ground, circular basin)
+Hydraulic action	Moving water hits the banks and forces air into cracks, which expands and breaks the rock
+Four river transport processes, finest to coarsest	Solution, suspension, saltation, traction
+Three things the Hjulström curve shows	Bigger particles need faster flow to be picked up; clay also needs a high velocity (cohesive); once moving, particles stay in transport at lower velocities
+Bradshaw model: downstream changes	Increase: discharge, width, depth, velocity, load quantity; decrease: gradient, bed roughness, particle size
+Formation of a waterfall	Hard rock over soft; the soft rock is undercut into a plunge pool; the hard overhang collapses; the fall retreats, leaving a gorge
+Formation of a meander	Fastest flow on the outside bend erodes a river cliff; slow flow on the inside deposits a slip-off slope; helicoidal flow moves sediment across
+Formation of an ox-bow lake	Erosion narrows the meander neck → a flood cuts through → deposition seals off the old loop
+Why deposition occurs at a delta	The river meets the sea or a lake, slows and loses energy; flocculation sinks clay; sediment builds faster than it is removed
+Waikato River: length and opportunities	About 425 km from Lake Taupō; eight hydro dams, part of Auckland's water supply, irrigation for dairy farms
+Cyclone Gabrielle: dates, deaths and responses	12–14 February 2023; 11 deaths; national state of emergency; voluntary buy-outs of Category 3 land
+Why Bangladesh floods so often	Low-lying Ganges–Brahmaputra–Meghna delta, monsoon rain, Himalayan snowmelt, cyclones and storm surges
+Weather versus climate	Weather: the state of the atmosphere at a particular place and time; climate: the average weather over at least 30 years
+Elements of weather	Temperature, precipitation, humidity, wind, sunshine, cloud cover, air pressure
+Stevenson screen: siting and design rules	White, louvred, roofed, on grass, thermometers about 1.2 m up, door facing away from the Sun (south in NZ), well away from objects
+Definition of relative humidity	The water vapour present as a percentage of the maximum the air could hold at that temperature
+Definition of dew point	The temperature to which air must be cooled to become saturated, so condensation begins
+Causal chain of cloud formation	Air rises → expands and cools → reaches dew point → vapour condenses on condensation nuclei → cloud
+Four ways air is made to rise	Convection, orographic (relief), frontal, convergence
+Steps of convectional rainfall	Sun heats the ground → warm air rises → cools to dew point → cumulonimbus → heavy afternoon rain and thunder
+Relief rainfall and rain shadow	Moist air forced over mountains cools → rain on the windward side → air descends, warms and dries → rain shadow and föhn wind
+Frontal rainfall	Warm, less dense air is forced to rise over colder, denser air at a front, cools and condenses
+How dew and frost form	Clear calm night → ground radiates heat away → air touching it cools to dew point → dew; frost if below 0 °C
+What closely spaced isobars mean	A steep pressure gradient — strong winds
+The Coriolis effect in the Southern Hemisphere	Moving air is deflected to the left (no deflection at the equator)
+Wind circulation round lows and highs in the Southern Hemisphere	Clockwise into lows; anticlockwise out of highs
+Buys Ballot's law in New Zealand	Look into the wind and low pressure is on your left
+Tri-cellular model: surface pressure at 0°, 30°, 60° and 90°	Low (ITCZ), high (subtropical), low (polar front), high (polar)
+Why hot deserts lie at about 30°	Air sinking from the Hadley cell warms, its relative humidity falls and no cloud forms — the subtropical high
+Why the trade winds north of the equator blow from the north-east	Air flows from the subtropical high to the equatorial low and the Coriolis force deflects it to the right
+Factors that make climate vary from place to place	Latitude, altitude, distance from the sea, ocean currents, prevailing winds, relief
+Climate graph: temperature range and annual rainfall	Range = highest minus lowest monthly temperature; annual rainfall = sum of the 12 monthly bars
+Cold front: symbol and weather	Blue triangles; cumulonimbus, short heavy showers, temperature drop; in NZ the wind swings from north-west to south-west
+Warm front: symbol and weather	Red semicircles; cloud thickening from cirrus to nimbostratus, long steady rain
+Weather in an anticyclone	Sinking air, light winds, clear skies — warm and sunny in summer, frost and fog in winter
+Weather in a depression	Rising air, closely spaced isobars, strong winds, cloud and rain, usually with fronts
+New Zealand's summer versus winter weather	Summer: under subtropical highs (Hadley–Ferrel boundary), settled; winter: belts shift north, fronts at the Ferrel–Polar boundary bring frontal rain
+New Zealand's rainfall pattern and its cause	Wet west, dry east — westerlies forced over the ranges; Milford Sound about 6700 mm, Alexandra under 400 mm
+Definition of ecosystem	A community of living organisms interacting with the non-living parts of their environment as one system
+Tropical rainforest climate	About 27 °C all year with a range of 1–2 °C; over 2000 mm of rain, falling every month; high humidity
+Why rainforest soils are infertile	Rapid decomposition; nutrients are held in the biomass, not the soil; heavy rain leaches the rest
+Main cause of deforestation in the Amazon	Cattle ranching (also soya, logging, mining, roads such as the Trans-Amazonian Highway)
+Why hot deserts have a large daily temperature range	No cloud: intense insolation by day, and heat radiates straight back to space at night
+Causes of desertification in the Sahel	Over-cultivation, cutting trees for fuel, overgrazing, poor soil management, climate change
+Constructive versus destructive waves	Constructive: low, long, strong swash, build the beach; destructive: high, steep, strong backwash, remove beach material
+Longshore drift	Swash carries sediment up the beach at an angle, backwash drags it straight down — a net zigzag along the coast
+Cave to stump sequence	Waves widen a joint into a cave → cut through to an arch → roof collapses leaving a stack → stack eroded to a stump
+Formation of a wave-cut platform	A notch is cut at high-tide level → the overhang collapses → the cliff retreats, leaving a gently sloping rock platform
+Formation of a spit	Longshore drift carries sediment past a bend in the coast into open water; the tip curves; salt marsh forms behind
+Groynes: how they work and the drawback	They trap sediment moving by longshore drift, building a wider beach — but starve beaches downdrift

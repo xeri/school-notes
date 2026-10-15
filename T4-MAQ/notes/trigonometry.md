@@ -22,7 +22,7 @@ Label the triangle relative to the angle you are using: the hypotenuse is always
 
 **Finding a side.** A ladder 6.0 m long leans at 65° to the ground. Height reached:
 
-$$\sin65° = \frac{h}{6.0} \Rightarrow h = 6.0\sin65° = 5.4\ \text{m}$$
+$$\sin65° = \frac{h}{6.0} \Rightarrow h = 6.0\sin65° = 5.44\ \text{m}$$
 
 **Finding an angle.** Use the inverse function.
 
@@ -45,7 +45,7 @@ Three-figure bearings are measured **clockwise from North**, always written with
 - North 000°, East 090°, South 180°, West 270°
 - North-east is 045°; 7° east of north is written 007°
 
-**Back bearing** — add 180° (or subtract 180° if the result would exceed 360°). The bearing of $B$ from $A$ is 125°, so the bearing of $A$ from $B$ is 305°.
+**Back bearing** — add 180° if the bearing is less than 180°; otherwise subtract 180°. The bearing of $B$ from $A$ is 125°, so the bearing of $A$ from $B$ is 305°.
 
 Bearings questions almost always need a sketch with a North arrow at **each** point.
 
@@ -58,6 +58,25 @@ $$\sin(180°-\theta) = \sin\theta \qquad \cos(180°-\theta) = -\cos\theta$$
 So $\sin150° = \sin30° = 0.5$ and $\cos150° = -\cos30° = -0.866$.
 
 **Consequence for the sine rule:** $\sin^{-1}$ on a calculator returns only the acute angle. If the problem allows an obtuse triangle, the second solution is $180° - $ that angle. Check which fits the diagram — this is the "ambiguous case".
+
+## Trigonometric graphs and equations
+
+For $0° \leqslant x \leqslant 360°$:
+
+| Graph | Starts at | Maximum | Minimum | Crosses the $x$-axis |
+|---|---|---|---|---|
+| $y = \sin x$ | 0 | 1 at 90° | −1 at 270° | 0°, 180°, 360° |
+| $y = \cos x$ | 1 | 1 at 0° and 360° | −1 at 180° | 90°, 270° |
+| $y = \tan x$ | 0 | none | none | 0°, 180°, 360° (asymptotes at 90°, 270°) |
+
+- $y = a\sin x$ or $y = a\cos x$ has **amplitude** $a$: it runs from $-a$ to $a$.
+- $y = \sin bx$ has **period** $\tfrac{360°}{b}$, so $y = 2\sin2x$ has amplitude 2 and repeats every 180°.
+- $y = \cos x - 1$ is $y = \cos x$ moved down 1, so it runs from −2 to 0.
+
+**Solving an equation.** The calculator gives one angle; the graph's symmetry gives the other.
+
+- $\cos x = \tfrac{\sqrt3}{2}$: $x = 30°$, and $360° - 30° = 330°$.
+- $\sin x = k$: the second solution is $180° -$ the calculator angle.
 
 ## Sine rule
 

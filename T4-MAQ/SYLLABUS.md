@@ -11,9 +11,16 @@ Course outline by term:
 | 3 | Measurement, Vectors, Transformation, Statistics & Probability, Calculus |
 | 4 | Terminal examinations |
 
-Formulae for the surface area and volume of a **sphere, pyramid and cone** are given in the exam. Everything else must be recalled — see [FORMULAS.md](FORMULAS.md).
+**Final exam.** One paper, *Paper 1: Advanced Mathematics*: 3 hours, 180 marks (178 in 2024), sat in late October or early November. The 2022–2025 papers covered every term's topics, including calculus.
 
-Textbook: Rayner, *Extended Mathematics*, 5th edition, plus the Extras manual. Past papers are a reliable guide to the style of future ones.
+- Give non-exact answers to 3 significant figures unless the question asks for another accuracy.
+- Give angles in degrees to 1 decimal place.
+- Use the calculator value of $\pi$. Approved calculators are allowed in the term exams, except in questions marked "Do not use a calculator".
+- Marks are awarded for method (M), answer (A), statement (S) and intermediate calculation (C), so show your working.
+
+The course page says formulae for the surface area and volume of a **sphere, pyramid and cone** will be given. A question may also state a result it needs. Everything else must be recalled — see [FORMULAS.md](FORMULAS.md). The final question papers are not in the sources, so whether a printed formula sheet is supplied is unconfirmed.
+
+Textbook: Rayner, *Extended Mathematics*, 5th edition, plus the Extras manual and the Pre-Q Work Manual. Past papers are a reliable guide to the style of future ones.
 
 Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Import** in Anki.
 
@@ -21,14 +28,20 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 |---|---|---|---|---|
 | 1 | Number | E1 | [notes](notes/number.md) | [deck](anki/number.txt) |
 | 2 | Algebra | E2.1–2.8, 2.12 | [notes](notes/algebra.md) | [deck](anki/algebra.txt) |
-| 3 | Coordinate geometry and graphs | E2.9–2.11, E5 | [notes](notes/graphs.md) | [deck](anki/graphs.txt) |
+| 3 | Coordinate geometry, graphs and calculus | E2.9–2.11, E5 | [notes](notes/graphs.md) | [deck](anki/graphs.txt) |
 | 4 | Geometry | E3 | [notes](notes/geometry.md) | [deck](anki/geometry.txt) |
 | 5 | Mensuration | E4 | [notes](notes/mensuration.md) | [deck](anki/mensuration.txt) |
 | 6 | Trigonometry | E6 | [notes](notes/trigonometry.md) | [deck](anki/trigonometry.txt) |
 | 7 | Vectors, matrices and transformations | E7 | [notes](notes/vectors-matrices.md) | [deck](anki/vectors-matrices.txt) |
 | 8 | Statistics and probability | E8, E9 | [notes](notes/statistics.md) | [deck](anki/statistics.txt) |
 
-**Calculus** appears in the Term 3 course outline but no objective list has been issued for it. Confirm the scope with the department before revising it.
+**Calculus** appears in the Term 3 course outline but no objective list has been issued for it. Every final from 2022 to 2025 examined the same skills, covered in the [calculus section of the graphs notes](notes/graphs.md):
+
+- differentiate polynomials, including negative powers, expanding brackets first
+- find the gradient at a point and the equation of the tangent there
+- integrate polynomials, adding $+C$, and find $C$ from a given point
+
+Confirm the full scope with the department.
 
 ---
 
@@ -51,6 +64,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - **E1.15** Calculate with money and convert currency.
 - **E1.16** Personal and small-business finance: earnings, simple interest, compound interest, discount, profit and loss. The compound interest formula is required: $\text{value} = P\left(1+\tfrac{r}{100}\right)^n$.
 - **E1.17** Use exponential growth and decay in population and finance contexts (depreciation, bacterial growth).
+- **Surds** (taught in the Term 1 Number lessons, no E code): simplify, write as an entire surd, expand, and rationalise the denominator.
 
 ## 2. Algebra
 
@@ -62,6 +76,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - **E2.7** Continue a number sequence; recognise patterns; find the $n$th term of linear, quadratic, cubic and exponential sequences and simple combinations.
 - **E2.8** Express direct and inverse variation algebraically and use it to find unknown quantities.
 - **E2.12** Use function notation $f(x) = 3x-5$; find inverse functions $f^{-1}(x)$; form composite functions $gf(x) = g[f(x)]$.
+- **Also examined** (no E code): the intersection of a line and a curve (term exams), and a simple quadratic inequality (2022 final).
 
 ## 3. Coordinate geometry and graphs
 
@@ -99,6 +114,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - **E6.2** Apply Pythagoras' theorem and the sine, cosine and tangent ratios for acute angles to find a side or an angle of a right-angled triangle. Solve 2-D problems involving angles of elevation and depression. Extend sine and cosine values to angles between 90° and 180°. **Angles are quoted and required in degrees to one decimal place.**
 - **E6.3** Solve problems using the sine rule, the cosine rule, and area of triangle $= \tfrac12 ab\sin C$.
 - **E6.4** Solve simple 3-D trigonometry problems, including the angle between a line and a plane.
+- **Trigonometric graphs** (no E code, but in the 2022–2025 finals and the term exams): sketch graphs such as $y = 2\cos x$ and $y = 2\sin 2x$ for $0°$–$360°$, and solve equations such as $\cos x = \tfrac{\sqrt3}{2}$.
 
 ## 7. Vectors, matrices and transformations
 
@@ -107,6 +123,8 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - **E7.3** Calculate the magnitude of a vector as $\sqrt{x^2+y^2}$. Represent vectors by directed line segments. Use sums and differences of two vectors to express a given vector in terms of two coplanar vectors. Use position vectors. **Indicate a vector clearly in answers — by an arrow or by underlining.**
 - **E7.4** Display information as a matrix of any order. Calculate the sum and product of two matrices and the product of a matrix and a scalar. Use the algebra of $2\times2$ matrices including the zero and identity matrices. Calculate the determinant $|A|$ and the inverse $A^{-1}$ of a non-singular matrix.
 - **E7.5** Use the transformations reflection (M), rotation (R), translation (T), enlargement (E) and their combinations. Identify and precisely describe the transformation connecting two figures. Describe transformations using coordinates and matrices (singular matrices excluded). Notation: if $M(a)=b$ and $R(b)=c$ then $RM(a)=c$.
+
+No matrix questions appear in the 2022–2025 final mark schemes; transformations there are described in words and drawn on a grid.
 
 ## 8. Statistics and probability
 
@@ -122,3 +140,4 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - **E9.5** Construct and use cumulative frequency diagrams; estimate and interpret the median, percentiles, quartiles and interquartile range.
 - **E9.6** Understand positive, negative and zero correlation on a scatter diagram.
 - **E9.7** Draw a straight line of best fit by eye.
+- **Box plots** (no E code): drawn from the quartiles in the 2022 and 2024 finals.

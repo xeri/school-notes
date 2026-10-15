@@ -1,6 +1,6 @@
 # Practical skills
 
-Assessed as Paper 2 Q9–10 (15 marks each) and as the in-class alternative-to-practical assessment, which includes graph plotting.
+In the Term 4 final, Paper 2 Q9–10 (15 marks each) test practical skills: practical data analysis, graph plotting and experiment planning and design. (The Term 1 and Term 2 exams also had an in-class alternative-to-practical assessment worth 10%.)
 
 ## Planning an investigation
 
@@ -16,7 +16,7 @@ Then say **how**, with apparatus and units:
 
 > Measure the length from the pivot to the **centre of the bob** with a metre rule (±1 mm). Displace the bob by a small angle and release it without pushing. Time **20 complete oscillations** with a stopwatch and divide by 20 to get the period. Repeat each length three times and average.
 
-Why 20 oscillations: a ±0.2 s reaction error is 1% of a 20 s total but 10% of a single 2 s swing. Repeats have a purpose — estimating variation and reducing random timing error. Say what the purpose is.
+Why 20 oscillations: for a 2.0 s period, a ±0.2 s reaction error is 10% of a single swing but only 0.5% of the 40 s total for 20 swings. Repeats have a purpose — estimating variation and reducing random timing error. Say what the purpose is.
 
 ## Choosing apparatus
 
@@ -90,6 +90,6 @@ Full marks for a calculation need all four of:
 3. a **final answer** to an appropriate number of significant figures
 4. the **unit**
 
-Match the significant figures to the data: if the measurements have 3 s.f., quote the answer to 3 s.f., not to the eight digits on the calculator.
+Match the significant figures to the data: quote the answer to the same number of s.f. as the least precise measurement used (usually 2 or 3), not to the eight digits on the calculator.
 
 Conclusions must be supported by the data — quote the gradient or specific values — and must state the limits: the range tested, and the conditions held constant.

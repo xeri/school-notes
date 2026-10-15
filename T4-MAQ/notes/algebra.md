@@ -74,7 +74,7 @@ $$5x-3y = 5 \quad (2)$$
 
 Match the $y$ coefficients: $(1)\times3$ gives $9x+6y = 48$, and $(2)\times2$ gives $10x-6y = 10$.
 
-Add: $19x = 58$, so $x = \tfrac{58}{19}$.
+Add: $19x = 58$, so $x = \tfrac{58}{19}$. Substitute into (1): $2y = 16-\tfrac{174}{19} = \tfrac{130}{19}$, so $y = \tfrac{65}{19}$.
 
 Non-integer answers are legitimate — do not assume you have gone wrong. Substitute back into **the equation you did not use for the second unknown** to check.
 
@@ -90,6 +90,12 @@ Add (the $y$ terms already cancel): $8x = 32$, so $x = 4$. From (1): $12+2y = 16
 $$y = 2x-1,\quad 3x+y = 9 \Rightarrow 3x+2x-1 = 9 \Rightarrow x = 2,\ y = 3$$
 
 Graphically, the solution is the point where the two lines cross.
+
+**A line and a curve.** Substitute the line into the curve to get a quadratic. Each root gives one intersection point.
+
+$$y = x+1,\quad y = x^2-5 \Rightarrow x^2-5 = x+1 \Rightarrow x^2-x-6 = 0 \Rightarrow (x-3)(x+2) = 0$$
+
+So $x = 3$ or $x = -2$, and the points are $(3, 4)$ and $(-2, -1)$.
 
 ## Quadratic equations
 
@@ -117,6 +123,10 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 $$2x^2+5x-3 = 0:\quad x = \frac{-5\pm\sqrt{25+24}}{4} = \frac{-5\pm7}{4} = \tfrac12 \text{ or } -3$$
 
 The **discriminant** $b^2-4ac$ tells you the number of roots: positive → two, zero → one repeated, negative → none.
+
+**Quadratic inequalities.** Rearrange to $ax^2+bx+c$ compared with 0 (with $a>0$), solve the equation, then picture the U-shaped graph. "$\leqslant 0$" is **between** the roots; "$> 0$" is **outside** them.
+
+$$x^2 \leqslant 9 \Rightarrow x^2-9 \leqslant 0 \Rightarrow -3 \leqslant x \leqslant 3 \qquad x^2-x-6 > 0 \Rightarrow x < -2 \text{ or } x > 3$$
 
 ## Sequences
 

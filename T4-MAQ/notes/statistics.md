@@ -130,6 +130,8 @@ $$\text{interquartile range} = Q_3 - Q_1$$
 
 The IQR measures the spread of the middle half of the data, so unlike the range it is unaffected by extreme values. A smaller IQR means more consistent data.
 
+**Box plot.** Draw a box from $Q_1$ to $Q_3$ with a line at the median, and whiskers out to the minimum and maximum. Compare two box plots by their medians (typical value) and their IQRs (spread).
+
 To read "how many scored more than 60", read **up** from 60 to the curve, across to the cumulative frequency, and subtract from $n$.
 
 ## Correlation and lines of best fit

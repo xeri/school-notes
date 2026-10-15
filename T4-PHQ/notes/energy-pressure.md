@@ -46,9 +46,9 @@ $$E_k = \tfrac{1}{2}mv^2 \qquad \Delta E_p = mg\Delta h$$
 
 **Worked example (multi-stage).** A 0.20 kg ball is dropped from 1.8 m and rebounds to 1.2 m.
 
-- $E_p$ before = $0.20 \times 9.81 \times 1.8 = 3.5$ J
-- $E_p$ after = $0.20 \times 9.81 \times 1.2 = 2.4$ J
-- Dissipated in the bounce (sound and heating) = 1.1 J
+- $E_p$ before = $0.20 \times 9.81 \times 1.8 = 3.53$ J
+- $E_p$ after = $0.20 \times 9.81 \times 1.2 = 2.35$ J
+- Dissipated in the bounce (sound and heating) = $3.53 - 2.35 = 1.2$ J (subtract unrounded values: $3.5 - 2.4$ would wrongly give 1.1 J)
 - Speed just before impact, from $E_k = E_p$: $v = \sqrt{2g h} = \sqrt{2(9.81)(1.8)} = 5.9$ m/s
 
 ## Work and power

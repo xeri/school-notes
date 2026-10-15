@@ -65,6 +65,8 @@ If a regular polygon has interior angles of 162°, its exterior angles are 18°,
 - $\angle ACB = 90°$ — angle in a semicircle
 - $\angle ABC = 180 - 90 - 34 = 56°$ — angles in a triangle sum to 180°
 
+Other circle results, such as lengths of intersecting chords or secants, are not on the objective list. When a question needs one, it states the formula, so substitute into it carefully.
+
 ## Symmetry
 
 **Line symmetry** — a mirror line maps the shape onto itself. A rectangle has 2; a regular hexagon has 6; a parallelogram has 0.

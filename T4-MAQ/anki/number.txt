@@ -4,7 +4,7 @@
 #deck:Mathematics::1 Number
 Is 1 a prime number?	No — it has only one factor
 Which is the only even prime?	2
-Definition of a rational number	One that can be written as a fraction a/b with integers a and b
+Definition of a rational number	One that can be written as a fraction a/b with integers a and b, b ≠ 0
 Two examples of irrational numbers	π and √2
 How do you find the HCF from prime factorisations?	Multiply the lowest power of each shared prime
 How do you find the LCM from prime factorisations?	Multiply the highest power of every prime that appears
@@ -16,7 +16,7 @@ Meaning of \(A \cap B\)	Intersection — in A and B
 Meaning of \(A \subset B\)	A is a proper subset of B
 Symbol for the empty set	∅
 Symbol for the universal set	Ԑ
-What should you fill in first on a Venn diagram?	The intersection, then work outwards
+What should you fill in first on a Venn diagram?	The intersection (the centre, for three sets), then work outwards
 Convert \(0.\dot7\) to a fraction	\(10x - x = 7 \Rightarrow x = 7/9\)
 Convert \(0.\dot2\dot7\) to a fraction	\(100x - x = 27 \Rightarrow x = 27/99 = 3/11\)
 Order of operations	Brackets, indices, division and multiplication, addition and subtraction
@@ -36,7 +36,7 @@ How do you count significant figures?	From the first non-zero digit
 Bounds of a length given as 4.6 cm to 1 d.p.	\(4.55 \leqslant l < 4.65\)
 How do you find the maximum of a product?	Multiply the two upper bounds
 How do you find the maximum of a quotient a/b?	Largest numerator ÷ smallest denominator
-Share £450 in the ratio 4:5:6	15 parts, so £120 : £150 : £180
+Share $450 in the ratio 4:5:6	15 parts, so $120 : $150 : $180
 Increase 80 in the ratio 7:5	\(80\times7/5 = 112\)
 Equation for direct proportion	\(y = kx\)
 Equation for inverse proportion	\(y = k/x\)
@@ -45,9 +45,19 @@ Formula for average speed	Total distance ÷ total time (never the average of two
 Multiplier to increase by 15%	×1.15
 Multiplier to decrease by 15%	×0.85
 How do you do a reverse percentage?	Divide by the multiplier, do not add the percentage back
-A coat costs £84 after a 30% reduction — original price?	\(84 \div 0.70 = £120\)
+A coat costs $84 after a 30% reduction — original price?	\(84 \div 0.70 = \$120\)
 Compound interest formula	\(P(1+r/100)^n\)
 Depreciation formula	\(P(1-r/100)^n\)
 Simple interest formula	\(I = Prt/100\)
-£2000 at 4% compound for 5 years	\(2000\times1.04^5 = £2433.31\)
+$2000 at 4% compound for 5 years	\(2000\times1.04^5 = \$2433.31\)
 How do you write 14:35 as 12-hour time?	2:35 pm
+Temperature rises from −7 °C to 4 °C — by how much?	\(4-(-7) = 11\) °C
+Order \(\tfrac35\), 0.62, 58%, \(\tfrac{7}{11}\) from smallest	Convert to decimals (0.6, 0.62, 0.58, 0.636…): 58%, \(\tfrac35\), 0.62, \(\tfrac{7}{11}\)
+How do you estimate a calculation?	Round every number to 1 significant figure, then calculate
+Simplify \(\sqrt{48}\)	\(\sqrt{16\times3} = 4\sqrt3\)
+Write \(6\sqrt5\) as an entire surd	\(\sqrt{36\times5} = \sqrt{180}\)
+Does \(\sqrt2+\sqrt3\) simplify?	No — only like surds add, e.g. \(3\sqrt5+2\sqrt5 = 5\sqrt5\)
+Rationalise \(\frac{6}{\sqrt3}\)	\(\frac{6\sqrt3}{3} = 2\sqrt3\)
+Rationalise \(\frac{4}{3-\sqrt5}\)	Multiply top and bottom by \(3+\sqrt5\): \(\frac{4(3+\sqrt5)}{9-5} = 3+\sqrt5\)
+A price including 15% GST is $1750 — price before GST?	\(1750\div1.15 = \$1521.74\)
+6 men dig a 3 m hole in 4 days — how long for 10 men to dig 7 m?	24 man-days per 3 m = 8 per metre; 7 m needs 56 man-days; \(56\div10 = 5.6\) days

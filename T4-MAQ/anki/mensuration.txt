@@ -8,7 +8,6 @@ How many mm³ in 1 cm³?	1000 (the length factor is cubed)
 How many cm³ in 1 m³?	1 000 000
 How many cm³ in 1 litre?	1000
 How many litres in 1 m³?	1000
-Commonest error in unit conversion	Not squaring or cubing the length factor
 Area of a rectangle	\(lw\)
 Area of a triangle	\(\tfrac12 bh\)
 Area of a parallelogram	\(bh\)
@@ -40,3 +39,4 @@ Does a cut-out reduce a compound shape's perimeter?	No — add every edge you ac
 In a compound solid, is the joining face part of the surface area?	No — it is internal
 Should you round before the final step?	No — keep π on the calculator and round only at the end
 Default accuracy for an answer	3 significant figures, unless told otherwise
+Sector of radius l rolled into a cone of base radius r — sector angle?	Arc = base circumference, so \(\theta = \frac{360r}{l}\)

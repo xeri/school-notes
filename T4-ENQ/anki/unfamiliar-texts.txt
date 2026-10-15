@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:English::1 Paper 1 unfamiliar texts
+Paper 1 format	One hour, 25 marks, one commentary on either an unfamiliar prose-fiction extract or an unfamiliar poem
+Usual wording of the Paper 1 focus question	Comment on how, and with what effects, the author presents X
+What is guaranteed to appear in both Paper 1 texts?	At least one biblical or mythical allusion, to be identified and analysed
+The five Paper 1 criteria	Understanding and interpretation, literary conventions, allusions, organisation and development, expression: 5 marks each
+What earns 5/5 for Paper 1 understanding and interpretation?	Detailed textual knowledge and perceptive understanding of the text's implied meanings
+What earns 5/5 on the Paper 1 allusion criterion?	The allusion perceptively identified and analysed in detail, with sensitive appreciation of its effect
+Tiebreaker when choosing between the prose and the poem	The text whose allusion you can actually name and use
+Three margin questions before any analysis	Who speaks? What is the situation? Where does it change?
+What do the examiner comments on every school model commentary praise?	Recognising a shift in tone or attitude
+Five things to mark on the second read	The allusion, the turn, repeated words and sounds, anything anomalous, the first and last lines
+Signals of a tonal shift	A change in sentence length, tense or person, or register; the first question or imperative; concrete becoming abstract
+Where does a Paper 1 thesis usually come from?	The structural turn: what the text finally claims about the focus noun
+A reliable paragraph order for a commentary	Structure, imagery, diction and sound, allusion, then the close
+How the school's model commentaries open	A broad, arguable claim about the subject, narrowed to the text; the thesis last, after Ultimately or Therefore
+What gains nothing at the start of a commentary?	Defining the audience and purpose of the text
+The four moves of the allusion paragraph	Identify and name it, explain the source, map the parallel, analyse the divergence
+Test before claiming an allusion	Two independent signals in the text, not one
+What to do when an allusion is possible but thin	Hedge it in a clause, then analyse the image on its own terms
+Allusion: a garden, a wall, forbidden ground, fruit	Eden and the Fall: innocence lost, knowledge as transgression, exile
+Allusion: a jar not to be opened, troubles flying out	Pandora: curiosity, blame, released suffering, hope left behind
+Allusion: one forbidden door or room	Bluebeard: curiosity punished, violence hidden behind a husband's wealth
+Allusion: wings, wax, flying too high	Icarus and Daedalus: hubris, the cost of ambition, a father's failed protection
+Allusion: a backward glance that loses her	Orpheus and Eurydice: grief, the fatal look back
+Allusion: stolen fire, endless punishment	Prometheus: defiant gift, suffering for knowledge
+Allusion: two brothers, jealousy, a killing	Cain and Abel: the first violence, the mark of the outcast
+Allusion: a kiss, silver, an intimate betrayal	Judas: treachery bought, betrayal from inside
+Allusion: a rock rolled uphill for ever	Sisyphus: futile, repeated labour
+Allusion: fruit or water always out of reach	Tantalus: desire structurally frustrated
+The allusion in the Destructors exemplar	Light appears as the boys work with the seriousness of creators: Genesis, casting the boys as God
+2024 Paper 1 texts and their allusions	<i>eden</i> by Jim Crace (Eden); <i>Ajar</i> by A. E. Stallings (Pandora, named outright)
+2025 Paper 1 texts and their allusions	<i>Crime and Punishment</i> (Christian faith and suffering); Atwood's <i>Ice Palace</i> (Eden, Bluebeard, Beauty and the Beast)
+The shape of an analytical sentence	Name the device, describe its mechanism, state the effect, state the implied meaning
+Score for naming conventions without analysing them	The 1 to 2 band out of 5 on the conventions criterion
+Effect of enjambment	Momentum, hesitation, or a double reading of the last word before the break
+Effect of a caesura	It interrupts the line, or splits it into two opposed halves
+Where the volta falls in a sonnet	At line nine in a Petrarchan sonnet; at the closing couplet in a Shakespearean one
+Effect of half rhyme	It raises the expectation of a chime and denies it: unease or incompleteness
+Plosives and their effect	p, b, t, d, k, g: abrupt, percussive interruption
+Fricatives and their effect	f, v, th: breathy, continuous, sustained sound
+Effect of sibilance	Hush, whisper, menace, or the noise of air, sand or water in motion
+Fastest route to the writer's attitude	Quote three words from one semantic field and name the domain

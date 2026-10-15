@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:English::3 Paper 4 film analysis
+The studied film, its director and year	<i>Tinker Tailor Soldier Spy</i>, directed by Tomas Alfredson, 2011
+Paper 4 format	One hour, 25 marks, one essay. The 2026 details give four questions; every paper from 2021 to 2025 gave five
+Are the Paper 4 questions text-specific?	No. They suit any studied film, so you memorise sequences and re-angle them
+Paper 4 question types set every year, 2021 to 2025	A character question and a technique question; conflict also appeared in 2023, 2024 and 2025
+The five suspects and their code names	Tinker Alleline, Tailor Haydon, Soldier Bland, Poorman Esterhase, Beggarman Smiley
+Who is the mole in <i>Tinker Tailor Soldier Spy</i>?	Bill Haydon (Colin Firth), code name Tailor
+The two contexts of <i>Tinker Tailor Soldier Spy</i>	Set in 1973: the Cold War, British decline, the Philby case. Made in 2011
+The real spy behind Bill Haydon	Kim Philby, the MI6 insider exposed as a Soviet agent, who defected in 1963
+Budapest opening: what happens	Prideaux meets a contact in a café, reads the signs of a trap (a sweating waiter, a face at a window), and is shot
+Budapest opening: what it establishes	Surveillance is mutual, and information arrives as small visual detail rather than speech
+Low-key lighting: effect and sequence	Threat and concealment; Tarr's face hidden in the dark when Smiley finds him waiting at home
+Frame within a frame: effect and sequence	Surveillance and entrapment; Circus figures seen through glass, doorways and corridors
+Production design: the soundproofed room	Windowless and padded in orange: an institution that can hear only itself, so it cannot detect the mole
+Props: Control's chess pieces	Suspects' faces taped on: men reduced to pieces in a game
+Symbol: Smiley's glasses	Seeing clearly; his change of frames separates past from present
+Performance: Smiley's stillness	He barely speaks in the opening stretch; patience and watching are his weapons
+Non-linear structure: the Christmas party	A flashback that returns in fragments, revealing more each time, ending with a look between Haydon and Prideaux
+Diegetic sound as irony: the Christmas party	The Circus sings the Soviet anthem, led by Father Christmas in a Lenin mask
+Non-diegetic irony: the ending	Julio Iglesias's <i>La Mer</i> over the closing montage: romantic warmth laid over loneliness and death
+Absent antagonist: Karla	Never seen. Smiley describes him to an empty chair, so the great enemy is an absence
+Long take: Smiley's Karla monologue	An unbroken, unscored take that makes the viewer place Karla in the empty chair
+Story within a story: Ricki Tarr	Tarr recounts Istanbul and Irina in flashback from Smiley's house; love is punished
+Elliptical editing: Guillam's break-up	The conversation itself is omitted; the cost of secrecy shown through what is not seen
+Suspense through duration: the logbook theft	Guillam takes the file from the Circus archive in near silence, under his colleagues' eyes
+Symbol: the owl in the classroom	A trapped bird killed by Prideaux's trained reflexes; it foreshadows his killing of Haydon
+Circular structure: the final shot	Smiley takes the head chair in the Circus room, as Control did: the game continues
+Symbol: Ann's lighter	Smiley's gift from Ann, kept by Karla: love as Smiley's weak point
+Haydon's stated motive	A choice that was aesthetic as much as moral, because the West had grown ugly
+Best supporting characters for a Paper 4 question	Ricki Tarr (the catalyst), Peter Guillam (the cost), Connie Sachs (memory), Jim Prideaux
+Effect of a long lens	It compresses depth and feels distant and observational: the look of surveillance
+Effect of shallow focus	It isolates a figure and makes the surroundings irrelevant or unknowable
+Effect of a rack focus	It redirects attention without a cut, implying a link between two planes
+Effect of a high angle and a low angle	A high angle diminishes; a low angle confers stature or threat
+Diegetic or non-diegetic: the test	Could a character in the film hear it?
+Effect of a sound bridge	Sound carried across a cut stitches scenes or timelines and implies a link
+Effect of a match cut	It joins two shots by visual or aural likeness, asserting an equivalence
+Effect of cross-cutting	Alternating between simultaneous actions builds tension and forces comparison
+Effect of a withheld reverse shot	It denies the answering view, so the viewer is refused a reaction
+The shape of an analytical sentence about film	Name the technique, describe it precisely, state the effect on the viewer, connect it to the question
+What to record for each prepared sequence	Context in one sentence, three details from three categories, one effect each, one thematic link
+How to phrase a Paper 4 thesis	As a claim about the director's method, not about what the characters do

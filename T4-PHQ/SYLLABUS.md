@@ -6,7 +6,7 @@ Paper 2 — 2 hours, 10 short-answer sections of 15 marks. Q1–8 theory, Q9–1
 
 Covers everything studied from the start of Term 1, including practical data analysis, graph plotting and experiment design. Unit 5.4 Digital electronics was removed from the syllabus in 2022. Elastic/inelastic collision labels and beta-plus emission are out of scope.
 
-Formula reference: [FORMULAS.md](FORMULAS.md) — nothing is given in the exam.
+Formula reference: [FORMULAS.md](FORMULAS.md) — no formula sheet is provided in the exam.
 Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Import** in Anki.
 
 | # | Topic | Notes | Cards |
@@ -27,13 +27,14 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 **1.1 Units and measurement**
 - State that every measured quantity needs a unit.
-- Identify the 7 SI base quantities: length (m), mass (kg), time (s), current (A), temperature (K), amount of substance (mol), light intensity (cd).
+- Identify the 7 SI base quantities: length (m), mass (kg), time (s), current (A), temperature (K), amount of substance (mol), luminous intensity (cd).
 - List derived SI units for speed, velocity, acceleration, pressure, energy, power, potential difference, charge and momentum.
 - Use standard form in calculations (e.g. $c = 3.00\times10^8$ m/s) and convert between unit prefixes.
 - Measure an angle with a protractor; find the sine of an angle; construct a normal at 90° to a surface.
 - Plot a scatter graph, add a best-fit line, interpret its features and calculate its gradient.
 - Describe the use of rulers, measuring cylinders, analogue and digital timers.
 - Obtain and calculate an average from repeated measurements (useful for small distances, short times, pendulum period).
+- Understand the terms accuracy and precision, and how each can be improved when measuring.
 - Measure small distances with a vernier calliper (±0.1 mm) and a micrometer screw gauge (±0.01 mm).
 - Measure p.d. with a voltmeter in parallel, and current with an ammeter in series.
 
@@ -42,6 +43,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - Distinguish scalars (distance, speed, time) from vectors (displacement, velocity, momentum) with examples.
 - Add two vectors with a head-to-tail scale diagram and read off the resultant's magnitude and direction.
 - Find the resultant of two or more forces acting along the same line, or at an angle in 2-D.
+- Calculate the resultant of two perpendicular vectors with Pythagoras ($c^2 = a^2 + b^2$) and basic trigonometry.
 
 ## 2. Motion
 
@@ -83,6 +85,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - Recognise that zero resultant force means at rest or constant velocity in a straight line.
 - Recognise friction as the force between surfaces that impedes motion and causes heating; recognise air resistance (drag) as a form of friction.
 - Recall and use $F = ma$ including direction.
+- Recall Newton's three laws; describe an action–reaction pair as equal in size, opposite in direction, acting on different objects and of the same type.
 - Describe circular motion due to a perpendicular force and use $F = mv^2/r$.
 - Define the moment of a force as force × perpendicular distance from the pivot to the line of action; give everyday examples; know that increasing force or distance increases the moment.
 - Calculate clockwise and anticlockwise moments and apply the principle of moments to a beam balanced about a single pivot.
@@ -92,7 +95,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 **2.6 Momentum**
 - Recall and use $p = mv$.
-- Recall and use impulse = change in momentum, $Ft = mv - mu$.
+- Recall and use impulse = change in momentum, $Ft = mv - mu$; understand resultant force as rate of change of momentum, $F = \Delta p / t$.
 - State that total momentum in an isolated system is constant, and that an isolated system has no external forces acting.
 - Apply conservation of momentum to one-dimensional problems.
 
@@ -135,7 +138,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - Recognise that molecular collisions lose no kinetic energy.
 - Describe evaporation as escape of faster-moving molecules from a liquid surface, relate it to cooling, and recall the effect of temperature, surface area and draught.
 - Describe qualitatively the pressure effect of changing temperature at constant volume (Gay-Lussac) and volume at constant temperature (Boyle).
-- Recall and use $pV = \text{constant}$, $P/T = \text{constant}$, $V/T = \text{constant}$ and $\dfrac{P_1V_1}{T_1} = \dfrac{P_2V_2}{T_2}$ with Kelvin temperatures.
+- Recall and use $pV = \text{constant}$, $P/T = \text{constant}$, $V/T = \text{constant}$ and $\dfrac{P_1V_1}{T_1} = \dfrac{P_2V_2}{T_2}$ with Kelvin temperatures; relate the laws to their graphs; recognise when the combined equation is unreliable (a real gas near liquefying).
 
 **3.2 Thermal properties and temperature**
 - Describe thermal expansion of solids, liquids and gases at constant pressure; explain the relative magnitudes in terms of molecular motion and arrangement; give applications and consequences.
@@ -143,7 +146,9 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - Describe the structure and action of a liquid-in-glass thermometer, and how its structure changes sensitivity, range and linearity.
 - Describe a thermocouple and its use for high and rapidly varying temperatures.
 - Relate a temperature rise to increased internal energy; give a molecular account.
-- State thermal capacity $Q = mc$; define specific heat capacity as the energy to raise unit mass by unit temperature; describe an experiment to measure it; recall and use $Q = mc\Delta T$.
+- Identify heat as energy transferred from a hotter to a colder body.
+- State thermal capacity $C = mc$; define specific heat capacity as the energy to raise unit mass by unit temperature; describe an experiment to measure it; recall and use $Q = mc\Delta T$, and know it does not apply during a change of state.
+- Apply conservation of energy to heat transfer: energy given out by the hot body = energy taken in by the cold body.
 - Describe melting and boiling as energy input without temperature change; state the meaning of melting and boiling point; describe condensation and solidification molecularly; distinguish boiling from evaporation.
 - Use latent heat of fusion and of vaporisation with a molecular interpretation; define specific latent heat; describe experiments for ice and steam; recall and use $Q = ml$.
 
@@ -159,9 +164,9 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 **4.1 General wave properties**
 - Demonstrate that waves transfer energy without transferring matter.
 - Describe wave motion using ropes, springs and water waves; use the term wavefront.
-- Define wave speed, frequency, wavelength and amplitude; recall and use $v = f\lambda$.
+- Define wave speed, frequency, period, wavelength and amplitude; recall and use $v = f\lambda$ and $f = 1/T$.
 - Distinguish transverse from longitudinal waves with examples.
-- Describe reflection at a plane surface, refraction due to a change of speed, and diffraction through a narrow gap; describe using water waves.
+- Describe reflection at a plane surface, refraction due to a change of speed, and diffraction through a narrow gap; describe using water waves; recognise interference (superposition) of waves.
 - Describe how wavelength and gap size affect diffraction through a gap, and how wavelength affects diffraction at an edge.
 
 **4.2 Light**
@@ -182,8 +187,8 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 **4.4 Sound**
 - Describe sound production by vibrating sources, and its longitudinal nature; describe compression and rarefaction.
-- State the audible range as roughly 20 Hz to 20 000 Hz; understand ultrasound as above that range.
-- Show that sound needs a medium to travel through; state typical speeds in gases, liquids and solids.
+- State the audible range as roughly 20 Hz to 20 000 Hz; understand ultrasound as above that range and identify real-life uses of it.
+- Show that sound needs a medium to travel through; state typical speeds in gases, liquids and solids (about 330–340 m/s in air).
 - Describe an experiment to determine the speed of sound in air (echo method).
 - Relate loudness to amplitude and pitch to frequency; describe echoes as reflected sound.
 - Describe the basic structure of the ear: eardrum and bones detect pressure variations, the cochlea converts vibrations to impulses carried by the auditory nerve.
@@ -206,7 +211,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - State that current is the rate of flow of charge; recall and use $I = Q/t$; state that current in metals is a flow of electrons, opposite to conventional current; use analogue and digital ammeters.
 - State that e.m.f. is measured in volts and is defined by the energy change inside the supply that drives charge round a complete circuit.
 - State that p.d. across a component is measured in volts; recall that 1 V = 1 J/C; use a voltmeter in parallel.
-- State that resistance = p.d. / current; recall and use $R = V/I$; describe an experiment to determine resistance.
+- State that resistance = p.d. / current; recall and use $R = V/I$; describe an experiment to determine resistance; state Ohm's law.
 - Relate resistance to wire length and cross-sectional area, and recall and use $R = \rho L/A$.
 - Sketch and explain the I–V characteristics of an ohmic resistor and a filament lamp.
 - Recall and use $R_T = R_1 + R_2$ in series and $R_T = \dfrac{R_1R_2}{R_1+R_2}$ in parallel.
@@ -234,7 +239,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 - Distinguish d.c. from a.c.; describe a rotating-coil generator with slip rings; sketch its voltage–time output and relate coil position to peaks and zeros.
 - Describe the construction and operation of a transformer with a soft-iron core; use the terms step-up and step-down; recall and use $V_p/V_s = N_p/N_s$ and, for 100% efficiency, $I_pV_p = I_sV_s$.
 - Describe high-voltage transmission and its advantages; explain lower cable losses at high voltage via $P = I^2R$.
-- Describe the field pattern and direction due to current in a straight wire and in a solenoid; state how field strength varies over the pattern; describe the effect of changing current magnitude and direction; describe applications including the relay.
+- Describe the field pattern and direction due to current in a straight wire and in a solenoid; state that a field line's direction is the direction of the force on a N pole; state how field strength varies over the pattern; describe the effect of changing current magnitude and direction; describe applications including the relay.
 - Describe an experiment showing a force on a current-carrying conductor in a field, including reversing the current and the field; state the relative directions of force, field and current; describe the corresponding force on a beam of charged particles.
 - State that a current-carrying coil in a field experiences a turning effect, increased by more turns, more current or a stronger field; relate this to the d.c. motor and the split-ring commutator.
 
@@ -273,7 +278,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 ## 9. Practical skills
 
-Assessed as Paper 2 Q9–10, and as the in-class alternative-to-practical assessment (10%), which includes graph plotting.
+In the Term 4 final, Paper 2 Q9–10 test practical skills, including practical data analysis, graph plotting and experiment design. (The Term 1 and Term 2 exams also had an in-class alternative-to-practical assessment worth 10%; no weighting is stated for Term 4.)
 
 - Plan an experiment: state the variable to change, the variable to measure, and the variables to keep constant.
 - Choose suitable instruments and ranges, and justify the choice by the precision needed.

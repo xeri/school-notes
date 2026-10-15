@@ -8,7 +8,7 @@ Rutherford result 2: some are deflected slightly — conclusion?	There is a conc
 Rutherford result 3: a very few bounce back over 90° — conclusion?	That positive charge is in a very small, very massive nucleus
 Why did α-scattering kill the plum-pudding model?	Plum pudding predicts only tiny deflections, never a bounce-back
 Relative size of nucleus to inner electron orbits	The nucleus is about \(10^5\) times smaller
-Charges of proton, neutron, electron	+1, 0, −1
+Charges of proton, neutron, electron	+1, 0, −1 — the proton and electron charges are equal in size
 What is Z?	Proton number (atomic number) — it identifies the element
 What is A?	Nucleon number (atomic mass) = protons + neutrons
 How do you find the number of neutrons?	\(A - Z\)

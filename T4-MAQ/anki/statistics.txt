@@ -29,8 +29,7 @@ Definition of the median	The middle value when the data is ordered
 Median of an even number of values	The mean of the middle two
 Definition of the mode	The most frequent value
 Range formula	Highest − lowest
-Which average is affected by outliers?	The mean — the median is not
-When is the median the better average?	When there are extreme values
+Which average is affected by outliers?	The mean — the median is not, so use the median when there are extreme values
 When is the mode the most useful?	For categorical data, or when you want the most common value
 Mean from a frequency table	\(\frac{\sum fx}{\sum f}\)
 Why is the mean of grouped data only an estimate?	You do not know the individual values, so you use class midpoints
@@ -50,3 +49,4 @@ What does strong correlation look like?	Points lying close to a straight line
 How do you draw a line of best fit by eye?	Follow the trend with roughly equal numbers of points either side, through the mean point
 Why is estimating outside the plotted range unreliable?	The trend is not known to continue beyond the data
 Does correlation prove causation?	No
+Which five values does a box plot show?	Minimum, lower quartile, median, upper quartile, maximum

@@ -47,3 +47,7 @@ Meaning of \(gf(x)\)	Apply f first, then g — g[f(x)]
 With \(f(x)=3x-5\) and \(g(x)=x^2\), what is gf(x)?	\((3x-5)^2\)
 With \(f(x)=3x-5\) and \(g(x)=x^2\), what is fg(x)?	\(3x^2-5\)
 Does \(gf(x) = fg(x)\)?	Not in general — the order matters
+How do you find where a line meets a curve?	Substitute the line into the curve, solve the quadratic, then find each y
+Where does \(y = x+1\) meet \(y = x^2-5\)?	\(x^2-x-6 = 0\), so (3, 4) and (−2, −1)
+Solve \(x^2 \leqslant 9\)	\(-3 \leqslant x \leqslant 3\) (between the roots)
+Solve \(x^2-x-6 > 0\)	\(x < -2\) or \(x > 3\) (outside the roots)

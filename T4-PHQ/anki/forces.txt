@@ -41,3 +41,6 @@ State conservation of momentum	In an isolated system, total momentum stays const
 Definition of an isolated system	One with no external forces acting on the bodies, e.g. no friction with the floor
 2.0 kg at 3.0 m/s hits a stationary 1.0 kg and they stick: final speed?	\(6.0 = 3.0v \Rightarrow v = 2.0\) m/s
 Are elastic and inelastic collision labels in scope?	No — but momentum calculations on collisions are
+State Newton's first law	With no resultant force, an object stays at rest or keeps moving at constant velocity
+State Newton's third law	Forces occur in pairs: equal in size, opposite in direction, of the same type, and acting on different objects
+Resultant force in terms of momentum	\(F = \Delta p / t\) — the rate of change of momentum

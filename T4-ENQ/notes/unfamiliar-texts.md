@@ -1,8 +1,8 @@
 # Unfamiliar texts
 
-One hour, 25 marks, one commentary on **either** the printed prose extract **or** the printed poem. You cannot revise the content, so the method has to be automatic.
+One hour, 25 marks, one commentary on **either** the printed prose-fiction extract **or** the printed poem. You cannot revise the content, so the method has to be automatic.
 
-## Choosing, in three minutes
+## Choosing the text
 
 | Choose the poem if | Choose the prose if |
 |---|---|
@@ -40,7 +40,7 @@ Before any analysis, answer three questions in the margin:
 
 1. **Who speaks?** A persona, a named narrator, an omniscient third person, a limited third person? Is the speaker the subject of the text or an observer of it?
 2. **What is the situation?** Where, when, to whom, and what has just happened. A poem addressed to an absent person behaves differently from one addressed to the reader.
-3. **Where does it change?** The shift is the single most rewarded observation in this paper. Examiners praise tracking of tonal change more than any other feature.
+3. **Where does it change?** The shift is one of the most rewarded observations in this paper. The examiner comments on the school's model commentaries (*The Art of Travel*, *Return to Liberia*, *Vietnam Flood*) all praise the recognition of a shift in tone or attitude.
 
 If you cannot name the situation, say what is uncertain about it and analyse the uncertainty — withheld information is a technique, not an obstacle.
 
@@ -109,7 +109,7 @@ Never list sounds. Name the consonant class, say what noise it makes, then say w
 
 **Tone** is the speaker's attitude to the subject. **Mood** is the atmosphere of the world of the text. They are different and the distinction is marked.
 
-Use a precise tone word, not a strong one: *wry, clinical, elegiac, resigned, nostalgic, indignant, detached, reverent, flippant, foreboding, matter-of-fact, embittered*.
+Use a precise tone word, not a strong one: *wry, clinical, elegiac, resigned, nostalgic, indignant, detached, reverent, flippant, foreboding, matter-of-fact, embittered*. The school's full tone and mood lists are in [TERMS.md](../TERMS.md).
 
 A tonal shift is built, not announced. Look for:
 
@@ -147,7 +147,7 @@ Both printed texts will contain at least one, and it is worth 5 of the 25 marks.
 
 | In the text | Allusion | What it imports |
 |---|---|---|
-| A jar or box not to be opened; a forbidden door | Pandora | Curiosity, blame, released suffering — and hope left at the bottom |
+| A jar (later a box) not to be opened; troubles flying out | Pandora | Curiosity, blame, released suffering, and hope left behind in the jar |
 | Wings, wax, flying too high, the sea | Icarus and Daedalus | Hubris; the cost of ambition; a father's failed protection |
 | A maze, a monster, a thread | Theseus, the Minotaur, Ariadne | Being lost; guidance; the monster at the centre |
 | A long voyage home, delays, a waiting spouse | Odysseus and Penelope | Homecoming deferred; endurance; identity across time |
@@ -163,6 +163,14 @@ Both printed texts will contain at least one, and it is worth 5 of the 25 marks.
 | A wooden horse, a ten-year siege | Troy | Deception; the long ruin of pride |
 | Ashes and a bird | The phoenix | Cyclical renewal |
 
+**Fairy-tale and folk signals.** The school's past papers count these too.
+
+| In the text | Allusion | What it imports |
+|---|---|---|
+| One forbidden door or room; a bride told not to look; carnage behind it | Bluebeard | Curiosity punished; the secret violence behind a husband's wealth |
+| A beast who longs for kisses; an enchanted house | Beauty and the Beast | Love as transformation; captivity disguised as luxury |
+| Invisible servants; a lover who must not be seen | Cupid and Psyche | Comfort that depends on not looking; trust tested by curiosity |
+
 **Writing the allusion paragraph** — four moves, in its own paragraph, usually third or fourth.
 
 1. **Identify.** Quote the signal words and name the story explicitly.
@@ -171,6 +179,27 @@ Both printed texts will contain at least one, and it is worth 5 of the 25 marks.
 4. **Analyse the divergence.** The strongest marks come from where the text *departs* from the source — a Pandora figure who opens nothing, an Eden with no prohibition, a resurrection that fails.
 
 **How not to overclaim.** Do not force an allusion onto an ordinary image. A test: can you point to **two independent signals**? One apple is a fruit; an apple plus a wall plus a prohibition is Eden. If you have only one signal, write about the image as an image — *"the maze image suggests frustrating enclosure"* is a complete and creditable analysis without naming Theseus. Where the reference is possible but thin, say so in a clause — *"the orchard invites, without insisting on, a reading through Eden"* — and then analyse the invitation. Hedged accuracy scores; confident invention does not.
+
+## What past papers and model answers show
+
+| Paper | Text | Focus question | The allusion |
+|---|---|---|---|
+| 2024 prose | *eden*, Jim Crace | Alum's **experience** witnessing the outside world | Eden: an angel peering over the wall at *"forbidden ground"*, an apple thrown into the world |
+| 2024 poem | "Ajar", A. E. Stallings | The speaker's **state of mind** | Pandora, named outright: a marital quarrel retold as the jar, with the woes as *"words"* and *"quiet"* left behind instead of hope |
+| 2025 prose | *Crime and Punishment*, Dostoevsky | The **character** Sonia and her conversation with Raskolnikov | Christian: Sonia's faith (*"God will not let it be!"*) against Raskolnikov's *"perhaps there is no God at all"*; he kneels to kiss her foot, bowing *"to all the suffering of humanity"* |
+| 2025 poem | "Ice Palace", Margaret Atwood | **Desire and/or disappointment** | Fairy tale and Eden: a *"demi-paradise"*, *"Invisible hands"*, the *"fearful beast"* who *"longs for kisses"*, *"the one forbidden door"* |
+
+The allusion is sometimes explicit (Pandora) and sometimes built from several signals (Eden, Bluebeard). Either way the criterion rewards the same moves: identify it accurately, then analyse its effect.
+
+**What the school's model answers do.** The school's model answers are a *Digging* commentary and the Destructors exemplar (about 650 words, four body paragraphs). They:
+
+- **Open with a broad, arguable claim, then narrow to the text.** *Digging* opens: *"Repetition gives action importance and value, making it ritual."* The Destructors exemplar opens on wilful destruction being *"abhorrent and inexplicable to conventional ethics"*. The thesis comes last in the introduction, after *Ultimately* or *Therefore*, and names the writer.
+- **Build each paragraph on one category of convention**: rhyme and form, a simile, sensory imagery, verb choice as a semantic field, the closing metaphor.
+- **Quote densely in short fragments.** One sentence gathers *"ripping," "heaving," "tear[ing]," "cracking"* into a semantic field of destruction, then sets it against the adverbs *"carefully"* and *"wordlessly"*.
+- **Handle the allusion as the climax.** The Destructors exemplar's last body paragraph reads the boys working *"with the seriousness of creators"* as light appears, alluding to Genesis. The allusion turns the boys into God and the house into the void before creation.
+- **Widen in the last sentence** from the text to a general truth about people, such as breaking from family tradition (*Digging*) or a generation refusing its inheritance (the Destructors).
+
+The examiner comments on the model commentaries point the same way. They praise word selection, vowel sounds, pronouns and conjunctions, accumulated repetition, a recognised change of tone, and awareness of the whole passage. They note that *"nothing is gained"* by defining audience and purpose. The 24/25 Gillard answer was marked down for not giving the mounting list of accusations a paragraph of its own.
 
 ## From naming a device to earning the mark
 
@@ -211,11 +240,11 @@ These four lines are my own, written for the exercise. Suppose the focus questio
 > counting the apples that we would not eat.
 > By August, the wasps had got there first.
 
-**Structure.** The first three lines run on in a single accumulating sentence, enjambed twice, so the syntax keeps extending as the summer does. The fourth line is a separate, end-stopped sentence of nine monosyllables and one disyllable, and it arrives without a conjunction. The turn is therefore structural before it is semantic: the poem stops accumulating and simply reports. Placing the loss in an unlinked final line presents it as something that did not need to be argued for, only noticed.
+**Structure.** The first three lines run on in a single accumulating sentence, linked only by commas, so the syntax keeps extending as the summer does. The fourth line is a separate, end-stopped sentence of eight words, seven of them monosyllables, and it arrives without a conjunction. The turn is therefore structural before it is semantic: the poem stops accumulating and simply reports. Placing the loss in an unlinked final line presents it as something that did not need to be argued for, only noticed.
 
-**Diction.** The verbs divide between the two halves. *Stood*, *walked*, *counting* are stative or habitual, and they belong to a continuous, unfinished summer; *had got* is perfective and belongs to a completed event the speaker did not witness. The shift in tense is the shift in attitude — the speaker moves from inhabiting the time to looking back at it. *Counting* is the pivotal word: a verb of husbandry used on fruit already conceded, since the relative clause *"that we would not eat"* withdraws the harvest in the same breath that counts it.
+**Diction.** The verbs divide between the two halves. *Stood*, *walked* and *counting* describe ongoing states and actions, and they belong to a continuous, unfinished summer; the pluperfect *had got* belongs to a completed event the speaker did not witness. The shift in tense is the shift in attitude — the speaker moves from inhabiting the time to looking back at it. *Counting* is the pivotal word: a verb of husbandry used on fruit already conceded, since the relative clause *"that we would not eat"* withdraws the harvest in the same breath that counts it.
 
-**Imagery and sound.** *Branches we had planted* compresses labour and inheritance into three words, and the possessive *we had* makes the loss self-inflicted rather than accidental. The sibilance of *stood*, *summer* and *walked under* gives the first three lines a continuous, breathy movement; the plosives of *By August*, *got* and *first* break it. Naming the consonant classes is what makes this an argument rather than an observation: the soft sounds belong to duration, the hard sounds to interruption.
+**Imagery and sound.** *Branches we had planted* compresses labour and inheritance into four words, and the pluperfect *we had planted* makes the speakers the authors of the garden they lose. The sibilance of *stood*, *summer* and *branches* gives the first three lines a continuous, breathy movement; the plosives of *By*, *August* and *got* break it. Naming the consonant classes is what makes this an argument rather than an observation: the soft sounds belong to duration, the hard sounds to interruption.
 
 **Allusion.** *Orchard*, *gate*, *apples* and a *summer* that ends are four independent signals, which is enough to name **Eden and the Fall** without overclaiming. The lines import the pattern of a garden enjoyed and then lost. But the divergence is the interesting part: there is no prohibition, no serpent and no transgression. Nothing is forbidden and nobody disobeys; the fruit is lost to wasps and to August. The effect is to domesticate the Fall — to suggest that expulsion needs no sin, and that the ordinary operation of a season is sufficient to end a paradise. That makes the speaker's attitude one of resignation rather than guilt.
 

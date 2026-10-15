@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Geography::4 Geographical skills
+Final exam format	One 3-hour paper, 100 marks: 75% core short-answer questions, 25% paragraph/essay — skills tested inside the core
+Equipment needed for the map question	Pencil, rubber, ruler, protractor, calculator and a sheet of plain paper
+Scales of exam topographic maps	1:25 000 or 1:50 000, always with a full key
+Golden rule for map-extract answers	Use map evidence only — not general knowledge
+Order of the numbers in a grid reference	Eastings (along the corridor) before northings (up the stairs)
+What a four-figure grid reference identifies	A whole grid square: the easting line on its left, then the northing line below it
+How to give a six-figure grid reference	Add tenths east of the easting and north of the northing — the first tenth is 0, the last is 9
+Six-figure reference: 3 tenths east of line 46 and 4 tenths north of line 65	463654 (in square 4665)
+On a 1:50 000 map, 1 cm represents	500 m — so 2 cm is 1 km
+On a 1:25 000 map, 1 cm represents	250 m — so 4 cm is 1 km
+Ground distance of 7.4 cm on a 1:50 000 map	7.4 × 500 m = 3700 m = 3.7 km
+How to measure a curved route on a map	Mark the paper edge, pivot it at each bend along straight sections, then read the total against the linear scale
+How to estimate an area on a map	Count whole grid squares, add part squares as halves; each 1 km square is 1 km²
+The 16 compass points clockwise from north	N, NNE, NE, ENE, E, ESE, SE, SSE, S, SSW, SW, WSW, W, WNW, NW, NNW
+Definition of a bearing	The clockwise angle from grid north, given as three digits (000°–359°)
+How to measure a bearing from A to B	Protractor centre on A, 0° along grid north, read clockwise to the line A–B
+"Direction of A from B": where do you stand?	At B, facing A
+Contours close together versus far apart	Close: steep slope; far apart: gentle slope or flat land
+Contours forming a V pointing uphill	A valley — the V points upstream
+Definition of contour interval	The vertical difference in height between adjacent contours
+Gradient formula	Vertical rise ÷ horizontal distance, both in the same units (often written 1 in x)
+Gradient: 180 m rise over 3 cm on a 1:50 000 map	180 ÷ 1500 = 0.12 = 1 in 8.3 (12%)
+Most common gradient mistake	Not converting map centimetres to ground metres before dividing
+Steps for drawing a cross-section	Mark contour crossings on a paper edge, transfer to labelled axes, plot each height, join with a smooth curve
+Definition of vertical exaggeration	The factor by which a cross-section's vertical scale is stretched relative to its horizontal scale
+Describing a distribution from a map	The general pattern first, then exceptions, anchored with grid references, names, directions and distances
+How to describe an oblique photograph	Divide it into foreground, middle distance and background, and left, centre and right
+Label versus annotation	A label names a feature; an annotation explains what it is doing
+Five things every sketch map needs	Frame, title, north arrow, scale (or "not to scale"), key
+Best graph for three components that total 100%	Triangular graph — e.g. employment by sector
+Best graph for a relationship between two variables	Scatter graph with a best-fit line
+Best graph for parts of a single whole	Pie graph — 1% = 3.6°
+Best map for rates or densities by area	Choropleth map
+What a wind rose shows	How often (and how strongly) the wind blows from each direction — the longest arm is the prevailing wind
+What a kite diagram shows	The abundance of species along a transect
+What the width of a flow line shows	The volume moving between two places
+Definition of an isoline	A line joining points of equal value — contours and isobars are isolines
+Convert a pie sector of 126° to a percentage	126 ÷ 360 × 100 = 35%
+Percentage change formula	(New − old) ÷ old × 100
+Mean, median and mode	Mean: total ÷ number of values; median: middle value when ranked; mode: most frequent value
+Range and interquartile range	Range: maximum − minimum; IQR: upper quartile − lower quartile, the middle half, unaffected by extremes
+Mean, median and mode of 4, 7, 7, 9, 13, 15, 17	Mean 10.3 (72 ÷ 7), median 9, mode 7 (range 13)
+What a scatter graph can and cannot show	It shows correlation; it does not prove causation
+Primary versus secondary data	Primary: collected yourself in the field; secondary: collected by someone else (census, an earlier survey)
+Stages of a fieldwork enquiry	Hypothesis, site selection, sampling, data collection, presentation, analysis, conclusion, evaluation
+Three sampling methods	Random, systematic, stratified
+River fieldwork measurements	Width, depth, velocity (float and stopwatch), bedload size and roundness, gradient — at several sites downstream
+Coastal fieldwork measurements	Beach profile with a clinometer, sediment size, longshore drift with floats, sediment height either side of groynes
+Describe versus explain	Describe: what it is like or where it is; explain: why it happens — needs "because" and a mechanism
+What earns the marks in a "compare" question	Comparative words (whereas, higher than) and paired data — not two separate descriptions
+"Suggest"	Apply your knowledge to an unfamiliar situation where you cannot be certain
+"Evaluate" or "to what extent"	Evidence on both sides, stated criteria, and a judgement in the conclusion
+"Using Fig. 1 only"	Evidence must come from the resource; general knowledge, or naming places without describing the pattern, is not credited
+How a two-mark "identify and explain" point is marked	One mark for naming it in correct terminology, one for explaining how it works
+SDEEL paragraph structure	Statement, Describe, Explain, Example, Link back to the question
+Essay Level 4 (9–10 marks)	Comprehensive, developed place-specific examples, accurate terminology and processes, clear evaluation and conclusion
+Essay Level 3 (6–8 marks)	Thorough explanation, terminology throughout, at least one developed example, but less comprehensive or balanced
+Maximum essay mark with no examples	6 out of 10
+What makes an example "developed"	A place, a date and a specific fact or figure used in the argument — not a tag like "as seen in Waikato"
+Time per mark in the final exam	About 1.8 minutes (100 marks in 3 hours); 15–20 minutes per 10-mark essay

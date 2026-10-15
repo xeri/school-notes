@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Economics::1 Scarcity, choice and economic systems
+Definition of economics	A social science studying the production, distribution and consumption of goods and services
+Definition of scarcity	Limited means against unlimited wants
+Three limited means that cause scarcity	Time, money or income, and skill and knowledge
+Why are wants described as unlimited?	Once one want is satisfied, another replaces it
+Definition of a need	Something people must have to survive, such as food, water, air, shelter or clothing
+Definition of a want	Something people would like to have but can survive without
+Three questions every economy must answer	What to produce, how to produce it, and for whom
+Definition of opportunity cost	The next best alternative forgone
+A government ranks healthcare first, police second and education third, then funds healthcare. What is the opportunity cost?	The police spending — only the next best alternative, not police plus education
+Definition of a free good	A good so plentiful it has no cost, such as wind or sunshine
+Definition of an economic good	A scarce good, which therefore has a cost
+Definition of a capital (producer) good	A man-made good used to produce other goods and services, such as a coffee machine or a truck
+Definition of the factors of production	The scarce resources, or inputs, that a production process turns into goods and services
+Name the four factors of production	Land, labour, capital, enterprise
+Reward to each factor of production	Land earns rent, labour wages, capital interest, enterprise profit
+Definition of land as a factor of production	The place where business activity happens, and all natural resources
+Definition of capital as a factor of production	Man-made resources that help produce other goods and services
+Definition of enterprise	The ability to employ and organise the other factors, taking the risk of the venture
+Does capital mean money in economics?	No — it means productive equipment; money is only a means of acquiring it
+Two features of a public good	Non-excludable and non-rival
+Meaning of non-excludable	People who do not pay cannot be stopped from benefiting
+Meaning of non-rival	One person's use does not reduce the amount available to others
+Three examples of public goods	Street lighting, lighthouses, police (or national defence)
+Definition of a merit good	A beneficial good that consumers undervalue, so it is under-consumed in a free market
+Definition of a demerit good	A harmful good that consumers overvalue, so it is over-consumed in a free market
+Key difference between merit goods and public goods	Merit goods are excludable and rival; public goods are neither
+Definition of division of labour	Splitting production into separate tasks, each done by a specialist worker
+Two advantages of division of labour	Higher productivity and efficiency, and easier use of specialised machinery
+Three disadvantages of division of labour	Boredom lowers quality, workers feel like a cog and lose motivation, and production stops if a specialist is absent
+Definition of derived demand	Demand for something that results from demand for another good, such as lithium for phone batteries
+The law of diminishing returns	Adding more of one factor while the others stay fixed eventually adds less and less extra output
+What does a production possibility curve show?	The maximum combinations of two goods that can be produced when all resources and technology are used efficiently
+Meaning of a point inside the PPC	Production inefficiency — both goods can increase with no opportunity cost
+Meaning of a point outside the PPC	Unattainable with current resources and technology
+PPC: the firm moves from 90 Coke and 0 Fanta to 60 Coke and 80 Fanta. What is the opportunity cost?	30 cans of Coke for 80 cans of Fanta
+What does a PPC bowed outwards show?	Increasing opportunity cost, because resources are better suited to one good than the other
+What does a straight-line PPC show?	Constant opportunity cost — resources are equally suited to both goods
+What does a steeper section of a PPC show?	A higher opportunity cost of the good on the horizontal axis
+What does an outward shift of the PPC mean?	Economic growth — production possibilities have increased
+Five causes of an outward shift of the PPC	Higher productivity, better management, more capital and labour, innovation, discovery of natural resources
+Four causes of an inward shift of the PPC	Natural disaster, large outward migration, war, loss of capital
+Is moving labour from manufacturing to services a shift of the PPC?	No — a movement along it: more services at the expense of manufacturing
+What does a PPC pivoting outwards on one axis only show?	An improvement in one industry only, such as new farming technology
+Why does producing more capital goods now matter on a PPC?	It raises future productive capacity, so the PPC shifts out faster later, at the cost of consumption now
+Name the four economic systems	Free market, command (planned), mixed, traditional
+How a free market economy allocates resources	By price, through demand and supply, with no government involvement
+Three advantages of a free market economy	Efficiency, freedom of choice, incentive to work hard
+Three disadvantages of a free market economy	Environmental damage, inequality, social problems such as no public goods
+Who answers the three economic questions in a command economy?	The government, often through five-year plans
+Three advantages of a command economy	Prevents waste, social equality, economies of scale from large national suppliers
+Two disadvantages of a command economy	Lack of freedom of choice and career, and no incentive to work harder
+Definition of a mixed economy	A combination of free market and command, with the government providing essential services and merit goods
+Why are almost all real economies mixed?	Every economy needs some form of government
+Definition of a traditional economy	One that answers what, how and for whom by custom and tradition
+Difference between the private and public sectors	The private sector is owned by individuals or companies for profit; the public sector is owned by government to provide services
+Three functions of the price mechanism	Signalling, incentive, rationing
+The signalling function of price	A rising price tells producers buyers want more, and tells consumers to look for substitutes
+The incentive function of price	A higher price makes supplying more profitable, drawing resources into that market
+The rationing function of price	When a good is scarce its price rises, so it goes to those willing and able to pay most
+Four limits of the price mechanism	It ignores external costs, provides no public goods, under-provides merit goods, and allocates by ability to pay rather than need

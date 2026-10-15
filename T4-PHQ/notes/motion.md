@@ -81,8 +81,8 @@ Each equation has a graphical meaning on a velocity–time graph: $v = u + at$ i
 
 **Worked example (free fall).** A stone is dropped from 45 m. Taking down as positive, $u = 0$, $a = 9.81$ m/s², $s = 45$ m.
 
-$$v^2 = u^2 + 2as = 0 + 2(9.81)(45) = 883 \Rightarrow v = 30\ \text{m/s}$$
+$$v^2 = u^2 + 2as = 0 + 2(9.81)(45) = 883 \Rightarrow v = 29.7 \approx 30\ \text{m/s}$$
 
-Time: $v = u + at \Rightarrow t = 30/9.81 = 3.0$ s.
+Time: $v = u + at \Rightarrow t = 29.7/9.81 = 3.0$ s.
 
 Pick the equation that avoids the quantity you were not given — here, $v^2 = u^2 + 2as$ avoids $t$.

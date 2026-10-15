@@ -40,9 +40,7 @@ Two similar cones, heights 6 cm and 9 cm — area scale factor?	\(k = 1.5\), so 
 Volumes are 8 and 27 — length scale factor?	\(k = 3/2\)
 How do you construct a triangle from three sides?	Draw the longest side, then intersecting arcs of the other two lengths from each end
 How do you construct a perpendicular bisector?	Equal arcs above and below from each end, then join the intersections
-Which points lie on a perpendicular bisector?	Those equidistant from the two end points
 How do you construct an angle bisector?	Arc across both arms from the vertex, then equal arcs from each crossing, joined to the vertex
-Which points lie on an angle bisector?	Those equidistant from the two arms
 What must you NOT erase in a construction?	The construction arcs — they carry the marks
 Scale 1:50 000 — what does 1 cm represent?	50 000 cm = 0.5 km
 Locus of points a fixed distance from a point	A circle

@@ -5,54 +5,70 @@
 Definition of opportunity cost	The next best alternative given up when a choice is made
 Definition of added value	Selling price minus the cost of bought-in materials
 Is added value the same as profit?	No — wages, rent and overheads still come out of it
-Four ways to add value	Branding, better quality, convenience, after-sales service
+Four ways to add value	Building a brand, excellent service, extra product features, convenience
 Four factors of production	Land, labour, capital, enterprise
 Primary sector	Extracting natural resources — farming, fishing, mining
 Secondary sector	Manufacturing and construction
 Tertiary sector	Providing services — retail, banking, transport
-What is de-industrialisation?	The falling share of employment in the secondary sector as an economy develops
-Difference between private and public sector	Private is owned by individuals and usually profit-seeking; public is government-owned and service-providing
-Two purposes of a business plan	To force the owner to think the venture through, and to persuade a lender or investor
-Five causes of business failure	Poor cash-flow management, no market research, poor management of growth, over-borrowing, external shocks
-Four ways to measure business size	Number of employees, revenue, capital employed, market share
+What is de-industrialisation?	The decline in the importance of the secondary (manufacturing) sector as an economy develops
+Difference between private and public sector	Private is owned and run by private individuals and firms, mainly for profit; public is owned and controlled by government, mainly to provide services
+Two purposes of a business plan	To force the owner to think the venture through, and to persuade a lender or investor to provide finance
+Five causes of business failure	No USP, insufficient cash flow and poor financial management, poor planning and management, changes in the environment (laws, competitors, economy), overexpansion
+Five ways to measure business size	Number of employees, sales revenue, output, capital employed, market share (or market capitalisation)
 Why can size measures disagree?	A capital-intensive firm can have huge revenue with very few employees
-Definition of economies of scale	The fall in average cost per unit as the scale of operations expands
-Purchasing economy of scale	Bulk buying earns discounts per unit
-Technical economy of scale	Specialist machinery spreads its cost over more units
-Financial economy of scale	Larger firms are seen as lower risk so borrow more cheaply
-Marketing economy of scale	One advertising campaign supports a larger volume
-Three diseconomies of scale	Poor communication, poor coordination, low morale
+Definition of economies of scale	The lower average costs of production a firm gains as it grows
+Purchasing economy of scale	Buying materials in bulk earns cheaper or discounted rates
+Technical economy of scale	Large firms can afford the latest specialised equipment, raising efficiency and productivity
+Financial economy of scale	Banks see larger firms as less risky, so lend at cheaper interest rates
+Marketing economy of scale	Larger advertising campaigns reach a wider audience, spreading the cost over more output
+Four diseconomies of scale	Labour (boredom), communication (sites, languages, time zones), management (conflicting managers), agglomeration (too many different businesses to coordinate)
 A $6000 campaign over 2000 vs 6000 units	$3 per unit vs $1 per unit
 Liability of a sole trader	Unlimited — personally responsible for all business debts
 Two advantages of being a sole trader	Total control and keeps all the profit (also easy to set up)
 Two drawbacks of being a sole trader	Hard to raise capital, unlimited liability (also no continuity)
 Two advantages of a partnership	Combines finance and expertise, shares the workload
-Two drawbacks of a partnership	Disagreements, and each partner is bound by the others' decisions
+Two drawbacks of a partnership	Unlimited liability and shared profits (also disagreements and no continuity)
 Definition of limited liability	A shareholder can lose no more than the amount invested
 What makes limited liability possible?	The company has separate legal identity from its owners
 Is a public limited company in the public sector?	No — "public" means shares are offered to the public; it is a private-sector business
-Difference between Ltd and plc	Ltd sells shares privately; plc may offer shares to the public
-Two drawbacks of becoming a plc	Expensive to set up and must publish accounts; risk of takeover and loss of control
-What does a franchisee pay the franchisor?	An initial fee plus ongoing royalties
-Two benefits to the franchisee	Established brand and lower failure risk; training and support
-Two drawbacks to the franchisee	Fees reduce profit; little freedom over product or pricing
-Two benefits to the franchisor	Rapid expansion using someone else's capital; royalty income
-Definition of a joint venture	Two businesses creating a separate shared enterprise, sharing cost, risk and profit
-Definition of a co-operative	A business owned and democratically run by its members, who share the profits
-Definition of a social enterprise	A business trading to pursue a social or environmental purpose, reinvesting its surplus
-What does SMART stand for?	Specific, measurable, achievable, relevant, time-bound
+Difference between Ltd and plc	Ltd shares are sold privately with every shareholder's agreement; plc shares are bought and sold openly on the stock market
+Two drawbacks of becoming a plc	Very expensive to set up, and easy to lose control (also financial information is public)
+What does a franchisee pay the franchisor?	A start-up fee plus a percentage of sales revenue
+Two benefits to the franchisee	A lower-risk start with a tried and trusted product; ongoing training and support
+Two drawbacks to the franchisee	The fee and share of revenue reduce profit; must do things the franchisor's way
+Two benefits to the franchisor	Quick, cheap expansion without borrowing; franchisees pay to grow the brand
+Definition of a joint venture	Two or more parties pooling their resources to accomplish a specific task, sharing its profits, losses and costs
+Definition of a co-operative	A business owned and democratically controlled by its members, run for their mutual benefit rather than for investors' profit
+Definition of a social enterprise	A private-sector business with mainly social objectives whose surpluses are reinvested rather than used to maximise owners' profit
+What does SMART stand for?	Specific, measurable, achievable, realistic, time specific
 Why do objectives change over time?	A start-up aims to survive, then to grow, then perhaps to maximise profit
 Give an example of conflicting objectives	Growth may require cutting prices, reducing short-run profit
-Definition of corporate social responsibility	Accepting responsibility for the business's effects on society and the environment beyond legal requirements
-Three arguments for CSR	Better reputation and sales, easier recruitment, avoids fines and boycotts
-Three arguments against CSR	Higher costs, shareholders may prefer dividends, non-complying competitors undercut you
-Difference between ethics and legal compliance	Ethics is about what is right; legality is a separate, usually lower, boundary
-Definition of a stakeholder	Any individual or group with an interest in the business's activities
+Definition of corporate social responsibility	Operating ethically in three areas — people, planet and profit (the triple bottom line)
+Three arguments for CSR	Better brand image and sales, a possible USP, easier recruitment (and avoids fines and boycotts)
+Three arguments against CSR	Higher costs cut profit, can slow expansion, shareholders may prefer dividends
+Difference between ethics and legal compliance	Ethics considers society's interests beyond the law — what is right, not just what is legal
+Definition of a stakeholder	Anyone who has a direct interest in the performance of a business
 Is a shareholder the same as a stakeholder?	No — a shareholder is one kind of stakeholder
 Main aim of employees as stakeholders	Fair pay, job security and good working conditions
 Main aim of suppliers as stakeholders	Regular orders and prompt payment
-Main aim of the local community as a stakeholder	Jobs with little pollution and congestion
-Give an example of stakeholder conflict	Raising wages pleases employees but reduces shareholders' profit
+Give an example of stakeholder conflict	Shareholders want dividends; employees want higher wages and job security — both come from the same profit
 Effect of technology on operations	Automation cuts unit costs and raises consistency, but needs capital and may cut jobs
 Effect of technology on employment	Demand shifts from unskilled to skilled work, creating retraining and redundancy costs
-Three continuing costs of technology	Maintenance, training, and the risk of obsolescence or system failure
+Is profit a measure of business size?	No — profit measures performance and efficiency, not size
+Risk-bearing economy of scale	A wider product range, more customers and more locations spread the risk of failure
+Difference between a merger and a takeover	A merger is a mutual agreement to join into one business; in a takeover one business buys another, which comes under its control
+Horizontal integration	Joining a firm in the same industry at the same stage of production — less competition, more market share
+Backward vs forward vertical integration	Backward: taking over a firm closer to the raw materials; forward: a firm closer to the end consumer
+Conglomerate integration	Joining a firm in an unrelated industry — spreads risk
+Three reasons some firms stay small	The type of industry (personal service), a small market, the owners' wish to keep control
+Who owns and who runs a limited company?	Shareholders own it; directors, elected at the AGM, run it
+What does a deed of partnership set out?	Voting rights, each partner's responsibilities, and how profit and loss are split — it is not a legal requirement
+Free-market economy	Resources privately owned, no government control, prices set by supply and demand
+Command (planned) economy	Government owns and plans all resources; no private businesses
+Definition of privatisation	Selling government-owned businesses to the private sector
+Definition of a public corporation	A business wholly owned by the government, run by a board of directors it appoints
+Difference between an aim and an objective	An aim is where the business wants to go; an objective is a measurable target for achieving it
+Definition of profit satisficing	Making enough profit, without profit being the only focus
+Kaitiakitanga	Guardianship of natural resources — e.g. sustainability initiatives
+Manaakitanga	The ethic of caring and hospitality — a welcoming workplace, looking after guests
+Tino rangatiratanga	Self-determination, ownership and active control — taking responsibility for your own area

@@ -52,6 +52,8 @@ Timing a single pendulum swing of about 2 s with a ±0.2 s reaction error gives 
 
 Repeats expose variation and reduce the effect of **random** error on the mean. They do **not** remove a **systematic** error such as a zero offset — check and correct the zero before you start.
 
+**Accuracy** is how close a measurement is to the true value. **Precision** is how close repeated measurements are to each other (and how fine the instrument's scale is). Readings can be precise but inaccurate — tightly grouped around the wrong value because of a systematic error. Improve accuracy by removing systematic errors (zero checks, calibration, avoiding parallax); improve precision with a finer instrument and by repeating and averaging.
+
 ## Graphs
 
 A scatter graph of experimental data should have:
@@ -80,7 +82,7 @@ A **scalar** has magnitude only. A **vector** has magnitude and direction.
 | mass | weight |
 | time, energy, temperature | force, acceleration, momentum |
 
-Walk 3 m east then 4 m north: the **distance** travelled is 7 m, but the **displacement** is 5 m (by Pythagoras) at 53° east of north.
+Walk 3 m east then 4 m north: the **distance** travelled is 7 m, but the **displacement** is 5 m (by Pythagoras) at $\tan^{-1}(3/4) = 37°$ east of north.
 
 ### Adding vectors by scale diagram
 
@@ -92,4 +94,4 @@ Walk 3 m east then 4 m north: the **distance** travelled is 7 m, but the **displ
 
 Forces along the same line just add or subtract: 12 N right and 5 N left give 7 N right.
 
-Forces at right angles: 3.0 N east and 4.0 N north give a resultant of magnitude 5.0 N at $\tan^{-1}(3/4) = 37°$ east of north.
+Forces at right angles: calculate with Pythagoras and trigonometry instead of drawing. 3.0 N east and 4.0 N north give a resultant of magnitude $\sqrt{3.0^2 + 4.0^2} = 5.0$ N at $\tan^{-1}(3/4) = 37°$ east of north.

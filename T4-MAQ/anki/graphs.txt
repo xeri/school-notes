@@ -22,7 +22,7 @@ Shape of \(y = ax^2\)	A parabola — minimum if a > 0, maximum if a < 0
 Shape of \(y = ax^3\)	A cubic with rotational symmetry about the origin
 Shape of \(y = a/x\)	A reciprocal curve with two branches and both axes as asymptotes
 Shape of \(y = a/x^2\)	Two branches, both above the x-axis when a > 0
-Shape of \(y = a^x\)	Exponential — rises steeply and never reaches zero
+Shape of \(y = a^x\)	For a > 1: exponential growth — rises steeply and never reaches zero
 Shape of \(y = ax^0\)	The horizontal line y = a
 What is an asymptote?	A line the curve approaches but never meets
 What do you write in a table of values at x = 0 for \(y = a/x\)?	Nothing — the function is undefined there
@@ -35,3 +35,12 @@ Gradient of the tangent at a maximum or minimum	Zero
 Shape of an exponential decay curve	Falls steeply then flattens towards the x-axis without reaching it
 Real-world example of exponential growth	Compound interest, bacterial growth, population growth
 Real-world example of exponential decay	Depreciation, radioactive decay
+Equation of a line with gradient m through \((x_1, y_1)\)	\(y-y_1 = m(x-x_1)\)
+Differentiate \(ax^n\)	\(anx^{n-1}\)
+Differentiate \((2x+1)^2\)	Expand first: \(4x^2+4x+1\), so the derivative is \(8x+4\)
+Differentiate \(2x^{-1}\)	\(-2x^{-2}\)
+What does \(f'(a)\) give?	The gradient of the curve (of its tangent) at x = a
+Tangent to \(y = 2x^2-8x+3\) at x = 3	\(f'(3) = 4\), point (3, −3), so \(y = 4x-15\)
+Integrate \(ax^n\) (n ≠ −1)	\(\frac{ax^{n+1}}{n+1} + C\)
+Why must you add C when integrating?	A constant differentiates to 0, so it is unknown until you substitute a given point
+\(V'(x) = 4x-3\) and \(V(0) = 2\) — find \(V(x)\)	\(V(x) = 2x^2-3x+C\), and \(V(0) = 2\) gives \(C = 2\): \(V(x) = 2x^2-3x+2\)

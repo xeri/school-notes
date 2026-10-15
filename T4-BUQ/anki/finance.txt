@@ -6,17 +6,16 @@ Definition of start-up capital	Finance needed to begin trading — premises, equ
 Definition of working capital	Current assets minus current liabilities
 Is working capital the bank balance?	No — it includes inventory and receivables, less short-term debts
 Why match the term of finance to the purpose?	An overdraft can be recalled long before a building pays for itself
-Three internal sources of finance	Retained profit, sale of unwanted assets, owner's savings
+Four internal sources of finance	Retained profit, owner's savings, sale of assets, sale and leaseback
 Retained profit: advantage and limit	No interest and no loss of control; limited by past profits
 Bank loan: advantage and drawback	A fixed sum with planned repayments; interest, and security usually required
 Overdraft: advantage and the key danger	Flexible short-term cover with interest only on what is used; it is repayable on demand
 Share capital: advantage and drawback	No repayment date or interest; dilutes ownership and control
 Definition of a debenture	A long-term loan to a company, usually at a fixed rate of interest
 Trade credit: advantage and drawback	Effectively free delay in paying suppliers; lost discounts and strained relations if abused
-Difference between leasing and hire purchase	Leasing never gives ownership; hire purchase ends in ownership
-Definition of crowdfunding	Raising small amounts from many people online, which also tests demand
+Difference between leasing and hire purchase	Hire purchase ends in ownership once the full price plus interest is paid; leasing lets you use the asset and return it (or sometimes buy it at a discount) at the end
 Definition of microfinance	Small loans to very small businesses without conventional collateral
-Seven criteria for choosing a source of finance	Amount, purpose, duration, cost, effect on control, risk, legal form of the business
+Seven criteria for choosing a source of finance	What is available (size, legal form, existing loans), what it is for, how much, how quickly, the cost, the effect on control, the risk
 Difference between profit and cash flow	Profit is revenue minus expenses for a period; cash flow is money actually moving in and out
 Why is a loan not revenue?	It is borrowed money, not income earned from selling
 Definition of overtrading	Expanding faster than the available working capital allows
@@ -24,8 +23,8 @@ Net cash flow formula	Total receipts − total payments
 Closing balance formula	Opening balance + net cash flow
 What becomes next month's opening balance?	This month's closing balance
 Can a month have negative net cash flow but a positive closing balance?	Yes — the business is still solvent
-Six causes of cash-flow problems	Overtrading, too much stock, late-paying customers, seasonal demand, unexpected costs, over-investment in fixed assets
-Four solutions to a cash-flow problem, with their costs	Overdraft (interest), chase debtors (discounts reduce revenue), longer supplier credit (lost discounts), reduce stock (risk of stock-outs)
+Six causes of cash-flow problems	Excess inventory, expanding too quickly, too much spent on non-current assets, borrowing too much, poor credit control, seasonal sales (also inflation)
+Four solutions to a short-term cash-flow problem	Take out more loans (interest), delay payments to suppliers, call in debtors early, improve credit control
 Gross profit formula	Revenue − cost of sales
 Operating profit formula	Gross profit − operating expenses
 Profit for the year formula	Operating profit − interest − tax
@@ -39,12 +38,19 @@ Capital employed formula	Equity + non-current liabilities
 Gross profit margin formula	(gross profit ÷ revenue) × 100
 Operating profit margin formula	(operating profit ÷ revenue) × 100
 ROCE formula	(operating profit ÷ capital employed) × 100
-Which profit figure does this course use for ROCE?	Operating profit
 Current ratio formula	Current assets ÷ current liabilities
 Acid-test ratio formula	(current assets − inventory) ÷ current liabilities
 Why does the acid test exclude inventory?	Stock may not sell quickly, so it is the stricter test of liquidity
 Is a ratio quoted as a percentage?	Liquidity ratios are a ratio or multiple; profitability ratios are percentages
-What does a very high current ratio suggest?	Cash or stock sitting idle rather than being invested
+What does a very high current ratio suggest?	Cash or stock sitting idle rather than being used to earn money — the school's 'ideal' is 1:1 to 1.5:1
 Four users of accounts and why	Shareholders (return), lenders (can the loan be repaid), suppliers (will we be paid), employees (job security)
 Three limitations of ratio analysis	A ratio means nothing alone, definitions must be consistent, and it ignores morale, brand and market conditions
 What should a ratio be compared with?	The same firm over time, or similar firms in the same industry
+Capital vs revenue expenditure	Capital: spending on non-current assets (premises, vehicles); revenue: spending on running costs (wages, rent)
+Definition of sale and leaseback	Selling a non-current asset and renting it back — raises cash while still using the asset
+Definition of venture capital	Finance from a venture capital firm or business angel, in return for a share of ownership and management
+Definition of gearing	The proportion of a firm's finance that is debt rather than equity — high gearing means high risk
+Cost of sales (COGS) formula	Opening inventory + purchases − closing inventory
+Three sections of an income statement	Trading account (gross profit), profit and loss account (operating profit to profit for the year), appropriation account (dividends and retained earnings)
+Accounting equation	Assets = liabilities + equity (so assets − liabilities = equity)
+When is ROCE unsatisfactory?	When it is below the bank's interest rate — the owners would earn more leaving the money in the bank

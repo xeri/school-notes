@@ -24,6 +24,14 @@ A 1200 kg car with a 3600 N resultant forward force accelerates at $3600/1200 = 
 
 **Friction** is the force between two surfaces that impedes motion and causes heating. **Air resistance (drag)** is a form of friction.
 
+## Newton's laws
+
+1. **First law** — if there is no resultant force on an object, it stays at rest or keeps moving at constant velocity (constant speed in a straight line).
+2. **Second law** — a resultant force causes an acceleration in its direction: $F = ma$, so $a = F/m$. Weight $W = mg$ is this law applied to free fall.
+3. **Third law** — forces always occur in pairs. If A pushes on B, B pushes on A with a force that is equal in size, opposite in direction, of the same type, and acting on the **other** object.
+
+Because the third-law pair act on **different** objects, they never cancel each other. A book resting on a table: the Earth pulls the book down and the book pulls the Earth up (a gravitational pair); the table's upward push on the book is a different force, which balances the weight only because the book is in equilibrium.
+
 ## Hooke's law
 
 Up to the **limit of proportionality**, extension is proportional to the stretching force:
@@ -90,7 +98,7 @@ Momentum is a vector in kg·m/s, so direction signs matter.
 
 $$Ft = mv - mu$$
 
-For the same momentum change, a longer contact time means a smaller average force — the principle behind crumple zones, air bags and bending your knees on landing.
+Rearranged, $F = \dfrac{mv - mu}{t} = \dfrac{\Delta p}{t}$: the resultant force equals the rate of change of momentum (Newton's second law in momentum form). For the same momentum change, a longer contact time means a smaller average force — the principle behind crumple zones, air bags and bending your knees on landing.
 
 **Conservation of momentum.** In an **isolated system** — no external forces, such as friction with the floor — the total momentum stays constant.
 

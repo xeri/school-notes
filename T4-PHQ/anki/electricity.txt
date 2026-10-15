@@ -3,7 +3,7 @@
 #notetype:Basic
 #deck:Physics::7 Electricity and magnetism
 What are magnetic domains?	Small crystal regions that each act as a tiny magnet; aligning them magnetises the material
-Why does a magnet attract unmagnetised iron but only repel another magnet?	Attraction needs only induced domain alignment; repulsion needs an existing opposing pole
+Why does a magnet attract unmagnetised iron but only repel another magnet?	Attraction only needs the iron's domains to line up (induced magnetism); repulsion needs an existing like pole facing it
 Which way do magnetic field lines run outside a magnet?	From N to S
 Where is a magnetic field strongest?	At the poles, where the field lines are closest together
 Can magnetic field lines cross?	No — magnetic forces arise from field lines that cannot intersect
@@ -14,12 +14,10 @@ Three ways to demagnetise a material	Hammering, heating strongly, placing in a c
 Property of soft iron	It loses its magnetism as soon as the external field is removed — ideal for electromagnet and transformer cores
 Property of a hard magnetic material like steel	It keeps its magnetism — ideal for permanent magnets
 Two advantages of an electromagnet over a permanent magnet	It can be switched off, and its strength can be varied
-Charge of a proton vs an electron	Equal in magnitude, opposite in sign (+1 and −1)
-Unit of charge	coulomb (C)
 What actually moves when you charge by friction?	Electrons only — protons stay in the nucleus
 How does a gold-leaf electroscope detect charge?	The leaf and stem acquire like charges and repel, so the leaf rises
 Steps for charging by induction	Bring a charged rod near, earth the far side briefly, remove the earth, then remove the rod — the sphere keeps the opposite charge
-Why do metals conduct?	They have free (delocalised) electrons that drift through the lattice
+Why do metals conduct electricity?	They have free (delocalised) electrons that drift through the lattice
 Definition of an electric field	A region in which a charge experiences a force
 Direction of an electric field at a point	The direction of the force on a positive charge there
 Field pattern between two parallel plates	Uniform — evenly spaced parallel lines from + to −
@@ -82,3 +80,4 @@ When is the force on a current-carrying wire greatest?	When the wire is perpendi
 What happens if you reverse both the current and the field?	The force acts in the original direction
 Three ways to increase a motor's turning effect	More turns, larger current, stronger magnetic field
 What does a split-ring commutator do?	Reverses the current in the coil every half turn, so the turning effect always acts the same way and rotation continues
+State Ohm's law	The current through a metallic conductor at constant temperature is directly proportional to the p.d. across it

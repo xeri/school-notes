@@ -49,7 +49,7 @@ An **electric field** is a region in which a charge experiences a force. The fie
 
 $$I = \frac{Q}{t}$$
 
-In a metal, current is a flow of **electrons**, from negative to positive. **Conventional current** is drawn from positive to negative — the opposite direction. Measure current with an **ammeter in series**.
+In a metal, current is a flow of **electrons**, from negative to positive. **Conventional current** is drawn from positive to negative — the opposite direction. Measure current with an **ammeter in series**. With an **analogue** meter, check the needle reads zero first and read it with your eye directly above the needle; with a **digital** meter, pick a range just above the expected value for the finest resolution.
 
 **E.m.f.** (electromotive force, volts) is defined by the energy change *inside the supply* — chemical to electrical in a cell — that drives charge round a complete circuit.
 
@@ -60,6 +60,8 @@ In a metal, current is a flow of **electrons**, from negative to positive. **Con
 $$R = \frac{V}{I}$$
 
 Current is *not* used up passing through a resistor — charge is conserved. For a fixed p.d., more resistance means less current.
+
+**Ohm's law:** the current through a metallic conductor at constant temperature is directly proportional to the p.d. across it. A component that obeys it is **ohmic**.
 
 *Experiment.* Connect the unknown resistor in series with a cell, an ammeter and a variable resistor, with a voltmeter across it. Record several $V$ and $I$ pairs, plot $V$ against $I$: the gradient is $R$.
 
@@ -89,7 +91,9 @@ The combined parallel resistance is always **less** than either individual resis
 
 Household lamps are wired in **parallel** so each can be switched independently, each gets the full mains p.d., and one failing does not black out the house.
 
-![Series circuit with a lamp, a resistor, an ammeter in series and a voltmeter across the resistor](circuit.svg)
+![Series circuit: a cell, an ammeter and a resistor in series, with a voltmeter connected in parallel across the resistor](circuit.svg)
+
+The diagram above is the basic meter circuit: the ammeter is in the main loop, so the same current passes through it and the resistor; the voltmeter is connected across the resistor's two ends. The long plate of the cell symbol is the positive terminal.
 
 **Worked example.** A 6.0 V supply across a 3.0 Ω resistor:
 

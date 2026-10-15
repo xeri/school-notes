@@ -20,25 +20,22 @@ Unit of momentum	kg·m/s
 Convert 72 km/h to m/s	72 × 1000 / 3600 = 20 m/s
 Convert 1 cm³ to m³	\(10^{-6}\) m³ (all three dimensions ÷ 100)
 Convert 2.7 g/cm³ to kg/m³	2700 kg/m³
-Speed of light in standard form	\(3.00\times10^8\) m/s
+Write 0.00052 m in standard form	\(5.2\times10^{-4}\) m
 Precision of a vernier calliper	±0.1 mm
 Precision of a micrometer screw gauge	±0.01 mm
 Precision of a metre rule	±1 mm
 How is a voltmeter connected?	In parallel across the component
 How is an ammeter connected?	In series with the component
 Formula for an average of n readings	average = (sum of n readings) / n
-Why time 20 oscillations instead of 1?	The same reaction error (~±0.2 s) becomes a much smaller percentage of a longer interval
-What error do repeats reduce?	Random error (they do nothing for systematic error)
 What is a normal?	A construction line drawn at 90° to a surface, used as the reference for angles
 How do you avoid parallax error?	View the scale with your eye directly in line with the mark
 Definition of a scalar	A quantity with magnitude only
 Definition of a vector	A quantity with magnitude and direction
 Three scalar examples	Distance, speed, mass (also time, energy, temperature)
 Three vector examples	Displacement, velocity, weight (also force, acceleration, momentum)
-Walk 3 m east then 4 m north: distance and displacement?	Distance 7 m; displacement 5 m
+Walk 3 m east then 4 m north: distance and displacement?	Distance 7 m; displacement 5 m at 37° east of north
 How do you find a resultant by scale diagram?	Draw vectors head-to-tail to a stated scale; the resultant runs from the first tail to the last head
 Resultant of 3.0 N east and 4.0 N north	5.0 N at 37° east of north
 How should axes on a graph be labelled?	With the quantity AND its unit
 How do you find a gradient accurately?	Use a large triangle on the best-fit line, Δy ÷ Δx, and state the units
-What are the units of a distance–time gradient?	m/s — it is a speed
-What are the units of a speed–time gradient?	m/s² — it is an acceleration
+Difference between accuracy and precision	Accuracy: how close a reading is to the true value. Precision: how close repeated readings are to each other (and how fine the scale is)

@@ -18,7 +18,7 @@ How are three-figure bearings measured?	Clockwise from North, written with three
 Bearing of East	090°
 Bearing of South-west	225°
 How do you write 7° east of north as a bearing?	007°
-How do you find a back bearing?	Add 180° (or subtract 180° if over 360°)
+How do you find a back bearing?	Add 180° if the bearing is under 180°, otherwise subtract 180°
 Back bearing of 125°	305°
 What should every bearings sketch include?	A North arrow at EACH point
 \(\sin(180° - \theta)\)	\(\sin\theta\)
@@ -40,3 +40,8 @@ How do you find the angle between a line and a plane?	Drop a perpendicular to th
 Cuboid 4 × 3 × 12 — base diagonal?	\(\sqrt{16+9} = 5\) cm
 Cuboid 4 × 3 × 12 — space diagonal?	\(\sqrt{25+144} = 13\) cm
 Cuboid 4 × 3 × 12 — angle of the space diagonal to the base?	\(\tan\theta = 12/5 \Rightarrow 67.4°\)
+Amplitude and period of \(y = a\sin bx\)	Amplitude a, period \(360°/b\)
+Where does \(y = \cos x\) cross the x-axis for 0°–360°?	90° and 270°
+Period of \(y = \tan x\)	180° (asymptotes at 90° and 270°)
+Solve \(\cos x = \frac{\sqrt3}{2}\) for 0°–360°	30° and \(360°-30° = 330°\)
+Second solution of \(\sin x = k\) for 0°–360°	180° minus the calculator angle

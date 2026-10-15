@@ -44,7 +44,11 @@ Combined, for a fixed mass of gas:
 
 $$\frac{P_1V_1}{T_1} = \frac{P_2V_2}{T_2}$$
 
-**Temperatures must be in kelvin.** Always.
+**Temperatures must be in kelvin.** Always. Pressure and volume can be in any units, as long as both sides use the same ones.
+
+As graphs: $p$ against $V$ at constant temperature is a curve (inverse proportion), and $p$ against $1/V$ is a straight line through the origin. $P$ against $T$ (constant volume) and $V$ against $T$ (constant pressure) are straight lines through the origin when $T$ is in kelvin; against °C they cut the temperature axis at −273 °C.
+
+These laws describe an **ideal gas**. A real gas follows them well at ordinary conditions, but the combined equation becomes unreliable at very high pressure or at low temperature close to where the gas liquefies, because the molecules' own size and the forces between them start to matter.
 
 *Molecular explanations.* Reducing the volume at constant temperature packs the same molecules into less space, so they hit the walls more often per second and the pressure rises. Raising the temperature at constant volume makes the molecules faster, so they hit harder and more often, and the pressure rises.
 
@@ -98,7 +102,9 @@ Any physical property that varies with temperature can measure it: the length of
 
 Raising a body's temperature increases its internal energy: the molecules vibrate or move faster.
 
-**Thermal capacity** of a whole object: $Q = mc$ per kelvin, in J/K.
+**Heat** is energy transferred from a hotter body to a colder one because of the temperature difference.
+
+**Thermal capacity** $C$ of a whole object is the energy needed to raise its temperature by 1 K: $C = mc$, in J/K.
 
 **Specific heat capacity** $c$ is the energy needed to raise **1 kg** of a substance by **1 K**:
 
@@ -106,12 +112,21 @@ $$Q = mc\Delta T$$
 
 *Experiment.* Mass a metal block, insert an electric immersion heater and a thermometer into drilled holes, lag the block, record the starting temperature. Run the heater at known $V$ and $I$ for time $t$, so $Q = VIt$. Record the final temperature and calculate $c = Q/(m\Delta T)$. Lagging reduces heat loss, the main source of error, which makes the measured $c$ too high.
 
-**Worked example.** Heating 0.50 kg of water ($c = 4200$ J/kg·K) by 20 K needs $0.50\times4200\times20 = 42\,000$ J.
+**Worked example.** Heating 0.50 kg of water ($c = 4200$ J/(kg·K)) by 20 K needs $0.50\times4200\times20 = 42\,000$ J.
+
+$Q = mc\Delta T$ cannot be used during a change of state, because the temperature does not change then — use $Q = ml$ instead.
+
+**Mixing (conservation of energy).** With no losses, the energy given out by the hot body equals the energy taken in by the cold one. Example: a 0.20 kg copper block ($c = 390$ J/(kg·K)) at 100 °C is dropped into 0.50 kg of water at 20 °C. At final temperature $T$:
+
+$$0.20\times390\times(100 - T) = 0.50\times4200\times(T - 20)$$
+$$7800 - 78T = 2100T - 42\,000 \Rightarrow T = \frac{49\,800}{2178} = 22.9\ ^\circ\text{C}$$
 
 **Latent heat.** During melting or boiling, energy input changes the molecular *arrangement* rather than the temperature, so the temperature stays constant. Breaking molecular bonds requires energy; forming them releases it.
 
 - **Latent heat of fusion** — solid ↔ liquid
 - **Latent heat of vaporisation** — liquid ↔ gas
+
+The **melting point** is the fixed temperature at which a pure solid turns to liquid; the **boiling point** is the fixed temperature at which a liquid boils throughout, at a given pressure (100 °C for pure water at standard atmospheric pressure). In **condensation** gas molecules slow and come close enough for attractive forces to hold them as a liquid; in **solidification** liquid molecules lose energy and settle into fixed positions in a lattice. Both release the latent heat that was absorbed in the reverse change, so the temperature stays constant while they happen.
 
 **Specific latent heat** $l$ is the energy per kilogram to change state:
 

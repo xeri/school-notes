@@ -78,6 +78,12 @@ For a cone, $l$ is the **slant** height, found from $l = \sqrt{r^2+h^2}$, while 
 - volume $= \tfrac13\pi(25)(12) = 314$ cm³
 - total surface area $= \pi(5)(13) + \pi(25) = 204+78.5 = 283$ cm²
 
+**Cone from a sector.** When a sector of radius $l$ is rolled into a cone, the radius becomes the slant height and the arc becomes the base circumference:
+
+$$\frac{\theta}{360}\times2\pi l = 2\pi r \Rightarrow \theta = \frac{360r}{l}$$
+
+A sector of radius 16 cm that makes a cone of base radius 2.4 cm has $\theta = \tfrac{360\times2.4}{16} = 54°$.
+
 ## Compound solids
 
 Add or subtract whole solids, and watch which faces remain on the **outside**.

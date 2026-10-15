@@ -2,15 +2,15 @@
 
 ## Why motivation matters
 
-**Motivation** is the willingness to work towards the business's objectives. A well-motivated workforce gives higher productivity, better quality, lower absenteeism, lower staff turnover (and so lower recruitment and training costs), and more willingness to accept change.
+**Motivation** is the driving force behind human behaviour — why we do what we do. At work it is the desire an employee has to work hard and do a good job. People work for money, to feel useful, to learn new skills and to meet people. A well-motivated, satisfied workforce gives higher productivity, better quality, lower absenteeism, lower staff turnover (and so lower recruitment and training costs), better co-operation and a better corporate image.
 
 Pay matters, but so do recognition, security, responsibility and conditions. A pay rise will not fix high turnover caused by poor supervision — diagnose the actual cause before recommending a remedy.
 
 ## Motivation theories
 
-**Taylor — scientific management.** People are motivated primarily by money. Break work into simple repeated tasks, measure the most efficient method, and pay **piece rate** so output determines earnings. *Criticism:* ignores job satisfaction and teamwork; encourages speed over quality; demotivating for many workers.
+**Taylor — scientific management.** Money is the main motivator. Organise each job so every worker does it the same, most time-efficient way, specialising in one task, and pay **piece rate** so the more output, the more pay — the extra pay is covered by the extra productivity. *Criticism:* assumes everyone is motivated only by money; repetitive tasks demotivate; productivity is hard to measure in office jobs.
 
-**Maslow — hierarchy of needs.** Needs form five levels; each must be largely met before the next motivates.
+**Maslow — hierarchy of needs.** Needs form five levels; a person moves up only once each level is satisfied.
 
 | Level | Need | How a business meets it |
 |---|---|---|
@@ -20,28 +20,37 @@ Pay matters, but so do recognition, security, responsibility and conditions. A p
 | 2 | Safety | job security, safe conditions, a contract |
 | 1 | Physiological | pay sufficient for food and shelter, breaks |
 
-*Criticism:* people do not all follow the same order, and the levels are hard to measure.
+*Criticism:* it assumes everyone is the same — an older worker near retirement may work for enjoyment and company, while some people are motivated purely by money and status.
 
 **Herzberg — two-factor theory.**
 
-- **Hygiene factors** (pay, conditions, supervision, job security) do not motivate, but their *absence* causes dissatisfaction.
-- **Motivators** (achievement, recognition, responsibility, the work itself, advancement) actually create satisfaction.
+- **Hygiene factors** (pay, working conditions, job security, status, relationships with managers, rules) do not motivate, but must be satisfied or job satisfaction and productivity fall.
+- **Motivators** (achievement, recognition, responsibility, interesting work, promotion, personal development) increase motivation and productivity.
 
-Herzberg's conclusion: improve pay and you remove a grievance; **enrich the job** and you create motivation.
+Herzberg's conclusion: improve pay and you remove a grievance; **enrich the job** and you create motivation. *Criticism:* can a person's wants ever be fully satisfied, and everyone is different.
 
-Treat all three as models to apply critically, not as promises that everyone responds identically.
+**McGregor — Theory X and Theory Y.** Two views managers hold of their workers.
+
+| | Theory X manager ("work-centred") | Theory Y manager ("people-centred") |
+|---|---|---|
+| Believes employees | dislike work and responsibility, have little ambition, dislike change, are motivated only by money or the threat of losing their job | like work and responsibility, care about the organisation, need little supervision, want variety and to develop their full potential |
+| So manages by | close supervision, with higher wages and job security | support, development opportunities and positive feedback |
+
+Treat all four as models to apply critically, not as promises that everyone responds identically.
 
 ## Financial motivators
 
 | Method | How it works | Risk |
 |---|---|---|
-| **Wage** (time rate) | paid per hour | predictable earnings, but no reward for extra output |
-| **Salary** | fixed annual amount | security, but effort is not directly rewarded |
-| **Piece rate** | paid per unit produced | encourages speed; **quality may fall** without monitoring |
-| **Commission** | a percentage of sales value | drives selling; may encourage pressure selling |
-| **Bonus** | extra payment for hitting a target | focuses effort; can be seen as unfair if targets differ |
-| **Profit sharing** | a share of company profit | aligns staff with the business; individual effort is diluted |
-| **Fringe benefits** | car, discounts, health cover, pension | retains staff; costly and sometimes untaxed value is unappreciated |
+| **Wage** (time rate) | paid per hour worked, usually weekly; overtime at 1.5–2 times the rate | easy to calculate, but does not reward the more productive worker |
+| **Piece rate** | paid per unit produced | encourages speed; **quality may fall**, so costly quality control is needed |
+| **Salary** | fixed annual amount, paid fortnightly or monthly | security, but extra work is not usually paid |
+| **Commission** | a percentage of the sales the employee makes | drives selling; pressure selling can harm reputation, and pay drops in a bad month |
+| **Bonus** | a lump sum, usually at the end of the year | a good motivator; resentment from those who miss out |
+| **Profit sharing** | a small share of profit on top of pay | builds loyalty; less profit is left to reinvest |
+| **Performance-related pay** | pay linked to an appraisal of how effective the work is | used where output cannot be counted; appraisal is subjective and needs trained staff |
+| **Share ownership** | employees are given shares, earning dividends | encourages efficiency and loyalty; reduces other shareholders' dividends |
+| **Fringe benefits** | company car, discounts, health insurance, gym membership | make the job more attractive and retain staff; can cost the business less than an equal pay rise |
 
 ## Non-financial motivators
 
@@ -59,13 +68,17 @@ Treat all three as models to apply critically, not as promises that everyone res
 | **Hierarchy** | the levels of authority in the organisation |
 | **Chain of command** | the route down which instructions pass |
 | **Span of control** | the number of subordinates a manager directly supervises |
-| **Delegation** | passing authority for a task down the hierarchy |
+| **Delegation** | entrusting tasks and responsibilities from senior managers to junior managers or employees |
 | **Accountability** | the manager remains answerable even after delegating |
 | **De-layering** | removing a level of management |
 
-**Tall structure** — many levels, narrow spans. Close supervision and clear promotion steps, but slow communication and high management cost.
+An **organisational chart** shows these relationships. Departments may be organised by function, product, customer group or region.
 
-**Flat structure** — few levels, wide spans. Fast communication and cheaper management, but supervision is thinner and promotion opportunities fewer.
+**Tall structure** — many levels, long chain of command, narrow spans, little delegation. Easier supervision, managers can specialise, and delegation prepares staff for promotion; but high management cost and slow decision-making.
+
+**Flat structure** — few levels, short chain of command, wide spans, more delegation. Lower management cost and more freedom, which can raise motivation; but staff are harder to supervise and communicate with, may lack the skills needed, and objectives may be unclear.
+
+**Centralised** organisations keep authority and decision-making at the top (usually tall structures). **Decentralised** organisations delegate most decisions down the chain of command (usually flat structures).
 
 A **wider span of control** needs experienced, capable staff and work that is similar and low-risk. **Delegation** motivates (it adds responsibility — Herzberg) and frees the manager's time, but requires trust and training, and the manager keeps the accountability.
 
@@ -83,7 +96,7 @@ The suitable style depends on **urgency, the experience of the staff, and the ri
 
 ## Communication
 
-The process requires a **sender**, a **clear message**, a suitable **channel (medium)**, a **receiver**, and **feedback** confirming understanding.
+Effective communication is clear, easy to understand and allows for feedback. The process requires a **sender**, a **clear message**, a suitable **channel (medium)**, a **receiver**, and **feedback** confirming understanding. Communication is **internal** (within the business — vertical between manager and employee, horizontal between colleagues) or **external** (with customers, suppliers, government).
 
 | Type | Examples |
 |---|---|
@@ -97,20 +110,20 @@ The process requires a **sender**, a **clear message**, a suitable **channel (me
 
 | Barrier | Remedy |
 |---|---|
+| Language barriers | use different methods; keep records so messages can be re-sent |
+| Technical jargon the receiver does not understand | short, to-the-point, jargon-free messages |
+| Receiver hears only the parts they want | ask for feedback — the receiver confirms or repeats back |
+| Wrong channel for the message | choose the method for the audience: written for detail, face-to-face for sensitive news |
 | Too long a chain of command | de-layer, or go direct |
-| Wrong channel for the message | use written for detail, face-to-face for sensitive news |
-| Technical jargon | plain language suited to the receiver |
-| Noise or distraction | choose the time and place |
-| No feedback | ask the receiver to confirm or repeat back |
-| Poor relationship / low trust | address the underlying management issue |
+| Staff who communicate poorly | train employees in effective communication |
 
 *Application example.* A delivery firm changing routes should issue an **accurate written route sheet** (detail, reference), give a **face-to-face briefing** (questions), and **confirm understanding** before the first run. The mechanism is fewer misunderstood instructions → fewer missed deliveries → lower redelivery costs. Naming the firm without this chain of reasoning earns little application credit.
 
 ## Trade unions
 
-A **trade union** is an organisation of employees that represents members collectively.
+Businesses want to keep costs down; employees want higher pay, better conditions and job security — which are costs. A **trade union** is an organisation with the objective of improving the conditions of its members and providing support and legal services when required. Membership is a choice and usually costs a fee.
 
-Functions: negotiating pay and conditions (**collective bargaining**), improving health and safety, representing a member in a dispute or disciplinary case, providing training and legal advice.
+Functions: negotiating pay and conditions on behalf of all members (**collective bargaining**), improving health and safety, supporting members who are dismissed or made redundant, providing training and legal advice, and pressuring government to pass laws that favour workers.
 
 | Benefits to employees | Benefits to the business |
 |---|---|
@@ -118,11 +131,26 @@ Functions: negotiating pay and conditions (**collective bargaining**), improving
 | protection in disputes and dismissals | union can help communicate change |
 | improved safety and conditions | can improve morale and reduce turnover |
 
-**Industrial action** — overtime ban, work to rule, go-slow, or strike — disrupts output, loses revenue and damages reputation; employees lose pay. Analyse the effects on **workers and the business separately**.
+**Industrial action**, from most to least severe:
+
+| Action | What members do | Effect |
+|---|---|---|
+| **Strike** | refuse to work | output stops and sales may fall; workers are not paid |
+| **Sit-in** | occupy the premises but do not do their normal work | output stops; workers may not be paid |
+| **Go-slow** | work very slowly | productivity falls; morale falls further |
+| **Work to rule** | do only what the contract requires — no overtime or goodwill | lower service quality; workers cannot be disciplined |
+
+An **overtime ban** (refusing to work overtime) is another form. Analyse the effects on **workers and the business separately**.
+
+**Employees have more power** when the public supports them and action quickly costs the employer a lot of output and profit. **Employers have more power** when profits are low and closure threats are taken seriously, or the business can relocate to a low-cost country.
 
 ## Human resource management
 
-**Workforce planning** forecasts how many staff with which skills will be needed.
+**Human resource management** is the effective management of employees — selecting, using and developing them — so they help the business gain a competitive advantage.
+
+**Workforce planning** forecasts how many staff with which skills will be needed to meet long-term objectives. **Downsizing** cuts the total number of jobs to reduce costs; **rightsizing** restructures the size and mix of the workforce.
+
+Businesses recruit because staff leave, retire, are promoted or take leave, or because production increases.
 
 **Recruitment and selection:**
 
@@ -145,6 +173,14 @@ Functions: negotiating pay and conditions (**collective bargaining**), improving
 | **On-the-job** | learning while doing, beside an experienced worker | cheap and relevant; bad habits can pass on, trainer's output falls |
 | **Off-the-job** | external course or college | broader, higher-quality skills; expensive, time away, the trained worker may leave |
 
-**Reducing the workforce.** **Dismissal** is ending employment because of the employee's conduct or performance; **unfair dismissal** happens where there is no adequate reason or the correct procedure was not followed. **Redundancy** is ending employment because the job itself is no longer needed — a cost (redundancy pay) and a blow to the morale of those remaining.
+**Reducing the workforce.** **Dismissal** is ending employment because of the employee's conduct or performance — gross misconduct (theft, fraud, drugs, harassment), incompetence, or a legal bar such as a courier losing a driving licence. A disciplinary procedure usually runs from verbal warnings to a written warning before dismissal; serious breaches can mean instant dismissal. **Unfair dismissal** happens where there is no adequate reason or the correct procedure was not followed. **Redundancy** is ending employment because the job itself is no longer needed: **voluntary** (the employee chooses to leave for compensation) or **compulsory** (the employee is forced to leave, with compensation). It costs redundancy pay and hurts the morale of those remaining.
 
-**Legal controls on employment** typically cover minimum wages, maximum working hours, contracts, health and safety, and protection against discrimination and unfair dismissal. Compliance raises costs; non-compliance risks fines, compensation claims and reputational damage.
+An **employment contract** sets out the employer and employee, start date, job title, pay and how often it is paid, holidays, notice period and disciplinary rules. Contracts may be permanent full-time (35 hours or more), permanent part-time, or fixed-term.
+
+**Employment law** requires a written statement of terms and conditions, protection from unfair dismissal and from discrimination (direct or indirect, on grounds such as age, sex, religion or disability), a safe and healthy workplace, and wage protection including a minimum wage. Compliance raises costs; non-compliance risks tribunal claims, compensation and reputational damage.
+
+**Labour turnover** is the proportion of the workforce leaving in a year:
+
+$$\text{labour turnover} = \frac{\text{number of employees leaving in a year}}{\text{number of people employed}}\times100$$
+
+High turnover brings recruitment and training costs, lower output, and weak loyalty and team spirit — but also fresh ideas, a chance to hire better staff, and a natural way to cut labour costs. Modern firms also support **work–life balance** through flexible hours, working from home, job sharing and sabbaticals.

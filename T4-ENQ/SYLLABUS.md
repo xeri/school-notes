@@ -1,72 +1,73 @@
 # English — Pre-Q Syllabus
 
-**Final exam (Term 4):** Papers **1, 3 and 4**. Paper 2 (the studied novel) is not sat in Term 4.
-The 2026 details state **one hour and 25 marks for each paper**. The 2025 final used the same three-paper set: three hours, 75 marks in total.
+**Final exam (Term 4):** Papers **1, 3 and 4**. Paper 2 (the studied novel) is sat in Term 2, not Term 4.
+The 2026 details state **one hour and 25 marks for each paper**. The 2025 final (Friday 24 October 2025) used the same three-paper set in a single sitting: three hours, 75 marks, one question from each paper. The final Pre-Q grade aggregates Papers 1, 2, 3 and 4 at **25% each**: Paper 2 from the Term 2 exam, and Papers 1, 3 and 4 from Term 4.
 
-**Paper 1 — Commentary on an unfamiliar text.** One unfamiliar prose extract and one unfamiliar poem are printed; you write **one** response, on either. A focus question sets the brief, almost always in the form *"Comment on how, and with what effects, the author presents X."* **Biblical or mythical allusion is explicitly named in the 2026 details** and carries a criterion of its own.
+**Paper 1 — Commentary on an unfamiliar text.** One unfamiliar passage of **prose fiction** and one unfamiliar **poem** are printed; you write **one** commentary, on either. Each has a focus question; on the 2024 and 2025 papers it always took the form *"Comment on how, and with what effects, the author presents X."* The 2026 details state that **both the prose and the poem will contain at least one biblical or mythical allusion**, to be identified and analysed, and the Paper 1 mark schedule gives it a criterion of its own.
 
-**Paper 3 — Essay on the studied drama, *Othello*.** A choice of a **general** question on the whole play **or** a **passage-based** question on a printed extract. The questions are text-specific. **The studied text may not be taken into the examination**, so quotations must be memorised. The 2025 paper also forbade using the printed passage when answering the general question; that instruction belongs to the 2025 paper and is worth checking against the current one.
+**Paper 3 — Essay on the studied drama, *Othello*.** A choice of two questions: a **general** question on the whole play **or** a **passage-based** question on a printed extract. The questions are text-specific. **The studied text may not be taken into the examination**, so quotations must be memorised. Every past paper that gives instructions (2021, Term 2 2025 and Term 4 2025) forbids using evidence from the printed passage in the general answer. Treat this as a standing rule.
 
-**Paper 4 — Essay on the studied film.** Current details give **four questions**; an older guide says four or five, so confirm the exact count. The questions are **not text-specific** — they are written to work for any film studied in the year group, so the method must be portable and the evidence must come from the film you studied.
+**Paper 4 — Essay on the studied film, *Tinker Tailor Soldier Spy* (Tomas Alfredson, 2011).** The 2026 details give **a choice of four questions**, but every Paper 4 from 2021 to 2025 printed **five**. Expect four or five. The questions are **not text-specific**: they are written to work for any film studied in the year group, so the method must be portable and the evidence must come from the film you studied.
 
-The Paper 1 rubric explicitly describes the Term 4 paper. A separate literature rubric is headed **"coursework"**, and the under-500-word cap appears on that coursework rubric — treat it as a coursework rubric item whose application to the exam is unconfirmed, not as an exam rule. Still unconfirmed: the exact 2026 schedule and the permitted equipment.
+The Paper 1 mark schedule is stated to be the Term 4 schedule. Papers 3 and 4 have no separate exam schedule in the 2026 details. The only literature-essay schedule (with "literary/filmic" conventions) is headed **"Coursework Literature Essays"**, and it carries a note that **essays under 500 words should not score higher than 12/25**. Treat that cap as a coursework rule whose application to the exam is unconfirmed, but write well over 500 words regardless: the school's guidance is about **650 words in the hour**. Still unconfirmed: the exact 2026 date and permitted equipment.
 
-Glossary of literary, poetic and film terms: [TERMS.md](TERMS.md)
+Glossary of literary, poetic and film terms, plus the school's tone, mood and essay vocabulary: [TERMS.md](TERMS.md)
 Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Import** in Anki.
 
 | # | Topic | Notes | Cards |
 |---|---|---|---|
-| 1 | Paper 1: unfamiliar texts | [notes](notes/unfamiliar-texts.md) | [deck](anki/unfamiliar-texts.txt) |
-| 2 | Paper 3: *Othello* | [notes](notes/othello.md) | [deck](anki/othello.txt) |
-| 3 | Paper 4: film analysis | [notes](notes/film.md) | [deck](anki/film.txt) |
+| 1 | Paper 1 unfamiliar texts | [notes](notes/unfamiliar-texts.md) | [deck](anki/unfamiliar-texts.txt) |
+| 2 | Paper 3 Othello | [notes](notes/othello.md) | [deck](anki/othello.txt) |
+| 3 | Paper 4 film analysis | [notes](notes/film.md) | [deck](anki/film.txt) |
 | 4 | Writing and argument | [notes](notes/writing.md) | [deck](anki/writing.txt) |
 
-Topic 4 is assessed in all three papers. Everything in it is examined three times.
+Topic 4 is assessed in all three papers, through the organisation and expression criteria on every paper and the response-to-question criterion on Papers 3 and 4.
 
 ---
 
 ## 1. Paper 1: unfamiliar texts
 
-**Assessed:** one commentary, 25 marks, on an unseen prose extract **or** an unseen poem, answering a printed focus question.
+**Assessed:** one commentary, 25 marks, on an unseen prose-fiction extract **or** an unseen poem, answering a printed focus question.
 
 **Mark criteria (5 each):**
 
-| Criterion | What it asks |
-|---|---|
-| Understanding and interpretation | How much textual knowledge and understanding of the text's meaning is shown — superficial meaning scores low, implied meaning scores high |
-| Appreciation of literary conventions | To what extent are literary conventions identified **and** their effect appreciated |
-| Identification and appreciation of allusions | Has the allusion been identified, and its effect appreciated |
-| Organisation and development | How organised, coherent and developed the presentation of ideas is |
-| Expression | Accuracy, clarity, variety and register of the writing |
+| Criterion | What it asks | 5 marks |
+|---|---|---|
+| 1. Understanding and interpretation | How much textual knowledge and understanding of the text's meaning has the student shown? | Detailed textual knowledge and perceptive understanding of its **implied** meanings (1 mark: only some understanding of its superficial meaning) |
+| 2. Appreciation of literary conventions | To what extent does the student identify **and** appreciate the use of literary conventions? | Extensive examples perceptively identified and analysed in detail, with sensitive appreciation of their effect |
+| 3. Identification and appreciation of allusions | To what extent has the student identified the allusion and shown an appreciation for its effect? | The allusion perceptively identified and analysed in detail, with sensitive appreciation of its effect (1 mark: identified, but inaccurately) |
+| 4. Organisation and development | How well organised, coherent and developed is the presentation of ideas? | Compellingly organised; structure and development confidently controlled to achieve cogency |
+| 5. Expression | How accurate, clear and varied is the written expression, and how appropriate is the register? | Always accurate, precise and carefully chosen, with clarity, fluency and some flair; vocabulary and sentence structure compelling |
 
 **Skills required**
 
-- Choose between the prose and the poem inside the first three minutes, and never revisit the decision.
-- Annotate the question: isolate the focus noun (*experience*, *state of mind*, *desire and/or disappointment*, *the character X*) and commit to one side of any "and/or".
-- Read twice — once for sense, once with a pen — marking the allusion, the tonal or perspectival turn, repeated words, and anything odd in syntax or layout.
+- Choose between the prose and the poem within the first five or six minutes, and do not revisit the decision.
+- Annotate the question: isolate the focus noun (past papers used *experience*, *state of mind*, *desire and/or disappointment*, and *the character X and her conversation*), and handle any "and/or" deliberately.
+- Read twice, once for sense and once with a pen, marking the allusion, the tonal or perspectival turn, repeated words, and anything odd in syntax or layout.
 - Identify speaker, situation and addressee before analysing anything.
 - Locate the structural turn (a volta, a change of tense, a paragraph beginning *Yet*) and build the thesis from it.
-- Name devices precisely, from at least four different categories: structure, imagery, diction, sound, voice.
-- Identify a **biblical or mythical allusion**, name the source, map the parallel, and analyse the divergence from the source.
-- Track how the **tone shifts** across the text and devote a paragraph to it.
-- Quote in fragments of four or five words and analyse the wording, not the content.
+- Name devices precisely, from several categories: structure, imagery, diction, sound, voice.
+- Identify a **biblical or mythical allusion** accurately, name the source, map the parallel, and analyse its effect, including where the text departs from the source.
+- Track how the **tone shifts** across the text. Every high-scoring model answer the school uses is praised for this.
+- Quote in short fragments of four or five words and analyse the wording, not the content.
 - Reach an implied meaning in every paragraph.
 
 ## 2. Paper 3: *Othello*
 
-**Assessed:** one essay, 25 marks, on *Othello* — either a general question on the whole play or a commentary on a printed passage. Closed book.
+**Assessed:** one essay, 25 marks, on *Othello*: either a general question on the whole play or a question on a printed passage. Closed book.
 
-**Mark criteria (5 each):**
+**Mark criteria (5 each)**, from the literature-essay schedule. Criteria 4 and 5 match Paper 1's, apart from the word counts.
 
-| Criterion | What it asks |
-|---|---|
-| Response to the question | How well the demands of the question have been understood and answered |
-| Understanding and interpretation | Textual knowledge and implied meanings; in a passage question, whether the extract is contextualised within the larger character, narrative and thematic arcs |
-| Appreciation of literary conventions | Conventions identified **and analysed in detail**, with sensitivity to effect |
-| Organisation and development | Coherence, control, cogency |
-| Expression | Accuracy, precision, fluency |
+| Criterion | What it asks | 5 marks |
+|---|---|---|
+| 1. Response to the question | How well has the student understood and responded to the demands of the question? | Addresses the implications and subtleties of the question with an insightful response |
+| 2a. Understanding and interpretation (general) | How much textual knowledge and understanding of the text's meaning is shown? | Extensive, detailed textual knowledge and perceptive understanding of its implied meanings |
+| 2b. Understanding and interpretation (passage-based) | To what degree is the passage contextualised within the larger character, narrative and thematic arcs? | Perceptive knowledge of the passage and insightful awareness of its context and implications |
+| 3. Appreciation of literary/filmic conventions | To what extent does the student identify and appreciate the conventions used? | Extensive and relevant examples perceptively identified and analysed in detail, with sensitive appreciation of effect |
+| 4. Organisation and development | How well organised, coherent and developed is the presentation of ideas? | Compellingly organised and relevant; structure and development confidently controlled to achieve cogency |
+| 5. Expression | How accurate, clear and varied is the written expression, and how appropriate is the register? | Always accurate, precise and carefully chosen, with some flair; vocabulary and sentence structure compelling. The descriptors for 4 and 5 marks both add "over 600 words" |
 
-Printed under this schedule: excellent expression cannot reach 5/5 on irrelevant material, and passage-based essays must still show knowledge of the wider text, which is credited under three of the five criteria.
+Three notes are printed under this schedule. Excellent expression cannot reach 5/5 if the material is not relevant to the question. Passage-based essays must still show knowledge of the wider text throughout, and specific, relevant links elsewhere are rewarded under **criteria 1, 2 and 4**. Essays under 500 words should not score higher than 12/25.
 
 **Skills required**
 
@@ -75,14 +76,15 @@ Printed under this schedule: excellent expression cannot reach 5/5 on irrelevant
 - Analyse **drama** conventions specifically: blank verse against prose, shared and split lines, soliloquy, aside, stichomythia, rhyming couplet, stagecraft, props, dramatic irony.
 - Trace Iago's techniques of manipulation as a sequence, not a list.
 - Argue a theme (jealousy, reputation, race and outsiderness, appearance and reality, gender and marriage, honesty, public duty against private life) rather than describe it.
-- Track image patterns across the whole play — animal, poison, devil, light and dark, the sea, money, the handkerchief, the willow.
+- Track image patterns across the whole play: animal, poison, devil, light and dark, the sea, money, the handkerchief, the willow.
+- Engage with a quoted critical view: agree, disagree or, best of all, qualify it. The general questions in 2022, 2024 and Term 4 2025 were all built on a quoted statement (Coleridge on Iago in 2024).
 - Structure a general question chronologically through the acts; structure a passage question through the extract, with links out to the rest of the play.
 - Contextualise an extract in one or two sentences without retelling the plot.
 - Write in the present tense about the play, the past tense about history, and spell every name correctly.
 
 ## 3. Paper 4: film analysis
 
-**Assessed:** one essay, 25 marks, on the film studied in class, answering one of several questions that are **not** text-specific. Marked against the same five criteria as Paper 3, with criterion 3 reading **filmic** conventions.
+**Assessed:** one essay, 25 marks, on *Tinker Tailor Soldier Spy*, answering one of four or five questions that are **not** text-specific. The instructions ask for "an appreciation for a range of filmic conventions used by the director". The same literature-essay criteria apply, with criterion 3 covering **filmic** conventions.
 
 **Skills required**
 
@@ -90,23 +92,23 @@ Printed under this schedule: excellent expression cannot reach 5/5 on irrelevant
 - Convert a named technique into an effect on the viewer, then into a meaning that answers the question.
 - Describe a sequence accurately in words: narrative context, what is framed, how it is cut, what is heard.
 - Separate observation from interpretation, and offer an alternative reading where the evidence supports one.
-- Recognise the recurring question archetypes — technique, character, relationship, conflict, theme, setting, context — and re-angle prepared material onto whichever appears.
-- Prepare four or five sequences in depth rather than memorising whole essays.
-- Name director, title and year accurately, and discuss the director's choices rather than the characters' actions.
-- Deploy conventions from at least four different categories across the essay.
+- Recognise the recurring question archetypes (technique, character, relationship, conflict, theme, setting, context) and re-angle prepared material onto whichever appears.
+- Prepare five or six sequences in depth rather than memorising whole essays.
+- Name the title, director and year accurately, and discuss the director's choices rather than the characters' actions.
+- Use conventions from at least four different categories across the essay.
 
 ## 4. Writing and argument
 
-**Assessed:** in every paper, through the criteria for response to the question, organisation and development, and expression — twelve of the twenty-five marks on each paper are won or lost here before any content is considered.
+**Assessed:** in every paper. Organisation and development and expression are 10 of the 25 marks on Paper 1. On Papers 3 and 4, response to the question is a third criterion, making 15 of the 25. These marks are won or lost by how you write.
 
 **Skills required**
 
 - Unpack a question into its command word, its focus noun, and its stated limits.
 - Build an **arguable** thesis: a claim about how a method produces an effect, not a label naming a topic.
 - Write the introduction as four moves: hook, transition, rationale, thesis.
-- Write body paragraphs as point, evidence, analysis, explanation, link — with analysis carrying the majority of the paragraph.
-- Embed quotations grammatically by dialogue tag, colon or flow-on, and keep them to the shortest sufficient fragment.
-- Handle counter-argument by concession and qualification rather than by ignoring it.
-- Write a conclusion that restates the thesis as demonstrated and then widens it, without introducing new evidence.
+- Write body paragraphs as point, evidence, analysis, explanation, link, with analysis carrying the majority of the paragraph. The school's shorthand is P.E.E., with point and evidence worth 25% and exploration 75%.
+- Quote the SICK way: selective, integrated, contextualised, with knowledge of purpose. Embed by dialogue tag, colon or flow-on, and keep to the shortest sufficient fragment.
+- Handle counter-argument and critical comments by concession and qualification rather than by ignoring them.
+- Write a conclusion in two moves, summation and contemporary connect, without introducing new evidence.
 - Vary sentence length deliberately; maintain a formal register with no contractions, no colloquialism and no comma splices.
-- Plan in the first ten minutes and leave three minutes to proofread.
+- Plan in the first ten minutes, aim for about 650 words, and leave three minutes to proofread.

@@ -2,7 +2,7 @@
 #html:true
 #notetype:Basic
 #deck:Business::6 External influences
-Four government economic objectives	Economic growth, low unemployment, low and stable inflation, a favourable balance of payments
+Four government economic objectives	Low and stable inflation, high and stable employment, economic growth, a favourable balance of international trade and payments
 Give an example of conflicting government objectives	Stimulating growth can pull in imports and push up inflation
 Definition of fiscal policy	Government use of spending and taxation
 Definition of monetary policy	Influencing monetary conditions, usually through interest rates
@@ -11,18 +11,18 @@ Effect of higher indirect tax (VAT/GST)	Higher prices, so demand may fall — es
 Effect of higher interest rates on borrowing	Repayments on variable-rate loans and overdrafts rise, cutting profit
 Effect of higher interest rates on investment	Expansion becomes less attractive and may be postponed
 Effect of higher interest rates on consumer demand	Credit-financed purchases such as cars and houses fall sharply
-Effect of higher interest rates on the exchange rate	The currency tends to strengthen, making exports dearer abroad
-Three supply-side measures	Training, infrastructure investment, deregulation or lower business taxes
-Four stages of the business cycle	Boom, recession, slump, recovery
+Effect of higher interest rates on the exchange rate	Foreign savers deposit money there, so the currency appreciates — exports dearer, imports cheaper
+Three supply-side policies	Privatisation, training and education, promoting competition (less government control, action against monopolies)
+Five stages of the business cycle	Growth, boom, recession, slump, recovery
 Typical business response in a recession	Cut costs, reduce stock, discount, delay investment
 Typical business response in a boom	Raise prices, expand capacity, recruit — while watching for overtrading
 Which sectors are most sensitive to the business cycle?	Luxury goods, construction and travel
 Which sectors are least sensitive?	Basic food, utilities and discount retail
-Definition of inflation	A sustained rise in the general price level
+Definition of inflation	A sustained increase in the average level of prices in an economy
 Four effects of inflation on a business	Higher input costs, lower real customer purchasing power, wage demands, harder planning and pricing
 Who benefits from inflation?	Borrowers — the real value of existing debt falls
 Two effects of unemployment on a business	Lower total demand, but a larger pool of available workers and weaker wage pressure
-What does SPICED stand for?	Strong Pound, Imports Cheap, Exports Dear
+What does SPICED stand for?	Strong Pound (any strong currency), Imports Cheap, Exports Dear
 Effect of a weaker currency on exports	Cheaper to foreign buyers, so export volume tends to rise
 Effect of a weaker currency on imported materials	More expensive in domestic currency, so costs rise
 What determines the net effect of a currency fall?	The invoicing currency, demand elasticity, and the share of imported costs
@@ -30,15 +30,15 @@ Four areas of legal control on business	Employment, consumer protection, health 
 Two consumer protection requirements	Goods must be fit for purpose and as described; advertising must be honest
 Cost of non-compliance with health and safety	Accidents, prosecution, compensation and lost output
 Definition of an externality	A cost or benefit falling on third parties rather than the business
-Definition of sustainability	Meeting present needs without depriving future generations
+Definition of sustainability	Meeting our needs without compromising the ability of future generations to meet theirs
 Why can sustainability measures cut costs?	Less waste and less energy used — though investment is needed first
 How do pressure groups influence a business?	Boycotts, protests and publicity campaigns
 What determines a pressure group's influence?	Its size, media attention, and how exposed the brand is
 Does an ethical decision always increase profit?	No — judge the specific case and state what it depends on
-Definition of globalisation	The growing integration of national economies through trade, investment, technology and migration
-Definition of a multinational company	A business with production operations in more than one country
+Definition of globalisation	The world becoming increasingly interconnected through increased trade and cultural exchange
+Definition of a multinational company	A business with its headquarters in one country and production or operations in another — exporting alone is not enough
 Three benefits of a multinational to a host country	Jobs and training, tax revenue, technology and skills transfer
-Three drawbacks of a multinational to a host country	Profits repatriated, local firms forced out, decisions made abroad and the plant can close
+Three drawbacks of a multinational to a host country	Mainly low-skilled jobs, profits taken home (little tax), local firms suffer (also resources depleted)
 Definition of a tariff	A tax on imports
 Definition of a quota	A physical limit on the quantity of a good that may be imported
 Who is harmed by a tariff besides foreign producers?	Domestic firms that use imported materials, and consumers paying higher prices
@@ -46,4 +46,14 @@ Three benefits of free trade	Access to larger markets, economies of scale, cheap
 Main risk of free trade for domestic firms	Exposure to stronger foreign competitors
 Four options for a firm facing higher imported input costs	Change suppliers, reduce waste, absorb a lower margin, raise prices
 When is raising prices the worst option?	When customers have many substitutes — demand is elastic
-What makes a recommendation well justified?	Using the firm's own cost structure and likely customer response, plus a contingency if the assumption is wrong
+What inflation rate do most governments aim for?	Low and stable — about 1% to 3% a year
+Definition of unemployment	People willing and able to work who cannot find paid employment
+What is a favourable balance of trade?	Exporting more than importing (or reducing a trade deficit)
+Usual definition of a recession	Two quarters in a row of falling GDP
+Effect of higher corporate tax on a business	Lower profit after tax, less to reinvest, expansion harder
+Social cost formula	Private cost + external cost
+Definition of an external benefit	A positive effect of an activity on an unrelated third party — e.g. bees pollinating nearby crops
+Definition of a pressure group	An organisation aiming to change the behaviour of a business that fails to act responsibly, through publicity and protest
+Four tools of protectionism	Tariffs, quotas, subsidies to domestic producers, embargoes
+Definition of an embargo	A ban on trading certain goods or with a certain country
+Home vs host country	Home: where a multinational has its headquarters; host: where it sets up operations
