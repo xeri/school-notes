@@ -178,8 +178,7 @@ The teaching material describes long answers worth 8 or 10 marks — in the 20-m
 - Barter and its problems; the characteristics and functions of money; the money supply.
 - Spending, saving and borrowing, and the factors that influence them; disposable income; interest rates and the real return.
 - The money market: commercial banks, investment banks, credit unions and the central bank; how banks make a profit; why banks matter to consumers, producers and government.
-- Classifying firms by sector (primary, secondary, tertiary) and by ownership (private, public); why small firms survive and the challenges they face.
-- What determines the demand for factors of production.
+- The stock exchange (NZX): its functions; market capitalisation; IPOs; preference shares, ordinary shares and government bonds; bullish and bearish markets.
 
 ## 4. Demand, supply and the market
 
