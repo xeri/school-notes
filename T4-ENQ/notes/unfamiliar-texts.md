@@ -105,6 +105,49 @@ Illustrating with a sentence of my own: *"She managed the garden, as she managed
 
 Never list sounds. Name the consonant class, say what noise it makes, then say what that noise does: *"The repeated plosive 'b' and 'd' sounds reproduce the knock of the gate against its post, and the effect is to make the sound of the place more present to the speaker than the view beyond it."*
 
+## Poetry toolkit: form, line and stanza
+
+Check these in order on any poem. Each row gives the question to ask and what an answer sounds like.
+
+| Feature | Ask | What to argue |
+|---|---|---|
+| **Metre** | Is there a regular beat? Scan two lines and count the stresses | A regular metre suggests control, ritual or song. A broken foot falls on the word the poem cannot keep calm about. **Free verse** is not formless: the line breaks carry the work metre would do |
+| **Line length** | Do the lines stay even, or does one shrink or swell? | A short line after long ones isolates its words; a swollen line enacts excess, as when a catalogue overflows |
+| **Enjambment** | What word sits at the end of the line, and what does the next line do to it? | The suspended word is read twice: once alone, then again in its sentence. Enjambment **across a stanza break** is stronger still, because the white space makes the reader wait |
+| **Broken words at line-end** | Is a word hyphenated across the break, as *demi- / paradise*? | The split makes you read each half alone (*demi-* = half), so the word's meaning is divided before it is completed |
+| **Caesura** | Where does a full stop or question mark fall *inside* a line? | A mid-line stop halts momentum and often marks the turn: a sentence ends and a new attitude begins on the same line |
+| **End-stopping** | Which lines close on punctuation? | Finality, statement, the sound of a verdict. Contrast an end-stopped run with an enjambed one |
+| **Stanza form** | Couplet (2), tercet (3), quatrain (4), cinquain or quintet (5), sestet (6), octave (8); regular or irregular? | A regular stanza is a container; the one stanza that breaks the pattern is the one to analyse. A shortened final stanza sounds like something cut off or withheld |
+| **Fixed forms** | Sonnet (14 lines, a volta), villanelle (19 lines, two refrains), ballad (quatrains, narrative, refrain), dramatic monologue (one persona, an implied listener) | Name the form only if it is there, then ask how the poem uses or strains it |
+| **Volta** | Where does the argument change direction? Watch for *But*, *Yet*, *And then*, a question, an imperative, a change of tense | The volta is usually where the thesis comes from. In free verse it can fall anywhere, and there can be more than one |
+| **Syntax against line** | Does a sentence end mid-line and a new one begin? Does one sentence run across several lines? | When syntax and line pull against each other, the poem is resisting its own shape |
+| **Title** | What does it promise, and does the poem keep the promise? | Titles are often ironic, as with an "ice palace" that turns out to be a hotel |
+| **Address** | Who is *you*? The reader, a beloved, the speaker's own self? | A shift in address (from the general *you* to *dearest*) is a shift in relationship and tone |
+
+## Prose toolkit: voice, speech and pace
+
+Prose fiction rewards a different vocabulary from poetry. A prose commentary that discusses only imagery has left most of its marks on the table.
+
+| Feature | Definition | What to argue |
+|---|---|---|
+| **First-person narrator** | *I* tells the story | Intimacy and limitation: we know only what this person knows, or will admit. Ask whether they are **reliable** |
+| **Third-person limited** | *He* or *she*, filtered through one character's perception (**focalisation**) | Sympathy without full trust; the narrator sees what the focal character sees. Note whose consciousness the extract inhabits, and whether it switches |
+| **Third-person omniscient** | A narrator who knows everyone's thoughts and can judge | Authority and irony; the narrator can know what a character does not, as in *"It was evident that…"* |
+| **Narrative distance** | How close the narration sits to a character's mind | Close: we feel with them. Distant: we watch them. A shift in distance mid-extract is a shift in sympathy |
+| **Free indirect discourse** | A character's thoughts given in the narrator's third person, without *he thought* | The two voices blend, so the reader cannot always tell whose judgement a phrase is. Analyse the blur: is the narrator endorsing or exposing the character? |
+| **Direct speech** | The character's words in quotation marks | Voice, idiom and rhythm belong to the character; compare how much each speaker is given |
+| **Reported (indirect) speech** | The narrator summarises what was said | Distance; the narrator controls the words. A switch from direct to reported speech mutes a character |
+| **Speech tags and adverbs** | *said*, *cried*, *whispered*; *pitilessly*, *wildly* | Tags are the narrator's verdict on each line. A pattern of tags (rising volume, repeated *almost*) is a structural feature, not decoration |
+| **Turn-taking** | Who speaks most, who questions, who answers, who falls silent | Power in a conversation is measured by who asks the questions and who is left without words |
+| **Gesture and body language** | Hands, faces, posture described alongside speech | What a character cannot say is often shown in the body. Track it as a parallel script |
+| **Scene and summary** | Scene shows events moment by moment; summary compresses them | Moving into full scene slows time and signals importance |
+| **Pacing and time markers** | *A minute passed*; *Five minutes passed* | Explicit time markers stretch the silence; growing intervals build pressure |
+| **Ellipsis (narrative)** | A gap where time or action is skipped | What is withheld must be inferred, and the omission is a choice |
+| **Sentence length and punctuation** | Long accumulating sentences against fragments; ellipses (…) and dashes | Trailing ellipses enact speech breaking off; a fragment lands as a blow |
+| **Characterisation, direct and indirect** | Direct: the narrator tells us (*she was frightened*). Indirect: we infer from speech, action and appearance | Strong answers spend more time on indirect characterisation, because that is where implied meaning lives |
+| **Setting and symbol** | Rooms, weather, objects given unusual attention | In a short extract, any object named twice has been chosen |
+| **Foreshadowing and irony** | A detail that will matter later; a gap between what is said and what is meant | Name the gap and who is on each side of it |
+
 ## Tone and tonal shift
 
 **Tone** is the speaker's attitude to the subject. **Mood** is the atmosphere of the world of the text. They are different and the distinction is marked.
@@ -186,8 +229,8 @@ Both printed texts will contain at least one, and it is worth 5 of the 25 marks.
 |---|---|---|---|
 | 2024 prose | *eden*, Jim Crace | Alum's **experience** witnessing the outside world | Eden: an angel peering over the wall at *"forbidden ground"*, an apple thrown into the world |
 | 2024 poem | "Ajar", A. E. Stallings | The speaker's **state of mind** | Pandora, named outright: a marital quarrel retold as the jar, with the woes as *"words"* and *"quiet"* left behind instead of hope |
-| 2025 prose | *Crime and Punishment*, Dostoevsky | The **character** Sonia and her conversation with Raskolnikov | Christian: Sonia's faith (*"God will not let it be!"*) against Raskolnikov's *"perhaps there is no God at all"*; he kneels to kiss her foot, bowing *"to all the suffering of humanity"* |
-| 2025 poem | "Ice Palace", Margaret Atwood | **Desire and/or disappointment** | Fairy tale and Eden: a *"demi-paradise"*, *"Invisible hands"*, the *"fearful beast"* who *"longs for kisses"*, *"the one forbidden door"* |
+| 2025 prose | *Crime and Punishment*, Dostoevsky | The **character** Sonia and her conversation with Raskolnikov | Christian: Sonia's faith (*"God will not let it be!"*) against Raskolnikov's *"perhaps there is no God at all"*; he kisses her foot, bowing *"to all the suffering of humanity"*, which reverses the Gospel scene of the sinful woman kissing Christ's feet |
+| 2025 poem | "Ice Palace", Margaret Atwood | **Desire and/or disappointment** | Bluebeard's forbidden room (*"the one forbidden door"*, *"Do not look"*), with Eden through *"demi-paradise"*, Shakespeare's phrase for England as *"This other Eden"*; Beauty and the Beast in the *"fearful beast"* and the *"Invisible hands"* |
 
 The allusion is sometimes explicit (Pandora) and sometimes built from several signals (Eden, Bluebeard). Either way the criterion rewards the same moves: identify it accurately, then analyse its effect.
 
@@ -200,6 +243,100 @@ The allusion is sometimes explicit (Pandora) and sometimes built from several si
 - **Widen in the last sentence** from the text to a general truth about people, such as breaking from family tradition (*Digging*) or a generation refusing its inheritance (the Destructors).
 
 The examiner comments on the model commentaries point the same way. They praise word selection, vowel sounds, pronouns and conjunctions, accumulated repetition, a recognised change of tone, and awareness of the whole passage. They note that *"nothing is gained"* by defining audience and purpose. The 24/25 Gillard answer was marked down for not giving the mounting list of accusations a paragraph of its own.
+
+## The 2025 texts: worked models
+
+The Term 4 2025 paper is the most recent model of what Paper 1 will look like. Both plans below quote only short fragments, which is also how you should quote in the exam. The paragraph labels **[C1]** to **[C5]** show which of the five criteria each move earns: C1 understanding and interpretation, C2 literary conventions, C3 allusion, C4 organisation and development, C5 expression.
+
+### (a) *Crime and Punishment*: Sonia and Raskolnikov
+
+**The question:** *Comment on how, and with what effects, the author presents the character, Sonia and her conversation with Raskolnikov.* The focus is double: Sonia as a **character**, and the **conversation** as an exchange of power. Cover both.
+
+**Situation.** Third-person narration, close to neither character but closer to Raskolnikov's movements than his thoughts. Raskolnikov, a young man already tormented by a secret of his own, visits Sonia, who supports her consumptive stepmother Katerina Ivanovna and the children by selling herself. The extract never names her trade; it is present only in euphemism (*"You don't get money every day?"*) and in her blush.
+
+**Thesis.** Dostoevsky presents Sonia as a woman whose faith survives every argument her questioner can bring against it, and the conversation as an interrogation that collapses into worship: Raskolnikov sets out to break her belief with logic and ends on his knees, so the scene's power passes from the man who speaks to the woman who barely can.
+
+**Structural turn.** The foot-kiss. Before it, Raskolnikov is a prosecutor, pacing and questioning while Sonia answers in single words; after it, he is a penitent speaking *"wildly"* and *"almost in a frenzy"*. A second, quieter turn comes in the last line: Sonia does not deny the suicide he proposes, she only asks what would become of the children.
+
+**Key quotations: device and effect**
+
+| Fragment | Device | Effect |
+|---|---|---|
+| *"he persisted pitilessly"* | Speech-tag adverb; alliterated plosive *p* | The narrator passes judgement on each of Raskolnikov's questions; the hard consonants make the cruelty audible |
+| *"No," whispered Sonia* / *"Yes."* | Monosyllabic answers set against his long speeches; turn-taking | Power measured in words: he has the sentences, she has the syllables. Her silence is not emptiness but exhaustion |
+| *"as though she had been stabbed"* | Simile | The suggestion about Polenka, her younger stepsister, lands as physical violence. Words become a weapon in his hands |
+| *"God will not let it be!"* / *"perhaps there is no God at all"* | Antithesis across the dialogue; the conversation's climax | The argument narrows to its real subject: theodicy, whether a good God permits suffering. His *"perhaps"* is crueller than a denial, because it plants doubt instead of asserting |
+| *"bitter, bitter sobs"* | Epizeuxis | The repetition extends the grief beyond the sentence; her answer to atheism is not an argument but tears |
+| *"A minute passed… Another minute passed… Five minutes passed"* | Time markers; pacing | The silences lengthen as the pressure grows, so the reader waits with Sonia for the next blow, and the blow is a kiss |
+| *"kissed her foot"* / *"as from a madman"* | Reversal; simile | The prosecutor becomes a supplicant. The narrator confirms her reading (*"certainly he looked like a madman"*), which keeps the gesture strange rather than sentimental |
+| *"I bowed down to all the suffering of humanity"* | Antithesis (*not to you … to*); abstraction | He makes Sonia a symbol of universal suffering, which honours her and erases her in the same breath |
+| *"shame and degradation … side by side with … holy feelings"* | Paradox; antithesis | The extract's central idea of Sonia: holiness and shame in one person. Raskolnikov cannot reconcile them; the text asks whether the problem is hers or his |
+
+**The allusion: Sonia and the Gospel.** Two signals, *"a great sinner"* and a man kneeling to kiss a woman's foot, point to **Luke 7**, where *"a woman … which was a sinner"* weeps at Christ's feet, kisses them, and is forgiven because *"she loved much"*. Dostoevsky **reverses** the scene: here the sinner's foot is kissed, and the man who kneels is the one in need of absolution. The effect is to make Sonia a Christ-like figure whose suffering is redemptive, and to hint that the man judging her is the greater sinner. Her name supports the reading: Sonia is short for Sofya, from the Greek for wisdom, a title of the Holy Wisdom in Orthodox Christianity. **Beyond the extract** (knowledge for revision, not something to assume in an unseen paper): in the novel, this conversation leads straight into Raskolnikov asking Sonia to read him the raising of **Lazarus** from John 11, the Gospel's great story of a man brought back from death. The novel frames Sonia as the one who can bring Raskolnikov back to life. In the exam, mention Lazarus only if you know the novel, and only as one clause; the passage itself carries the Luke reading.
+
+**Tone shifts.** Clinical and prosecutorial (*"You are not insured against it, are you?"*) → mocking (*"almost ironically"*, *"with a sort of malignance"*) → silence → wild, then *"almost solemnly"* reverent → frenzied → Sonia's faint, resigned last line. The repeated *almost* in the narrator's tags is itself a tonal signal: Raskolnikov's emotions never settle into one word.
+
+**Sample opening paragraph.**
+
+> Faith is most visible when it has nothing left to stand on. In this extract from *Crime and Punishment*, Fyodor Dostoevsky stages a conversation in which every support for Sonia's faith is removed, one question at a time, by a visitor who seems to want nothing but to hurt her. Raskolnikov's interrogation moves from her stepmother's illness to the fate of the children and finally to the existence of God, before it breaks into an act of worship and a proposal of suicide. Ultimately, Dostoevsky presents Sonia as a character whose near-silence is stronger than her questioner's logic, and the conversation as a contest of power that the speaker loses to the listener, so that the extract ends with the persecutor on his knees and the persecuted woman still asking what will become of others.
+
+**Model paragraph, criteria shown.**
+
+> Dostoevsky measures power in the conversation by the length of each speaker's lines **[C4: point that develops the thesis]**. Raskolnikov's speeches swell into catalogues of disaster, *"she will cough and beg and knock her head against some wall"*, where the polysyndeton piles one misery on the next until the sentence trails off at *"and the children…"* **[C2: device named, mechanism described]**. Sonia, by contrast, is given *"No"* and *"Yes"*, and the narrator's tags, *"whispered"* and *"with a painful effort"*, show that even these cost her **[C2]**. Yet the implied meaning reverses the surface one: the woman who can barely speak is the only person in the room whose belief does not move, and when his questions reach their limit in *"perhaps there is no God at all"*, her only answer is *"bitter, bitter sobs"* **[C1: implied meaning]**. This is why his collapse onto the floor to kiss her foot reads as an inverted Gospel scene: in Luke the sinful woman kisses Christ's feet, but here the self-appointed judge kneels to the *"great sinner"*, so that Sonia, not her questioner, holds the place of grace **[C3: allusion named, mapped, divergence analysed]**. Dostoevsky therefore makes silence the stronger rhetoric **[C4: link back]**, a reversal stated in precise, varied, formal sentences **[C5]**.
+
+### (b) "Ice Palace": desire and/or disappointment
+
+**The question:** *Comment on how, and with what effects, the author presents desire and/or disappointment.* Take **both**, because the poem's argument is the movement from one to the other, and say so in the thesis.
+
+**Situation.** A speaker addresses *you*, a guest in a luxury hotel imagined as a fairy-tale palace. The poem moves from what the guest sees (comfort served by *"Invisible hands"*) to what the guest must not see (*"Backstage"*), and ends with a warning, addressed to *"dearest"*, not to look behind the door.
+
+**Form.** Six five-line stanzas and a three-line final stanza; free verse; short lines; enjambment everywhere, including across stanza breaks (*"smooth down / the sheets"*, *"the one inscribed / Staff Only"*). Words are split at the line-end (*demi- / paradise*, *all- / you-can-eat*). The shortened last stanza sounds cut off, like a door closing.
+
+**Thesis.** Atwood presents desire as something manufactured, *"named and thus created"* by the luxury that promises to satisfy it, and disappointment as the cost of looking behind the display: by rewriting Bluebeard's forbidden room as a *"Staff Only"* door, she suggests that every paradise of comfort depends on bodies kept out of sight, and that the pleasure lasts only as long as we agree not to look.
+
+**Structural turns.** Three, and the essay can follow them. *"But no,"* at the end of stanza 2 deflates the fantasy of marzipan and opal into *"only dreams"*. *"Where / is the fearful beast"* in stanza 5 turns description into questions. *"Backstage its always carnage"* in stanza 6 is the volta into horror, and the final stanza turns horror into a whispered command.
+
+**Key quotations: device and effect**
+
+| Fragment | Device | Effect |
+|---|---|---|
+| *"Another ice palace. Another demi-"* | Anaphora on *Another*; minor sentence; line-break split | *Another* makes paradise mass-produced and repeatable; the split *demi-* means *half* before it means paradise. An ice palace is beautiful, cold and bound to melt |
+| *"named and thus created, / and then almost satisfied"* | Paradox; the qualifier *almost* | Desire is produced by the language that names it, as advertising produces wants. *Almost* is the poem's definition of disappointment, built in from the start |
+| *"marzipan … jewel-toned water … opal gelatin"* | Sensory catalogue; polysyndeton (*and … and … and*) | Edible, glittering, artificial materials: the luxury is confectionery, sweet and insubstantial. The piling *and*s enact appetite |
+| *"it's only dreams, it's only / clouds of breath"* | Repetition of the diminisher *only*; metaphor | The palace dissolves into breath and words, the stuff of advertising copy |
+| *"the heavenly bed, the all- / you-can-eat breakfast"* | Marketing diction; religious register made commercial | Hotel slogans borrow the language of heaven and abundance; the hyphenated line-break mimics the excess it names |
+| *"Invisible hands"* | Synecdoche | Servants reduced to hands; labour made invisible so that comfort feels magical. The phrase also recalls the economist's *invisible hand* of the market, a hedged extra reading |
+| *"cause violins to lullaby / the sugared air"* | Noun used as a verb; synaesthesia (*sugared air*) | Luxury lulls the guest like a child; even the air is sweetened |
+| *"the wad of hair / you left"* | Concrete, faintly repellent detail; direct address | The one unglamorous image, and it is ours: the guest's mess is cleaned by someone unseen |
+| *"Where are the bodies that were once / attached to all those hands?"* | Rhetorical question; enjambment | The synecdoche is turned into horror: the hands have lost their bodies. The line break makes *once* hang ominously |
+| *"Red petals on the floor. / You hope they're petals."* | Short end-stopped sentences; ambiguity | The rose on the pillow returns as possible blood; the second sentence lets doubt in without confirming anything |
+| *"Do not look … oh / dearest, do not look."* | Imperative; repetition; apostrophe; enjambment on *oh* | The closing command is tender and threatening at once, and repeating it makes looking more tempting, not less |
+
+**The allusions.** Two signal clusters, each with more than one marker.
+
+- **Bluebeard.** In Perrault's tale a wealthy husband gives his new wife the keys to every room but forbids one small chamber; she opens it and finds the floor covered in blood and the bodies of his former wives. Atwood's signals: *"the one forbidden door"*, *"the last and smallest room"*, *"carnage"*, *"Red petals on the floor"*, and the repeated *"Do not look"*. **The divergence:** the forbidden room is now a *"Staff Only"* door, so the hidden violence belongs not to one murderous husband but to the economy that runs the hotel, and the voice issuing the prohibition, calling the reader *"dearest"*, takes the husband's part. The reader is cast as the curious wife, and desire to know is the desire the poem forbids.
+- **Eden, through *"demi-paradise"*.** The phrase is Shakespeare's: in *Richard II*, John of Gaunt calls England *"This other Eden, demi-paradise"*. Atwood's *"Another … demi- / paradise"* echoes *"This other Eden"*, so the hotel is a copy of a copy, half a paradise. Eden adds a forbidden thing and a Fall, which the closing prohibition repeats; the line *"named and thus created"* also recalls the naming in Genesis, here performed by marketing.
+- **Supporting signals.** The *"fearful beast who runs the show / and longs for kisses"* and the *"Invisible hands"* that bring food and turn on lights recall **Beauty and the Beast**, where invisible servants wait on a guest in an enchanted palace. Use this as a clause supporting the Bluebeard reading, not as a separate paragraph.
+
+**Tone shifts.** Wry and deflating (*"Hotel / might be an accurate label"*) → lush and indulgent (the catalogue) → dismissive (*"But no, / it's only dreams"*) → lulling, with one jarring note (the hair) → uneasy and questioning → gothic and macabre (*"carnage"*) → hushed, intimate and urgent (*"oh / dearest"*).
+
+**Sample opening paragraph.**
+
+> Luxury depends on a promise that someone else will do the work out of sight. In "Ice Palace", Margaret Atwood takes that promise apart, moving from a hotel's glittering fantasy of marzipan, music and *"Invisible hands"* to the *"carnage"* that may lie behind its service doors. The poem's catalogue of comforts gives way to questions about the missing bodies, and then to a whispered warning against opening *"the one forbidden door"*. Ultimately, Atwood presents desire as something manufactured by the very luxury that claims to satisfy it, and disappointment as the price of curiosity: by recasting Bluebeard's forbidden chamber as a *"Staff Only"* room, she suggests that paradise for some is sustained only by refusing to look at the cost to others.
+
+**Model paragraph, criteria shown.**
+
+> The poem's final stanzas turn the reader's desire for comfort into a desire to know, and then forbid it **[C4: point advancing the thesis]**. The rose placed on the pillow returns as *"Red petals on the floor"*, and the next sentence, *"You hope they're petals"*, is only four words long, its short end-stopped syntax letting doubt in without confirming anything **[C2: device and mechanism]**. The implication is that the hotel's beauty and its violence are the same substance seen from two sides of a door **[C1: implied meaning]**. That door is Bluebeard's: as in Perrault's tale, where a bride is forbidden one small room and finds it running with blood, Atwood's speaker warns against *"the last and smallest room"*, yet the room is labelled *"Staff Only"*, so the hidden carnage belongs to the workers whose *"hands"* have served us all along, not to a single murderous husband **[C3: allusion identified, mapped, divergence analysed]**. The repeated imperative *"do not look"*, softened by the apostrophe *"oh / dearest"*, places the speaker in Bluebeard's role, and the tenderness makes the threat more unsettling **[C2, C1]**. Disappointment, then, is not that the palace fails, but that it works only if we never ask how **[C4: link; C5: controlled, varied, formal expression throughout]**.
+
+### What both models do that the criteria reward
+
+| Criterion | How the models hit it |
+|---|---|
+| C1 Understanding | Every paragraph ends on an implied meaning (*silence is the stronger rhetoric*; *it works only if we never ask how*), not on what happens |
+| C2 Conventions | Devices from several categories (speech tags, pacing, simile, antithesis; enjambment, synecdoche, imperative, stanza length), each with its mechanism |
+| C3 Allusion | Two signals quoted; source named and explained in one clause; parallel mapped; the **divergence** analysed (the kiss reversed; the forbidden room as a staff door) |
+| C4 Organisation | The thesis names the turn, and the paragraphs follow it in order; each paragraph opens with a claim and closes by linking back |
+| C5 Expression | Short quotations integrated into the sentence, formal register, varied sentence length, no *this quote shows* |
 
 ## From naming a device to earning the mark
 

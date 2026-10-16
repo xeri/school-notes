@@ -37,6 +37,21 @@ $$\frac{3x}{4}\times\frac{9x}{10} = \frac{27x^2}{40} \qquad \frac{2x}{3}\div\fra
 
 $$\frac{x^2+2x}{x^2+4x+4} = \frac{x(x+2)}{(x+2)^2} = \frac{x}{x+2}$$
 
+$$\frac{2x^2-x-1}{x^2-1} = \frac{(2x+1)(x-1)}{(x+1)(x-1)} = \frac{2x+1}{x+1}$$
+
+**Subtracting** — put the second numerator in a bracket so the minus sign reaches every term:
+
+$$\frac{2}{x-1}-\frac{1}{x+2} = \frac{2(x+2)-(x-1)}{(x-1)(x+2)} = \frac{x+5}{(x-1)(x+2)}$$
+
+**Solving an equation with algebraic fractions** — multiply every term by the common denominator to clear the fractions:
+
+$$\frac{3}{x+1}+\frac{2}{x-2} = 1$$
+$$3(x-2)+2(x+1) = (x+1)(x-2)$$
+$$5x-4 = x^2-x-2 \Rightarrow x^2-6x+2 = 0$$
+$$x = \frac{6\pm\sqrt{36-8}}{2} = 3\pm\sqrt7, \text{ so } x = 5.65 \text{ or } 0.354$$
+
+**Mark-losing errors:** cancelling terms instead of factors ($\tfrac{x+2}{x}$ is not $2$); $-(x-1)$ written as $-x-1$; multiplying only some terms by the common denominator, especially the right-hand side.
+
 ## Indices in algebra
 
 $$\left(\frac{2x^5}{3}\right)^3 = \frac{8x^{15}}{27}$$
@@ -116,6 +131,16 @@ The minimum of $y = (x+3)^2-10$ is at $(-3, -10)$ — read the turning point str
 
 If $a \neq 1$, factor it out first: $2x^2+8x+3 = 2\left[(x+2)^2-4\right]+3 = 2(x+2)^2 - 5$.
 
+**Turning points from the completed square.** $y = a(x+p)^2+q$ has its turning point at $(-p,\ q)$ and line of symmetry $x = -p$. It is a **minimum** if $a > 0$ and a **maximum** if $a < 0$.
+
+*Worked example (2025 type).* $2x^2-8x+3 = 2(x^2-4x)+3 = 2\left[(x-2)^2-4\right]+3 = 2(x-2)^2-5$. Minimum point $(2, -5)$; the $y$-intercept is $3$. Sketch a U through $(0,3)$ with vertex $(2,-5)$.
+
+*Worked example.* $3x^2-12x+5 = 3\left[(x-2)^2-4\right]+5 = 3(x-2)^2-7$, minimum $(2,-7)$.
+
+*Worked example — a maximum.* $y = -x^2+6x-4 = -(x^2-6x)-4 = -\left[(x-3)^2-9\right]-4 = -(x-3)^2+5$. Maximum point $(3, 5)$.
+
+**Mark-losing errors:** the sign of the $x$-coordinate — $(x+3)^2-10$ turns at $x = -3$, not $+3$; forgetting to multiply the $-\tfrac{b^2}{4}$ term by $a$ when $a \neq 1$; stating "turning point" without saying whether it is a maximum or minimum when asked.
+
 **3. The formula** (always works):
 
 $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
@@ -140,11 +165,19 @@ For 5, 9, 13, 17, …: $d = 4$, so $4n+1$.
 
 For 3, 8, 15, 24, …: first differences 5, 7, 9; second difference 2, so the $n^2$ coefficient is 1. Subtract $n^2$ (1, 4, 9, 16) to leave 2, 4, 6, 8 — which is $2n$. So the $n$th term is $n^2+2n$.
 
+*Quadratic with $a \neq 1$.* 2, 9, 20, 35, …: first differences 7, 11, 15; second difference 4, so the $n^2$ coefficient is 2. Subtract $2n^2$ (2, 8, 18, 32) to leave 0, 1, 2, 3, which is $n-1$. So the $n$th term is $2n^2+n-1$. Check: $n = 4$ gives $32+4-1 = 35$ ✓
+
 **Cubic.** Constant third difference; the $n^3$ coefficient is the third difference ÷ 6.
+
+*Example.* 2, 9, 28, 65, …: differences 7, 19, 37; then 12, 18; then 6. So the $n^3$ coefficient is $6\div6 = 1$. Subtract $n^3$ (1, 8, 27, 64) to leave 1, 1, 1, 1, so the $n$th term is $n^3+1$.
+
+**Is a number in the sequence?** Set the $n$th term equal to it and solve. For $4n+1 = 100$, $n = 24.75$ — not a whole number, so 100 is not a term.
 
 **Exponential (geometric).** Constant ratio $r$: $n$th term $= ar^{n-1}$. For 3, 6, 12, 24, …: $3\times2^{n-1}$.
 
 **Combinations** can mix these, e.g. $2^n + n$.
+
+**Mark-losing errors:** writing $n+4$ for a sequence going up in 4s (the difference is the coefficient of $n$: $4n+\ldots$); using the first difference as the $n^2$ coefficient instead of half the second difference; not checking the formula against a given term.
 
 ## Variation
 
@@ -158,6 +191,10 @@ Write the proportion, find $k$, then use it.
 | $y$ is inversely proportional to $x^2$ | $y = \tfrac{k}{x^2}$ |
 
 *Example.* $y$ is inversely proportional to $\sqrt{x}$, and $y = 4$ when $x = 9$. Then $k = 4\times3 = 12$, so $y = \tfrac{12}{\sqrt x}$ and when $x = 36$, $y = 2$.
+
+More variation examples and errors are in [Number](../notes/number.md).
+
+**Graphical inequalities and regions** (Inequalities: regions in the course skills) are in [Coordinate geometry and graphs](../notes/graphs.md), because they need straight-line equations.
 
 ## Functions
 
@@ -176,3 +213,17 @@ With $f(x) = 3x-5$ and $g(x) = x^2$:
 $$gf(x) = (3x-5)^2 \qquad fg(x) = 3x^2-5$$
 
 These differ — the order matters. $gf(2) = 1$ while $fg(2) = 7$.
+
+**Inverse when $x$ appears twice.** For $f(x) = \dfrac{2x+1}{x-3}$, write $y = \dfrac{2x+1}{x-3}$ and make $x$ the subject:
+
+$$y(x-3) = 2x+1 \Rightarrow xy-2x = 3y+1 \Rightarrow x(y-2) = 3y+1 \Rightarrow f^{-1}(x) = \frac{3x+1}{x-2}$$
+
+*Worked example (2023 type).* $g(x) = 4-2x^2$ and $h(x) = \dfrac{x+6}{2}$.
+
+- $h^{-1}(x)$: $y = \tfrac{x+6}{2} \Rightarrow x = 2y-6$, so $h^{-1}(x) = 2x-6$
+- $hg(x) = h(4-2x^2) = \dfrac{4-2x^2+6}{2} = 5-x^2$
+- Solve $hg(x) = -7$: $5-x^2 = -7$, so $x^2 = 12$ and $x = \pm2\sqrt3$
+
+**Undoing:** $f^{-1}f(x) = x$ and $ff^{-1}(x) = x$.
+
+**Mark-losing errors:** $f^{-1}(x)$ is the inverse function, **not** $\dfrac{1}{f(x)}$; doing $gf$ in the wrong order ($f$ is applied first, because it is nearest to $x$); leaving the inverse in terms of $y$.

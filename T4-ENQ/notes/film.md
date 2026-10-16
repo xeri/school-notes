@@ -240,6 +240,45 @@ A character question and a technique question have appeared every year, and conf
 
 **On context.** If the film is set in one period and made in another, you have two legitimate contexts. Say which you mean before you argue from it, and do not drift anachronistically into the viewer's present unless the question invites it.
 
+## The 2025 Term 4 questions
+
+Exactly as printed under *"Answer ONE question from this paper"*, with the sequences from *Tinker Tailor Soldier Spy* that answer each. Every plan uses three or four sequences in narrative order, with evidence from at least three technique categories.
+
+| | Question | Sequences that answer it | Thesis direction |
+|---|---|---|---|
+| **(a)** | *"Sound is what truly makes a film come alive. It's what takes the visual into the subconscious." With reference to the film you studied, analyse how sound is used to enhance the visual storytelling.* | Budapest (near-silence and ambient café sound before the shot); Guillam's logbook theft (duration and near-silence); the Christmas party (the diegetic Soviet anthem); Smiley's Karla monologue (no score, so the empty chair is filled by his voice alone); the ending (*"La Mer"*, non-diegetic) | Alfredson uses sound mostly by **withholding** it, so that small diegetic noises carry the suspense, and the two moments of music (the anthem and *"La Mer"*) are ironic, telling the viewer what the images conceal |
+| **(b)** | *"A supporting character, when well-crafted, often becomes the moral compass or narrative catalyst of the film." With reference to the film you studied, analyse how at least one supporting character is used to advance the central theme/s.* | Ricki Tarr's arrival and story (the **catalyst**: his account starts the hunt); Guillam's theft and break-up (the **cost** of loyalty); Jim Prideaux at the school and the final shot (a **moral compass** of a kind: the betrayed friend who delivers judgement) | Note *"at least one"* and *"theme/s"*: two characters is safe. Tarr sets the plot moving and shows love punished; Prideaux closes it and shows betrayal paid for in grief. Between them they carry the theme that loyalty is personal before it is political |
+| **(c)** | *"Drama is conflict, and without conflict there is no drama." With reference to the film you studied, analyse how conflict is used to drive narrative and develop characters.* | Budapest (the Cold War conflict, then its failure); the Circus room (conflict inside the institution); the Karla monologue (Smiley against an absent enemy); the trap, Haydon's confession and Prideaux's shot (the conflict made personal) | The film demotes open conflict (almost no action) in favour of hidden conflict: between colleagues, between loyalty and love, and inside Smiley, whose stillness is how the conflict is fought |
+| **(d)** | *"To understand a film, you must understand the world it comes from." Discuss the ways the film you studied reflects the cultural and/or historical context in which it was made or set.* | The Circus room and the muted palette (an institution in decline); the Christmas party (an Establishment at play, singing the enemy's anthem); Haydon's confession (the Philby case; his contempt for the West); Guillam's break-up (private lives that had to be hidden) | Choose **set** (1973: Cold War, British decline, the Cambridge spies, an upper-class male Establishment) and say so. If you add **made** (2011), keep it to one hedged paragraph on why a period piece about institutional betrayal speaks to a later audience |
+| **(e)** | *"Cinema is a mosaic of human relationships. It shows how we connect, drift apart and grow through each other." With reference to the film you studied, discuss how a relationship between characters evolves over time to reveal key themes and ideas.* | Haydon and Prideaux: the look at the Christmas party (connect), Budapest (betrayal), Prideaux's shot at the end (the end of the relationship, delivered as grief). Alternatively Smiley and Ann through the party, the lighter and the monologue | The non-linear structure reveals the relationship in fragments, so the viewer reconstructs a friendship and its betrayal the way Smiley reconstructs the case; the theme is that betrayal hurts most where love was |
+
+## Shot-level detail for the key sequences
+
+What to say about the image and the soundtrack, sequence by sequence. The **Confidence** column matters: details marked *check* are ones these notes cannot fully confirm, so rewatch the sequence before relying on them, or leave them out. Never describe a shot you have not seen.
+
+| Sequence | Detail | Category | Effect | Confidence |
+|---|---|---|---|---|
+| Budapest | The waiter sweating; a face at an upstairs window; Prideaux noticing both | Performance; point-of-view framing | The viewer learns to read danger from small details, as a spy does | Confident |
+| Budapest | Little dialogue and no explanation before the shooting | Sound (near-silence); exposition withheld | Suspense through what is withheld; the violence arrives without musical warning | Confident |
+| Budapest | Prideaux shot as he walks away; other people in the café are also hit, including, as remembered, a woman with a baby | Editing; violence breaking stillness | The cost of the game falls on bystanders | *Check* the bystander detail |
+| Smiley in retirement | Smiley swimming alone in the open-air ponds on Hampstead Heath | Setting; long shot | A solitary, cold, patient figure: the anti-Bond | Confident |
+| Smiley in retirement | Smiley's new glasses, which mark present scenes off from flashbacks | Props; costume | Seeing clearly as theme; a visual key to the non-linear structure | Confident that his glasses change; *check* where the change is shown |
+| The Circus | The windowless meeting room lined in orange soundproofing | Production design; colour | An institution sealed so it can hear only itself | Confident |
+| The Circus | Control's chess pieces with the suspects' photographs taped on | Props; close-up | Men reduced to pieces in a game | Confident |
+| Tarr's story | Tarr waiting in Smiley's dark house; low-key lighting hides his face while Smiley is lit; a mid-shot of Smiley sensing a visitor, *"Hello Ricki"* | Lighting; framing; dialogue | Danger and distrust; Smiley's watchfulness (the school's model paragraph) | Confident (school source) |
+| Tarr's story | A two-shot of Tarr and Irina in a convertible around the Istanbul docks | Framing; setting; colour | Warmth and freedom set against grey London; the one love story in the film | Confident (school source) |
+| Tarr's story | Irina: *"I want a new life in the West"*; Tarr calls himself one of the *"scalp-hunters"* | Dialogue | Love and defection against the cynical trade; Tarr's wish to *"bring this one in myself"* | Confident (school source) |
+| The Christmas party | Father Christmas in a Lenin mask; the room sings the Soviet anthem | Diegetic sound; costume; flashback | The enemy's song sung with delight inside British intelligence | Confident |
+| The Christmas party | Returns in fragments across the film, each return showing more | Non-linear editing | The viewer pieces the truth together as Smiley does | Confident |
+| The owl | An owl trapped in the classroom; Prideaux kills it with his hands while the boys watch | Performance; reaction shots | Trained violence in a place of innocence; foreshadows the end | Confident |
+| Esterhase | Smiley threatens Toby Esterhase at an airfield, with a plane coming in to land overhead | Sound; setting | Smiley's one display of menace, drowned by engine noise | *Check* |
+| The Karla monologue | Smiley speaks about Karla towards an empty chair, in a long take without score | Long take; mise-en-scène; silence | The great antagonist is an absence the viewer has to imagine | Confident |
+| Haydon's confession | Haydon says his choice was aesthetic as much as moral, because the West had grown ugly | Dialogue; performance | Betrayal as snobbery as much as ideology | Confident |
+| The ending | Prideaux shoots Haydon with a rifle from a distance; a tear on Prideaux's face before he fires | Long lens; close-up; performance | Grief, not duty | Confident about the shot; *check* the tear |
+| The ending | A closing montage over Julio Iglesias's *"La Mer"*; Smiley takes the head chair in the Circus room | Non-diegetic music; montage; circular structure | Warm, romantic music over loneliness and death; the game continues | Confident |
+
+**Style across the film, safe to claim in any answer:** a muted palette of browns, greys and mustard; frequent framing through glass, doorways and windows; long, slow shots and very little score; a non-linear structure built on returns to the Christmas party; and an antagonist, Karla, who is never seen.
+
 ## Mark-losing habits
 
 | Habit | Fix |

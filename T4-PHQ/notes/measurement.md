@@ -29,6 +29,20 @@ Convert **before** substituting into an equation.
 
 Standard form keeps very large and very small numbers manageable: the speed of light is $3.00\times10^8$ m/s, not 300000000 m/s.
 
+| Prefix | Symbol | Multiplier |
+|---|---|---|
+| giga | G | $10^9$ |
+| mega | M | $10^6$ |
+| kilo | k | $10^3$ |
+| centi | c | $10^{-2}$ |
+| milli | m | $10^{-3}$ |
+| micro | μ | $10^{-6}$ |
+| nano | n | $10^{-9}$ |
+
+*Examples.* 450 nm $= 4.50\times10^{-7}$ m; 2.4 MW $= 2.4\times10^6$ W; 35 mA $= 0.035$ A.
+
+**This loses marks:** rounding in the middle of a calculation (only round the final answer); confusing m (milli) with M (mega).
+
 ## Instruments
 
 Choose an instrument whose **range** covers the quantity and whose **resolution** is fine enough for the precision you need.
@@ -81,6 +95,7 @@ A **scalar** has magnitude only. A **vector** has magnitude and direction.
 | speed | velocity |
 | mass | weight |
 | time, energy, temperature | force, acceleration, momentum |
+| | electric field strength, gravitational field strength |
 
 Walk 3 m east then 4 m north: the **distance** travelled is 7 m, but the **displacement** is 5 m (by Pythagoras) at $\tan^{-1}(3/4) = 37°$ east of north.
 

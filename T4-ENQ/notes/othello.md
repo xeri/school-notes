@@ -26,6 +26,28 @@ Venice is law, senate and public argument; Cyprus is a garrison island with no c
 | IV | Cyprus | Othello's language collapses into prose; the epileptic fit; the eavesdropping trick; Bianca enters with the handkerchief; Othello strikes Desdemona publicly; the brothel scene; the Willow Song | The handkerchief appearing in Bianca's hand — the moment Othello takes as proof |
 | V | Cyprus | Night and chaos again; Roderigo is killed, Cassio wounded; the murder in the marriage bed; Emilia exposes Iago and dies for it; Othello kills himself | Emilia's refusal to obey — the one thing Iago cannot control |
 
+### Scene by scene
+
+Closed book means you must be able to place any quotation and any extract. One line per scene.
+
+| Scene | What happens | Why it matters |
+|---|---|---|
+| I.i | Night, a Venice street. Iago complains to Roderigo that Cassio was promoted over him; they wake Brabantio with animal slanders about the elopement | Iago's hatred, his method (shouting from the dark) and the racist vocabulary all arrive before Othello does |
+| I.ii | Iago pretends loyalty to Othello. Othello calmly faces Brabantio's armed party; the Senate summons him | Othello's authority without violence: *"Keep up your bright swords"* |
+| I.iii | The Senate: the Turkish threat to Cyprus; Brabantio's charge of witchcraft; Othello's account of the wooing; Desdemona's *"divided duty"*; Othello sent to Cyprus. Iago tells Roderigo to *"Put money in thy purse"*, then plans in soliloquy | The public peak of the marriage, Brabantio's warning, and the first statement of the plot |
+| II.i | Cyprus. A storm wrecks the Turkish fleet; Desdemona, Iago and Cassio arrive, then Othello. Iago jokes, watches Cassio take Desdemona's hand, and convinces Roderigo she loves Cassio | The war ends offstage; the reunion (*"If it were now to die"*) is the happiest moment of the play |
+| II.ii | A herald proclaims a night of celebration | The festive licence Iago exploits |
+| II.iii | Iago gets Cassio drunk; a brawl; Montano wounded; Othello dismisses Cassio. Iago sends Cassio to Desdemona and reveals the plan to the audience | Reputation lost; *"I'll pour this pestilence into his ear"* |
+| III.i | Cassio hires musicians; Emilia arranges for him to see Desdemona | The innocent meeting Iago will misread |
+| III.ii | Othello inspects the fortifications | Brief: he is still the general |
+| III.iii | The temptation scene. Desdemona pleads for Cassio; Iago insinuates; Othello demands proof; the handkerchief is dropped, picked up by Emilia, given to Iago; Iago invents Cassio's dream; Othello and Iago kneel and swear | The pivot. Othello's language and loyalty change sides in one scene |
+| III.iv | Othello demands the handkerchief from Desdemona, who pleads for Cassio. Emilia on jealous men. Cassio gives the handkerchief to Bianca | Cross-purposes and the prop in the wrong hands |
+| IV.i | Iago's obscene suggestions bring on Othello's fit; Othello overhears Cassio laughing about Bianca; Bianca throws back the handkerchief; Lodovico arrives with Othello's recall; Othello strikes Desdemona in public | The collapse into prose and public violence |
+| IV.ii | Othello questions Emilia, then treats Desdemona as a whore in a brothel. Desdemona kneels to Iago for help. Roderigo complains and is set on Cassio | The slander spoken aloud; Emilia's *"eternal villain"* speech |
+| IV.iii | Desdemona prepares for bed, sings the Willow Song, and talks with Emilia about unfaithful wives | The calm before the murder; Emilia's speech on husbands |
+| V.i | Night. Roderigo attacks Cassio; Iago wounds Cassio and kills Roderigo; Bianca is blamed | Iago's plot begins to need violence by his own hand |
+| V.ii | Othello kills Desdemona. Emilia raises the alarm and exposes Iago, who kills her. Othello wounds Iago, speaks his last speech, and kills himself. Cassio is made governor | Recognition, ruin, and the state's restoration of order |
+
 Three structural observations worth deploying:
 
 - **The play begins and ends at night.** Act I scene i and Act V scene i are both night scenes of alarm in the street, and Othello enters the bedchamber in V.ii carrying a light. The torch is stagecraft with a thesis attached.
@@ -44,6 +66,109 @@ Three structural observations worth deploying:
 | **Bianca** | A courtesan genuinely in love and treated as disposable. Her name means "white", which detonates the play's colour symbolism. The third term in its study of women: Desdemona idealised, Emilia pragmatic, Bianca commodified — all three destroyed or degraded by one system. |
 | **Roderigo** | Dupe and funder. The interesting answer to "victim or collaborator" is both. |
 | **Brabantio** | Patriarchal possessiveness in a single repeated word: *my*. He dies of grief offstage, reported in the last scene. |
+
+## Character pages
+
+Each character with an arc in one line, an argument to make, and quotations to learn. Quotations follow the Globe text and are checked against it; act and scene follow standard editions.
+
+### Othello
+
+**Arc:** the eloquent, self-possessed general → the tormented, credulous husband → the murderer who tries to narrate himself back into nobility.
+**Argument:** his identity is public (rank, service, reputation), so when Iago attacks his private life he has nothing inside to defend it with.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"My parts, my title and my perfect soul / Shall manifest me rightly"* | I.ii | Confidence in public identity; the self as something others can see |
+| *"Rude am I in my speech"* | I.iii | A false modesty spoken in magnificent verse: language is his power |
+| *"My blood begins my safer guides to rule"* | II.iii | Passion overtaking judgement: the first crack, before Iago has said a word against Desdemona |
+| *"Arise, black vengeance, from the hollow hell!"* | III.iii | The vow of revenge; Othello now speaks Iago's hellish register. The Globe text reads *"from thy hollow cell"*; most modern editions print *"the hollow hell"* |
+| *"I will chop her into messes: cuckold me!"* | IV.i | The prose collapse; violence of language before violence of act |
+| *"Of one not easily jealous, but being wrought / Perplex'd in the extreme"* | V.ii | Self-defence in the last speech. Test it: was he *"not easily jealous"*? |
+
+### Iago
+
+**Arc:** the ensign passed over → the director of everyone's actions → silence.
+**Argument:** his power is rhetorical, and it depends on other people's virtues: Othello's trust, Cassio's courtesy, Desdemona's kindness.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"I am not what I am"* | I.i | Appearance and reality; the inverse of God's *I am that I am* |
+| *"The Moor is of a free and open nature, / That thinks men honest that but seem to be so"* | I.iii | He names the virtue he will exploit |
+| *"Thus do I ever make my fool my purse"* | I.iii | Roderigo as funds; power through hope and money, not pain |
+| *"For I am nothing, if not critical"* | II.i | Self-description as a critic: he reads and rewrites other people |
+| *"make the net / That shall enmesh them all"* | II.iii | Out of Desdemona's *"own goodness"*: virtue turned into a trap |
+| *"Not poppy, nor mandragora … / Shall ever medicine thee to that sweet sleep"* | III.iii | Gloating over Othello's pain: the clearest support for the 2025 claim |
+
+### Desdemona
+
+**Arc:** the bold bride who defies her father → the persistent advocate for Cassio → the bewildered, then resigned, victim.
+**Argument:** she is active and articulate, and the play punishes her for the same qualities it admires in Act I.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"That I did love the Moor to live with him, / My downright violence and storm of fortunes / May trumpet to the world"* | I.iii | Agency and public defiance |
+| *"I do perceive here a divided duty"* | I.iii | Duty transferred from father to husband, argued in open court |
+| *"Unkindness may do much; / And his unkindness may defeat my life, / But never taint my love"* | IV.ii | Love held as a choice even as it fails her; ironic foreshadowing |
+| *"I do not think there is any such woman"* | IV.iii | Innocence, or a refusal to believe the world Emilia describes |
+| *"Kill me to-morrow: let me live to-night!"* | V.ii | The pleading that makes the murder unbearable |
+
+### Emilia
+
+**Arc:** the compliant wife who steals the handkerchief → the realist who speaks for wives → the truth-teller who dies for it.
+**Argument:** the play's moral voice comes from a servant and a wife, the two positions with least power.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"I nothing but to please his fantasy"* | III.iii | Complicity: obedience to a husband she does not understand |
+| *"'Tis not a year or two shows us a man"* | III.iv | Marriage as discovering a husband too late |
+| *"But I do think it is their husbands' faults / If wives do fall"* | IV.iii | The play's argument on double standards |
+| *"O thou dull Moor!"* | V.ii | The servant judges the general |
+| *"Let heaven and men and devils, let them all, / All, all, cry shame against me, yet I'll speak"* | V.ii | Speech as courage; the opposite of Iago's final silence |
+
+### Cassio
+
+**Arc:** the courtly lieutenant → disgraced by drink → the dupe, then the governor.
+**Argument:** a gentleman whose manners towards ladies are spotless and towards a courtesan are contemptuous; he shows the class side of the play's treatment of women.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"A fellow almost damn'd in a fair wife"* | I.i | Iago's sneer, introducing him |
+| *"I have very poor and unhappy brains for drinking"* | II.iii | The weakness Iago exploits |
+| *"She's a most exquisite lady"* | II.iii | Courtly idealisation of Desdemona, which Iago twists into desire |
+| *"To have him see me woman'd"* | III.iv | Embarrassed by Bianca: love that must be hidden from the general |
+| *"For he was great of heart"* | V.ii | The epitaph: Cassio's generosity to the man who tried to kill him |
+
+### Roderigo
+
+**Arc:** the rejected suitor → Iago's purse and weapon → killed by his employer.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"What a full fortune does the thicklips owe"* | I.i | Racist envy from the first scene |
+| *"I will incontinently drown myself"* | I.iii | The comic lover, ripe for manipulation |
+| *"I have been to-night exceedingly well cudgelled"* | II.iii | The cost of being Iago's tool |
+| *"Every day thou daffest me with some device, Iago"* | IV.ii | He nearly sees through Iago, then is talked round again |
+
+### Brabantio
+
+**Arc:** the senator who welcomed Othello as a guest → the father who calls him a thief → dead of grief, reported in V.ii.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"O thou foul thief, where hast thou stow'd my daughter?"* | I.ii | Daughter as stolen property |
+| *"Run from her guardage to the sooty bosom"* | I.ii | Racial disgust beneath civility |
+| *"By spells and medicines bought of mountebanks"* | I.iii | Only witchcraft could explain her choice: prejudice as explanation |
+| *"Look to her, Moor, if thou hast eyes to see: / She has deceived her father, and may thee"* | I.iii | The seed Iago will water |
+
+### Bianca
+
+**Arc:** a courtesan in love with Cassio → the unknowing carrier of the handkerchief → accused of the night's crimes.
+
+| Quotation | Where | Use |
+|---|---|---|
+| *"This is some token from a newer friend"* | III.iv | Her jealousy, justified and dismissed, mirrors Othello's |
+| *"'Tis very good; I must be circumstanced"* | III.iv | She accepts her place: love on the man's terms |
+| *"I am no strumpet; but of life as honest / As you that thus abuse me"* | V.i | The word *honest* reclaimed by the woman the play calls a whore |
 
 ## Iago's motives
 
@@ -112,6 +237,21 @@ A theme is not a topic. Each of these needs a claim.
 - **Gender and marriage.** Three women, three social positions, three destructions. Emilia's speech arguing that wives have the same senses and appetites as husbands is the play's counter-argument, and it is given to a servant and immediately ignored.
 - **Honesty.** The most ironised word in the play. Ask what a society can know when its only instrument for judging character is reputation reported by others.
 - **Public duty and private life.** Othello's marriage is interrupted by war twice, and when he loses faith in Desdemona the first thing he mourns is his career. The play's deepest claim may be that he has no private self to lose.
+
+### Themes grid
+
+One quotation per stage of the play for each theme, so a general essay can run chronologically.
+
+| Theme | Act I | Acts II–III | Act IV | Act V |
+|---|---|---|---|---|
+| **Jealousy** | *"it is thought abroad, that 'twixt my sheets / He has done my office"* (Iago, I.iii: the jealousy that starts it) | *"the green-eyed monster which doth mock / The meat it feeds on"* (III.iii) | *"jealous souls will not be answer'd so"* (Emilia, III.iv) | *"not easily jealous, but being wrought / Perplex'd in the extreme"* (V.ii) |
+| **Reputation** | *"Preferment goes by letter and affection"* (I.i) | *"Reputation is an idle and most false imposition"* (II.iii) against *"the immediate jewel of their souls"* (III.iii) | *"Am I that name, Iago?"* (IV.ii) | *"Speak of me as I am"* (V.ii) |
+| **Race and outsiderness** | *"an old black ram"* (I.i); *"far more fair than black"* (Duke, I.iii) | *"Haply, for I am black"* (III.iii) | *"Goats and monkeys!"* (IV.i) | *"the more angel she, / And you the blacker devil!"* (Emilia, V.ii) |
+| **Appearance and reality** | *"I am not what I am"* (I.i) | *"Men should be what they seem"* (III.iii); *"heavenly shows"* (II.iii) | *"Is this the noble Moor"* (IV.i) | *"I look down towards his feet; but that's a fable"* (V.ii) |
+| **Language and manipulation** | *"Rude am I in my speech"* (I.iii) | *"I'll pour this pestilence into his ear"* (II.iii) | *"Lie with her! lie on her!"* (IV.i) | *"From this time forth I never will speak word"* (V.ii) |
+| **Gender and marriage** | *"I do perceive here a divided duty"* (I.iii) | *"They are all but stomachs, and we all but food"* (III.iv) | *"it is their husbands' faults / If wives do fall"* (IV.iii) | *"'Tis proper I obey him, but not now"* (V.ii) |
+| **Pain and power** | *"Thus do I ever make my fool my purse"* (I.iii) | *"thou hast set me on the rack"* (III.iii) | *"Work on, / My medicine, work!"* (IV.i) | *"Torments will ope your lips"* (Gratiano, V.ii) |
+| **Love and chaos** | *"She loved me for the dangers I had pass'd"* (I.iii) | *"when I love thee not, / Chaos is come again"* (III.iii) | *"But never taint my love"* (IV.ii) | *"one that loved not wisely but too well"* (V.ii) |
 
 ## Dramatic conventions — the toolkit for criterion 3
 
@@ -326,8 +466,109 @@ Four rules for the passage answer: contextualise in one or two sentences without
 | 2023, Term 2 | Examine the ways in which Shakespeare presents **reputation** | The **relationship** between Othello and Desdemona at this point (III.iv, the handkerchief interrogation) |
 | 2024, Term 4 | Coleridge's *"motiveless malignity"*: how valid is this assessment of **Iago**? | The **characters** in this scene (I.iii, the Senate: Brabantio's accusation and *"Most potent, grave, and reverend signiors"*) |
 | 2025, Term 2 | Examine the ways **imagery and/or symbolism** is used throughout the play | The **featured characters** at this point (IV.ii, Desdemona kneeling to Iago, with Emilia's *"eternal villain"* speech) |
-| 2025, Term 4 | *"Pain is the unmistakable proof of Iago's own power over his victim."* Examine the ways Shakespeare presents **pain and/or power** | How Shakespeare creates **tension and suspense** (III.iii, the *"Honest, my lord?"* echo exchange) |
+| 2025, Term 4 | *"Pain is the unmistakable proof of Iago's own power over his victim." With this comment in mind, examine the ways Shakespeare presents pain and/or power in the play.* | *Comment on how, and with what effects, Shakespeare creates tension and suspense in the following passage:* III.iii, from Iago's *"Did Michael Cassio, / When you wooed my lady, know of your love?"* to Othello's *"give thy worst of thoughts / The worst of words"* (about 46 lines) |
+| 2026, Term 2 | Examine the ways **language** is used by characters to **exploit and/or demean** others in the play. Do not refer to evidence in the passage | Write an analysis of the passage, commenting on what it conveys about the **relationships between men and women** in the play (III.iv, from Desdemona's *"Something, sure, of state"* through Emilia's *"jealous souls"* to Cassio giving Bianca the handkerchief and her *"I must be circumstanced"*) |
+
+The Term 4 2025 wording is checked against the printed paper. The Term 2 2026 wording comes from the student's typed record and may not be word-perfect; the record labels the passage IV.i, but its lines are from **III.iv**.
 
 The general question comes in two shapes: *examine the ways Shakespeare presents an abstract noun*, or a quoted judgement on a character or idea that you must test. Nouns used on the sister plays and therefore live: guilt, violence, honour, identity, deception, men and masculinity, the supernatural. Prepare **jealousy, deception, the presentation of women, Othello as hero or victim, and Iago's motives** in full, and be ready to re-angle the reputation and imagery plans onto anything else.
 
 Likely extracts, on precedent: dense two- or three-hander scenes from every act. Expect I.iii (the Senate), III.iii in any of its parts, III.iv (the handkerchief), IV.ii (the brothel scene and its aftermath), IV.iii (the willow scene) and V.ii (the murder).
+
+## The 2025 question types
+
+The Term 4 2025 drama paper set the same two shapes for all three plays it covered, which makes them the best guide to what *Othello* will get.
+
+| Type | 2025 wording, by play | What it demands |
+|---|---|---|
+| **General question with a critical claim** | *Macbeth*: *"The supernatural in Macbeth is largely a dramatic device for Shakespeare to magnify his protagonist's hamartia."* *Othello*: *"Pain is the unmistakable proof of Iago's own power over his victim."* *Henry IV, Part 1*: *"Shakespeare challenges the audience to engage with complex questions about the intricacies of identity…"* Each is followed by *"With this comment in mind, examine the ways Shakespeare presents X in the play."* | Two jobs at once: **examine the ways** (methods, across the whole play) and **test the claim** (how far it holds). The claim is the lens; the focus noun is the topic |
+| **Passage question on tension and suspense** | *"Comment on how, and with what effects, Shakespeare creates tension and suspense in the following passage"*, identical for all three plays | Tension is pressure in the present moment; suspense is the audience waiting for an outcome. Analyse the **dramatic** methods that build each, and link out to the rest of the play |
+
+## Critical-claim general questions
+
+The quoted claim is a position to test, not a title to illustrate. The school's essay guide ranks the three responses: wholesale agreement, wholesale disagreement, and **agreement with qualification**, which scores best.
+
+**Step 1: take the claim apart (two minutes).** Underline:
+
+- the **key terms** (*pain*, *proof*, *power*, *victim*), and decide what each means in the play;
+- the **strength words**, which are always the weak point: *unmistakable*, *largely*, *only*, *always*, *proof*. A claim that says *largely* invites "largely, but not entirely"; one that says *unmistakable* invites "clear, but not the only proof";
+- the **scope**: whose pain, which victim, which part of the play.
+
+**Step 2: decide your verdict in one sentence**, using one of three moves.
+
+| Move | When to use it | Sentence frame |
+|---|---|---|
+| **Agree** | The claim fits the central evidence | *The claim holds most clearly in…, where…* |
+| **Qualify** | It is true of some characters, acts or senses of the key word, but not all | *This is true of…, but it does not account for…; a more exact claim would be…* |
+| **Challenge** | Its key word is wrong, or the play reverses it by the end | *The play finally inverts this claim: by Act V…* |
+
+**Step 3: plan chronologically**, so the verdict develops across the acts. Usually: agree in the early or central paragraphs, qualify in the next, challenge or reverse at the end. Each paragraph names a **method** (soliloquy, imagery, stagecraft, dramatic irony, a shift from verse to prose), because the question still says *examine the ways*.
+
+**Step 4: keep the claim visible.** Reuse its exact words in the thesis, in every point sentence and in the conclusion. A paragraph that forgets the claim has become a theme essay, and the response-to-question criterion is lost.
+
+**Step 5: refine the claim in the conclusion.** State the better version: *pain is the proof of Iago's power over Othello, but the play's final proof of power is speech.*
+
+### Plan: the 2025 general question (pain and/or power)
+
+*"Pain is the unmistakable proof of Iago's own power over his victim." With this comment in mind, examine the ways Shakespeare presents pain and/or power in the play.*
+
+> *Thesis:* Shakespeare presents Othello's anguish in Act III as the clearest proof of Iago's power, but pain is neither Iago's only instrument nor the play's last word on power: Iago controls his other victims through hope, money and trust, Othello turns his own pain into power over Desdemona, and in Act V torture fails where Emilia's speech succeeds.
+>
+> P1 — **Power without pain (Acts I–II).** Iago's first victims are not hurt; they are flattered and funded. *"Thus do I ever make my fool my purse"*; Cassio is undone by *"poor and unhappy brains for drinking"*; and the plan is to make *"the net / That shall enmesh them all"* out of Desdemona's goodness. Method: soliloquy, which gives the audience the plan in advance. *Qualifies* the claim: Iago's power starts as persuasion.
+> P2 — **Pain as proof (III.iii).** The claim at its strongest. Othello cries *"thou hast set me on the rack"*, and Iago gloats that *"Not poppy, nor mandragora"* will ever give him back his sleep. Method: torture imagery, the shift into shared lines, and the kneeling vow (*"I am your own for ever"*) that seals his power. *Agrees* with the claim.
+> P3 — **The victim becomes a torturer (IV.i–IV.ii).** Iago watches the fit (*"Work on, / My medicine, work!"*), but the pain now passes down the chain: Othello strikes Desdemona (*"Devil!"*) and wants to *"chop her into messes"*. Method: Othello's collapse into prose; public stagecraft as Lodovico watches. *Qualifies*: pain proves Iago's power, but it spreads beyond his control onto a victim he never attacks directly.
+> P4 — **Pain fails (V.ii).** Iago is wounded (*"I bleed, sir; but not kill'd"*) and refuses to speak; Gratiano threatens *"Torments will ope your lips"*. Emilia, by contrast, chooses to speak although it kills her: *"yet I'll speak"*. Method: silence against speech; a reversal of who holds the stage. *Challenges* the claim: at the end, pain can neither extract truth nor confer power, and speech can.
+>
+> *Conclusion:* pain is the clearest proof of Iago's power, but not the final measure of power in the play.
+
+### Plan: the 2025 passage question (tension and suspense in III.iii)
+
+Context in one sentence: Cassio has just left Desdemona as Othello arrives, and the audience knows from II.iii that Iago means to *"pour this pestilence into his ear"*.
+
+| Paragraph | Method | Evidence from the passage | Link beyond it |
+|---|---|---|---|
+| 1. Dramatic irony makes the audience wait | The audience knows the plan and Othello does not, so the suspense lies in *when* and *how*, not *whether* | Iago's apparently idle question about Cassio, asked *"But for a satisfaction of my thought"* | II.iii soliloquy; I.iii *"free and open nature"* |
+| 2. Echo and stichomythia build pressure | Short alternating lines; Iago repeats Othello's words as questions (*"Indeed?"*, *"Honest, my lord?"*, *"Think, my lord?"*) and adds nothing | The rhythm of question and evasion; Othello's frustrated *"By heaven, thou echo'st me"* | The echo technique recurs; *honest* runs through the play |
+| 3. Othello does the poisoning himself | His long speech supplies the content Iago withholds: *"some monster in thy thought / Too hideous to be shown"* | He reads Iago's pauses as honesty: *"these stops of thine fright me the more"*; *"close dilations working from the heart"* | *Monster* returns as the *"green-eyed monster"* later in the scene |
+| 4. Irony in the language of seeming | Iago, who said *"I am not what I am"*, insists *"Men should be what they seem"*, and Othello agrees | *"Certain, men should be what they seem"* | I.i; the demand for *"ocular proof"* that follows |
+| 5. The trap closes | The extract ends with Othello begging for the worst: *"give thy worst of thoughts / The worst of words"* | The victim asks for the poison; suspense turns into dread | Leads to *"thou hast set me on the rack"* and the vow of revenge |
+
+### *Othello* versions of the other 2025 claims
+
+The *Macbeth* and *Henry IV* questions transfer to *Othello* with a word or two changed. Practise these as well.
+
+**"Iago is largely a dramatic device for Shakespeare to magnify his protagonist's hamartia."** (Adapted from the *Macbeth* question.)
+
+> *Thesis:* Iago does magnify Othello's flaw by exploiting his credulity and insecurity, but he is too fully realised to be only a device: he has the most lines, his own soliloquies and his own victims, and the flaw he magnifies is partly Venice's prejudice rather than Othello's alone.
+>
+> P1 — **Device (agree).** He names the flaw before he uses it: *"The Moor is of a free and open nature"*. His function in III.iii is to turn trust into suspicion.
+> P2 — **A magnifying glass (agree, with method).** He supplies prompts and Othello enlarges them: the echo, the invented dream, the handkerchief. *"Trifles light as air"* become *"proofs of holy writ"*.
+> P3 — **More than a device (challenge).** The soliloquies give him an inner life and the audience's complicity; his motives multiply (*"I hate the Moor"*; *"He hath a daily beauty in his life / That makes me ugly"*).
+> P4 — **Whose hamartia? (qualify).** Othello's first explanation for betrayal is Venice's: *"Haply, for I am black"*. Iago magnifies a wound society made.
+
+**"Shakespeare challenges the audience to engage with complex questions about the intricacies of identity."** (Adapted from the *Henry IV* question.)
+
+> *Thesis:* Shakespeare presents identity as something performed and judged by others, so that Iago, who claims to have none, can destroy Othello, who has nothing else.
+>
+> P1 — **Concealed identity:** *"I am not what I am"*; *"Were I the Moor, I would not be Iago"*.
+> P2 — **Public identity:** *"My parts, my title and my perfect soul / Shall manifest me rightly"*, then *"Othello's occupation's gone!"*
+> P3 — **Identity imposed by words:** Desdemona's *"Am I that name, Iago?"*; Cassio's *"immortal part of myself"*.
+> P4 — **Identity narrated at the end:** *"Speak of me as I am"* and *"one that loved not wisely but too well"*: Othello tries to fix his identity in a story, as he once won Desdemona with one.
+
+### Tension and suspense: a checklist for any extract
+
+Tension and suspense are created by **dramatic** means. Look for these, in this order.
+
+| Method | What to look for |
+|---|---|
+| **Dramatic irony** | What the audience knows that the speakers do not, and from which earlier soliloquy |
+| **Rhythm of dialogue** | Stichomythia, shared lines, interruptions, questions left unanswered |
+| **Withholding** | Hesitations, half-statements, silence; a character refusing to say what they mean |
+| **Repetition** | A word repeated until it changes meaning (*honest*, *think*, *the handkerchief*) |
+| **Imagery of threat** | Monsters, poison, hell, animals, darkness |
+| **Stagecraft** | Entrances and exits that interrupt; a hidden listener; torches at night; a weapon drawn; the bed |
+| **Verse and prose** | A shift into prose, or verse breaking into fragments, as control is lost |
+| **Delay** | A climax postponed by a plea, a song or a pause before the murder |
+| **The final line** | Whether the extract resolves or leaves the danger hanging |
+
+Likely tension extracts: I.i (the night alarm), I.ii (armed men at night), II.iii (the brawl), III.iii (any part), IV.i (the eavesdropping), V.i (the ambush in the dark) and V.ii (the murder, or Emilia's discovery).

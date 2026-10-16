@@ -43,27 +43,50 @@ $$\text{each exterior angle of a regular polygon} = \frac{360°}{n}$$
 
 A regular octagon has exterior angles of $360/8 = 45°$, so interior angles of 135°, totalling $6\times180 = 1080°$.
 
-If a regular polygon has interior angles of 162°, its exterior angles are 18°, so $n = 360/18 = 20$ sides.
+If a regular polygon has interior angles of 162°, its exterior angles are 18°, so $n = 360/18 = 20$ sides. With interior angles of 160°, the exterior angle is 20° and $n = 18$.
+
+**Mark-losing errors:** dividing 360 by the **interior** angle; using $(n-2)\times180$ for a single angle instead of the total; "Z angles" and "F angles" as reasons — write *alternate* and *corresponding*.
 
 ## Circle theorems
 
-| Theorem | Statement |
-|---|---|
-| Angle in a semicircle | the angle subtended by a diameter at the circumference is 90° |
-| Tangent–radius | a tangent meets a radius at 90° |
-| Angle at the centre | the angle at the centre is **twice** the angle at the circumference on the same arc |
-| Same segment | angles in the same segment are equal |
-| Cyclic quadrilateral | opposite angles are supplementary (sum to 180°) |
-| Equal chords | are equidistant from the centre |
-| Perpendicular bisector of a chord | passes through the centre |
-| Tangents from an external point | are equal in length |
+![Six circle theorems: angle at the centre is twice the angle at the circumference; angle in a semicircle is 90 degrees; angles in the same segment are equal; opposite angles of a cyclic quadrilateral sum to 180 degrees; tangent and radius meet at 90 degrees; the alternate segment theorem](math-circle-angles.svg)
 
-**You must name the rule you used.** "Angles in the same segment are equal" earns the reason mark; "because they look the same" earns nothing. Write the reason next to each step.
+![Three chord and tangent properties: tangents from an external point are equal; the perpendicular from the centre bisects a chord; equal chords are equidistant from the centre](math-circle-chords.svg)
 
-*Worked example.* $AB$ is a diameter and $C$ is on the circumference. $\angle CAB = 34°$.
+| Theorem | Statement | Reason to write |
+|---|---|---|
+| Angle at the centre | the angle at the centre is **twice** the angle at the circumference standing on the same arc | angle at centre = 2 × angle at circumference |
+| Angle in a semicircle | the angle subtended by a diameter at the circumference is 90° | angle in a semicircle |
+| Same segment | angles standing on the same arc, in the same segment, are equal | angles in the same segment |
+| Cyclic quadrilateral | opposite angles sum to 180° | opposite angles of a cyclic quadrilateral |
+| Tangent–radius | a tangent meets the radius at the point of contact at 90° | tangent ⟂ radius |
+| Tangents from a point | the two tangents from an external point are equal in length | tangents from an external point are equal |
+| Chord bisector | the perpendicular from the centre to a chord bisects it; the perpendicular bisector of a chord passes through the centre | perpendicular from centre bisects chord |
+| Equal chords | equal chords are equidistant from the centre | equal chords are equidistant from the centre |
+| Alternate segment | the angle between a tangent and a chord equals the angle in the alternate segment | alternate segment theorem |
+
+The alternate segment theorem is in the current Cambridge 0580 syllabus but not on the school's objective list, so treat it as useful rather than certain to be needed.
+
+**You must name the rule you used.** "Angles in the same segment are equal" earns the reason mark; "because they look the same" earns nothing. Write the reason next to each step. Radii are equal, so a triangle with two radii as sides is **isosceles** — this unlocks most multi-step questions.
+
+**Worked examples** (letters as in the diagrams):
+
+- *Angle at the centre.* $\angle APB = 48°$, so $\angle AOB = 2\times48 = 96°$ (angle at centre = 2 × angle at circumference).
+- *Using the isosceles triangle.* $OA = OB$ (radii) and $\angle OAB = 42°$, so $\angle OBA = 42°$ and $\angle AOB = 180-84 = 96°$; then $\angle APB = 48°$.
+- *Semicircle.* $AB$ is a diameter and $\angle CAB = 37°$. $\angle ACB = 90°$ (angle in a semicircle), so $\angle ABC = 180-90-37 = 53°$.
+- *Same segment.* $\angle APB = 35°$, so $\angle AQB = 35°$ (angles in the same segment).
+- *Cyclic quadrilateral.* $\angle DAB = 112°$, so the opposite angle $\angle BCD = 180-112 = 68°$.
+- *Tangent–radius.* $PT$ is a tangent at $T$ and $\angle TOP = 28°$. $\angle OTP = 90°$ (tangent ⟂ radius), so $\angle OPT = 180-90-28 = 62°$.
+- *Two tangents.* $PA$ and $PB$ are tangents and $\angle APB = 54°$. $PA = PB$, so triangle $PAB$ is isosceles and $\angle PAB = \tfrac{180-54}{2} = 63°$.
+- *Chord.* A chord is 5 cm from the centre of a circle of radius 13 cm. The perpendicular bisects it, so half the chord is $\sqrt{13^2-5^2} = 12$ cm and the chord is 24 cm. Any other chord of length 24 cm is also 5 cm from the centre.
+- *Alternate segment.* The tangent at $T$ makes $55°$ with chord $TA$, so $\angle TBA = 55°$. If also $\angle BTA = 70°$, then $\angle TAB = 180-55-70 = 55°$.
+
+*Worked example (from a past paper type).* $AB$ is a diameter and $C$ is on the circumference. $\angle CAB = 34°$.
 
 - $\angle ACB = 90°$ — angle in a semicircle
 - $\angle ABC = 180 - 90 - 34 = 56°$ — angles in a triangle sum to 180°
+
+**Mark-losing errors:** using "angle at the centre" when the two angles do not stand on the same arc; calling a quadrilateral cyclic when one vertex is the centre (it must have all four vertices on the circle); missing the 90° at a tangent; giving the answer without the reason.
 
 Other circle results, such as lengths of intersecting chords or secants, are not on the objective list. When a question needs one, it states the formula, so substitute into it carefully.
 
@@ -94,6 +117,16 @@ Working backwards: if the volumes are 8 cm³ and 27 cm³, then $k^3 = 27/8$, so 
 $$\frac{AB}{DE} = \frac{BC}{EF}$$
 
 Look for the equal angles first — that is what establishes similarity.
+
+*Worked example.* In triangle $ABC$, $D$ is on $AB$ and $E$ is on $AC$ with $DE$ parallel to $BC$. $AD = 4$ cm, $DB = 6$ cm and $DE = 5$ cm.
+
+- Triangles $ADE$ and $ABC$ are similar (corresponding angles are equal because $DE \parallel BC$, and $\angle A$ is shared).
+- $k = \dfrac{AB}{AD} = \dfrac{4+6}{4} = 2.5$, so $BC = 5\times2.5 = 12.5$ cm.
+- If triangle $ADE$ has area 20 cm², triangle $ABC$ has area $20\times2.5^2 = 125$ cm², and the trapezium $DECB$ has area $125-20 = 105$ cm².
+
+**Mark-losing errors:** using $\dfrac{AB}{DB}$ (6) instead of $\dfrac{AB}{AD}$ — compare whole corresponding sides; multiplying an area by $k$ instead of $k^2$, or a volume by $k^2$ instead of $k^3$; for capacity or mass of similar solids, use $k^3$ (they are proportional to volume).
+
+**Congruent triangles** are identical. They are proved congruent by **SSS** (three sides), **SAS** (two sides and the included angle), **ASA** (two angles and a corresponding side) or **RHS** (right angle, hypotenuse and one side). AAA proves only similarity, not congruence.
 
 ## Constructions
 

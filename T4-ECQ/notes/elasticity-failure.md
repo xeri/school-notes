@@ -46,6 +46,20 @@ $$\text{total revenue} = \text{price} \times \text{quantity sold}$$
 
 So a firm with **elastic** demand can **lower** its price to raise revenue — quantity rises by a bigger percentage. A firm with **inelastic** demand can **raise** its price — quantity barely falls. This is **revenue, not profit**: profit also depends on costs, and selling fewer units cuts total variable cost.
 
+![Two demand diagrams with the same price rise from P1 to P2. Left, steep inelastic demand: a large green area of revenue gained and a thin red strip of revenue lost, so revenue rises. Right, flat elastic demand: a small green area and a large red area, so revenue falls](econ-ped.svg)
+
+Draw PED by applying the **same** price change to a **steep** curve (inelastic) and a **flat** curve (elastic), then compare the revenue gained on units still sold with the revenue lost on units no longer sold. A **vertical** demand curve is perfectly inelastic (PED = 0); a **horizontal** one is perfectly elastic.
+
+*Worked example — revenue both ways.* A café sells 400 coffees a day at \$5 (revenue \$2000). It raises the price to \$5.50 (+10%) and sales fall to 380 (−5%): PED $= 5/10 = 0.5$, inelastic, and revenue rises to $5.50 \times 380 = \$2090$. Had sales fallen to 320 (−20%), PED $= 2$, elastic, and revenue would have fallen to $5.50 \times 320 = \$1760$.
+
+**Why PED matters to each decision maker.**
+
+| Decision maker | Use of PED |
+|---|---|
+| **Consumers** | goods with inelastic demand (petrol, power) take a bigger bite out of income when their price rises, because consumption cannot easily be cut |
+| **Producers** | set prices: raise them for inelastic products, cut them for elastic ones; judge whether a cost rise can be passed on |
+| **Government** | choose what to tax: inelastic goods raise more revenue, elastic goods change behaviour more; predict how far a tax will raise prices; judge the effect of an exchange-rate change on exports and imports |
+
 ## Determinants of PED
 
 | Factor | Effect |
@@ -73,6 +87,10 @@ PES is positive. Greater than 1 is **elastic** (Qs changes by a larger percentag
 
 **Inelastic supply is not the same as perfectly inelastic supply.** Inelastic: a price change causes a **smaller** percentage change in quantity supplied (PES < 1). Perfectly inelastic: **no** change at all (PES = 0, vertical curve).
 
+![Four supply diagrams: (a) elastic supply starting on the price axis, a 50% price rise doubling quantity; (b) inelastic supply starting on the quantity axis, a 50% price rise raising quantity only 23%; (c) a vertical perfectly inelastic supply curve; (d) a horizontal perfectly elastic supply curve](econ-pes.svg)
+
+A straight-line supply curve that starts on the **price** axis is elastic, one that starts on the **quantity** axis is inelastic, and one through the **origin** has PES = 1 — whatever its slope.
+
 | Determinant | Effect |
 |---|---|
 | **Time** | at any one moment supply is fixed (the drinks already in the fridge), so the curve is very steep or vertical; in the short run output can rise only a little; in the **long run** firms obtain more factors and supply becomes **elastic** |
@@ -90,6 +108,20 @@ PES is positive. Greater than 1 is **elastic** (Qs changes by a larger percentag
 **To government** — an indirect tax raises most **revenue** when demand is **inelastic** (fuel, tobacco, alcohol), but cuts **consumption** most when demand is **elastic**. Those two aims pull in opposite directions, which is the standard evaluation point.
 
 **On a diagram** — when supply is **inelastic**, an increase in demand raises price a lot and quantity only a little.
+
+## Income elasticity of demand (extension)
+
+The Cambridge IGCSE syllabus does not require **income elasticity of demand (YED)**, but it explains the normal, inferior and luxury goods met in [Demand, supply and the market](../notes/markets.md).
+
+$$\text{YED} = \frac{\%\ \text{change in quantity demanded}}{\%\ \text{change in income}}$$
+
+| YED | Type of good | Example |
+|---|---|---|
+| positive (above 0) | **normal** good | clothing, restaurant meals |
+| above 1 | **luxury** (income-elastic) normal good | overseas holidays |
+| negative (below 0) | **inferior** good | bus travel, own-brand groceries |
+
+Unlike PED, **the sign matters**. *Worked example:* incomes rise 10% and demand for bus trips falls 4%: YED $= -4/10 = -0.4$, an inferior good.
 
 ## Market failure
 
@@ -137,9 +169,69 @@ $$\text{social cost} = \text{private cost} + \text{external cost} \qquad \text{s
 
 **Why this is market failure.** Decisions are made on **private** costs and benefits only. A driver pays for the car and petrol but not for the pollution and congestion inflicted on others, so the social cost exceeds the private cost and the activity is **over-produced**. With education, the social benefit exceeds the private benefit, so it is **under-consumed** relative to the social optimum.
 
-The standard marginal-cost diagram (MSC above MPC) is in [the diagrams page](../DIAGRAMS.md) — the teaching material itself shows intervention with demand and supply shifts, below.
+**Consequences of market failure.** Resources are **misallocated**: goods with external costs and demerit goods are **over-consumed** (too much pollution, smoking, congestion); goods with external benefits and merit goods are **under-consumed** (too little education, vaccination, public transport); public goods are not provided at all; a monopoly restricts output and raises prices; immobile factors leave workers unemployed while vacancies go unfilled.
 
-## Government intervention
+**Which diagram to use.** The Cambridge IGCSE syllabus states that demand and supply diagrams of market failure itself are **not required**. The teaching material explains market failure in words and then shows each **policy** on an ordinary demand and supply diagram (below). The marginal social cost and benefit diagrams are the standard textbook extension — use them only if a question asks for social and private costs on a diagram.
+
+![Negative externality: S = MPC with MSC drawn parallel above it; D = MPB = MSB. Market output Q1 where D meets MPC exceeds the optimum Q* where D meets MSC; a shaded welfare-loss triangle lies between MSC and D from Q* to Q1](econ-externality-negative.svg)
+
+![Positive externality: D = MPB with MSB drawn parallel above it; S = MPC = MSC. Market output Q1 is below the optimum Q* where MSB meets supply; the shaded welfare-loss triangle lies between MSB and S from Q1 to Q*](econ-externality-positive.svg)
+
+## Government microeconomic intervention
+
+The government intervenes in markets to correct market failure and to make outcomes fairer. The Cambridge IGCSE syllabus requires **diagrams** for three measures — **maximum and minimum prices**, **indirect taxes** and **subsidies** — and the implications, without a diagram, of **regulation**, **privatisation and nationalisation** and **direct provision**.
+
+### Indirect taxes and their incidence
+
+An **indirect tax** is a tax on spending, collected from the producer, such as GST or excise duty on tobacco. A **specific** tax is a fixed amount per unit (so many dollars a litre); an **ad valorem** tax is a percentage of the price (GST at 15%). Because the firm pays the tax, it acts as a **cost**: the supply curve shifts **up (left)** by the amount of the tax.
+
+![Indirect tax: supply shifts up from S1 to S2 by the tax per unit. Equilibrium moves from E1 to E2, price rises from P1 to P2 and quantity falls from Q1 to Q2; producers keep P3. The consumers' share (P1 to P2) and producers' share (P3 to P1) of the tax are shaded across to Q2](econ-tax.svg)
+
+The **incidence** of a tax is who actually bears it. The price rises by **less** than the tax, so the burden is shared.
+
+*Worked example — a \$2 tax per unit.* Before the tax the price is \$5.00 and 1000 units are sold. After the tax the price is \$6.20 and 800 units are sold.
+
+| Item | Calculation | Value |
+|---|---|---|
+| Price the producer keeps | \$6.20 − \$2.00 | \$4.20 |
+| Consumers' share per unit | \$6.20 − \$5.00 | \$1.20 (60% of the tax) |
+| Producers' share per unit | \$5.00 − \$4.20 | \$0.80 (40%) |
+| Total tax revenue | \$2 × 800 | \$1600 = \$960 from consumers + \$640 from producers |
+
+The more **inelastic** demand is, the more of the tax falls on consumers and the less quantity falls — which is why governments tax tobacco, alcohol and fuel to raise revenue, and why such taxes do little to cut consumption.
+
+### Subsidies
+
+A **subsidy** is a payment by the government to producers that lowers their costs, so supply shifts **down (right)** by the subsidy per unit.
+
+![Subsidy: supply shifts down from S1 to S2 by the subsidy per unit. Price falls from P1 to P2 and quantity rises from Q1 to Q2; producers receive P3, above P1. The consumers' gain and the producers' gain together make up the cost to the government](econ-subsidy.svg)
+
+*Worked example — a \$1.50 subsidy per bus trip.* The fare falls from \$6.00 to \$5.00 and trips rise from 500 to 600 a day. The operator receives \$5.00 + \$1.50 = \$6.50 a trip. The government pays \$1.50 × 600 = \$900 a day: consumers gain \$1.00 × 600 = \$600 through the lower fare and producers \$0.50 × 600 = \$300.
+
+### Maximum and minimum prices
+
+A **maximum price** (price ceiling) is a legal upper limit, set **below** equilibrium to make a necessity affordable — rent controls, basic foods in a crisis. A **minimum price** (price floor) is a legal lower limit, set **above** equilibrium to raise producers' incomes or to discourage consumption — guaranteed farm prices, minimum alcohol pricing.
+
+![Maximum price set below equilibrium: at Pmax quantity supplied Qs is less than quantity demanded Qd, leaving a shortage (excess demand) between them](econ-max-price.svg)
+
+![Minimum price set above equilibrium: at Pmin quantity supplied Qs exceeds quantity demanded Qd, leaving a surplus (excess supply) between them](econ-min-price.svg)
+
+| | Maximum price | Minimum price |
+|---|---|---|
+| Set | below equilibrium | above equilibrium |
+| Result | **shortage** — $Q_d > Q_s$ | **surplus** — $Q_s > Q_d$ |
+| Quantity actually traded | $Q_s$ | $Q_d$ (unless the state buys the surplus) |
+| Who gains | buyers who still get the good, at a lower price | producers who still sell, at a higher price |
+| Side effects | queues, waiting lists, rationing, **black markets** at prices above the ceiling, less investment and lower quality | unsold stock that may have to be bought, stored or destroyed; wasted resources; in a labour market, **unemployment** |
+
+The same tool appears in two other markets, as the Cambridge syllabus specifies:
+
+- **Labour market** — a **national minimum wage** is a minimum price for labour; set above the equilibrium wage it creates an excess supply of labour (unemployment). See [Firms, costs and labour markets](../notes/firms-labour.md).
+- **Foreign exchange market** — a government that **fixes** its exchange rate **above** equilibrium has set a minimum price for its currency: there is an excess supply of the currency, which the central bank must buy with its foreign reserves (or raise interest rates) to hold the rate. Fixed **below** equilibrium it is a maximum price, and the central bank sells its own currency to meet the excess demand. See [International trade and exchange rates](../notes/trade.md).
+
+### Regulation, provision and ownership
+
+The teaching material's own summary of the policy options, with the school's diagram for each:
 
 | Policy | How it works | For | Against |
 |---|---|---|---|
@@ -149,6 +241,15 @@ The standard marginal-cost diagram (MSC above MPC) is in [the diagrams page](../
 | **Subsidy** for a good with external benefits (public transport) | a payment cuts the firm's costs, so **supply shifts right** from $S_1$ to $S_2$; quantity rises from $Q_1$ to $Q_2$ | more use of buses means less congestion and pollution from cars | opportunity cost of government spending; firms may rely on the subsidy and stop seeking efficiency |
 | **Direct provision**, funded by taxation (schools, libraries, parks, roads) | the state supplies goods with strong external benefits | goods that would be under-consumed are widely used | free riders benefit without paying tax; free provision can cause excess demand, leaving the state to decide who gets it |
 | **Tradable permits** | cap total pollution and let firms trade allowances | sets a firm limit on the harm | needs accurate measurement and a well-set cap |
+
+**Privatisation and nationalisation.** **Privatisation** transfers a firm or industry from the public to the private sector (selling shares in a state-owned enterprise); **nationalisation** is the reverse — the state takes ownership (or majority ownership) of a private firm.
+
+| | For | Against |
+|---|---|---|
+| **Privatisation** | the profit motive and competition push for efficiency, lower costs and innovation; raises one-off revenue for the government; frees the state from funding investment; shareholders monitor managers | a public monopoly may simply become a private one that raises prices; unprofitable but socially valuable services (rural routes) may be cut; the state loses future profits; external costs may be ignored |
+| **Nationalisation** | the state can run the industry for the public good, including loss-making services with external benefits; can protect strategic industries and jobs; avoids wasteful duplication in a natural monopoly | weak incentives to cut costs (no profit motive); losses fall on taxpayers; political interference in decisions; may need compensation to owners |
+
+NZ has done both: many state trading activities were corporatised and some privatised from the late 1980s (Telecom in 1990), while the government took back a majority stake in Air New Zealand in 2001 and in the rail network in 2008 (now KiwiRail).
 
 Evaluate by comparing the **scale of the problem** with the **likely effect** of the policy, and name the **unintended consequences**.
 
@@ -199,4 +300,6 @@ The answer depends on the type of product, the state of the economy, how far the
 
 1. Analyse the social costs created by car production and car use. *Model points:* social cost = private cost + external cost; private costs to the firm (wages, steel) and buyer (price, fuel); external costs fall on third parties and are ignored by firms and buyers — air and noise pollution, congestion; refer to cars throughout.
 2. Explain the difference between inelastic supply and perfectly inelastic supply. *Model points:* PES < 1, quantity supplied changes by a smaller percentage than price; PES = 0, no change at all, vertical curve.
-3. Discuss whether consumers would benefit if a firm became a monopoly. *Model points:* use both columns of the table above, then conclude on the conditions — economies of scale and innovation against restricted supply and higher prices, and the role of regulation.
+3. A \$3 tax per unit raises the price of a good from \$10 to \$12, and sales fall from 500 to 450. Calculate the tax revenue and the share paid by consumers. *Answer:* revenue = \$3 × 450 = \$1350; consumers pay \$2 of each \$3 (two-thirds), \$900 in total; producers \$450.
+4. Analyse, using a diagram, the effect of a maximum price on the market for rental housing. *Model points:* labelled diagram with the ceiling below equilibrium; Qs falls, Qd rises, shortage Qd − Qs; queues, waiting lists, black-market rents, landlords leave the market or cut maintenance; tenants who find a home gain.
+5. Discuss whether consumers would benefit if a firm became a monopoly. *Model points:* use both columns of the table above, then conclude on the conditions — economies of scale and innovation against restricted supply and higher prices, and the role of regulation.

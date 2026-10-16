@@ -26,6 +26,9 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 
 **Business plan** — a formal statement of business goals, why they are attainable and the plans for reaching them, from a marketing, financial and operational viewpoint; used to focus the owner's thinking and persuade lenders and investors.
 
+**Chain of production** — the stages a product passes through from raw material (primary) through manufacture (secondary) to sale (tertiary), each adding value.
+**Supply chain** — the businesses that supply materials, components and products along a chain of production.
+
 ## Size and growth
 
 **Economies of scale** — the fall in **average cost per unit** as the scale of operations expands.
@@ -65,6 +68,8 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Mission statement** — a short, motivating statement of the business's core aims.
 **Profit satisficing** — aiming for enough profit, without profit being the only focus.
 **Stakeholder** — anyone who has a direct interest in the performance of a business.
+**Internal stakeholder** — a stakeholder inside the business: owners, managers, employees.
+**External stakeholder** — a stakeholder outside the business but affected by it: customers, suppliers, lenders, government, community, pressure groups.
 **Shareholder** — a part-owner of a company. *A shareholder is one kind of stakeholder, not a synonym.*
 **Corporate social responsibility** — operating ethically towards people, planet and profit (the **triple bottom line**), beyond legal requirements.
 **Ethics** — considering the interests of society beyond legal obligations; deciding what is right, not just what is legal.
@@ -88,6 +93,8 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Span of control** — the number of subordinates directly supervised by one manager.
 **Delegation** — passing authority for a task downwards; **accountability remains with the manager**.
 **De-layering** — removing a level of management.
+**Levels of hierarchy** — the number of layers of authority in an organisation.
+**Supervisor** — a manager who oversees the daily work of a team of employees.
 **Centralised organisation** — decision-making concentrated at the top. **Decentralised** — most decisions delegated down the chain of command.
 
 **Recruitment** — identifying and attracting candidates.
@@ -97,6 +104,8 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Induction** — introducing a new employee to the premises, people and procedures.
 **Dismissal** — ending employment because of the employee's conduct or performance.
 **Redundancy** — ending employment because the job itself is no longer needed; **voluntary** if the employee chooses to go, **compulsory** if forced, both with compensation.
+**Downsizing** — reducing the total number of employees, for example after automation or a fall in demand.
+**Part-time employee** — works fewer hours than a full-time employee (usually under about 35 a week); flexible but harder to train and communicate with.
 **Trade union** — an organisation that aims to improve its members' conditions and provide support and legal services.
 **Collective bargaining** — negotiation between a union and an employer on behalf of all members.
 
@@ -128,6 +137,7 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Price skimming** — a high launch price, lowered later.
 **Cost-plus pricing** — adding a mark-up to unit cost.
 **Price elasticity of demand** — how responsive quantity demanded is to a price change: % change in quantity demanded ÷ % change in price.
+**E-commerce** — buying and selling goods and services online.
 **Above-the-line promotion** — promotion through mass media. **Below-the-line** — promotion without mass media, within the firm's control.
 **Distribution channel** — the route a product takes from producer to consumer, including every intermediary.
 **Intermediary** — a middleman between producer and consumer, such as a wholesaler, retailer or agent.
@@ -143,6 +153,9 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Batch production** — groups of identical items made before changing task.
 **Flow production** — continuous mass production of a standardised product.
 **Delivery lead time** — the time between placing an order and receiving it.
+**Buffer stock** — the minimum inventory kept for emergencies such as a late delivery.
+**Reorder level** — the inventory level at which a new order is placed.
+**CAD / CAM** — computer-aided design / computer-aided manufacture: computers used to design products and to control the machines that make them.
 **Lean production** — producing with the minimum of wasted resources while maintaining high quality.
 **Kaizen** — continuous improvement through small changes suggested by employees.
 **Just-in-time** — keeping stock to a minimum; materials arrive just as they are needed.
@@ -161,6 +174,7 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Contribution** — selling price per unit minus variable cost per unit.
 **Break-even output** — the output at which total revenue equals total cost.
 **Margin of safety** — how far actual output exceeds break-even output.
+**Break-even chart** — a graph of fixed cost, total cost and total revenue against output; break-even is where total revenue crosses total cost.
 
 ## Finance
 
@@ -191,6 +205,10 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Insolvency** — being unable to pay debts when they are due.
 **Equity** — share capital plus retained earnings; total assets minus total liabilities.
 **Overtrading** — expanding faster than the available working capital allows.
+**Profitability** — how well a business turns sales and capital into profit.
+**Debt finance** — borrowed money that must be repaid with interest. **Equity finance** — money from owners or shareholders that is never repaid.
+**Crowdfunding** — raising small amounts from many people, usually online.
+**Microfinance** — very small loans to people who cannot borrow from banks.
 
 **Cash flow is not profit.** Profit is revenue minus expenses for a period; cash flow is money actually moving in and out.
 
@@ -207,6 +225,7 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Supply-side policy** — improving the efficiency of supply: privatisation, training and education, more competition.
 **Exchange rate** — the price of one currency in terms of another.
 **Depreciation (of a currency)** — a fall in its value against other currencies. *Distinct from depreciation of an asset, which is the fall in its book value over time.*
+**Appreciation (of a currency)** — a rise in its value against other currencies; exports become dearer, imports cheaper.
 **Externality** — a cost or benefit falling on third parties rather than the business.
 **Social cost** — private cost plus external cost. **Social benefit** — private benefit plus external benefit.
 **Cost-benefit analysis** — weighing all private and external costs and benefits before a decision.
@@ -220,3 +239,5 @@ Definitions are worth marks on their own, and precision matters. Where two terms
 **Embargo** — a ban on trading certain goods or with a certain country.
 **Protectionism** — restricting imports to shield domestic producers.
 **Free trade** — trade without barriers such as tariffs or quotas.
+**Global warming** — the rise in average world temperatures caused mainly by greenhouse gases from burning fossil fuels.
+**Sustainable development** — growth that achieves sustainability; for a business, using renewable energy, recycling, cleaner methods and sustainably sourced materials.

@@ -19,6 +19,35 @@ Four errors that cost marks on any diagram: axes unlabelled or missing units; a 
 
 Use numbers **only** when the question gives you a schedule. Then the scale must be even and the plotted points accurate.
 
+## Drawn examples
+
+Every diagram below has a drawn, labelled example embedded in the notes page where it is taught.
+
+| Diagram | File | Shown in |
+|---|---|---|
+| PPC — points inside, on and outside; movement along; outward shift | `econ-ppc.svg` | [Scarcity, choice and economic systems](notes/foundations.md) |
+| Demand — movement along against a shift | `econ-demand-shift.svg` | [Demand, supply and the market](notes/markets.md) |
+| Increase in demand in a market | `equilibrium.svg` | [Demand, supply and the market](notes/markets.md) |
+| Increase in supply in a market | `econ-supply-shift.svg` | [Demand, supply and the market](notes/markets.md) |
+| PED — elastic against inelastic, with revenue areas | `econ-ped.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| PES — elastic, inelastic, perfectly inelastic, perfectly elastic | `econ-pes.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Negative and positive externalities (MSC/MPC, MSB/MPB) — extension | `econ-externality-negative.svg`, `econ-externality-positive.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Indirect tax and its incidence | `econ-tax.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Subsidy | `econ-subsidy.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Maximum price | `econ-max-price.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Minimum price | `econ-min-price.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Long-run average cost and economies of scale | `econ-lrac.svg` | [Firms, costs and labour markets](notes/firms-labour.md) |
+| Cost curves — FC, VC, TC; AFC, AVC, ATC | `econ-cost-curves.svg` | [Firms, costs and labour markets](notes/firms-labour.md) |
+| Break-even chart | `econ-break-even.svg` | [Firms, costs and labour markets](notes/firms-labour.md) |
+| Labour market with a minimum wage | `econ-labour-min-wage.svg` | [Firms, costs and labour markets](notes/firms-labour.md) |
+| Economic cycle | `econ-economic-cycle.svg` | [Macroeconomics and policy](notes/macroeconomics.md) |
+| Tariff | `econ-tariff.svg` | [International trade and exchange rates](notes/trade.md) |
+| Exchange rate — appreciation and depreciation through demand shifts | `econ-exchange-rate.svg` | [International trade and exchange rates](notes/trade.md) |
+| Lorenz curve — extension | `econ-lorenz.svg` | [Development, population and poverty](notes/development.md) |
+| Population pyramids | `econ-population-pyramids.svg` | [Development, population and poverty](notes/development.md) |
+
+**Which diagrams the Cambridge IGCSE syllabus requires.** It asks you to draw and interpret: the PPC; demand and supply curves, shifts and movements, equilibrium and disequilibrium; PED and PES curves, including the link between PED and total revenue; maximum and minimum prices (in product, labour and foreign exchange markets), indirect taxes and subsidies; the labour market; how output affects costs (the cost curves); and the foreign exchange market. It states that diagrams are **not** required for market failure itself or for market structures, that aggregate demand and supply are not required, and that population pyramids must be **interpreted** but not drawn. The externality, tariff and Lorenz diagrams here are standard extensions.
+
 ## Production possibility curve
 
 | Axis | Variable | Unit |
@@ -125,6 +154,8 @@ Consequences: unsold stock the government may have to buy and store, resources w
 
 Marks are lost by: putting the floor below equilibrium; shading an area rather than marking the horizontal distance; and forgetting that a minimum price benefits producers **only** if someone buys or stores the surplus.
 
+**The same diagrams in other markets.** A **minimum wage** is a minimum price in the labour market (see below). A **fixed exchange rate** held **above** equilibrium is a minimum price for the currency — draw the floor above equilibrium on a foreign-exchange diagram, mark the **excess supply** of the currency, and say the central bank must buy it with reserves; held **below** equilibrium it is a maximum price with an excess demand.
+
 ## Elastic and inelastic demand
 
 Draw two separate diagrams, or two demand curves through the same point, and apply the **same** price change to both so the different quantity responses are visible.
@@ -143,6 +174,8 @@ To show revenue, shade the rectangle $P \times Q$ at each price and compare the 
 
 Marks are lost by: calling a curve "elastic" or "inelastic" without applying a price change to demonstrate it; drawing two curves of different steepness but applying different price changes, which proves nothing; and describing a vertical curve as perfectly elastic — vertical is perfectly **in**elastic.
 
+**A shortcut for straight-line supply curves.** One that starts on the **price** axis is elastic (PES > 1) whatever its slope; one that starts on the **quantity** axis is inelastic (PES < 1); one through the **origin** has PES = 1.
+
 ## Government intervention in market failure
 
 The teaching material shows intervention with ordinary demand and supply diagrams. Each is a single shift, drawn with the three-step treatment above.
@@ -158,7 +191,7 @@ Marks are lost by: shifting demand for a tax or subsidy (both act on the **produ
 
 ## External costs and external benefits
 
-This is the standard marginal-cost diagram used in most textbooks; the teaching material explains externalities in words and uses the intervention diagrams above, so use this version when a question asks for social and private costs on a diagram.
+This is the standard marginal-cost diagram used in most textbooks. The teaching material explains externalities in words and uses the intervention diagrams above, and the Cambridge IGCSE syllabus says diagrams of market failure are not required — so use this version only when a question asks for social and private costs on a diagram.
 
 | Axis | Variable | Unit |
 |---|---|---|
@@ -238,6 +271,31 @@ A **backward-bending** supply curve of labour is also examinable: above some wag
 
 Marks are lost by: labelling the vertical axis "price"; drawing only one quantity at the minimum wage, which makes the excess supply invisible; drawing the minimum wage below equilibrium; and claiming unemployment is $N_2 - N_1$ rather than $N_2 - N_3$.
 
+## Cost curves
+
+| Axis | Variable | Unit |
+|---|---|---|
+| Vertical | cost — total (\$) on the total-cost diagram, per unit (\$ per unit) on the average-cost diagram | \$ or \$ per unit |
+| Horizontal | output | units per week |
+
+**Total costs.** **FC** is a **horizontal** line — it does not change with output. **VC** starts at the **origin** (no output, no variable cost) and rises. **TC = FC + VC** starts on the vertical axis **at the level of FC** and runs **parallel** to VC, always exactly FC above it.
+
+**Average costs.** **AFC** falls continuously and never reaches zero (fixed cost spread over more units). **AVC** and **ATC** are both **U-shaped**; the gap between them is AFC, so they **converge** as output rises, and the lowest point of ATC lies to the **right** of the lowest point of AVC.
+
+Marks are lost by: starting VC above the origin; drawing TC not parallel to VC; drawing AFC as U-shaped; and labelling average and total curves on the same axes without saying which is which.
+
+## Break-even chart
+
+Plot **FC** (horizontal), **TC** (starting at FC) and **TR** (starting at the **origin**, a straight line whose slope is the price). Where TR crosses TC is the **break-even point** — drop dashed lines to read the break-even output and revenue. Label the area between TC and TR to the left as **loss** and to the right as **profit**.
+
+$$\text{break-even output} = \frac{\text{fixed costs}}{\text{price} - \text{variable cost per unit}}$$
+
+Marks are lost by: starting TR above the origin; starting TC at zero; and reading break-even off FC instead of TC.
+
+## Economies of scale (long-run average cost)
+
+Draw one **U-shaped LRAC** curve against output. Label the falling section **economies of scale** and the rising section **diseconomies of scale**, and mark the lowest point — the **most efficient scale**, $Q^*$. The vertical axis is **average** cost; never label it total cost, which rises throughout.
+
 ## The economic cycle
 
 | Axis | Variable | Unit |
@@ -259,6 +317,30 @@ The **vertical** distance from the wave to the trend line is the **output gap**:
 
 Marks are lost by: omitting the trend line altogether, which leaves nothing for the cycle to be a cycle *around*; labelling the vertical axis "GDP" without specifying **real** GDP; drawing the wave with no net upward drift, which denies long-run growth; and labelling the stages out of order. If the vertical axis is the **rate** of growth rather than the level of real GDP, say so — on that version a recession is the part of the curve **below zero**, not merely below the trend.
 
+## The foreign exchange market
+
+| Axis | Variable | Unit |
+|---|---|---|
+| Vertical | the price of the currency in another currency — the exchange rate | e.g. US\$ per NZ\$ |
+| Horizontal | quantity of the currency traded | NZ\$ per period |
+
+Draw **D** (downward) and **S** (upward) for the currency, crossing at the equilibrium rate $ER_1$. The teaching material shows a change through a **demand shift**: more demand for NZ dollars (more exports sold, higher NZ interest rates, inward investment, speculation) shifts $D$ right; at the old rate there is a **shortage** of NZ dollars (the horizontal gap), so the rate rises to $ER_2$ — **appreciation**. A fall in demand shifts $D$ left — **depreciation**. More NZ dollars **supplied** (more imports bought) shifts $S$ right — depreciation.
+
+Marks are lost by: labelling the vertical axis "price" without saying it is the price **of the currency in another currency**; shifting the wrong currency's curve (an NZ import raises the **supply** of NZ dollars, not the demand for them); and calling a rise in the number on the axis a depreciation — if the axis is US\$ per NZ\$, a higher number means a **stronger** NZ dollar.
+
+## Tariff
+
+| Axis | Variable | Unit |
+|---|---|---|
+| Vertical | price | \$ per unit |
+| Horizontal | quantity | units per year |
+
+Draw domestic **D** and **S**, and a **horizontal world-price line** $P_w$ below the domestic equilibrium (world supply is perfectly elastic). Mark domestic supply $Q_1$ and demand $Q_4$ at $P_w$ — imports are the gap. Draw a second horizontal line at $P_w + t$ and mark the new $Q_2$ (domestic supply) and $Q_3$ (demand): domestic output rises, consumption falls, imports shrink to $Q_2$–$Q_3$, and the rectangle between the two price lines over the import gap is **tariff revenue**.
+
+## Lorenz curve (extension)
+
+A square diagram: cumulative % of population (poorest first) on the horizontal axis, cumulative % of income on the vertical, both 0–100. Draw the **diagonal line of perfect equality**, then the **Lorenz curve** sagging below it from (0, 0) to (100, 100). Label the area between them **A** and the area below the curve **B**: the Gini coefficient is $A \div (A + B)$. A curve further from the diagonal means more inequality.
+
 ## Population pyramids
 
 A population pyramid is a pair of horizontal bar charts back to back: **males** on one side, **females** on the other, with **age groups** (0–4, 5–9 … 80+) up the vertical axis and the **number or percentage** of the population along the horizontal axis.
@@ -269,3 +351,5 @@ A population pyramid is a pair of horizontal bar charts back to back: **males** 
 | **Narrow base, bulge in the middle and upper groups** | an MEDC with an ageing population | low birth rate, long life expectancy; a growing elderly dependent population |
 
 Marks are lost by: mixing up which side is male and female without a key; reading the horizontal axis as age; and describing a shape without saying what birth and death rates it implies.
+
+The Cambridge IGCSE syllabus requires you to **interpret** a population pyramid, not draw one: read the base for births, the narrowing for deaths, the top for life expectancy, bulges and notches for booms, wars and migration, and the two sides for the sex balance.

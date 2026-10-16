@@ -40,6 +40,17 @@ These objectives can **conflict** in the short run. Stimulating growth may pull 
 
 **Supply-side policies** aim to make industries more efficient and competitive: **privatisation** (using the profit motive to raise efficiency), **training and education** to improve workers' skills, and **promoting competition** by reducing government control over industries and acting against monopolies.
 
+**How businesses might respond to government changes:**
+
+| Change | Likely effect | Possible responses |
+|---|---|---|
+| Income tax rises | customers' disposable income falls, sales of non-essentials fall | cut prices or launch cheaper ranges; promote value; cut costs |
+| Corporate (profit) tax rises | less profit after tax to reinvest or pay as dividends | delay expansion; look for cost savings; seek other finance |
+| GST (indirect tax) rises | prices rise or margins are squeezed | absorb part of the rise if demand is elastic; pass it on if inelastic |
+| Government spending rises | more demand and contracts (schools, roads, hospitals) | bid for contracts; expand capacity; recruit |
+| Interest rates rise | borrowing costs up; credit-bought goods sell less | repay or avoid loans; use retained profit; delay investment; offer interest-free credit |
+| Interest rates fall | cheaper borrowing; consumers spend more | borrow to expand; invest; increase stock for higher demand |
+
 **Explain the mechanism for the business in the case.** Do not claim one policy helps every firm — a firm with no borrowing and inelastic demand barely notices a rate rise.
 
 ## The business cycle
@@ -54,6 +65,10 @@ The **business cycle** is the recurring pattern of ups and downs in real GDP ove
 | **Slump** | a prolonged recession: high unemployment, wage cuts; government spends more, cuts taxes and interest rates | focus on survival and cash |
 | **Recovery** | confidence returns, spending, sales and employment rise | rebuild stock and staffing, invest ahead of the upturn |
 
+![Business cycle: real GDP rises and falls around a long-run trend through growth, boom, recession, slump and recovery](bus-business-cycle.svg)
+
+**Drawing it in the exam:** label the axes **real GDP** (vertical) and **time** (horizontal), draw a wave rising around an upward trend line, and label growth, boom (the peak), recession, slump (the trough) and recovery.
+
 **Firms are affected unequally.** Luxury goods, construction and travel are highly sensitive to the cycle; basic food, utilities and discount retail are far less so, and some discounters grow in a recession.
 
 ## Economic influences on a firm
@@ -61,6 +76,14 @@ The **business cycle** is the recurring pattern of ups and downs in real GDP ove
 **Inflation** — a sustained rise in the general price level. It raises input costs, erodes customers' real purchasing power, prompts wage demands, and makes planning and pricing harder. It can reduce the real value of existing debt, which helps a borrower.
 
 **Unemployment** — reduces household incomes and total demand, but enlarges the pool of available workers and may hold wages down.
+
+| Change | Impact on businesses |
+|---|---|
+| Employment rises | more income and spending, so sales rise; but harder and dearer to recruit, wages rise |
+| Employment falls | less spending, sales fall (especially luxuries); easier to recruit, less pressure on wages |
+| Inflation rises | costs rise; customers' real incomes fall; workers demand pay rises; exports less competitive; harder to plan prices |
+| GDP rises | more demand and confidence; good time to expand — but watch capacity and rising costs |
+| GDP falls | lower sales and profit; redundancies, closures; cut costs and focus on cash |
 
 **Economic growth** — generally raises incomes and demand, but different sectors benefit by different amounts, and growth can raise costs through labour and material shortages.
 
@@ -74,6 +97,16 @@ The **business cycle** is the recurring pattern of ups and downs in real GDP ove
 | Net effect | depends on invoicing currency, demand elasticity and the **share of imported costs** |
 
 An exporter that buys most of its inputs abroad may gain little from a weaker currency.
+
+| Currency strengthens (appreciation) | Effect |
+|---|---|
+| Exports | dearer to foreign buyers → export sales tend to fall, or the exporter cuts its price and its margin |
+| Imported materials and goods | cheaper in domestic currency → costs fall for importers |
+| Domestic sellers | imported competitors become cheaper, so they lose sales at home |
+
+**Appreciation** is a rise in the value of a currency against another; **depreciation** is a fall. Constant changes make it hard to set prices, plan and budget.
+
+*Worked example (for understanding — the IGCSE syllabus does not examine exchange-rate calculations).* A New Zealand winery sells a bottle for NZ\$20. At NZ\$1 = US\$0.60 the US price is 20 × 0.60 = US\$12. If the NZ dollar **appreciates** to US\$0.70, the same bottle costs 20 × 0.70 = US\$14 in the US, so US sales may fall. If the winery holds the US price at US\$12 instead, it receives 12 ÷ 0.70 = NZ\$17.14 a bottle, so its margin falls. The same appreciation helps an importer: a machine priced at US\$6000 cost 6000 ÷ 0.60 = NZ\$10 000 before, but 6000 ÷ 0.70 = NZ\$8571 after.
 
 ## Legal controls
 
@@ -100,9 +133,25 @@ $$\text{social cost} = \text{private cost} + \text{external cost} \qquad \text{s
 
 If social costs exceed social benefits, the government may step in with fines or taxes such as a carbon tax. A **cost-benefit analysis** weighs all the costs and benefits — private and external — before a decision, such as whether to build a new motorway.
 
+*Worked example.* A firm plans a new factory near a town (figures per year, illustrative).
+
+| | Private (to the firm) | External (to others) | Social (total) |
+|---|---:|---:|---:|
+| Benefits | profit-making revenue 900k | jobs and spending in the town 200k | 1100k |
+| Costs | building and running costs 700k | pollution, noise, traffic 500k | 1200k |
+| **Net** | **+200k** | **−300k** | **−100k** |
+
+The firm alone would build (private benefit exceeds private cost by 200k), but society loses 100k a year. Government might refuse planning permission, require cleaner equipment, or tax the pollution so the firm pays the external cost. *Limitations of CBA:* external costs such as noise or lost scenery are hard to put a money value on, and different groups value them differently.
+
+**Environmental impact of business activity.** Burning fossil fuels in factories and transport adds to **global warming** and climate change; businesses also cause air, water and noise pollution, waste and landfill, deforestation and loss of habitats, and use up non-renewable resources. **Legal controls** include emission limits, pollution fines, waste-disposal and recycling rules, planning controls and carbon pricing (New Zealand runs an Emissions Trading Scheme).
+
+**How a business can contribute to sustainable development:** renewable energy, recycling and less packaging, cleaner production methods, sustainable sourcing of materials, efficient transport and fewer journeys, and designing products to last or be reused.
+
 **Sustainability** means meeting our needs without compromising the ability of future generations to meet theirs. A sustainable business can attract customers, cut costs (an energy-efficient office spends less on power), gain a USP, and avoid reputational risk — but many measures need investment first.
 
 **Pressure groups** are organisations that aim to change the behaviour of a business that fails to act in a socially or environmentally responsible way, through publicity and protest (Greenpeace). They can organise boycotts and campaigns. Their influence depends on their size, media attention and how exposed the brand is. Government also applies pressure through anti-pollution laws, building regulations and financial penalties.
+
+**Ethical issues a business may face:** **child labour** in its own or its suppliers' factories, **paying fair prices to suppliers** (especially small farmers in poorer countries — Fairtrade), low wages and unsafe conditions, bribery and corruption, misleading advertising, and testing on animals. **Responses:** check and audit suppliers, sign up to Fairtrade or similar schemes, pay at least a living wage, set an ethical code and train staff. Ethical choices often **conflict with profit** in the short run (higher costs), but may pay back through brand image, loyal customers and easier recruitment — or may not, if customers will not pay more.
 
 **Stakeholder conflict** is the heart of most evaluation questions: owners seek returns, employees seek pay and security, customers seek value, and the community may seek less pollution. A cleaner process may cost more initially but reduce waste, reputational damage and future disruption. **Do not assume every ethical change increases profit** — judge the specific case and say what it depends on.
 
@@ -110,7 +159,18 @@ If social costs exceed social benefits, the government may step in with fines or
 
 **Globalisation** — the process by which the world is becoming increasingly interconnected through massively increased trade and cultural exchange. It has been driven by cheaper, faster transport, free-trade organisations such as the WTO, the internet and mobile communications, and cheap skilled labour in countries such as India. For a business it means larger potential markets, cheaper sourcing, and far more competition at home. Firms are drawn abroad by cheap materials and labour, good transport, access to markets and friendly government policies.
 
-A **multinational company (MNC)** has its headquarters in one country (the **home** country) and production or other operations in another (the **host** country). Simply exporting or selling abroad does **not** make a firm multinational. Firms become MNCs to cut costs, reach new markets and boost sales.
+| Opportunities of globalisation | Threats of globalisation |
+|---|---|
+| sell to much larger markets abroad (exports) | foreign competitors enter the home market |
+| import cheaper materials and components | domestic firms that cannot compete may close |
+| set up factories in lower-cost countries | skilled staff may be attracted away by multinationals |
+| economies of scale from larger output | exposure to exchange-rate changes and to problems abroad |
+
+**Why governments introduce import tariffs and quotas:** to protect domestic firms and jobs from cheaper imports, to protect new ("infant") industries until they can compete, to raise tax revenue (tariffs), to reduce a trade deficit, and to respond to other countries' barriers or to unfair "dumping" of goods below cost.
+
+A **multinational company (MNC)** has its headquarters in one country (the **home** country) and production or other operations in another (the **host** country). Simply exporting or selling abroad does **not** make a firm multinational.
+
+**Why a business becomes multinational:** lower costs (cheaper labour, materials and land), nearness to new markets and lower transport costs, getting round tariffs and quotas by producing inside the market, access to raw materials, spreading risk across several economies, and economies of scale from global output. *For its stakeholders:* shareholders may gain higher profit; home-country employees may lose jobs; customers may gain lower prices.
 
 | Benefits to the host country | Drawbacks to the host country |
 |---|---|

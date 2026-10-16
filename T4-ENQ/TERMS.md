@@ -31,11 +31,34 @@ Precision earns marks on its own, and the conventions criterion rewards naming a
 **Implied meaning** — what is not stated and must be inferred; between the lines. *The understanding criterion escalates from the first to the second, so a paragraph that reaches only superficial meaning is capped before the analysis is read.*
 **Literary / filmic conventions** — the characteristic features, devices and tropes of a genre or text type, such as a novel, play, short story, poem or film. These are what criterion 3 rewards.
 
+## Narrative voice (prose)
+
+**First-person narrator** — a narrator who speaks as *I*, limited to what that person knows or admits.
+**Third-person limited** — narration in *he* or *she* that stays close to one character's perception.
+**Third-person omniscient** — a narrator who can enter any mind and judge freely. *Limited narration creates sympathy and suspense; omniscient narration creates authority and irony.*
+**Focalisation** — the perspective through which events are perceived, which may differ from who narrates.
+**Narrative distance** — how close the narration sits to a character's consciousness.
+**Unreliable narrator** — a narrator whose account the reader has reason to doubt.
+**Free indirect discourse** — a character's thoughts rendered in the narrator's third-person voice without a tag such as *he thought*, so that the two voices blend. *Direct thought quotes the character; free indirect discourse absorbs the character's idiom into the narration.*
+**Direct speech** — a character's exact words in quotation marks.
+**Reported speech** — the narrator's summary of what was said. *Switching from direct to reported speech takes a character's voice away.*
+**Speech tag** — the verb and adverb attached to dialogue (*whispered*, *pitilessly*), through which the narrator judges each line.
+**Scene and summary** — moment-by-moment presentation against compressed narration; moving into scene slows time and signals importance.
+**Pacing** — the speed at which narrative time passes relative to reading time.
+**Narrative ellipsis** — a deliberate gap in the action or in time, which the reader must fill.
+
 ## Poetic form and metre
 
 **Stanza** — a grouped set of lines, functioning as a unit of argument.
 **Couplet** — two consecutive lines, usually rhymed; often used for closure or epigram.
+**Tercet** — a three-line stanza.
 **Quatrain** — a four-line stanza.
+**Cinquain (quintet)** — a five-line stanza.
+**Sestet** — a six-line stanza, or the last six lines of a Petrarchan sonnet.
+**Octave** — an eight-line stanza, or the first eight lines of a Petrarchan sonnet.
+**Villanelle** — a nineteen-line poem of five tercets and a quatrain, built on two repeating refrains.
+**Ballad** — a narrative poem in quatrains, often with a refrain, from the oral tradition.
+**Lineation** — the poet's arrangement of words into lines, including where words are split across a line break.
 **Sonnet** — a fourteen-line poem in iambic pentameter, with a turn in the argument.
 **Volta** — the turn in a poem's argument: at the ninth line of a Petrarchan sonnet, at the closing couplet of a Shakespearean one, but available anywhere.
 **Blank verse** — unrhymed iambic pentameter; the register of elevated speech in Shakespeare.

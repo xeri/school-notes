@@ -90,6 +90,10 @@ A change in the good's own price is a **movement along** the supply curve (a cha
 
 When drawing a price change, label the original price and quantity **P1** and **Q1** and the new ones **P2** and **Q2**, use **dotted lines** to the axes and an **arrow** to show the direction.
 
+![Two panels. Left: a single demand curve; a fall in price from P1 to P2 moves along the curve from Q1 to Q2, an extension. Right: at one price P, demand curve D1 shifts right to D2 (increase, Q1 to Q2) or left to D3 (decrease, Q1 to Q3)](econ-demand-shift.svg)
+
+**Individual and market demand.** Market demand is found by **adding** the quantities every consumer demands at each price (horizontal summation). If Ana buys 3 coffees a week at \$5 and Ben buys 2, the market demand at \$5 is 5; the same is done at every price. Market supply is built the same way from every firm's supply.
+
 ## Equilibrium
 
 **Equilibrium** is the balance of the market forces of supply and demand: the price at which **quantity demanded equals quantity supplied**. Buyers have bought all they want and sellers have sold all they want, so there is **no surplus and no shortage**. While ceteris paribus holds, equilibrium stays put.
@@ -124,6 +128,10 @@ Equilibrium changes only when ceteris paribus is broken — a condition of deman
 
 *Worked example.* A medical journal reports that mussels are healthy. A condition of demand (tastes) has changed, so **demand for mussels increases** — the market demand curve shifts right. At the old price there is a shortage, so the price rises; producers, now better able to cover costs, **increase the quantity supplied** and may move more resources into mussels. Consumers eat more mussels at a higher price; society may gain from better health and less pressure on the health system.
 
+![Market diagram: supply increases from S1 to S2 with demand unchanged; equilibrium moves from E1 to E2, price falls from P1 to P2 and quantity rises from Q1 to Q2](econ-supply-shift.svg)
+
+*Worked example — supply increases.* An excellent kiwifruit season (a condition of supply) shifts supply right from $S_1$ to $S_2$. At the old price $P_1$ there is now a **surplus**, so sellers cut prices; as the price falls, quantity demanded **extends along** $D$ until the new equilibrium $E_2$: a **lower price** $P_2$ and a **higher quantity** $Q_2$.
+
 **When both curves shift, one outcome becomes ambiguous.** If demand and supply both increase, quantity definitely rises but price depends on which shift is larger. Say so, and state what it depends on — that is the evaluation mark.
 
 ## Numerical equilibrium
@@ -138,16 +146,7 @@ Always substitute back into **both** equations to check ($20 + 2\times25 = 70$).
 
 ## Price controls
 
-**Maximum price (price ceiling)** — set *below* equilibrium to make a good affordable (rent controls, basic food).
-
-- Consequence: **excess demand**, so shortages, queues, waiting lists, rationing and black markets.
-- Producers supply less, so quality may fall and investment dries up.
-
-**Minimum price (price floor)** — set *above* equilibrium to protect producers or discourage consumption (farm support prices, minimum alcohol pricing). The **minimum wage** is a minimum price in the labour market — see [Firms, costs and labour markets](../notes/firms-labour.md).
-
-- Consequence: **excess supply**, so surpluses the government may have to buy and store; in a labour market, unemployment.
-
-Both controls stop the price mechanism clearing the market. Evaluate them by who gains, who loses, and whether the intended group actually benefits.
+Maximum and minimum prices are a form of government intervention, so they are taught with their diagrams in [Elasticity, market failure and market structures](../notes/elasticity-failure.md), alongside indirect taxes and subsidies. In one line: a **maximum price** is set **below** equilibrium and causes a **shortage**; a **minimum price** is set **above** equilibrium and causes a **surplus**.
 
 ## Pricing strategies
 

@@ -14,11 +14,13 @@
 
 Draw a solid as a neat touching lattice, a liquid as touching but disordered, a gas as a few widely spaced particles with motion arrows.
 
+Changes of state: solid → liquid **melting**; liquid → solid **freezing (solidification)**; liquid → gas **boiling** or **evaporation**; gas → liquid **condensation**.
+
 ## Kinetic model and temperature
 
 Temperature measures the **average kinetic energy** of the molecules — faster molecules mean a higher temperature. **Internal energy** is the total of molecular kinetic *and* potential energy.
 
-The **Kelvin** scale is the scientific temperature scale because it is proportional to molecular kinetic energy. **0 K** (absolute zero) is the lowest possible temperature: molecular motion stops.
+The **Kelvin** scale is the scientific temperature scale because it is proportional to molecular kinetic energy. **0 K = −273 °C** (absolute zero) is the lowest possible temperature, where the particles have the least kinetic energy (the Pre-Q wording: molecular motion stops).
 
 $$T/\mathrm{K} = T/^\circ\mathrm{C} + 273$$
 
@@ -52,7 +54,11 @@ These laws describe an **ideal gas**. A real gas follows them well at ordinary c
 
 *Molecular explanations.* Reducing the volume at constant temperature packs the same molecules into less space, so they hit the walls more often per second and the pressure rises. Raising the temperature at constant volume makes the molecules faster, so they hit harder and more often, and the pressure rises.
 
-**Worked example.** 250 cm³ of gas at 100 kPa and 27 °C is compressed to 150 cm³ at 57 °C.
+**Worked example (Boyle's law).** A syringe holds 60 cm³ of air at 100 kPa. It is slowly pushed in to 20 cm³ at constant temperature. $p_2 = p_1V_1/V_2 = 100\times60/20 = 300$ kPa — a third of the volume, three times the pressure.
+
+**This loses marks:** using °C in $P/T$ or $V/T$ (always convert to K); applying $pV$ = constant when the temperature changes; saying the molecules "get bigger" when a gas expands.
+
+**Worked example (combined).** 250 cm³ of gas at 100 kPa and 27 °C is compressed to 150 cm³ at 57 °C.
 
 $T_1 = 300$ K, $T_2 = 330$ K.
 
@@ -69,7 +75,12 @@ Evaporation is faster with:
 
 A body in contact with an evaporating liquid loses energy to it and cools — sweating, a damp cloth on a forehead, the chill of spilled alcohol.
 
-**Evaporation vs boiling:** evaporation happens at the surface only, at any temperature; boiling happens throughout the liquid, at a fixed boiling point.
+| | Evaporation | Boiling |
+|---|---|---|
+| Where | at the **surface** only | **throughout** the liquid (bubbles form inside) |
+| Temperature | any temperature | only at the boiling point |
+| Which molecules | only the most energetic escape | all molecules can gain enough energy |
+| Effect on liquid temperature | cools the remaining liquid | stays constant (energy supplied = latent heat) |
 
 ## Thermal expansion
 
@@ -106,11 +117,17 @@ Raising a body's temperature increases its internal energy: the molecules vibrat
 
 **Thermal capacity** $C$ of a whole object is the energy needed to raise its temperature by 1 K: $C = mc$, in J/K.
 
-**Specific heat capacity** $c$ is the energy needed to raise **1 kg** of a substance by **1 K**:
+**Specific heat capacity** $c$ is the energy required per unit mass per unit temperature increase — the energy needed to raise **1 kg** of a substance by **1 K** (or 1 °C):
 
-$$Q = mc\Delta T$$
+$$Q = mc\Delta T \qquad c = \frac{\Delta E}{m\Delta\theta}$$
+
+$Q$ (or $\Delta E$) in J, $m$ in kg, $\Delta T$ (or $\Delta\theta$) in K or °C, $c$ in J/(kg·K) = J/(kg·°C). A rise in temperature means an increase in the **average kinetic energy** of all the particles.
 
 *Experiment.* Mass a metal block, insert an electric immersion heater and a thermometer into drilled holes, lag the block, record the starting temperature. Run the heater at known $V$ and $I$ for time $t$, so $Q = VIt$. Record the final temperature and calculate $c = Q/(m\Delta T)$. Lagging reduces heat loss, the main source of error, which makes the measured $c$ too high.
+
+*Experiment (liquid).* Same method with a known mass of water in a lagged beaker or polystyrene cup with a lid, stirring before each temperature reading.
+
+**Worked example (finding c).** A 1.0 kg aluminium block is heated by a 12 V, 4.0 A heater for 5.0 min and rises from 20 °C to 36 °C. $Q = VIt = 12 \times 4.0 \times 300 = 14\,400$ J, so $c = 14\,400/(1.0 \times 16) = 900$ J/(kg·K). Energy lost to the surroundings makes the measured rise smaller, so the calculated $c$ comes out **too high**.
 
 **Worked example.** Heating 0.50 kg of water ($c = 4200$ J/(kg·K)) by 20 K needs $0.50\times4200\times20 = 42\,000$ J.
 
@@ -126,6 +143,8 @@ $$7800 - 78T = 2100T - 42\,000 \Rightarrow T = \frac{49\,800}{2178} = 22.9\ ^\ci
 - **Latent heat of fusion** — solid ↔ liquid
 - **Latent heat of vaporisation** — liquid ↔ gas
 
+Water melts at **0 °C** and boils at **100 °C** at standard atmospheric pressure.
+
 The **melting point** is the fixed temperature at which a pure solid turns to liquid; the **boiling point** is the fixed temperature at which a liquid boils throughout, at a given pressure (100 °C for pure water at standard atmospheric pressure). In **condensation** gas molecules slow and come close enough for attractive forces to hold them as a liquid; in **solidification** liquid molecules lose energy and settle into fixed positions in a lattice. Both release the latent heat that was absorbed in the reverse change, so the temperature stays constant while they happen.
 
 **Specific latent heat** $l$ is the energy per kilogram to change state:
@@ -140,7 +159,7 @@ A cooling curve for a pure substance shows flat plateaus at the melting and boil
 
 ## Thermal transfer
 
-**Conduction** — energy passes through matter without bulk movement. Molecules at the hot end vibrate more and jostle their neighbours. In metals there are also **free (delocalised) electrons** that travel through the lattice carrying kinetic energy, which is why metals conduct far better than non-metals. Gases are the worst conductors (molecules are far apart).
+**Conduction** — energy passes through matter without bulk movement. Molecules at the hot end vibrate more and jostle their neighbours. In metals there are also **free (delocalised) electrons** that travel through the lattice carrying kinetic energy, which is why metals conduct far better than non-metals. Gases are the worst conductors: the molecules are far apart, so they rarely collide and pass on energy slowly, and there are no free electrons. Most liquids are poor conductors for the same reasons. Many solids (glass, brick) conduct better than insulators but far worse than metals.
 
 *Experiment.* Rods of copper, aluminium, glass and wood of the same dimensions, each with a drawing pin stuck on the far end with wax, heated at one end in a water bath. The pins fall in order of conductivity — copper first, wood last.
 
@@ -155,8 +174,16 @@ A cooling curve for a pure substance shows flat plateaus at the melting and boil
 | Dull black | good | good | poor |
 | Shiny silver | poor | poor | good |
 
-Emission also rises with surface **temperature** and surface **area**.
+All objects emit infrared radiation. The rate of emission rises with a higher surface **temperature** and a larger surface **area**.
+
+**Energy balance.** An object stays at **constant temperature** when it emits (and otherwise loses) energy at the same rate as it receives it. If it receives energy faster than it loses it, its temperature **rises**; if slower, it **falls** — until the rates balance again (a hotter object emits faster).
+
+**The Earth's temperature** depends on the balance between incoming radiation from the Sun and the infrared radiated from the Earth's surface. Clouds, ice and snow reflect sunlight away (cooling); greenhouse gases such as CO₂ and methane absorb outgoing infrared and re-emit some back (warming). Increasing greenhouse gases shifts the balance, so the average temperature rises until the outgoing radiation matches again.
+
+*Experiment (absorbers).* Two identical metal plates, one dull black and one shiny, each with a drawing pin stuck on the back with wax, at equal distances from a radiant heater. The pin on the dull black plate falls first: it absorbs infrared faster.
 
 *Experiment (Leslie's cube).* A metal cube with faces of different finishes, filled with hot water. A thermopile or infrared detector at equal distances from each face reads the greatest emission from the dull black face and the least from the shiny face.
 
-**Everyday consequences.** A vacuum flask blocks all three: a vacuum stops conduction and convection, silvered walls reduce radiation, a stopper stops evaporation. A cooker uses conduction through the pan base, convection in the water, and radiation from the grill. Loft insulation traps air to stop convection; a shiny foil behind a radiator reflects radiation back into the room.
+**Everyday consequences.** A vacuum flask blocks all three: a vacuum stops conduction and convection, silvered walls reduce radiation, a stopper stops evaporation. A cooker uses conduction through the pan base, convection in the water, and radiation from the grill. A room heater ("radiator") warms the room mainly by **convection**: hot air rises above it, spreads across the ceiling, cools and sinks on the far side.
+
+*Complex examples (more than one process).* A **fire** burning wood or coal: radiation heats people in front of it; convection carries hot gases up the chimney (drawing in fresh air from below); conduction through the grate and hearth. A **car radiator**: hot coolant from the engine passes through thin metal tubes, conduction through the metal to the fins, then **convection** in the air blown through by the fan (and a little radiation) carries the energy away. Loft insulation traps air to stop convection; a shiny foil behind a radiator reflects radiation back into the room.

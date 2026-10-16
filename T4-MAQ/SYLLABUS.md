@@ -1,17 +1,23 @@
 # Mathematics — Pre-Q Syllabus
 
-Pre-Q Advanced follows the **IGCSE Extended Mathematics** objectives (codes E1–E9 below). Term 4 is the terminal examination covering the whole year.
+Pre-Q Advanced follows the **IGCSE Extended Mathematics** objectives (codes E1–E9 below), plus **calculus**, which is taught in Term 3 and examined in the final. Term 4 is the terminal examination covering the whole year.
 
-Course outline by term:
+2026 course outline by term, with the notes for each topic:
 
-| Term | Content |
-|---|---|
-| 1 | Number, Algebra |
-| 2 | Coordinate Geometry, Graphs, Geometry, Trigonometry |
-| 3 | Measurement, Vectors, Transformation, Statistics & Probability, Calculus |
-| 4 | Terminal examinations |
+| Term | Content | Notes |
+|---|---|---|
+| 1 | Number | [Number](notes/number.md) |
+| 1 | Algebra | [Algebra](notes/algebra.md) |
+| 2 | Coordinate Geometry, Graphs | [Coordinate geometry and graphs](notes/graphs.md) |
+| 2 | Geometry | [Geometry](notes/geometry.md) |
+| 2 | Trigonometry | [Trigonometry](notes/trigonometry.md) |
+| 3 | Measurement | [Mensuration](notes/mensuration.md) |
+| 3 | Vectors, Transformation | [Vectors, transformations and matrices](notes/vectors-matrices.md) |
+| 3 | Statistics & Probability | [Statistics and probability](notes/statistics.md) |
+| 3 | Calculus | [Calculus](notes/calculus.md) |
+| 4 | Terminal examinations | — |
 
-**Final exam.** One paper, *Paper 1: Advanced Mathematics*: 3 hours, 180 marks (178 in 2024), sat in late October or early November. The 2022–2025 papers covered every term's topics, including calculus.
+**Final exam.** One paper, *Paper 1: Advanced Mathematics*: 3 hours, 180 marks (178 in 2024), sat in late October or early November. The 2022–2025 papers covered every term's topics, including calculus and a full transformations question.
 
 - Give non-exact answers to 3 significant figures unless the question asks for another accuracy.
 - Give angles in degrees to 1 decimal place.
@@ -28,20 +34,13 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 |---|---|---|---|---|
 | 1 | Number | E1 | [notes](notes/number.md) | [deck](anki/number.txt) |
 | 2 | Algebra | E2.1–2.8, 2.12 | [notes](notes/algebra.md) | [deck](anki/algebra.txt) |
-| 3 | Coordinate geometry, graphs and calculus | E2.9–2.11, E5 | [notes](notes/graphs.md) | [deck](anki/graphs.txt) |
+| 3 | Coordinate geometry and graphs | E2.6, E2.9–2.11, E5 | [notes](notes/graphs.md) | [deck](anki/graphs.txt) |
 | 4 | Geometry | E3 | [notes](notes/geometry.md) | [deck](anki/geometry.txt) |
-| 5 | Mensuration | E4 | [notes](notes/mensuration.md) | [deck](anki/mensuration.txt) |
-| 6 | Trigonometry | E6 | [notes](notes/trigonometry.md) | [deck](anki/trigonometry.txt) |
-| 7 | Vectors, matrices and transformations | E7 | [notes](notes/vectors-matrices.md) | [deck](anki/vectors-matrices.txt) |
+| 5 | Trigonometry | E6 | [notes](notes/trigonometry.md) | [deck](anki/trigonometry.txt) |
+| 6 | Mensuration (Measurement) | E4 | [notes](notes/mensuration.md) | [deck](anki/mensuration.txt) |
+| 7 | Vectors, transformations and matrices | E7 | [notes](notes/vectors-matrices.md) | [deck](anki/vectors-matrices.txt) |
 | 8 | Statistics and probability | E8, E9 | [notes](notes/statistics.md) | [deck](anki/statistics.txt) |
-
-**Calculus** appears in the Term 3 course outline but no objective list has been issued for it. Every final from 2022 to 2025 examined the same skills, covered in the [calculus section of the graphs notes](notes/graphs.md):
-
-- differentiate polynomials, including negative powers, expanding brackets first
-- find the gradient at a point and the equation of the tangent there
-- integrate polynomials, adding $+C$, and find $C$ from a given point
-
-Confirm the full scope with the department.
+| 9 | Calculus | — (see section 9) | [notes](notes/calculus.md) | [deck](anki/calculus.txt) |
 
 ---
 
@@ -80,6 +79,7 @@ Confirm the full scope with the department.
 
 ## 3. Coordinate geometry and graphs
 
+- **E2.6** Represent linear inequalities graphically as regions and use them to solve simple linear programming problems. This code is missing from the school's E-code list, but "Inequalities: regions" is among the Algebra & Graphs skills on the course page.
 - **E2.9** Interpret and use graphs in practical situations including travel and conversion graphs. Draw graphs from given data. Apply rate of change to simple kinematics: distance–time and speed–time graphs, acceleration, deceleration, distance as the area under a linear speed–time graph.
 - **E2.10** Construct tables of values and draw graphs of $ax^n$ for $n = -2, -1, 0, 1, 2, 3$ and simple sums of up to three such terms, and of $a^x$ for positive integer $a$. Solve the associated equations graphically. Draw and interpret exponential growth and decay graphs.
 - **E2.11** Estimate the gradient of a curve by drawing a tangent.
@@ -100,15 +100,7 @@ Confirm the full scope with the department.
 - **E3.6** Calculate unknown angles using: angles at a point; angles on a straight line and at intersecting lines; angles in parallel lines; angle properties of triangles, quadrilaterals, regular and irregular polygons; angle in a semicircle; angle between tangent and radius; angle at the centre is twice the angle at the circumference; angles in the same segment are equal; opposite angles of a cyclic quadrilateral are supplementary. **Correct geometrical terminology is required when giving reasons.**
 - **E3.7** Use loci and intersecting loci for points that are: a given distance from a point; a given distance from a straight line; equidistant from two points; equidistant from two intersecting lines.
 
-## 5. Mensuration
-
-- **E4.1** Use current units of mass, length, area, volume and capacity; express quantities in larger or smaller units; convert between units, including units of area and volume.
-- **E4.2** Calculate the perimeter and area of a rectangle, triangle, parallelogram and trapezium, and of compound shapes derived from these.
-- **E4.3** Calculate the circumference and area of a circle. Solve problems with arc length and sector area as fractions of the whole.
-- **E4.4** Calculate the volume of a cuboid, prism and cylinder, and the surface area of a cuboid and cylinder. Calculate the surface area and volume of a sphere, pyramid and cone — **these formulae are given in the exam**.
-- **E4.5** Calculate areas and volumes of compound shapes.
-
-## 6. Trigonometry
+## 5. Trigonometry
 
 - **E6.1** Interpret and use three-figure bearings, measured clockwise from North, 000°–360°.
 - **E6.2** Apply Pythagoras' theorem and the sine, cosine and tangent ratios for acute angles to find a side or an angle of a right-angled triangle. Solve 2-D problems involving angles of elevation and depression. Extend sine and cosine values to angles between 90° and 180°. **Angles are quoted and required in degrees to one decimal place.**
@@ -116,13 +108,23 @@ Confirm the full scope with the department.
 - **E6.4** Solve simple 3-D trigonometry problems, including the angle between a line and a plane.
 - **Trigonometric graphs** (no E code, but in the 2022–2025 finals and the term exams): sketch graphs such as $y = 2\cos x$ and $y = 2\sin 2x$ for $0°$–$360°$, and solve equations such as $\cos x = \tfrac{\sqrt3}{2}$.
 
-## 7. Vectors, matrices and transformations
+## 6. Mensuration (Measurement)
+
+- **E4.1** Use current units of mass, length, area, volume and capacity; express quantities in larger or smaller units; convert between units, including units of area and volume.
+- **E4.2** Calculate the perimeter and area of a rectangle, triangle, parallelogram and trapezium, and of compound shapes derived from these.
+- **E4.3** Calculate the circumference and area of a circle. Solve problems with arc length and sector area as fractions of the whole.
+- **E4.4** Calculate the volume of a cuboid, prism and cylinder, and the surface area of a cuboid and cylinder. Calculate the surface area and volume of a sphere, pyramid and cone — **these formulae are given in the exam**.
+- **E4.5** Calculate areas and volumes of compound shapes.
+
+## 7. Vectors, transformations and matrices
 
 - **E7.1** Describe a translation by a vector. Add and subtract vectors. Multiply a vector by a scalar.
 - **E7.2** Reflect plane figures. Rotate plane figures through multiples of 90°. Construct translations and enlargements. Recognise and describe reflections, rotations, translations and enlargements, with positive, fractional and negative scale factors.
 - **E7.3** Calculate the magnitude of a vector as $\sqrt{x^2+y^2}$. Represent vectors by directed line segments. Use sums and differences of two vectors to express a given vector in terms of two coplanar vectors. Use position vectors. **Indicate a vector clearly in answers — by an arrow or by underlining.**
 - **E7.4** Display information as a matrix of any order. Calculate the sum and product of two matrices and the product of a matrix and a scalar. Use the algebra of $2\times2$ matrices including the zero and identity matrices. Calculate the determinant $|A|$ and the inverse $A^{-1}$ of a non-singular matrix.
-- **E7.5** Use the transformations reflection (M), rotation (R), translation (T), enlargement (E) and their combinations. Identify and precisely describe the transformation connecting two figures. Describe transformations using coordinates and matrices (singular matrices excluded). Notation: if $M(a)=b$ and $R(b)=c$ then $RM(a)=c$.
+- **E7.5** Use the transformations reflection (M), rotation (R), translation (T), enlargement (E) and their combinations. Identify and precisely describe the transformation connecting two figures. Describe transformations using coordinates and matrices (singular matrices excluded). Notation: if $M(a)=b$ and $R(b)=c$ then $RM(a)=c$. Invariants under these transformations may be assumed.
+
+**Transformation** is listed as its own Term 3 topic. The 2022 and 2025 finals each had a full transformations question: describe a reflection, a rotation and an enlargement (one mark per piece of information — type, line, centre, angle, direction, scale factor), draw an image from given coordinates, and form a combined transformation in the right order or name the single equivalent. These are covered in the [transformations section](notes/vectors-matrices.md) of the vectors notes.
 
 No matrix questions appear in the 2022–2025 final mark schemes; transformations there are described in words and drawn on a grid.
 
@@ -141,3 +143,15 @@ No matrix questions appear in the 2022–2025 final mark schemes; transformation
 - **E9.6** Understand positive, negative and zero correlation on a scatter diagram.
 - **E9.7** Draw a straight line of best fit by eye.
 - **Box plots** (no E code): drawn from the quartiles in the 2022 and 2024 finals.
+
+## 9. Calculus
+
+**Calculus is examined.** It is taught in Term 3 and appeared in every final from 2022 to 2025, as several short parts inside a longer question. The school's E-code list predates it, so these objectives are written from what the 2022–2025 final mark schemes rewarded. The current Cambridge 0580 Extended syllabus also includes differentiation (gradients, tangents, stationary points), but not integration.
+
+- **Differentiate** sums of terms $ax^n$, where $n$ may be a positive, negative or fractional power: $ax^n \to anx^{n-1}$. Rewrite roots and fractions as powers first (2022: $\sqrt x$; 2024 and 2025: negative powers).
+- **Expand brackets or simplify first**, then differentiate, e.g. $(2x+1)^2$ (every year).
+- **Find the gradient at a point** by substituting into $f'(x)$, and **the equation of the tangent** there (2025). Recognise a line as a tangent to a curve on a graph (2024, 2025).
+- **Integrate** sums of terms $ax^n$ ($n \neq -1$): $\int ax^n\,dx = \frac{ax^{n+1}}{n+1}+C$, **always including $+C$**. Expand or simplify an algebraic fraction first (2022, 2025).
+- **Find a function from its gradient function and one point**, by integrating and then finding $C$ (every year).
+- **Also covered in the notes, not asked in 2022–2025:** the normal at a point; stationary points and their nature by the second derivative or a sign test; increasing and decreasing functions; practical maximum and minimum problems; definite integrals and the area under a curve. Turning points in the finals were found by completing the square.
+

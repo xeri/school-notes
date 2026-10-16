@@ -32,6 +32,16 @@ Growth **enables** development — higher real GDP means more can be spent on sc
 
 **Single indicators mislead.** Use **several together**, and expect them to disagree — a country can score well on income and badly on health, or vice versa.
 
+The Cambridge IGCSE syllabus names two indicators of living standards to know in detail — **real GDP per head** and the **HDI** — with their components, advantages and disadvantages.
+
+| | Real GDP per head | HDI |
+|---|---|---|
+| Components | real GDP ÷ population | income (GNI per head), education (years of schooling), health (life expectancy at birth) |
+| Advantages | data widely available and regularly updated; adjusts for inflation and population; measures the goods and services available per person | broader — includes health and education as well as income; shows that countries with similar incomes can have very different living standards |
+| Disadvantages | an average that hides inequality; ignores non-market output, leisure, the environment and what is produced; exchange-rate conversion can mislead | ignores distribution, gender equality, human rights and the environment; the weighting is a judgement; data quality varies |
+
+*Worked example — GDP per head.* Country A has real GDP of \$400bn and 10 million people: $400\,000\,000\,000 \div 10\,000\,000 = \$40\,000$ per head. Country B has \$600bn and 30 million people: \$20 000 per head. B's economy is larger, but A's people are on average twice as well off.
+
 ## Composite and distribution measures
 
 The **Human Development Index (HDI)** is the United Nations' measure of living standards and welfare. It combines three indicators into one figure between 0 and 1:
@@ -53,6 +63,10 @@ The highest-ranked countries (Switzerland, Norway, Iceland) score around 0.96; t
 
 The **Gini coefficient** (devised by Corrado Gini in 1912) measures the **distribution** of income (or wealth) across a population, from **0** (perfect equality) to **1** (perfect inequality), sometimes written 0–100%. A higher value means greater inequality — high earners receive a much larger share of total income. It says nothing about the *level* of income: a poor country can be equal and a rich one unequal, so Gini and GDP per head answer different questions.
 
+**The Lorenz curve (extension).** The Gini coefficient is read from a **Lorenz curve**, which plots the cumulative percentage of income against the cumulative percentage of the population, poorest first. Perfect equality is the diagonal (the poorest 50% earn 50% of income). The further the curve sags below the diagonal, the more unequal the distribution. Neither the Lorenz curve nor the Gini coefficient is in the Cambridge IGCSE syllabus; the Gini coefficient is in the teaching material.
+
+![Lorenz curve: cumulative percentage of income against cumulative percentage of population. The diagonal line of perfect equality and a Lorenz curve sagging below it; area A between them and area B below the curve; Gini = A divided by A plus B; the poorest 50% earn 19% of income](econ-lorenz.svg)
+
 The UN's **Human Poverty Index (HPI)** counts deprivation directly, with different versions for developing and developed countries:
 
 | HPI-1 — developing countries | HPI-2 — developed countries |
@@ -64,6 +78,8 @@ The UN's **Human Poverty Index (HPI)** counts deprivation directly, with differe
 | proportion of underweight children | |
 
 Like any index it involves judgements about what to include and how to measure it, and data may be poor where poverty is worst.
+
+In 2010 the UN replaced the HPI with the **Multidimensional Poverty Index (MPI)**, now published each year by the UN Development Programme with Oxford University. It looks at the same three dimensions as the HDI — **health**, **education** and **living standards** — through ten indicators (such as child mortality, nutrition, years of schooling, school attendance, cooking fuel, sanitation, drinking water, electricity, housing and assets). A person deprived in at least **a third** of the weighted indicators counts as **multidimensionally poor**. Unlike an income measure, it shows *how* people are poor, so it points to which policy would help.
 
 ## Comparing countries
 
@@ -99,6 +115,22 @@ Economists also use three broader terms:
 - inefficient production and distribution — low incomes give businesses little incentive to set up, rural areas are hard to reach, and unskilled workers cannot be employed
 - high **population growth**, so goods and services are shared among ever more people
 - unstable or corrupt **government** and **war**, using up money that could fund development
+
+## Why development differs between countries
+
+The Cambridge syllabus lists seven areas whose **causes and impacts** explain differences in development:
+
+| Area | In a less developed country | Impact |
+|---|---|---|
+| **Income** | low income per head | little saving, low spending on health and education, low tax revenue |
+| **Productivity** | low output per worker — little capital, low skills, poor technology | low wages and incomes; uncompetitive exports |
+| **Population growth** | high birth rate and fast-growing population | output is shared among more people; a high dependency ratio; pressure on schools and services |
+| **Size of the primary, secondary and tertiary sectors** | most workers in the **primary** sector, often subsistence farming | low and volatile incomes, dependence on commodity prices and the weather |
+| **Saving and investment** | low incomes leave little to save, so little investment in capital | slow growth in productive capacity — a vicious circle |
+| **Education** | low literacy, few years of schooling | low productivity and earnings; high birth rates |
+| **Healthcare** | few doctors, little clean water, high infant mortality | a less productive workforce; low life expectancy |
+
+These reinforce each other — low income means low saving, which means low investment and low productivity, which keeps income low. Breaking into the circle at any point (education, aid-funded investment, export growth) can start development.
 
 ## Differences within a country
 
@@ -170,6 +202,20 @@ A population can be described by four distributions:
 
 Age and sex structure is drawn as a **population pyramid**. An LEDC with a young population has a **wide base and narrow top**; an MEDC with an ageing population has a narrow base and a **bulge in the middle and upper age groups**. About a quarter of the world's population is expected to be over 60 by 2050 — one in three in MEDCs.
 
+![Two population pyramids, males on the left and females on the right, by five-year age band from 0-4 to 80+. (a) A young population typical of an LEDC: a wide base narrowing steadily to a small top. (b) An ageing population typical of an MEDC: a narrow base, nearly equal bands through middle age and wide upper bands](econ-population-pyramids.svg)
+
+**Interpreting a pyramid** (the Cambridge syllabus requires interpretation, not drawing): read the **base** for the birth rate (wide = high), the **sides** for the death rate (steep narrowing = high death rates at each age), the **top** for life expectancy (wide = long lives), any **bulge or notch** for past baby booms, wars or migration (a bulge of working-age males often means labour immigration), and compare the two **sides** for the gender balance. Then state the consequence: a young population needs schools and jobs; an ageing one needs pensions and healthcare and has fewer workers per dependant.
+
+**Effects of changes in population size and structure.**
+
+| Change | Possible effects |
+|---|---|
+| **Population increases** | a larger labour force and market, more economies of scale, more tax revenue; but pressure on housing, infrastructure, the environment and resources, and lower GDP per head if output does not keep pace |
+| **Population decreases** | labour shortages, a smaller market, empty infrastructure and less tax revenue; but less congestion and pressure on resources, and possibly higher GDP per head |
+| **Ageing** | higher spending on pensions and healthcare; a heavier tax burden on fewer workers; demand shifts to healthcare and retirement services |
+| **More young people** | spending on education and childcare; a future workforce if jobs can be created |
+| **Gender imbalance** (e.g. more males after sex-selective births, or male labour migration) | fewer marriages and births later; a labour force skewed towards particular occupations; social problems |
+
 $$\text{dependency ratio} = \frac{\text{population aged } 0\text{–}14 + \text{population aged } 65+}{\text{population aged } 15\text{–}64}\times100$$
 
 This uses the standard 15–64 working-age band; the age table above uses 60 as the boundary instead, so always use the bands a question gives.
@@ -231,6 +277,18 @@ About 1.2 billion people live in extreme poverty and nearly half the world's pop
 
 **Causes of poverty:** inadequate access to clean water and nutritious food; little or no access to livelihoods and jobs; conflict; inequality; poor education; climate change; lack of infrastructure; limited government capacity; and no reserves (savings or assets) to fall back on.
 
+The Cambridge syllabus highlights four causes that apply in **every** country, rich or poor: **unemployment** (no earned income), **low wages** (low-skilled, insecure or part-time work), **illness and disability** (unable to work, and higher costs), and **age** (children in poor households; elderly people without adequate pensions or savings).
+
+**Policies to alleviate poverty and redistribute income** — the Cambridge list:
+
+| Policy | How it reduces poverty | Limit |
+|---|---|---|
+| **Promoting economic growth** | more jobs and higher incomes | the gains may not reach the poorest |
+| **Improved education** | higher skills, productivity and wages | slow — takes years to pay off |
+| **More generous state benefits** | raises the incomes of the unemployed, sick, elderly and families | cost to taxpayers; may weaken the incentive to work |
+| **Progressive taxation** | takes a larger share from high incomes to fund benefits and services | high top rates may discourage work and investment, or encourage avoidance |
+| **A national minimum wage** | raises the pay of the lowest-paid workers | may cause unemployment if set too high — see [Firms, costs and labour markets](../notes/firms-labour.md) |
+
 **The poverty cycle** explains why poverty persists:
 
 low income → not enough food, healthcare and basic needs → hunger and malnutrition → sickness and delays in child development → low energy at work, and children who cannot concentrate at school → few work opportunities as adults → low income again.
@@ -260,4 +318,6 @@ Assess any of these on four things: **access** (does it reach the poorest, or on
 1. Describe the characteristics of an LEDC. *Model points:* poor road and rail; few firms and a narrow range of goods; little education and healthcare; poor housing; low-output farming; limited clean water.
 2. Explain two reasons why some countries have low economic development. *Model points:* any two from the list above, each with its consequence (low investment in education → low productivity; poor infrastructure → costly transport and communication).
 3. Discuss how an LEDC could best improve its standard of living. *Model points:* infrastructure (jobs, efficient firms, electricity and internet access), education and healthcare (skills, productivity, lower birth rates), capital investment (more and better output); evaluate on cost, time and the government's limited resources, and on the possible need for trade or outside help.
-4. Analyse how long-term unemployment can cause relative poverty. *Model points:* define relative poverty; very low income compared with the average; cannot afford adequate housing or healthcare; savings run down; dependence on benefits; children's education suffers; health and motivation deteriorate, making work harder to find.
+4. Country X has real GDP of \$90bn and a population of 3 million; country Y has \$300bn and 15 million. Which has the higher real GDP per head? *Answer:* X — \$30 000 against \$20 000.
+5. Explain two components of the HDI. *Model points:* income (GNI per head) — the ability to buy goods and services; education (years of schooling) — skills and life chances; health (life expectancy at birth) — the quality of healthcare and nutrition; each with why it reflects living standards.
+6. Analyse how long-term unemployment can cause relative poverty. *Model points:* define relative poverty; very low income compared with the average; cannot afford adequate housing or healthcare; savings run down; dependence on benefits; children's education suffers; health and motivation deteriorate, making work harder to find.

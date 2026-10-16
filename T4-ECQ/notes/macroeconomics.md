@@ -1,78 +1,5 @@
 # Macroeconomics and policy
 
-## Money
-
-**Money** is any agreed commodity that is used as a **medium of exchange** to buy goods and services. It has developed over time. Before money, people were self-sufficient or used **barter** — exchanging goods and services directly for other goods and services (a shell for a goat). Māori custom also rested on reciprocity rather than money: **utu** (returning kind deeds) and **koha** (gift-giving).
-
-| Problem with barter | Why it matters |
-|---|---|
-| **Double coincidence of wants** | each side must have what the other wants |
-| **Measurement of value** | how many goats is a house worth? |
-| **Perishability** | crops fail and food goes off |
-| **Subjective value** | each person values goods differently, so how is a price agreed? |
-
-Common valued items (knives, beads) came first, then gold and silver **coins** of guaranteed weight — though people shaved metal off them — and then **paper money** issued by banks and exchangeable for gold, in many competing versions before central banks existed.
-
-| Characteristic of money | Why it is needed |
-|---|---|
-| **Universal acceptability** | everybody must agree to accept it |
-| **Divisibility** | prices are not all whole units — you cannot cut a goat in half |
-| **Portability** | it must be easy to carry |
-| **Durability** | it must survive handling and time |
-| **Scarcity** | anything in unlimited supply has no value |
-
-| Function of money | What it does |
-|---|---|
-| **Medium of exchange** | widely accepted in exchange for goods and services; today, mainly currency |
-| **Measure (unit) of value** | lets the values of different products be compared |
-| **Store of value** | can be kept and spent later while holding its value, so spending can be timed |
-| **Means (standard) of deferred payment** | allows "buy now, pay later" — debt — because the seller trusts money will hold its value |
-
-The **money supply** is notes, coins, bank deposits and other very liquid assets. Physical cash is only around **8–9%** of it; the rest is digital or held in financial assets. Cash loses value over time through inflation.
-
-## Spending, saving and borrowing
-
-| Term | Meaning |
-|---|---|
-| **Spending** | buying goods and services to satisfy needs and wants |
-| **Saving** | delaying consumption by keeping part of income for the future; it earns interest and increases wealth |
-| **Borrowing** | obtaining money from a bank, other institution or person for a purpose; it incurs interest and increases debt |
-| **Disposable income** | what is left to spend or save after all taxes and deductions |
-
-Saving means spending **less** than income and allows spending later; borrowing means spending **more** than income and allows spending now.
-
-| A rise in… | Spending | Saving | Borrowing |
-|---|---|---|---|
-| **income** | up | up | up |
-| **direct tax** | down | down | either — most cut back, some borrow to keep spending |
-| **interest rates** | down | up | down |
-| **availability of saving schemes** | down | up | down |
-| **availability of credit** | up | down | up |
-| **consumer confidence** | up | down | up |
-
-A **fall** in each reverses the effect. **Age, tastes and family circumstances** matter too: income usually rises with experience and people save more as they age; the young spend a larger share on wants; people starting a family spend and borrow more.
-
-*Interest-rate cut, analysed.* Saving falls because the return on it falls and the opportunity cost of spending is lower, so people spend and borrow more. **Investment** rises because borrowing is cheaper, which makes investment projects more profitable.
-
-## Banks and the money market
-
-The **money market** is like any other market: everyone who wants to borrow money, and everyone who supplies it. Its main institutions are **banks** — large, profit-making businesses acting as **intermediaries** between savers and borrowers.
-
-**How banks make a profit:**
-
-- **Charging interest** — the **interest rate** is the cost of borrowing and the bank's reward for risk; riskier loans carry higher rates. A home loan is cheaper because the bank can sell the house if the borrower defaults.
-- **Charging fees** — for using other banks' ATMs, overseas transfers, account types, or a direct debit the account cannot cover.
-- **Investing** deposits in shares, property and foreign currency.
-
-| Institution | Role |
-|---|---|
-| **Commercial (retail) bank** | high-street banks with branches: takes deposits, makes loans (home, personal, commercial), offers credit cards and overdrafts, internet banking and electronic transfers, term deposits, KiwiSaver, foreign exchange and insurance |
-| **Investment bank** | helps large businesses **raise finance**: advises on mergers and takeovers and helps issue and sell shares on the stock exchange |
-| **Credit union** | a not-for-profit **co-operative** owned by its members, giving low-cost loans to people on low incomes whom commercial banks will not serve |
-| **Central bank** (the Reserve Bank of New Zealand) | the core of the system, keeping the economy and money supply stable: issues notes and coins; creates money (including by **quantitative easing**); holds the government's tax revenue and makes its payments; manages the national debt; supervises and regulates commercial banks and lends to them in trouble; manages gold and foreign-currency reserves; operates **monetary policy** |
-
-**State-owned and private banks have different goals.** A state-owned bank may aim to give a reliable, safe service, promote government objectives (lending to new firms), and serve people private banks avoid. A private bank aims to maximise profit for shareholders, grow, survive hard times, or satisfice. As commercial banks **grow**, customers may gain lower costs from economies of scale, more innovation and services funded by profit, and greater security for their savings.
-
 ## What macroeconomics studies
 
 **Macroeconomics** studies how a **national economy** works: the links between total demand, total output, national income, employment and inflation. Treat the country as one big market. Rising total demand, or falling total supply, tends to push prices up; falling total demand lowers prices but raises unemployment.
@@ -93,6 +20,18 @@ The **government** is itself a **producer** (public goods such as street lightin
 | **Protecting the environment** | reducing pollution and waste |
 
 How many it achieves determines how successful a government looks. **No government achieves them all at once** — the conflicts are at the end of this topic.
+
+**The criteria governments set.** Each aim is turned into a measurable target. The figures below are typical benchmarks, not fixed rules:
+
+| Aim | How it is measured | Typical target or benchmark |
+|---|---|---|
+| Economic growth | annual % change in real GDP | steady growth near the economy's long-run trend — roughly 2–3% a year for a developed economy |
+| Low unemployment | unemployment rate from a labour force survey | low and stable — in NZ, around 4–5% has been seen as close to full employment |
+| Stable prices | annual % change in the CPI | NZ: 1–3% a year over the medium term, aiming at 2% — the Reserve Bank's remit |
+| Balance of payments stability | current account balance as a % of GDP | a deficit that is small and sustainably financed — under about 5% of GDP is often treated as manageable |
+| Redistribution of income | Gini coefficient; share of income of the poorest groups; poverty rates | a narrower gap between high and low incomes |
+
+Reasons for choosing an aim depend on the economy's problems at the time — a government facing 7% inflation will put price stability first; one in a recession will prioritise jobs and growth.
 
 **Why each matters.** Without growth, employment, incomes and living standards fall, tax revenue falls and spending is cut, profits fall and entrepreneurs stop investing. Inflation that is too fast reduces consumers' purchasing power, hurts people on low incomes, raises business costs as workers demand higher wages, and makes the country's goods dearer than other countries'. Rising unemployment cuts national output, forces higher welfare spending, and leaves the long-term unemployed with obsolete skills. A balance-of-payments deficit can leave a country short of foreign currency to buy imports and push its exchange rate down.
 
@@ -130,6 +69,12 @@ $$\text{GDP} = C + I + G + (X - M)$$
 
 **Negative growth** means output is shrinking: fewer goods and services, falling incomes and living standards. It may be short (a recession) or prolonged (a slump).
 
+A **recession** is a fall in real GDP for **two successive quarters** (six months) or more. In a recession the economy moves to a point **inside** its PPC — resources lie idle — and a rise in total demand moves it back towards the curve. **Economic growth** in the long run is an **outward shift** of the PPC, caused by more investment, better technology, and more or better factors of production.
+
+*Worked example — measuring growth.* GDP by expenditure: $C = 120$, $I = 30$, $G = 40$, $X = 60$, $M = 50$ (\$bn), so $\text{GDP} = 120 + 30 + 40 + (60 - 50) = \$200$bn. If real GDP rises from \$200bn to \$206bn the next year, the growth rate is $(206 - 200) \div 200 \times 100 = 3\%$.
+
+**Policies to promote growth:** expansionary fiscal policy (spending on infrastructure, tax cuts) and monetary policy (lower interest rates) raise demand and use spare capacity; supply-side policies (education, training, deregulation, incentives to invest) raise long-run capacity. Their effectiveness depends on whether there is spare capacity, on confidence, and on time lags — and growth that is too fast brings inflation, a worse current account and environmental cost.
+
 ## Nominal and real GDP
 
 **Nominal GDP** is measured at **current prices**, so it rises whenever prices rise, even if output does not. People may not be better off — they may even be worse off. **Real GDP** removes the effect of inflation, so it shows whether output genuinely changed.
@@ -137,6 +82,8 @@ $$\text{GDP} = C + I + G + (X - M)$$
 $$\text{real GDP} = \frac{\text{nominal GDP}}{\text{GDP deflator}} \qquad \text{where the deflator} = 1 + \text{inflation since the base year}$$
 
 Equivalently, $\text{real GDP} = \text{nominal GDP} \div (\text{price index}/100)$.
+
+*Worked example — with a price index.* Nominal GDP is \$220bn and the price index is 110 (base year = 100). Real GDP is $220 \div (110/100) = \$200$bn at base-year prices.
 
 *Worked example 1.* Prices have risen 1% since the base year, so the deflator is 1.01. Nominal GDP of \$1 000 000 gives real GDP of $1\,000\,000 \div 1.01 = \$990\,099$.
 
@@ -173,6 +120,8 @@ The **economic cycle** (or business cycle) is the pattern of recurring ups and d
 | **Recession / downturn** | activity slows and growth may turn **negative**; demand and profits fall, production slows, redundancies raise unemployment and cut incomes; firms cut investment; competition intensifies; **disinflation** as prices are cut to attract buyers; interest rates are likely cut |
 | **Slump** | the trough — a deep, prolonged recession |
 | **Recovery / upturn** | confidence returns and spending rises; output, sales, revenue and profit increase; firms hire again, and rising employment boosts spending further |
+
+![The economic cycle: real GDP on the vertical axis against time, oscillating around a rising dashed trend line, with growth, boom (peak), recession, slump (trough) and recovery labelled, and positive and negative output gaps marked as vertical arrows between the curve and the trend](econ-economic-cycle.svg)
 
 **Shapes of recession.** **V-shaped** — short and sharp with a quick recovery, often after an external shock such as an earthquake; the best case. **U-shaped** — recovery takes longer; businesses fail, unemployment rises and policy struggles to work. **K-shaped** — some parts recover quickly while others do not: during closed borders, construction recovered strongly while tourism kept suffering, and people owning property and shares saw their wealth rise while others did not.
 
@@ -253,6 +202,31 @@ Cutting interest rates helps less than it seems, because the **real** interest r
 
 **Disinflation is not deflation.** Disinflation is a slowing of the rate of inflation — prices are still rising, just more slowly.
 
+The Cambridge syllabus names the two causes of deflation as **demand-side** (aggregate demand falls — the "malign" kind above) and **supply-side** (productive capacity and productivity rise faster than demand, cutting costs — the "benign" kind).
+
+**Consequences of inflation and deflation for each group.**
+
+| Group | Inflation | Deflation |
+|---|---|---|
+| **Consumers** | purchasing power falls unless incomes keep up | goods get cheaper, but people delay purchases |
+| **Workers** | real wages fall unless pay rises match prices; unions press for rises | real wages rise for those in work, but jobs are at risk as firms cut output |
+| **Savers** | the real value of savings falls, especially if interest is below inflation | the real value of savings rises |
+| **Lenders** | repaid in money worth less | repaid in money worth more — but more borrowers default |
+| **Borrowers** | the real burden of debt falls | the real burden of debt rises |
+| **Firms** | menu costs, uncertainty and less competitive exports | falling revenue and profit; stock loses value |
+| **The economy** | less international competitiveness, uncertainty, less investment | falling spending, rising unemployment, a possible deflationary spiral |
+
+**Policies to control inflation and deflation.**
+
+| Policy | Against inflation | Against deflation |
+|---|---|---|
+| **Monetary** | raise interest rates (the OCR) so borrowing falls and saving rises; slow money-supply growth | cut interest rates; increase the money supply, including quantitative easing |
+| **Fiscal** | cut government spending or raise taxes to reduce demand | raise spending or cut taxes to boost demand |
+| **Supply-side** | raise productivity so output keeps pace with demand (works on cost-push, but slowly) | — |
+| **Exchange rate** | a higher exchange rate makes imports cheaper, cutting imported inflation | a lower exchange rate raises import prices and export demand |
+
+Effectiveness depends on the **cause**: higher interest rates tackle **demand-pull** inflation well but do little against **cost-push** inflation from a rise in world oil prices, and they cost jobs and growth. All operate with **time lags** — in NZ, an OCR change is usually reckoned to take a year or more to have its full effect on inflation.
+
 ## Employment and unemployment
 
 The **labour force** is people of working age who are **both willing and able** to work. Someone willing but unable, or able but unwilling, is not counted. Those outside it — stay-at-home parents, students, the retired, children, those unable or unwilling to work — are the **dependent population**. In NZ, **full-time** work is 30 hours a week or more.
@@ -262,6 +236,19 @@ $$\text{unemployment rate} = \frac{\text{number unemployed}}{\text{labour force}
 *Worked example.* A country has a labour force of 35 million and 30 million employed, so 5 million are unemployed: $5/35\times100 \approx 14.3\%$. Another has a labour force of 4.5 million and 3.5 million employed: $1/4.5\times100 \approx 22.2\%$. Divide by the **labour force**, not the population.
 
 Measurement is contested: the figure excludes those unable or unwilling to work, students and the armed forces, and it misses **under-utilisation** — people in part-time or short-hours work who want more hours. So **"unemployed" is not the same as "not in work"**, and politicians can exploit the difference.
+
+### How unemployment is measured
+
+| | Claimant count | Labour force survey |
+|---|---|---|
+| Method | counts the people **claiming unemployment-related benefits** | a regular **survey** of households, using the international (ILO) definition: without a job, **available** to work and **actively looked** for work in the past four weeks |
+| Strengths | cheap and quick — a by-product of paying benefits; available monthly | internationally comparable; includes people who are unemployed but not entitled to or not claiming benefits |
+| Weaknesses | **understates** unemployment — misses those not eligible or not claiming (young people, partners of earners); changes whenever benefit rules change | expensive and slower; based on a sample, so subject to sampling error |
+| NZ | the number on **Jobseeker Support** (Ministry of Social Development) is the closest NZ equivalent | the official rate comes from Stats NZ's quarterly **Household Labour Force Survey (HLFS)** |
+
+**Full employment** does not mean zero unemployment: some frictional and seasonal unemployment always exists, so full employment means unemployment is at a low level where everyone who wants work can find it fairly quickly.
+
+**Changing patterns of employment.** As an economy develops, the share of workers in the **tertiary** sector rises and the primary sector falls; more work moves from the **informal** to the **formal** economy (registered, taxed jobs); **women** make up a larger share of the labour force as social attitudes change; and as a country moves towards a market economy the share employed in the **public sector** tends to fall.
 
 | Full-time workers | For the firm | For the worker |
 |---|---|---|
@@ -283,6 +270,18 @@ Measurement is contested: the figure excludes those unable or unwilling to work,
 | **Seasonal** | jobs exist only at certain times of year (summer fruit pickers, winter ski instructors) | little needed — like frictional unemployment, not a major concern |
 
 There is always **some** unemployment, because people are always between jobs.
+
+| Policy to reduce unemployment | Works best against | Limits |
+|---|---|---|
+| **Expansionary fiscal policy** — more government spending, lower taxes | cyclical | budget deficit and debt; inflation if near capacity |
+| **Expansionary monetary policy** — lower interest rates | cyclical | needs confidence; may raise inflation and house prices |
+| **Education, training and retraining** (supply-side) | structural | slow; expensive; skills may not match future jobs |
+| **Better job information and help to relocate** | frictional, structural (geographical immobility) | housing costs and family ties still limit moves |
+| **Lower unemployment benefits / tax incentives to work** | voluntary and frictional | may increase poverty |
+| **Regional policy** — subsidies for firms to locate in high-unemployment areas | structural | firms may leave when subsidies end |
+| **A lower exchange rate** | cyclical, in export industries | imported inflation |
+
+**Consequences of unemployment for firms:** lower demand and sales in a recession; but a larger pool of applicants and less pressure to raise wages.
 
 **Government policy on unemployment:** manage the economic cycle so downturns are short and shallow; keep inflation low; keep the exchange rate competitive; fund education and retraining for the unemployed; improve information about job opportunities; and reduce unemployment benefits to increase the incentive to work. Other influences: whether high taxes or generous welfare weaken the **incentive to work**; the strength of **trade unions**; **regulation** that raises the cost of employing people; and **labour immobility** — workers unwilling or unable to move to where jobs are.
 
@@ -349,6 +348,21 @@ The **effective (average) rate** rises with income, which is what makes the syst
 | can target goods to discourage (or encourage) | revenue is hard to predict |
 | flexible — the rate is easy to change | can encourage evasion and black markets |
 
+The **government budget** is its plan of spending and revenue (mostly taxation) for the coming year; in NZ it is presented by the Minister of Finance each May.
+
+$$\text{budget balance} = \text{government revenue} - \text{government spending}$$
+
+*Worked example.* Revenue is \$120bn and spending \$128bn: the budget balance is $120 - 128 = -\$8$bn, a **budget deficit** of \$8bn, financed by borrowing (adding to the national debt). Revenue of \$130bn against spending of \$125bn would be a **budget surplus** of \$5bn. A deficit is often expressed as a percentage of GDP: \$8bn with GDP of \$400bn is 2% of GDP.
+
+**The impact of taxation.**
+
+| On | Effect |
+|---|---|
+| **Consumers** | direct taxes cut disposable income; indirect taxes raise prices; both cut spending — and indirect taxes hit the poor hardest |
+| **Producers** | company tax cuts profits available for investment; indirect taxes raise costs and prices, cutting sales (more so with elastic demand) |
+| **Government** | revenue to fund spending; a tool to discourage demerit goods and to redistribute income |
+| **The economy** | lower aggregate demand (useful against inflation, harmful in a recession); high tax rates may weaken incentives to work, invest and set up in the country |
+
 **Expansionary fiscal policy** — raising government spending or cutting taxes to boost aggregate demand (a new rail link creates jobs and demand during and after construction). Spending usually exceeds revenue, so the budget moves into **deficit**. **Contractionary fiscal policy** — cutting spending or raising taxes to slow the economy and reduce prices, or to cut the deficit and national debt. A **budget surplus** is revenue above spending. Fiscal policy can also **redistribute** income, by taxing high earners more to fund support for low earners.
 
 **Problems with fiscal policy:** the right timing and size are hard to judge, and overshooting overheats the economy into a bust; government borrowing leaves less finance for private firms; higher income and profit taxes may weaken incentives to work; and people may expect inflation and push for higher wages.
@@ -369,6 +383,8 @@ The **effective (average) rate** rises with income, which is what makes the syst
 **Exchange-rate policy.** If the NZ dollar falls, imports cost more and the balance of payments can suffer; raising interest rates attracts overseas savers into NZ accounts, raising demand for the NZ dollar and lifting its value. Cutting rates has the opposite effect.
 
 The transmission is not instant or certain. A rate cut only raises spending if households and firms are **confident** and credit is **available**; a heavily indebted household may use lower repayments to pay down debt instead.
+
+**The causal chain for a rise in the OCR** (the one to write out in an *analyse* answer): the Reserve Bank raises the OCR → banks raise mortgage and loan rates and pay more on deposits → borrowing becomes dearer and saving more attractive → households cut spending on credit and homeowners have less disposable income after mortgage payments; firms cut investment → aggregate demand falls → demand-pull pressure eases and inflation falls. Side effects: higher rates attract foreign savings, so the NZ dollar tends to **appreciate**, making imports cheaper (lower inflation again) but hurting exporters; and slower growth and higher unemployment.
 
 ## Supply-side policy
 
@@ -399,6 +415,25 @@ The gains are usually real but **slow** — training a workforce or building inf
 | **Growth vs the balance of payments** | rising incomes raise spending on imports, worsening the current account |
 | **Redistribution vs incentives** | higher taxes and benefits reduce inequality but may weaken the incentive to work and invest |
 | **Fiscal expansion vs sound public finances** | boosting demand through spending enlarges the deficit and the national debt |
+| **Full employment vs the balance of payments** | more people in work means higher incomes and more spending on imports, so the current account worsens |
+
+The Cambridge syllabus names three conflicts in particular: **full employment vs stable prices**, **economic growth vs balance of payments stability**, and **full employment vs balance of payments stability**.
+
+### Which policy affects which objective
+
+The short-run effect of each policy on each aim, other things equal (+ helps, − harms, ? depends):
+
+| Policy | Growth | Employment | Price stability | Current account | Income distribution |
+|---|---|---|---|---|---|
+| **Expansionary fiscal** (spend more, tax less) | + | + | − (demand-pull) | − (more imports) | ? — + if spending is on benefits and services for low earners |
+| **Contractionary fiscal** | − | − | + | + | ? |
+| **Expansionary monetary** (lower interest rates) | + | + | − | − imports rise; + if the currency falls | − savers lose, borrowers and asset owners gain |
+| **Contractionary monetary** (higher interest rates) | − | − | + | ? — fewer imports, but a higher currency hurts exports | ? |
+| **Supply-side** | + (long run) | + (long run) | + (lower costs) | + (more competitive exports) | ? — cutting benefits or top tax rates may widen inequality |
+| **Depreciation of the currency** | + | + in export industries | − (imported inflation) | + if demand is elastic | − dearer imported necessities hit the poor |
+| **Protection (tariffs, quotas)** | ? | + in protected industries | − (dearer imports) | + short run; − if trading partners retaliate | − consumers pay more |
+
+Read across a row to find the **conflict**: expansionary policy helps growth and jobs at the cost of inflation and the current account; contractionary policy does the reverse. Only supply-side policy is positive on most aims — but it is slow.
 
 **The starting position decides the outcome.** A demand boost in a deep recession, with spare capacity and unemployed workers, mainly raises **output**. The same boost at full capacity mainly raises **prices**. Always say which case you are in, and add that policies work with a **time lag**, so a measure can arrive after the problem it was meant to solve has passed.
 
@@ -407,4 +442,6 @@ The gains are usually real but **slow** — training a workforce or building inf
 1. Explain the difference between saving and borrowing. *Model points:* saving is income not spent, borrowing is money obtained from a lender; saving means spending less than income, borrowing more; saving builds wealth and earns interest, borrowing builds debt and costs interest; saving allows spending later, borrowing spending now.
 2. The CPI was 127 in year Y. What does this show? *Model points:* average prices have risen 27% compared with the base year (and, if it was 112 in year X, by 13.4% between X and Y).
 3. Discuss whether a government should raise indirect taxes and cut direct taxes. *Model points:* for — stronger incentives to work, lower poverty traps, taxes on demerit goods cut external costs; against — indirect taxes are regressive so inequality worsens, both changes may be inflationary, tax cuts may be saved or spent on imports, and indirect taxes can be avoided so revenue may fall; conclude on the government's priority.
-4. Analyse two possible conflicts between government aims. *Model points:* use two rows of the conflicts table, each with its full causal chain.
+4. A government's revenue is \$95bn and its spending \$102bn. Calculate the budget balance. *Answer:* $95 - 102 = -\$7$bn, a budget deficit of \$7bn.
+5. Explain the difference between the claimant count and a labour force survey. *Model points:* claimant count counts those on unemployment benefits — cheap, quick, but misses those not claiming; a labour force survey asks a sample of households, using the international definition — comparable and fuller, but costly and subject to sampling error; NZ uses the HLFS.
+6. Analyse two possible conflicts between government aims. *Model points:* use two rows of the conflicts table, each with its full causal chain.

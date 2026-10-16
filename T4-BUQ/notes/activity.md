@@ -6,11 +6,29 @@
 
 Goods are **tangible**; services are **intangible**. They are produced with the four **factors of production**: land (natural resources), labour (people's effort), capital (finance, machinery and equipment) and enterprise (the skill and risk-taking of the **entrepreneur** who brings the others together).
 
-A business **adds value**: the difference between the selling price of the finished item and the cost of the bought-in materials and components. A café buying coffee beans for $0.40 and selling a cup at $4.50 adds $4.10 of value through grinding, brewing, service and atmosphere. Added value is **not** profit — profit includes **all** costs, so wages, rent and power still have to be paid from it.
+A business **adds value**: the difference between the selling price of the finished item and the cost of the bought-in materials and components. A café buying coffee beans for \$0.40 and selling a cup at \$4.50 adds \$4.10 of value through grinding, brewing, service and atmosphere. Added value is **not** profit — profit includes **all** costs, so wages, rent and power still have to be paid from it.
 
 Ways to add value: building a brand, excellent service, extra product features, convenience, attractive packaging and design.
 
 **Specialisation** — people, machines and firms concentrating on the task they do best — raises efficiency and output, but repetitive work can bore workers, and one absent worker or unreliable firm in the chain of production can halt output.
+
+**How to increase added value.** Either raise the price customers will pay (branding, quality, service, convenience, features, packaging) or cut the cost of bought-in materials (cheaper suppliers, bulk buying, less waste). *It depends on* the market: a higher price only adds value if customers see enough extra benefit to keep buying, and cheaper materials only help if quality does not fall.
+
+## Enterprise and entrepreneurs
+
+An **entrepreneur** is a person who organises, operates and takes the risk for a new business venture, bringing the factors of production together.
+
+| Characteristic | Why it matters |
+|---|---|
+| Risk-taker | risks their own savings and a secure income on an idea that may fail |
+| Creative / innovative | spots a gap in the market and a new way to fill it |
+| Hard-working and determined | works long hours and keeps going through setbacks |
+| Self-confident and independent | backs their own judgement and makes decisions alone |
+| Good communicator and organiser | persuades lenders, customers and staff; plans the use of resources |
+
+**In an answer**, link the trait to something the person in the case has actually done — "a risk-taker, because she left a stable job and invested her own savings in the drone business" — not just the trait.
+
+**Why governments support start-ups:** new firms create jobs (lower unemployment), add competition (lower prices, more choice), may grow into large firms that pay tax and export, and bring innovation. **How:** grants and low-interest loans, advice and training schemes for owners, cheap premises in business parks or incubators, and lower taxes or fewer regulations for small firms. *Evaluation:* support costs taxpayers' money, some supported firms would have started anyway, and others fail regardless.
 
 ## Classification of business
 
@@ -20,7 +38,15 @@ Ways to add value: building a brand, excellent service, extra product features, 
 | **Secondary** | manufacturing and construction, using the primary sector's raw materials | car assembly, baking, housebuilding |
 | **Tertiary** | providing services to consumers and other businesses | retail, banking, hotels, barbers |
 
+The sectors are linked in a **chain of production**: the primary sector supplies raw materials to the secondary sector, whose products reach consumers through the tertiary sector. Each stage adds value. The businesses that pass materials and products along the chain make up its **supply chain**.
+
+![Chain of production: primary, secondary and tertiary stages each add value to a table, from logs to a finished sale](bus-chain-of-production.svg)
+
 Developing countries tend to have more employment in the primary sector. As an economy develops, employment shifts to the secondary and then the tertiary sector — **de-industrialisation** is the decline in the importance of the secondary (manufacturing) sector.
+
+![Stacked bars: as incomes rise, the share of employment moves from primary to secondary and then to tertiary](bus-sector-shift.svg)
+
+**Why the balance changes.** Primary jobs fall as farming and mining are mechanised and as natural resources run down. Manufacturing grows as a country industrialises, then shrinks in developed countries because labour is cheaper abroad and goods are imported. Services grow because richer people spend more of their income on services (tourism, finance, health, leisure). The shift matters to a business because it decides where demand, workers and competitors will be.
 
 **Private sector** businesses are owned and run by private individuals and firms; the main aim is usually profit. **Public sector** organisations are owned and controlled by government; the main aim is to provide services.
 
@@ -80,7 +106,23 @@ Owners, banks, investors, government and employees all want to know a firm's siz
 | **Forward vertical** | a firm at a later stage, closer to the consumer | guaranteed outlet; can keep rivals off its shelves |
 | **Conglomerate** | an unrelated industry | spreads risk; new skills and ideas |
 
-Some firms **stay small** because of the type of industry (personal services such as barbers), a small market, or the owners' wish to keep control.
+**Why owners want to expand:** higher sales and profit, economies of scale (lower average cost), a bigger market share and more power over suppliers and prices, spreading risk across more products or markets, and the owners' status and ambition.
+
+| Problem of growth | How it might be overcome |
+|---|---|
+| Finding the finance | choose the source carefully; grow organically from retained profit |
+| Cash-flow strain (overtrading) | cash-flow forecasts, an overdraft facility, growing in stages |
+| Diseconomies: slow communication, weak coordination | decentralise, delegate, set clear objectives, better IT |
+| Losing personal service and quality | train staff, quality assurance, protect the brand promise |
+| Culture clash after a merger or takeover | plan the integration and explain the change to staff |
+
+| Merger or takeover | For | Against |
+|---|---|---|
+| The business | fast growth, economies of scale, new markets or skills | expensive, risky, clashing cultures, diseconomies |
+| Employees | new opportunities | redundancies where jobs are duplicated |
+| Customers | lower prices from scale; a wider range | less competition, so possibly higher prices and less choice |
+
+Some firms **stay small** because of the type of industry (personal services such as barbers), a small market (a niche or a rural area), the owners' wish to keep control and avoid stress, or a lack of finance.
 
 ## Economies and diseconomies of scale
 
@@ -93,6 +135,7 @@ Some firms **stay small** because of the type of industry (personal services suc
 | Financial | banks see large firms as less risky, so lend at cheaper interest rates |
 | Risk-bearing | a wider product range, more customers and more locations spread the risk of failure |
 | Technical | the budget to invest in the latest specialised equipment raises efficiency and productivity |
+| Managerial | the firm can afford specialist managers (finance, marketing, HR), who decide better than one owner doing everything |
 
 *Numerical illustration.* A \$6000 advertising campaign costs \$3 per unit over 2000 sales but \$1 per unit over 6000 sales — assuming the same campaign supports both volumes. **Total cost and cost per unit are different things.**
 
@@ -105,6 +148,8 @@ Some firms **stay small** because of the type of industry (personal services suc
 
 A bigger firm is therefore not automatically safer, more profitable or more efficient.
 
+![U-shaped average cost curve: economies of scale lower unit cost up to an optimum size, then diseconomies raise it](bus-economies-of-scale.svg)
+
 ## Forms of ownership
 
 Choose the form by comparing **control, finance, risk** and the owner's **objectives**.
@@ -115,6 +160,16 @@ Choose the form by comparing **control, finance, risk** and the owner's **object
 | **Partnership** | two or more | **unlimited** | partners' capital | more finance, skills and shared decisions; profits shared, disagreements, no continuity, cannot sell shares |
 | **Private limited (Ltd)** | shareholders | **limited** | shares sold privately | separate legal identity, continuity; shares cannot be advertised and every shareholder must agree to a sale; accounts must be filed |
 | **Public limited (plc)** | shareholders | **limited** | shares sold openly on the stock market | can raise very large sums; very expensive to set up, financial information is public, easy to lose control |
+
+| | Unincorporated (sole trader, partnership) | Incorporated (Ltd, plc) |
+|---|---|---|
+| Legal identity | the owner **is** the business | the company is a separate legal person |
+| Liability | unlimited — personal assets at risk | limited to the amount invested |
+| Continuity | ends if the owner dies or a partner leaves | continues when shareholders change |
+| Set-up and privacy | cheap, simple, accounts private | registration costs; accounts must be filed |
+| Finance | owners' savings and loans | can also sell shares |
+
+**Recommending a form of ownership.** Compare the options on **risk** (how much could the owners lose?), **finance** (how much capital is needed?), **control** (will the owners share decisions?) and **cost and paperwork**. A one-person stall with little capital at risk suits a sole trader; a growing business that borrows heavily or could face large claims suits a private limited company. *It depends on* how much is at stake and whether the owners will share control.
 
 A **deed of partnership** sets out voting rights, each partner's responsibilities and how profit and loss are split. It is not a legal requirement; without one, everything is shared equally.
 
@@ -140,6 +195,14 @@ A **deed of partnership** sets out voting rights, each partner's responsibilitie
 **Social enterprise.** Part of the private sector: a business with primarily **social objectives** whose surpluses are **reinvested** in the business rather than used to maximise profit for owners. It produces goods or services, has social and ethical aims, is self-sustaining (not a charity relying on donations), and works to the **triple bottom line** — people, planet, profit.
 
 **Public sector** organisations include public hospitals, schools, the police, the military and government departments. **Public corporations** are wholly owned by the government — often after **nationalisation** (bought from private owners, the opposite of privatisation) — and run by a board of directors the government appoints. Their main aim is to provide key services; others include employment, fair prices, lower costs and environmental targets.
+
+| | Private sector | Public sector |
+|---|---|---|
+| Main objective | profit, survival, growth, market share | provide an essential service for everyone |
+| Success measured by | profit, sales, market share | service quality: waiting times, coverage, cost per user |
+| Other objectives | shareholder value, brand image | keep jobs, keep prices fair, break even rather than profit, meet environmental targets |
+
+**Social enterprise objectives** are usually three: **social** (jobs or support for disadvantaged people), **environmental** (protecting the environment) and **financial** (a surplus to reinvest, so the enterprise survives without donations).
 
 ## Aims and objectives
 
@@ -184,7 +247,9 @@ What sets a firm's objectives: its corporate culture, legal structure, sector (p
 
 ## Stakeholders
 
-A **stakeholder** is anyone who has a direct interest in the performance of a business.
+A **stakeholder** is anyone who has a direct interest in the performance of a business. **Internal stakeholders** are inside the business: owners and shareholders, managers and employees. **External stakeholders** are outside it but affected by it: customers, suppliers, banks and lenders, government, the local community and pressure groups.
+
+![Stakeholder map: internal stakeholders on the left, external on the right, each with its main aim](bus-stakeholders.svg)
 
 | Stakeholder | Main aim |
 |---|---|
@@ -198,6 +263,8 @@ A **stakeholder** is anyone who has a direct interest in the performance of a bu
 | Community | jobs, choice, little pollution |
 
 **Conflicts** are the examinable point. Raising wages pleases employees but reduces shareholders' dividends. Cutting costs by relocating pleases shareholders but harms employees and the old community. Lowering prices pleases customers but cuts owners' profit. Always name **both** sides and say which stakeholder has the most influence and why.
+
+**Influence** depends on power: shareholders vote and can replace directors; banks can refuse or recall loans; government passes laws and sets taxes; employees can strike; customers can stop buying. A firm usually cannot satisfy everyone, so it **prioritises** — and the best answers say which group wins in *this* case and why.
 
 ## Technology and business
 

@@ -63,6 +63,8 @@ So $\sin150° = \sin30° = 0.5$ and $\cos150° = -\cos30° = -0.866$.
 
 For $0° \leqslant x \leqslant 360°$:
 
+![Graphs of y equals sin x, y equals cos x and y equals tan x from 0 to 360 degrees, with maximum, minimum and axis-crossing points marked, and the asymptotes of tan x at 90 and 270 degrees](math-trig-graphs.svg)
+
 | Graph | Starts at | Maximum | Minimum | Crosses the $x$-axis |
 |---|---|---|---|---|
 | $y = \sin x$ | 0 | 1 at 90° | −1 at 270° | 0°, 180°, 360° |
@@ -77,6 +79,15 @@ For $0° \leqslant x \leqslant 360°$:
 
 - $\cos x = \tfrac{\sqrt3}{2}$: $x = 30°$, and $360° - 30° = 330°$.
 - $\sin x = k$: the second solution is $180° -$ the calculator angle.
+
+| Equation | Calculator angle | Solutions in $0°$–$360°$ | Why |
+|---|---|---|---|
+| $\sin x = 0.4$ | $23.6°$ | $23.6°$, $156.4°$ | sin symmetric about 90° |
+| $\sin x = -0.5$ | $-30°$ | $210°$, $330°$ | sin negative in 180°–360° |
+| $\cos x = -0.3$ | $107.5°$ | $107.5°$, $252.5°$ | cos symmetric about 180°: $360-107.5$ |
+| $\tan x = -1$ | $-45°$ | $135°$, $315°$ | tan repeats every 180° |
+
+**Mark-losing errors:** giving only the calculator angle; giving a negative angle when the range is $0°$–$360°$; calculator in radians (sin 30 = −0.988 is the giveaway).
 
 ## Sine rule
 
@@ -93,6 +104,23 @@ $$b = \frac{8.0\sin75°}{\sin40°} = 12.0\ \text{cm}$$
 Invert it when finding an angle:
 
 $$\frac{\sin A}{a} = \frac{\sin B}{b}$$
+
+**The ambiguous case.** When you find an angle with the sine rule, there may be two triangles. $\sin^{-1}$ gives the acute angle $B$; the obtuse angle $180°-B$ also works **if** it leaves room for the third angle.
+
+*Worked example.* $A = 40°$, $a = 7$ cm, $b = 9$ cm. Find $B$.
+
+$$\sin B = \frac{9\sin40°}{7} = 0.8264 \Rightarrow B = 55.7° \text{ or } 180-55.7 = 124.3°$$
+
+Both are possible, because $40+124.3 < 180$. So there are two triangles:
+
+- $B = 55.7°$, $C = 84.3°$, $c = \dfrac{7\sin84.3°}{\sin40°} = 10.8$ cm
+- $B = 124.3°$, $C = 15.7°$, $c = \dfrac{7\sin15.7°}{\sin40°} = 2.95$ cm
+
+Use the diagram (is $B$ drawn obtuse?) or the question's wording to choose.
+
+*No ambiguity.* With $A = 40°$, $a = 10$, $b = 9$: $\sin B = 0.5785$, $B = 35.3°$. The obtuse option $144.7°$ would make $A+B > 180°$, so it is impossible. In general, if the side opposite the **given** angle is the longer of the two sides, there is only one triangle.
+
+**Mark-losing errors:** never checking the obtuse option when the diagram shows an obtuse angle; finding the largest angle with the sine rule (use the cosine rule — it is never ambiguous).
 
 ## Cosine rule
 
@@ -148,3 +176,13 @@ Work inside **one right-angled triangle at a time**. Draw that triangle separate
 3. $\tan\theta = \dfrac{12}{5} \Rightarrow \theta = 67.4°$
 
 The space diagonal itself is $\sqrt{5^2+12^2} = 13$ cm.
+
+*Example — pyramid.* A pyramid has a square base of side 8 cm, with its apex $V$ 10 cm vertically above the centre $M$ of the base. Find the angle between a sloping edge $VA$ and the base.
+
+1. $MA$ is half the base diagonal: $\tfrac12\sqrt{8^2+8^2} = \sqrt{32} = 5.657$ cm.
+2. Triangle $VMA$ is right-angled at $M$: $\tan\theta = \dfrac{10}{5.657}$, so $\theta = 60.5°$.
+3. The edge itself is $\sqrt{32+100} = 11.5$ cm.
+
+The angle between a **face** and the base uses the midpoint $N$ of a base edge instead: $MN = 4$, so $\tan\phi = \tfrac{10}{4}$ and $\phi = 68.2°$.
+
+**Mark-losing errors:** using a sloping edge where the projection on the base is needed; using a side of the base (8) instead of half the diagonal; rounding the intermediate length to 5.7 and getting 60.3°.

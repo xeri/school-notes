@@ -56,6 +56,14 @@ For a linear speed–time graph, split the area into triangles and rectangles.
 - Distance: $\tfrac12(8)(20) + 10(20) + \tfrac12(4)(20) = 80+200+40 = 320$ m
 - Average speed: $320/22 = 14.5$ m/s
 
+*Working backwards.* A train accelerates from rest to 15 m/s in 10 s, travels at 15 m/s for $T$ seconds, then decelerates to rest in 5 s. It travels 600 m in total. Find $T$.
+
+$$\tfrac12(10)(15) + 15T + \tfrac12(5)(15) = 600 \Rightarrow 75 + 15T + 37.5 = 600 \Rightarrow T = 32.5 \text{ s}$$
+
+Its acceleration is $15/10 = 1.5$ m/s² and its deceleration $15/5 = 3$ m/s².
+
+**Mark-losing errors:** reading the gradient of a speed–time graph as speed; mixing units (convert km/h to m/s by dividing by 3.6 before using seconds); giving a deceleration as a negative number when the question asks for the deceleration (state it as positive, or say "acceleration $= -3$ m/s²").
+
 **Conversion graphs** are straight lines through the origin when the quantities are proportional. Read across and down; state the units.
 
 ## Curves to recognise
@@ -98,6 +106,10 @@ The gradient changes along a curve, so you estimate it at a point by drawing a *
 
 The tangent gradient at a maximum or minimum is zero.
 
+For a curve given by an equation, the exact gradient comes from differentiation — see [Calculus](../notes/calculus.md). Drawing a tangent only estimates it, so your answer is accepted within a range.
+
+**Mark-losing errors:** a "tangent" that cuts the curve; a gradient triangle that is too small to read accurately; forgetting the sign — a curve going down to the right has a negative gradient.
+
 ## Exponential growth and decay
 
 $$y = ka^x \text{ with } a>1 \text{ (growth)} \qquad y = ka^x \text{ with } 0<a<1 \text{ (decay)}$$
@@ -108,28 +120,36 @@ Growth curves rise slowly then steeply; decay curves fall steeply then flatten t
 
 Real contexts: compound interest $P(1.04)^n$, depreciation $P(0.85)^n$, bacterial doubling $N_0 2^t$, radioactive decay.
 
-## Calculus
+*Worked example.* \$5000 is invested at 6% compound interest a year. After how many whole years does it first exceed \$8000?
 
-Calculus is in the Term 3 course and has been in every final exam from 2022 to 2025. No objective list has been issued, so this section follows what those papers asked.
+Try values: $5000\times1.06^8 = \$7969.24$ (not yet) and $5000\times1.06^9 = \$8447.39$. So the answer is **9 years**.
 
-**Differentiation** gives the gradient function $f'(x)$: the gradient of the tangent at any $x$. Multiply by the power, then reduce the power by one.
+*Half-life.* An 80 g sample halves every 3 days. After 12 days (four half-lives) it is $80\times0.5^4 = 5$ g.
 
-$$f(x) = ax^n \Rightarrow f'(x) = anx^{n-1}$$
+**Mark-losing errors:** adding the same amount each year (that is simple interest); using $1.6$ instead of $1.06$ for 6%; giving the year it is reached as 8 because 7969 "rounds to" 8000.
 
-A constant term differentiates to 0. Expand brackets first: $g(x) = (2x+1)^2 = 4x^2+4x+1$, so $g'(x) = 8x+4$. Negative powers follow the same rule: $2x^{-1}$ differentiates to $-2x^{-2}$.
+## Inequalities and regions
 
-*Worked example.* $f(x) = 2x^2-8x+3$.
+A linear inequality in $x$ and $y$ describes a **region** on one side of a straight line.
 
-- Gradient function: $f'(x) = 4x-8$
-- Gradient at $x = 3$: $f'(3) = 12-8 = 4$
-- Point on the curve: $f(3) = 18-24+3 = -3$, so $(3,-3)$
-- Tangent at that point: $y-(-3) = 4(x-3)$, so $y = 4x-15$
-- Turning point where $f'(x) = 0$: $x = 2$, $f(2) = -5$, so the minimum is $(2,-5)$. This matches the completed square $2(x-2)^2-5$.
+1. Draw the boundary line as if it were an equation. Use a **solid** line for $\leqslant$ or $\geqslant$ (points on it are included) and a **dashed** line for $<$ or $>$.
+2. Decide which side satisfies the inequality by testing a point not on the line, usually $(0,0)$.
+3. Shade as the question says. Cambridge-style questions often ask you to **shade the unwanted region** and leave the required region $R$ unshaded — read the instruction.
 
-**Integration** reverses differentiation. Add one to the power, divide by the new power, and always add a constant $C$:
+$y > 2$ is above the horizontal line $y = 2$; $x \leqslant 3$ is on and to the left of the vertical line $x = 3$.
 
-$$\int ax^n\,dx = \frac{ax^{n+1}}{n+1} + C \qquad (n \neq -1)$$
+![Graph of the triangular region R bounded by the solid lines y equals 1 and x plus y equals 6 and the dashed line y equals 2x, with vertices at (0.5, 1), (5, 1) and (2, 4)](math-inequality-region.svg)
 
-Expand or simplify first, so you integrate a sum of powers of $x$.
+*Worked example.* Show the region $R$ satisfying $y \geqslant 1$, $x+y \leqslant 6$ and $y < 2x$.
 
-*Worked example.* $V'(x) = 4x-3$ and $V(0) = 2$. Integrating gives $V(x) = 2x^2-3x+C$. Substitute the known point: $2 = 0-0+C$, so $C = 2$ and $V(x) = 2x^2-3x+2$.
+- $y = 1$ — solid, region above it
+- $x + y = 6$ through $(0,6)$ and $(6,0)$ — solid; test $(0,0)$: $0 \leqslant 6$ is true, so the region is on the origin side
+- $y = 2x$ through $(0,0)$ and $(2,4)$ — dashed; test $(1,0)$: $0 < 2$ is true, so the region is below the line
+
+The corners are where the lines cross: $(0.5, 1)$, $(5, 1)$ and $(2, 4)$.
+
+**Linear programming.** To maximise or minimise an expression such as $3x+2y$ over the region, evaluate it at the corners (or at whole-number points near them if $x$ and $y$ must be whole numbers). Here $3x+2y$ is $3.5$ at $(0.5,1)$, $17$ at $(5,1)$ and $14$ at $(2,4)$, so the maximum is **17 at $(5, 1)$**. Corners on a dashed line are not in the region, which is why only whole-number points matter in practice.
+
+**Finding the inequalities from a drawn region.** Find each boundary line's equation ($y = mx+c$), then use a point inside the region to choose the sign.
+
+**Mark-losing errors:** shading the wrong side (always test a point); solid and dashed lines swapped; shading the wanted region when the question said to leave it unshaded.

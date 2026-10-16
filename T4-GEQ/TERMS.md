@@ -2,88 +2,7 @@
 
 Definitions earn marks on their own, and precision matters. Where two terms are routinely confused they are defined next to each other with the distinction stated.
 
-## Population and settlement
-
-**Population density** — the average number of people per square kilometre.
-**Population distribution** — the way population is spread across an area. *Density is a number; distribution is a pattern, and a question about distribution wants locations.*
-
-**Birth rate** — the number of live births per 1000 people per year.
-**Death rate** — the number of deaths per 1000 people per year.
-**Fertility rate** — the average number of children a woman has over her lifetime. *Birth rate is per 1000 of the whole population; fertility rate is per woman, so it is unaffected by age structure.*
-**Infant mortality rate** — the number of deaths of children under one year per 1000 live births.
-**Life expectancy** — the average number of years a newborn can expect to live.
-**Natural increase** — the birth rate minus the death rate; negative when deaths exceed births.
-**Net migration** — immigration minus emigration for an area.
-**Replacement level fertility** — the fertility rate at which a population exactly replaces itself, around 2.1 children per woman.
-
-**Migration** — a permanent or semi-permanent change of residence.
-**Emigration** — leaving a country or area; the source loses people.
-**Immigration** — entering a country or area; the destination gains people. *Migration is the movement itself; emigration and immigration are the same movement seen from the two ends.*
-**Internal migration** — a move within one country, such as rural to urban.
-**International migration** — a move across a national border.
-**Voluntary migration** — a move the migrant chooses to make, usually for work or family.
-**Forced migration** — a move the migrant has no real choice about, caused by conflict, persecution or disaster.
-**Refugee** — a person who has fled their own country because of a well-founded fear of persecution, conflict or disaster.
-**Asylum seeker** — a person who has applied for refugee status in another country and is awaiting a decision.
-**Climate refugee** — a person forced to move by the effects of climate change, such as sea-level rise or worsening floods.
-**Internally displaced person** — a person forced to leave home but still within their own country.
-**Push factor** — a negative condition at the origin encouraging a person to leave.
-**Pull factor** — an attractive condition at the destination encouraging a person to move there.
-**Intervening obstacle** — anything between origin and destination that makes the move harder: distance, cost, borders, language, lack of information.
-**Brain drain** — the loss of skilled and educated workers from an area through emigration.
-**Remittance** — money sent home by a migrant to family in the source area.
-
-**Demographic Transition Model** — a model describing the change in birth rate, death rate and total population as a country develops, in five stages.
-**Natural decrease** — a fall in population because the death rate exceeds the birth rate.
-**Population pyramid (age/sex pyramid)** — a pair of back-to-back horizontal bar graphs showing the proportion of males and females in each age group.
-**Dependency ratio** — the number of young and elderly dependants per 100 people of working age.
-**Youthful population** — a population with a high proportion of under-15s, caused by high birth and fertility rates.
-**Ageing population** — a population with a high and rising proportion of over-65s, caused by long life expectancy and low fertility.
-**Over-population** — more people than the available resources and technology can support at a reasonable standard of living.
-**Under-population** — too few people to use the available resources fully, so potential output is lost.
-**Optimum population** — the population that gives the highest standard of living from the resources available.
-**Anti-natalist policy** — a government policy intended to reduce the birth rate.
-**Pro-natalist policy** — a government policy intended to raise the birth rate.
-
-**Settlement** — a place where people live, from an isolated farm to a city.
-**Site** — the actual land on which a settlement is built.
-**Situation** — a settlement's position relative to the surrounding region. *Site explains why it began there; situation usually explains why it grew.*
-**Dispersed settlement** — isolated buildings with no central cluster.
-**Nucleated settlement** — buildings clustered around a central point.
-**Linear settlement** — buildings strung out along a route, river or valley.
-**Settlement hierarchy** — the ranking of settlements by population, by the services they offer and by the size of the area they serve.
-**Sphere of influence (urban field)** — the area served by a settlement or a particular service.
-**Range** — the maximum distance people will travel to use a service.
-**Threshold population** — the minimum number of customers needed for a service to survive.
-**High-order service** — an expensive, infrequently used service needing a large threshold population, such as a hospital or university.
-**Low-order service** — a cheap, frequently used service with a small threshold, such as a dairy or post box.
-**Primate city** — a city disproportionately larger and more dominant than any other in its country.
-
-**Urbanisation** — an increase in the **proportion** of a population living in urban areas.
-**Urban growth** — an increase in the urban **population or built-up area**. *A city can grow in size while national urbanisation stalls, so the two are not interchangeable.*
-**Suburbanisation** — the outward growth of housing onto the city edge, with residents commuting back in.
-**Counter-urbanisation** — the movement of people out of cities to smaller towns and rural areas.
-**Re-urbanisation** — movement back into inner-city areas, usually following regeneration.
-**Gentrification** — the buying and improvement of inner-city property by higher-income residents, raising prices and displacing poorer ones.
-**Central business district (CBD)** — the commercial and administrative core of a city, with the highest land values and accessibility.
-**Bid-rent theory** — the principle that land value falls with distance from the city centre, and that the activity able to pay most for accessibility occupies the centre.
-**Burgess model** — a model of an HIC city as concentric rings around the CBD: zone of transition, low-income housing, medium-income housing, high-income commuter zone.
-**Hoyt model** — a model of an HIC city as sectors radiating from the CBD along transport routes, with industry and low-income housing following one corridor.
-**Core–frame model** — a model of the CBD as an intensively used core of shops, offices and banks surrounded by a frame of car parks, transport terminals, warehousing and workshops.
-**Latin American city model** — a model of an LIC or MIC city with a CBD, a commercial spine and élite housing sector, zones of maturity and in-situ accretion, and peripheral squatter settlements.
-**Inner city** — the older zone just outside the CBD, typically of 19th-century housing and obsolete industry.
-**Rural–urban fringe** — the transition zone where the built-up area meets open countryside.
-**Urban sprawl** — the uncontrolled outward spread of a built-up area onto surrounding land.
-**Greenfield site** — undeveloped land on the edge of a built-up area.
-**Brownfield site** — previously developed land available for reuse.
-**Intensification** — increasing the number of dwellings within the existing urban area rather than expanding outwards.
-**Squatter settlement (informal settlement)** — an area of self-built housing erected without legal title to the land or planning permission; called favelas in Brazil.
-**Megacity** — an urban area with more than 10 million people.
-**Self-help scheme** — a scheme in which residents improve their own homes with materials, land title or basic services supplied by the authorities.
-**Informal sector** — unregistered, untaxed and insecure work such as street trading or waste picking.
-**Formal sector** — registered, taxed and regulated employment with contracts and legal protection.
-
-## The natural environment
+## Theme 1: Natural Environment
 
 **Weather** — the state of the atmosphere at a particular place and time, over hours or days.
 **Climate** — the average weather of a place measured over a long period, at least 30 years. *Weather is what is happening; climate is what usually happens.*
@@ -257,7 +176,217 @@ Definitions earn marks on their own, and precision matters. Where two terms are 
 **Tropical rainforest** — a dense, layered forest near the equator, with high temperatures and heavy rain all year.
 **Hot desert** — an area with under about 250 mm of rain a year, high daytime temperatures and a large daily range.
 
-## Economic development and resources
+**Lithosphere** — the crust and rigid upper mantle, broken into tectonic plates.
+**Slab pull** — the sinking of the cold, dense edge of a subducting plate, which pulls the rest of the plate after it.
+**Ocean trench** — a deep, narrow trough in the sea floor where one plate subducts beneath another.
+**Hot spot** — a plume of magma rising through the middle of a plate (Hawaii).
+**Anticline** — an upfold in folded rock. **Syncline** — a downfold. *The two together make the wave shape of folded strata.*
+**Rift valley** — a block of land that has dropped down between two parallel faults.
+**Block mountain (horst)** — a block of land pushed up between two faults.
+**Tsunami** — a series of large sea waves caused when an undersea earthquake, eruption or landslide suddenly displaces the water.
+**Salt crystallisation** — salt crystals growing in pores and cracks and forcing the rock apart.
+**Oxidation** — oxygen reacting with iron minerals to form rust, which crumbles.
+**Exfoliation dome** — a rounded granite outcrop formed as sheets peel off by pressure release and exfoliation.
+**Clint / grike** — the flat block / the widened joint between blocks on a limestone pavement.
+**Swallow hole (sink hole)** — a hole where a stream disappears underground down a joint widened by solution.
+**Stalactite / stalagmite** — calcium carbonate deposits hanging from a cave roof / growing up from its floor.
+**Soil creep** — very slow downhill movement of soil by heave.
+**Slump (rotational slip)** — saturated material sliding along a curved slip plane.
+**Deflation** — wind lifting and removing loose fine material, lowering the land surface.
+**Loess** — thick deposits of fine wind-blown silt.
+**Accumulation zone / ablation zone** — the part of a glacier where inputs of snow exceed losses / where melting exceeds inputs.
+**Firn (névé)** — partly compacted granular snow on its way to becoming glacier ice.
+**Basal sliding** — a glacier sliding over its bed on a film of meltwater.
+**Crevasse** — a crack in the brittle surface ice of a glacier.
+**Arête** — a knife-edged ridge between two corries.
+**Pyramidal peak** — a sharp peak formed where three or more corries erode back (Aoraki / Mt Cook).
+**Truncated spur** — the cut-off end of an interlocking spur left as a cliff along a glacial trough.
+**Roche moutonnée** — a rock outcrop smoothed on the up-glacier side and plucked steep on the down-glacier side.
+**Till** — unsorted, angular material deposited directly by ice. **Outwash** — sorted sand and gravel deposited by meltwater. *Till is unsorted; outwash is sorted.*
+**Drumlin** — an egg-shaped hill of till streamlined by moving ice.
+**Erratic** — a boulder carried by ice and dropped far from its source.
+**Misfit stream** — a small river on the floor of a glacial trough, too small to have carved it.
+**Percolation** — water moving down from the soil into the rock.
+**Interception** — water caught on leaves and stems before reaching the ground.
+**Evapotranspiration** — evaporation plus transpiration from plants.
+**Aquifer** — permeable rock that stores groundwater. **Water table** — the upper surface of the saturated zone.
+**Capacity / competence** — the total load a river can carry / the largest particle it can carry.
+**Thalweg** — the line of fastest flow in a river.
+**Helicoidal flow** — corkscrew flow in a meander that moves sediment from the outer to the inner bank.
+**River cliff / slip-off slope** — the steep eroding outer bank / the gentle depositing inner bank of a meander.
+**Plunge pool** — a deep pool at the foot of a waterfall.
+**Gorge** — a steep-sided, narrow valley, e.g. left as a waterfall retreats.
+**Flocculation** — clay particles clumping together in salt water and sinking.
+**Distributary** — a channel that splits from the main river, typically on a delta.
+**Schumm model** — channel shape depends on load: fine suspended load → narrow, deep, sinuous; coarse bedload → wide, shallow, braided.
+**Braided channel** — a river split into many channels round gravel bars.
+**Base level** — the lowest level to which a river can erode (sea level).
+**Fetch** — the distance of open water over which the wind blows to make waves.
+**Swash / backwash** — water rushing up a beach after a wave breaks / draining back down.
+**Ria** — a drowned river valley. **Raised beach** — an old beach left above the present shore by uplift or falling sea level.
+**Concordant / discordant coast** — rock bands parallel to / at right angles to the coastline.
+**Bar** — a ridge of sand across a bay, enclosing a lagoon.
+**Salt marsh** — vegetated mudflat in sheltered water behind a spit or in an estuary.
+**Stability (atmospheric)** — stable air resists rising (flat cloud); unstable air keeps rising (cumulonimbus).
+**Latent heat** — heat released when water vapour condenses (absorbed when water evaporates).
+**Oktas** — eighths of the sky covered by cloud.
+**Sea breeze / land breeze** — daytime wind from sea to land / night wind from land to sea.
+**Katabatic wind** — cold air draining down slopes at night.
+**Monsoon** — a seasonal reversal of wind that brings a wet season.
+**Jet stream** — a narrow band of very strong west-to-east wind high in the atmosphere.
+**Albedo** — the share of solar radiation reflected by a surface.
+**El Niño / La Niña (ENSO)** — the weakening / strengthening of the Pacific trade winds, with warm water spreading east / pushed west; El Niño gives NZ cooler south-westerlies and eastern drought.
+**Continentality** — the effect of distance from the sea on temperature range.
+**Biotic / abiotic** — the living / non-living parts of an ecosystem.
+**Biome** — a large-scale ecosystem with similar climate and vegetation.
+**Biodiversity** — the variety of species in an area.
+**Drip tip, buttress root, liana, epiphyte** — rainforest plant adaptations: shedding water, supporting tall trees, climbing to the light, growing on branches.
+**Succulent** — a plant that stores water in thick stems or leaves.
+
+## Theme 2: Population and Settlement
+
+**Population density** — the average number of people per square kilometre.
+**Population distribution** — the way population is spread across an area. *Density is a number; distribution is a pattern, and a question about distribution wants locations.*
+
+**Birth rate** — the number of live births per 1000 people per year.
+**Death rate** — the number of deaths per 1000 people per year.
+**Fertility rate** — the average number of children a woman has over her lifetime. *Birth rate is per 1000 of the whole population; fertility rate is per woman, so it is unaffected by age structure.*
+**Infant mortality rate** — the number of deaths of children under one year per 1000 live births.
+**Life expectancy** — the average number of years a newborn can expect to live.
+**Natural increase** — the birth rate minus the death rate; negative when deaths exceed births.
+**Net migration** — immigration minus emigration for an area.
+**Replacement level fertility** — the fertility rate at which a population exactly replaces itself, around 2.1 children per woman.
+
+**Migration** — a permanent or semi-permanent change of residence.
+**Emigration** — leaving a country or area; the source loses people.
+**Immigration** — entering a country or area; the destination gains people. *Migration is the movement itself; emigration and immigration are the same movement seen from the two ends.*
+**Internal migration** — a move within one country, such as rural to urban.
+**International migration** — a move across a national border.
+**Voluntary migration** — a move the migrant chooses to make, usually for work or family.
+**Forced migration** — a move the migrant has no real choice about, caused by conflict, persecution or disaster.
+**Refugee** — a person who has fled their own country because of a well-founded fear of persecution, conflict or disaster.
+**Asylum seeker** — a person who has applied for refugee status in another country and is awaiting a decision.
+**Climate refugee** — a person forced to move by the effects of climate change, such as sea-level rise or worsening floods.
+**Internally displaced person** — a person forced to leave home but still within their own country.
+**Push factor** — a negative condition at the origin encouraging a person to leave.
+**Pull factor** — an attractive condition at the destination encouraging a person to move there.
+**Intervening obstacle** — anything between origin and destination that makes the move harder: distance, cost, borders, language, lack of information.
+**Brain drain** — the loss of skilled and educated workers from an area through emigration.
+**Remittance** — money sent home by a migrant to family in the source area.
+
+**Demographic Transition Model** — a model describing the change in birth rate, death rate and total population as a country develops, in five stages.
+**Natural decrease** — a fall in population because the death rate exceeds the birth rate.
+**Population pyramid (age/sex pyramid)** — a pair of back-to-back horizontal bar graphs showing the proportion of males and females in each age group.
+**Dependency ratio** — the number of young and elderly dependants per 100 people of working age.
+**Youthful population** — a population with a high proportion of under-15s, caused by high birth and fertility rates.
+**Ageing population** — a population with a high and rising proportion of over-65s, caused by long life expectancy and low fertility.
+**Over-population** — more people than the available resources and technology can support at a reasonable standard of living.
+**Under-population** — too few people to use the available resources fully, so potential output is lost.
+**Optimum population** — the population that gives the highest standard of living from the resources available.
+**Anti-natalist policy** — a government policy intended to reduce the birth rate.
+**Pro-natalist policy** — a government policy intended to raise the birth rate.
+
+**Settlement** — a place where people live, from an isolated farm to a city.
+**Site** — the actual land on which a settlement is built.
+**Situation** — a settlement's position relative to the surrounding region. *Site explains why it began there; situation usually explains why it grew.*
+**Dispersed settlement** — isolated buildings with no central cluster.
+**Nucleated settlement** — buildings clustered around a central point.
+**Linear settlement** — buildings strung out along a route, river or valley.
+**Settlement hierarchy** — the ranking of settlements by population, by the services they offer and by the size of the area they serve.
+**Sphere of influence (urban field)** — the area served by a settlement or a particular service.
+**Range (of a service)** — the maximum distance people will travel to use a service.
+**Threshold population** — the minimum number of customers needed for a service to survive.
+**High-order service** — an expensive, infrequently used service needing a large threshold population, such as a hospital or university.
+**Low-order service** — a cheap, frequently used service with a small threshold, such as a dairy or post box.
+**Primate city** — a city disproportionately larger and more dominant than any other in its country.
+
+**Urbanisation** — an increase in the **proportion** of a population living in urban areas.
+**Urban growth** — an increase in the urban **population or built-up area**. *A city can grow in size while national urbanisation stalls, so the two are not interchangeable.*
+**Suburbanisation** — the outward growth of housing onto the city edge, with residents commuting back in.
+**Counter-urbanisation** — the movement of people out of cities to smaller towns and rural areas.
+**Re-urbanisation** — movement back into inner-city areas, usually following regeneration.
+**Gentrification** — the buying and improvement of inner-city property by higher-income residents, raising prices and displacing poorer ones.
+**Central business district (CBD)** — the commercial and administrative core of a city, with the highest land values and accessibility.
+**Bid-rent theory** — the principle that land value falls with distance from the city centre, and that the activity able to pay most for accessibility occupies the centre.
+**Burgess model** — a model of an HIC city as concentric rings around the CBD: zone of transition, low-income housing, medium-income housing, high-income commuter zone.
+**Hoyt model** — a model of an HIC city as sectors radiating from the CBD along transport routes, with industry and low-income housing following one corridor.
+**Core–frame model** — a model of the CBD as an intensively used core of shops, offices and banks surrounded by a frame of car parks, transport terminals, warehousing and workshops.
+**Latin American city model** — a model of an LIC or MIC city with a CBD, a commercial spine and élite housing sector, zones of maturity and in-situ accretion, and peripheral squatter settlements.
+**Inner city** — the older zone just outside the CBD, typically of 19th-century housing and obsolete industry.
+**Rural–urban fringe** — the transition zone where the built-up area meets open countryside.
+**Urban sprawl** — the uncontrolled outward spread of a built-up area onto surrounding land.
+**Greenfield site** — undeveloped land on the edge of a built-up area.
+**Brownfield site** — previously developed land available for reuse.
+**Intensification** — increasing the number of dwellings within the existing urban area rather than expanding outwards.
+**Squatter settlement (informal settlement)** — an area of self-built housing erected without legal title to the land or planning permission; called favelas in Brazil.
+**Megacity** — an urban area with more than 10 million people.
+**Self-help scheme** — a scheme in which residents improve their own homes with materials, land title or basic services supplied by the authorities.
+**Informal sector** — unregistered, untaxed and insecure work such as street trading or waste picking.
+**Formal sector** — registered, taxed and regulated employment with contracts and legal protection.
+
+**Net migration rate** — net migration per 1000 people per year.
+**J-curve** — the shape of world population growth: very slow for most of history, then explosive since about 1750.
+**Population–resource balance** — the relationship between the size of a population and the resources and technology available to support it.
+**Demographic dividend** — faster economic growth when falling birth rates leave a large working-age population with relatively few dependants.
+**4-2-1 family** — four grandparents, two parents and one child; a result of China's one-child policy.
+**Economic migrant** — a person who moves mainly to improve their income or employment.
+**Step migration** — migration in stages, such as from village to town to city.
+**Chain migration** — migration that follows family or friends who moved earlier and help with housing and work.
+**Seasonal migration** — temporary migration for part of the year, such as fruit picking under New Zealand's RSE scheme.
+**Points-based system** — an immigration system that admits migrants who score enough points for age, skills, qualifications and language.
+
+**Wet-point site** — a settlement site with a reliable spring or well in a dry area.
+**Dry-point site** — a settlement site on a mound or terrace above flood level.
+**Bridging point** — the lowest or narrowest crossing point of a river, a common settlement site.
+**Route centre (nodal point)** — a place where routes meet, such as a gap, confluence or crossroads.
+**Function (of a settlement)** — its main economic or social purpose, such as port, market town, resort or administrative centre.
+**Hamlet** — a very small rural settlement of a few houses with few or no services.
+**Conurbation** — a large urban area formed when neighbouring towns and cities merge as they grow.
+**Multiplier effect (settlement growth)** — the process by which new jobs and spending create further jobs and services, attracting more people and firms.
+**Middle-order service** — a service with a medium threshold and range, used about weekly, such as a supermarket or bank.
+**Convenience goods** — cheap goods bought often and close to home with little comparison, such as bread and milk.
+**Comparison goods** — expensive goods bought rarely after comparing shops, such as clothes, furniture and electrical goods.
+**Central place theory** — Christaller's (1933) theory that settlements supply services to surrounding hexagonal market areas, forming a hierarchy.
+**Regional shopping centre** — a large indoor mall serving a whole region from an accessible suburban or edge site, such as Sylvia Park.
+**Out-of-town retail park** — a group of large single-storey stores with car parks on cheap land at the city edge.
+**Suburban parade** — a row of local shops along a main road in the suburbs.
+**Hub-and-spoke network** — a network in which all routes run from outlying places to one central hub, where journeys change.
+**Urban hierarchy** — the ranking of a country's towns and cities by size, services and influence.
+
+**Peak land value intersection (PLVI)** — the most accessible and valuable point in a city, usually a major junction in the CBD core.
+**Harris–Ullman (multiple nuclei) model** — a model of a city growing round several separate nuclei, with similar uses clustering and unlike uses repelling.
+**Zone in transition** — the ring around the CBD of old industry, dense old housing and derelict land, where land use is changing.
+**Vertical zoning** — different land uses on different floors of a building, such as shops below and offices above.
+**Functional zoning** — the grouping of similar activities into separate districts, such as a financial or entertainment district in the CBD.
+**Invasion and succession** — the process by which a new group or land use moves into an area (invasion) and the original occupants leave (succession).
+**Filtering** — the process by which housing passes down the income scale as it ages, while households move outwards to newer housing.
+**Suburbia** — the low-density residential areas, with houses and gardens, on the edge of a city.
+**Commuting** — the daily journey from home to work and back.
+**Commuter (dormitory) village** — a village whose working residents travel to the city each day.
+**Urban shadow** — the rural area beyond the urban fringe whose land use, prices and population are shaped by the nearby city, with land held for future development.
+**Land banking** — buying land and leaving it undeveloped until it is rezoned and its value rises.
+**Green belt** — a ring of protected countryside round a city in which building is strictly controlled.
+**Rural Urban Boundary (RUB)** — the line in Auckland's 2016 Unitary Plan beyond which urban development is not permitted; it replaced the Metropolitan Urban Limit.
+**Infill** — building new homes on spare land between or behind existing buildings within the urban area.
+**Compact city** — a city that grows upwards and inwards so that people live close to jobs, services and public transport.
+**Inner-city decay** — the decline of the inner city's economy, housing and environment after industry closes and wealthier residents leave.
+**Deindustrialisation** — the decline of manufacturing industry in an area.
+**Comprehensive redevelopment** — demolishing a whole area of old buildings and rebuilding it.
+**Urban regeneration** — the improvement of a run-down urban area, usually by public agencies attracting private investment.
+**Urbanisation curve** — the S-shaped curve of a country's urban percentage over time: slow, rapid, then levelling off.
+**Over-urbanisation** — urban population growth faster than the growth of urban jobs and infrastructure.
+**Commercial spine** — in the Latin American city model, a boulevard from the CBD lined with offices, shops and élite housing.
+**Zone of maturity** — in the Latin American city model, older established housing with full services.
+**Zone of in-situ accretion** — in the Latin American city model, modest housing being improved bit by bit.
+**Disamenity sector** — the worst land in a city (steep, flood-prone or polluted), occupied by the poorest people.
+**Informal economy** — unregistered, untaxed and unregulated work; the same as the informal sector.
+**Site-and-service scheme** — a scheme in which the authorities provide plots with basic services and residents build their own homes.
+**In-situ upgrading** — improving an existing squatter settlement with services and land titles without moving its residents.
+**Micro-credit** — small loans to poor people to start or expand a business.
+**RDP housing** — free basic houses built under South Africa's Reconstruction and Development Programme from 1994.
+**New town (counter-magnet)** — a planned town built to divert growth from a large city, such as Navi Mumbai.
+
+## Theme 3: Development and the use of resources
 
 **Development** — an improvement in the quality of life and standard of living of a population.
 **Economic growth** — an increase in a country's output or income. *Growth is a rise in output; development is the improvement in people's lives that may or may not follow it.*
@@ -332,6 +461,61 @@ Definitions earn marks on their own, and precision matters. Where two terms are 
 **Leakage** — the share of tourist spending that leaves the host area, typically to foreign-owned airlines and hotel chains.
 **Ecotourism** — small-scale, locally run tourism designed to conserve the environment and benefit local people.
 
+**Development gap** — the difference in wealth and living standards between the richest and poorest countries.
+**NIC (newly industrialised country)** — a country whose economy grew rapidly through manufacturing (South Korea, China).
+**Gender Inequality Index** — a composite measure of inequality between women and men in health, empowerment and work.
+**Gini coefficient** — a measure of income inequality from 0 (equal) to 1 (one person has everything).
+**Cycle of poverty** — low income → poor health and education → low productivity → low income.
+**Tied aid** — aid that must be spent on the donor country's goods or services.
+**Bilateral / multilateral aid** — government to government / through international organisations.
+**Sustainable Development Goals** — 17 UN goals for 2015–2030 that replaced the Millennium Development Goals.
+**Appropriate (intermediate) technology** — simple, affordable technology local people can maintain.
+**Foreign direct investment (FDI)** — a company investing in businesses or factories in another country.
+**Outsourcing (offshoring)** — moving production or services to another firm or country.
+**Global shift** — the movement of manufacturing from HICs to NICs and LICs.
+**Containerisation** — shipping goods in standard steel containers, cutting transport costs.
+**Interdependence** — countries relying on each other for goods, markets and investment.
+**Host country / home country** — where a TNC operates / where its headquarters is.
+**Von Thünen's model** — farm land use arranged in rings around a market by transport cost and land rent.
+**Mixed farming** — crops and animals on the same farm.
+**Nomadic pastoralism** — herders moving animals in search of grazing.
+**Plantation** — a large estate growing one cash crop for export.
+**Green Revolution** — high-yielding varieties, fertiliser, pesticides and irrigation that raised crop yields from the 1960s.
+**Famine** — a severe, widespread food shortage causing mass hunger and death.
+**Food security** — reliable access to enough affordable, nutritious food.
+**Malnutrition** — ill health from a diet lacking enough food or the right nutrients.
+**Salinisation** — salts left in the soil when irrigation water evaporates.
+**Pugging** — soil compaction by cattle on wet ground.
+**Heavy / light industry** — bulky raw materials and large products / small components and light products.
+**Industrial inertia** — an industry staying in place after its original location reasons have gone.
+**Industrial estate** — a planned area of factories with shared roads and services.
+**Science park** — a landscaped site of high-tech and research firms.
+**Special economic zone** — an area with tax breaks and fewer rules to attract foreign manufacturers.
+**Just-in-time** — components delivered exactly when needed, so little stock is held.
+**Thermal pollution** — warm cooling water discharged into rivers.
+**Circular economy** — reduce, reuse, repair and recycle so materials stay in use.
+**Butler model** — the tourist area life cycle: exploration, involvement, development, consolidation, stagnation, then decline or rejuvenation.
+**Mass tourism** — large numbers of tourists on package holidays to resorts.
+**Sustainable tourism** — tourism that meets visitors' and hosts' needs while protecting the environment and culture.
+**Community-based tourism** — tourism owned and run by local people, keeping income local.
+**Intermittent (energy)** — producing power only some of the time (wind, solar).
+**Fracking** — cracking shale rock with high-pressure water to release gas.
+**Energy conservation** — using less energy through efficiency and changed behaviour.
+**Climate change** — long-term changes in temperature, precipitation, wind patterns and other elements of the climate system.
+**Carbon footprint** — the greenhouse gas emitted directly or indirectly by a person, company or product.
+**Net zero** — emissions cut as far as possible and the rest balanced by removals.
+**Climate migrant** — someone forced to leave home by the effects of climate change.
+**Atoll** — a ring-shaped coral island formed around a sinking volcanic island.
+**Coral bleaching** — corals expelling their algae under heat stress, turning white and often dying.
+**Photochemical smog** — haze formed when sunlight reacts with vehicle exhaust gases.
+**Acid rain** — rain made acidic by sulphur dioxide and nitrogen oxides.
+**Carbon capture and storage** — trapping CO₂ from power stations or industry and storing it underground.
+**Water stress** — when demand for water approaches or exceeds supply.
+**Physical / economic water scarcity** — not enough water exists / water exists but people cannot afford to supply it.
+**Desalination** — removing salt from sea water to make fresh water.
+**Ecological footprint** — the area of land and sea needed to supply a population's resources and absorb its waste.
+**Pollution haven** — a country with weak environmental rules that attracts polluting industry.
+
 ## Geographical skills
 
 **Scale** — the ratio between a distance on the map and the same distance on the ground.
@@ -360,7 +544,7 @@ Definitions earn marks on their own, and precision matters. Where two terms are 
 **Mean** — the arithmetic average, the sum of the values divided by their number.
 **Median** — the middle value when the data are ranked in order.
 **Mode** — the most frequently occurring value in a data set.
-**Range** — the difference between the maximum and the minimum value.
+**Range (statistics)** — the difference between the maximum and the minimum value.
 **Interquartile range** — the difference between the upper and lower quartiles, describing the middle half of the data and ignoring extremes.
 **Anomaly** — a value or place that does not fit the general pattern.
 **Correlation** — a statistical relationship between two variables; it does not by itself prove causation.
@@ -370,3 +554,16 @@ Definitions earn marks on their own, and precision matters. Where two terms are 
 **Sampling** — selecting part of a population to measure; random, systematic or stratified.
 **Transect** — a line along which measurements are taken at intervals.
 **SDEEL** — the paragraph structure of Statement, Describe, Explain, Example and Link back to the question.
+
+**Back bearing** — the bearing in the opposite direction, found by adding or subtracting 180°.
+**Spur** — a ridge of high land projecting into a valley, shown by contours bending downhill.
+**Col (saddle)** — a low point on a ridge between two summits.
+**Convex slope** — a slope that steepens downhill, with contours closer together at the bottom.
+**Concave slope** — a slope that becomes gentler downhill, with contours closer together at the top.
+**Desire line** — a line from a person's origin to a destination, used to map a sphere of influence.
+**Null hypothesis** — a statement that there is no relationship between the variables being tested.
+**Random sampling** — choosing sites or people by chance, so each has an equal chance of selection.
+**Systematic sampling** — choosing sites or people at regular intervals.
+**Stratified sampling** — sampling each sub-group in proportion to its share of the whole.
+**Environmental quality survey** — a fieldwork method that scores a site on a scale for litter, noise, greenery, graffiti and building condition.
+**Pedestrian count** — counting people passing a fixed point for a set time, used to find the PLVI and the edge of the CBD.

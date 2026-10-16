@@ -4,7 +4,7 @@
 
 $$\rho = \frac{m}{V}$$
 
-Units: kg/m³ or g/cm³. Water is 1.00 g/cm³ = 1000 kg/m³. An object **floats** if its density is less than the fluid's.
+**Density** is mass per unit volume. Units: kg/m³ or g/cm³. Water is 1.00 g/cm³ = 1000 kg/m³. An object **floats** if its density is less than the fluid's. Two liquids that do not mix form layers: the **less dense** liquid floats on top (oil, 0.9 g/cm³, floats on water).
 
 **Regular solid.** Measure the mass on a balance; measure the sides with a rule or calliper and calculate the volume.
 
@@ -25,20 +25,28 @@ Units: kg/m³ or g/cm³. Water is 1.00 g/cm³ = 1000 kg/m³. An object **floats*
 
 $$\rho = \frac{0.54}{2.0\times10^{-4}} = 2700\ \text{kg/m}^3$$
 
-Convert the volume *before* dividing — this is the most common slip.
+Convert the volume *before* dividing — this is the most common slip. To convert, g/cm³ × 1000 = kg/m³.
+
+**This loses marks:** in the displacement method, using the final water level instead of the **rise**; letting air bubbles cling to the solid; reading the meniscus from above or below (read the bottom of the meniscus at eye level).
 
 ## Energy stores and transfers
 
-Energy can be in these stores: **kinetic**, **gravitational potential**, **chemical**, **elastic (strain)**, **nuclear**, **internal (thermal)**.
+Energy can be in these stores: **kinetic**, **gravitational potential**, **chemical**, **elastic (strain)**, **nuclear**, **electrostatic**, **internal (thermal)**.
 
-It is transferred by:
+It is transferred between stores by:
 
-- forces — mechanical working
-- electric currents — electrical working
+- forces — mechanical work done
+- electric currents — electrical work done
 - heating
-- waves (including radiation)
+- waves — electromagnetic, sound and other waves
+
+*Example chain.* A battery-powered fan: chemical store (battery) → electrical working → kinetic store of the blades → (by friction and sound) internal store of the surroundings.
 
 $$E_k = \tfrac{1}{2}mv^2 \qquad \Delta E_p = mg\Delta h$$
+
+$E_k$ and $E_p$ in J, $m$ in kg, $v$ in m/s, $g$ in N/kg, $\Delta h$ in m. Square only the speed in $E_k$: doubling $v$ makes $E_k$ four times bigger.
+
+*Example.* A 1200 kg car at 15 m/s has $E_k = \tfrac12 \times 1200 \times 15^2 = 1.35\times10^5$ J.
 
 **Conservation of energy:** the total energy of a closed system is constant. Energy is never destroyed, but it becomes **dissipated** — spread thinly among the surroundings as thermal energy, where it is no longer useful.
 
@@ -61,11 +69,11 @@ The distance must be measured **in the direction of the force**. A force perpend
 
 Lifting a mass vertically does work against gravity and the energy becomes gravitational potential energy.
 
-**Power** is the rate of energy transfer:
+**Power** is the work done per unit time, or the energy transferred per unit time:
 
-$$P = \frac{\Delta E}{t}$$
+$$P = \frac{W}{t} = \frac{\Delta E}{t}$$
 
-Units: W = J/s.
+Units: W = J/s. 1 kW = 1000 W.
 
 **Worked example.** A 2.0 kg mass lifted 3.0 m gains $2.0 \times 9.81 \times 3.0 = 59$ J. If the lift takes 2.0 s, the useful output power is $59/2.0 = 29$ W. The motor's input power is higher, because it is not 100% efficient.
 
@@ -74,31 +82,48 @@ Units: W = J/s.
 $$\text{efficiency} = \frac{\text{useful energy output}}{\text{total energy input}} \times 100\%$$
 $$\text{efficiency} = \frac{\text{useful power output}}{\text{total power input}} \times 100\%$$
 
-A motor drawing 90 W and lifting at 29 W is $29/90 \times 100 = 32\%$ efficient. Efficiency can never exceed 100%.
+A motor drawing 90 W and lifting at 29 W is $29/90 \times 100 = 32\%$ efficient. Efficiency can never exceed 100%, because energy cannot be created; the rest is **dissipated**, usually as thermal energy in the surroundings.
+
+**Worked example (rearranging).** A 25% efficient power station must deliver 500 MW of electrical power. Input power $= 500/0.25 = 2000$ MW; wasted $= 2000 - 500 = 1500$ MW, mostly as heating of the surroundings (cooling water, flue gases).
+
+**This loses marks:** writing efficiency as more than 1 (or 100%); using total ÷ useful; leaving out the % or mixing a fraction and a percentage.
 
 ## Energy resources
 
+Most power stations work the same way: an energy source heats water in a **boiler** to make high-pressure steam, the steam spins a **turbine**, and the turbine turns a **generator**, which induces the electricity. Hydroelectric, wave, tidal and wind power skip the boiler and drive the turbine directly; solar cells produce electricity with no turbine at all.
+
 | Resource | How energy is obtained | Renewable? | Notes |
 |---|---|---|---|
-| Fossil fuels | burning chemical energy | No | reliable, high output, CO₂ and pollutants |
-| Biofuel / batteries | chemical energy released | Partly | batteries store, not generate |
+| Fossil fuels (coal, oil, gas) | chemical energy released by burning; boiler → turbine → generator | No | reliable, available on demand, large scale; CO₂ (global warming), acid rain |
+| Biofuels (wood, ethanol, biogas) | chemical energy from plants, burnt like fossil fuels | Yes | growing plants absorb CO₂; needs land that could grow food |
 | Hydroelectric | water falls through turbines behind a dam | Yes | reliable, large, floods valleys |
 | Waves | surface motion drives generators | Yes | low output, variable |
 | Tides | tidal flow drives turbines | Yes | predictable, needs an estuary |
 | Geothermal | heat from hot rock makes steam | Yes | only in volcanic regions |
 | Nuclear fission | splitting uranium nuclei | No | huge output, radioactive waste |
-| Solar cells and panels | light and heat from the Sun | Yes | no fuel cost, weather-dependent |
+| Solar cells | **light** from the Sun → electricity directly | Yes | no fuel cost or emissions; only in daylight, weather-dependent, large area for small output |
+| Solar panels | **infrared** from the Sun heats water | Yes | cheap hot water; no electricity; weather-dependent |
 | Wind | wind turns turbine blades | Yes | cheap running, intermittent, visual impact |
 
 Judge each on **renewability, cost, reliability, scale** and **environmental impact**.
 
-The Sun is the original source of every resource above **except** geothermal, nuclear and tidal. The Sun itself releases energy by **nuclear fusion** of small nuclei.
+Batteries are not a resource: they **store** energy that was generated elsewhere.
+
+The radiation from the Sun is the main source of energy for every resource above **except** geothermal, nuclear and tidal (tides come mainly from the Moon's gravity). The Sun itself releases energy by **nuclear fusion** of small nuclei. Research is under way to use fusion to generate electricity on a large scale; it is not yet achieved.
+
+| Judging a resource | Ask |
+|---|---|
+| Renewability | will it run out? |
+| Availability / reliability | is it there on demand, day and night, in all weather? |
+| Scale | can it supply a whole city or only a house? |
+| Environmental impact | CO₂, pollution, waste, land use, noise, habitats |
+| Cost | building cost vs running (fuel) cost |
 
 ## Pressure
 
 $$P = \frac{F}{A}$$
 
-Units: N/m² = Pa. The force must be **normal** (perpendicular) to the surface.
+**Pressure** is force per unit area. Units: N/m² = Pa. The force must be **normal** (perpendicular) to the surface.
 
 The same force spread over a larger area gives less pressure: snowshoes stop you sinking, a drawing pin's sharp point concentrates a small force into a large pressure.
 
@@ -106,11 +131,17 @@ The same force spread over a larger area gives less pressure: snowshoes stop you
 
 ### Pressure in a liquid
 
-$$P = \rho g h$$
+$$\Delta p = \rho g \Delta h$$
 
-Pressure increases with depth and with density, and acts equally in all directions at a given depth. $h$ is the **depth below the surface** — never the container's volume or width.
+$\Delta p$ in Pa, $\rho$ in kg/m³, $g$ in N/kg, $\Delta h$ in m. Pressure increases with depth and with density, and acts equally in all directions at a given depth. It does not depend on the shape or width of the container. $h$ is the **depth below the surface** — never the container's volume or width.
+
+That is why a dam is thicker at the bottom, and why water spurts furthest from the lowest hole in a can.
 
 At 2.0 m depth in water: $P = 1000 \times 9.81 \times 2.0 = 2.0\times10^4$ Pa, *in addition* to atmospheric pressure pushing down on the surface.
+
+**Worked example (change in depth).** A diver descends from 3.0 m to 18 m in sea water ($\rho = 1030$ kg/m³). $\Delta p = 1030 \times 9.81 \times 15 = 1.5\times10^5$ Pa — about 1.5 atmospheres extra.
+
+**This loses marks:** using $h$ in cm; forgetting to add atmospheric pressure when the question asks for the *total* pressure; using area in cm² with force in N and calling the answer Pa (1 cm² = $10^{-4}$ m²).
 
 ### Measuring pressure
 

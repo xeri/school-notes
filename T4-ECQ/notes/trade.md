@@ -35,6 +35,14 @@ Without trade, countries would have to be **self-sufficient**, spreading resourc
 
 The big risk is **over-dependence**: a country specialised in one or two exports is exposed to a fall in world demand or price for them. And the **adjustment costs** of trade fall unevenly — on particular workers, industries and regions, not on the nation as a smooth average. Say who bears the cost; that is where evaluation marks are.
 
+**Specialisation at a national level — for whom?**
+
+| | Advantages | Disadvantages |
+|---|---|---|
+| **Consumers** | lower prices and wider choice from efficient producers at home and abroad | dependence on imports for some goods; supply can be disrupted (shipping, war, pandemics) |
+| **Firms** | larger markets, economies of scale, use of the country's best resources | exposure to foreign competition and to a fall in world demand for the specialised product |
+| **The economy** | higher total output from **superior resource allocation and cheaper production methods**; export earnings | **over-dependence** on a few products; structural unemployment if the industry declines; vulnerability to world prices |
+
 ## Absolute and comparative advantage
 
 | | Definition | Test |
@@ -97,6 +105,10 @@ A **multinational company (MNC)** has its headquarters in one country — the **
 | **Embargo** | a total ban on importing a good | imports fall to zero |
 | **Administrative barriers** | paperwork, licensing, safety and labelling standards, slow customs | raises the cost and delay of importing without an explicit tax |
 
+![Tariff diagram: domestic demand and supply with a horizontal world price Pw. Without the tariff domestic firms supply Q1, consumers buy Q4 and imports are Q1 to Q4. A tariff raises the price to Pw+t: domestic supply rises to Q2, consumption falls to Q3, imports shrink to Q2 to Q3, and the shaded rectangle is the tariff revenue](econ-tariff.svg)
+
+*Reading the tariff diagram* (the standard textbook version; the Cambridge syllabus asks for the effects of a tariff, not this diagram). With free trade the domestic price is the **world price** $P_w$: domestic firms supply $Q_1$, consumers buy $Q_4$, and the gap $Q_1$–$Q_4$ is imported. A tariff raises the price to $P_w + t$: **domestic output rises** ($Q_1$ to $Q_2$) and with it domestic jobs, **consumption falls** ($Q_4$ to $Q_3$), **imports shrink** to $Q_2$–$Q_3$, and the government collects **tariff × imports** — the shaded rectangle. Consumers pay more and buy less: that is the cost of the protection.
+
 | Argument **for** protection | The counter-argument |
 |---|---|
 | **Infant (emerging) industries** need shelter until they can compete | protection may become permanent and the industry never grows up |
@@ -114,44 +126,127 @@ The judgement on protection depends on **how long** it lasts, **which** industry
 
 ## Exchange rates
 
-When NZ buys Japanese cars, money flows **out** of NZ (import payments) and **into** Japan (export earnings), so NZ dollars must be exchanged for yen. An **exchange rate** is the **value of one currency compared with another**.
+### What an exchange rate is
 
-To convert, **multiply** by the rate quoted as "1 domestic = $x$ foreign"; to convert back, **divide**. At NZ\$1 = US\$0.70, NZ\$25 is $25 \times 0.70 = 17.50$ — US\$17.50.
+International trade means currencies must change hands. When NZ buys cars from Japan, the purchase is an **import payment** for NZ — money flows **out** of NZ — and **export earnings** for Japan; NZ dollars must be exchanged for Japanese yen. A sale to overseas buyers brings an **inflow** of money.
+
+An **exchange rate** is **the value of one currency compared with another** (or with others).
+
+| 1 NZD buys… | 5 August 2021 | 16 August 2023 |
+|---|---|---|
+| UK pound | 0.51 | 0.47 |
+| Euro | 0.60 | 0.55 |
+| US dollar | 0.70 | 0.59 |
+| Australian dollar | 0.95 | 0.92 |
+| Chinese yuan | 4.55 | 4.33 |
+| South African rand | 10.12 | 11.39 |
+| Japanese yen | 77.11 | 86.6 |
+| Indian rupee | 52.26 | 49.43 |
+
+Between the two dates the NZ dollar **depreciated** against the pound, euro, US and Australian dollars, yuan and rupee, but **appreciated** against the rand and the yen. A currency can rise against one currency and fall against another at the same time. *Using the data:* against the US dollar the change was $(0.59 - 0.70) \div 0.70 \times 100 \approx -15.7\%$ — the NZ dollar lost about 16% of its value.
+
+**Converting.** With the rate quoted as "1 NZD = $x$ foreign", **multiply** to turn NZ dollars into foreign currency and **divide** to turn foreign currency into NZ dollars. At 1 NZD = 0.70 USD, NZ\$25 is $25 \times 0.70 = 17.50$ — US\$17.50. (Banks buy and sell at slightly different rates, so real conversions differ a little.)
 
 | Term | Meaning | Example |
 |---|---|---|
-| **Appreciation** | the currency's value **rises** — one unit buys **more** foreign currency | NZ\$1 = €0.60 → NZ\$1 = €0.67 |
-| **Depreciation** | the value **falls** — one unit buys **less** foreign currency | NZ\$1 = A\$0.95 → NZ\$1 = A\$0.84 |
-| **Revaluation / devaluation** | the deliberate equivalents under a fixed system | |
+| **Appreciation** | a **rise** in the value of the currency compared with another, so it now buys **more** of the other currency | 1 NZD = 0.60 euro changing to 1 NZD = 0.67 euro |
+| **Depreciation** | a **fall** in the value of the currency compared with another, so it now buys **less** of the other currency | 1 NZD = 0.95 AUD changing to 1 NZD = 0.84 AUD |
 
-*Worked conversion.* An Italian car costs €120 000. At NZ\$1 = €0.60 it costs $120\,000 / 0.60 = 200\,000$ — **NZ\$200 000**. At NZ\$1 = €0.62 it costs $120\,000 / 0.62 = 193\,548$ — **NZ\$193 548**. The NZ dollar has **appreciated**, so the import is cheaper. **Write the quotation direction down before you multiply or divide**; getting it upside down is the commonest arithmetic error in this topic.
+Under a **fixed** system the deliberate equivalents are a **revaluation** (raised) and a **devaluation** (lowered).
 
-*Reading prices.* An American car that cost NZ\$50 000 last year costs NZ\$60 000 now with no change in its US price → the NZ dollar has **depreciated**. NZ apples that cost Japanese buyers ¥2000 now cost ¥1500 → the NZ dollar has **depreciated** against the yen. If the NZ dollar appreciates, imported soy sauce gets **cheaper** in NZ dollars.
+### How a change in the rate changes import and export prices
+
+As the value of the NZ dollar **falls**, NZ exports become **cheaper** for Australians to buy:
+
+| Exchange rate | NZ\$ price of lamb | Australian \$ price |
+|---|---|---|
+| NZ\$1.00 = AU\$0.95 | \$50 | \$47.50 |
+| NZ\$1.00 = AU\$0.90 | \$50 | \$45.00 |
+| NZ\$1.00 = AU\$0.85 | \$50 | \$42.50 |
+
+…and the price of Australian exports **rises** for New Zealanders:
+
+| Exchange rate | Australian \$ price of kangaroos | NZ\$ price |
+|---|---|---|
+| NZ\$1.00 = AU\$0.95 | \$100 | \$105.26 |
+| NZ\$1.00 = AU\$0.90 | \$100 | \$111.11 |
+| NZ\$1.00 = AU\$0.85 | \$100 | \$117.65 |
+
+NZ exports: **multiply** the NZ price by the rate ($50 \times 0.90 = 45$). Australian imports: **divide** the Australian price by the rate ($100 \div 0.90 = 111.11$).
+
+### The exercises — worked
+
+1. *A Ford Mustang cost NZ\$50 000 in 2022 and the same car costs NZ\$60 000 in 2023. What has happened to the exchange rate?* The NZ dollar has **depreciated** against the US dollar — we have to pay more NZ dollars for the US dollars needed to buy the car from the American supplier.
+2. *A tray of NZ apples cost Japanese buyers 2000 yen in May but 1500 yen in June.* Again the NZ dollar has **depreciated** — it has lost value, becoming cheaper in comparison with the yen, so Japanese buyers need fewer yen.
+3. *A bottle of Chinese soy sauce cost NZ\$3.50 in 2021. What would happen to its price if the NZ dollar appreciated?* The price in NZ dollars would **fall** — fewer NZ dollars would be needed to get the yuan to buy the sauce.
+4. *Italian exporters charge 120 000 euro for a Ferrari Roma. Find the NZ price at NZ\$1.00 = 0.60 euro and at NZ\$1.00 = 0.62 euro.* $120\,000 \div 0.60 = 200\,000$ — **NZ\$200 000**; $120\,000 \div 0.62 = 193\,548$ — **NZ\$193 548**. Each NZ dollar now buys more euros: the NZ dollar has **appreciated**, so the import is cheaper.
+
+**Write the quotation direction down before you multiply or divide** — getting it upside down is the commonest error in this topic.
 
 ### How exchange rates are determined
 
-Exchange rates are set by **demand and supply on the foreign exchange market**. Foreigners buying NZ goods, services or assets, or wanting to hold NZ dollars, **demand** NZ dollars. New Zealanders buying from overseas, and other holders selling NZ dollars, **supply** them.
+Like other prices, a floating exchange rate is set by **demand and supply of the currency on the foreign exchange market**.
 
-| Determinant | Effect on the currency |
+- **Who demands NZ dollars?** Any foreigner who buys NZ goods or services, or who wants to hold NZ dollars (to save, invest or speculate).
+- **Who supplies NZ dollars?** New Zealanders, when they buy products (or assets) from overseas, and other holders of NZ currency who sell it.
+
+![Two foreign-exchange diagrams with the price of the NZ dollar in US dollars on the vertical axis and the quantity of NZ dollars traded on the horizontal. (a) Demand for NZ dollars shifts right from D1 to D2; at the old rate ER1 there is a shortage, so the rate rises to ER2: appreciation. (b) Demand shifts left from D1 to D2 and the rate falls from ER1 to ER2: depreciation](econ-exchange-rate.svg)
+
+Reading the diagram as the teaching material does: a rise in demand for the currency creates a **shortage** at the old rate (quantity demanded exceeds quantity supplied), so the price of the currency — the exchange rate — is bid **up** until the market clears at the new equilibrium. A fall in demand does the reverse. A change in **supply** works the same way: more NZ dollars supplied (New Zealanders buying more imports) shifts supply right and the NZ dollar **depreciates**.
+
+The teaching material lists the determinants of demand and supply: **relative interest rates**, **demand for imports**, **demand for exports**, **investment opportunities**, **speculative sentiment** (comparing and analysing markets), **global trading patterns** and **changes in inflation rates** — plus **government intervention**.
+
+| Determinant | What happens | Effect on the currency |
+|---|---|---|
+| **Demand for exports** rises — superior products, effective marketing, changes in the price or availability of substitutes, higher incomes in export markets | foreigners need more of the currency to pay | **appreciates** |
+| **Demand for imports** rises | the importing country must **supply** more of its currency to buy foreign currency | **depreciates** |
+| **Interest rates** rise relative to other countries | people seek the higher return on their savings, so demand for the currency rises | **appreciates** |
+| **Domestic inflation** rises | exports become relatively expensive, so demand for them — and for the currency — falls | **depreciates** |
+| **Foreign direct investment** — an MNC sets up abroad and must buy foreign currency to buy premises and materials and pay labour | demand for the **host** country's currency rises | the **host** currency **appreciates**; the MNC's **home** currency **depreciates** (an MNC **leaving** has the opposite effect) |
+| **Speculation** that the currency will rise | buyers buy now to "buy low and sell high" | **appreciates** |
+| **Speculation** that it will fall | holders sell now to avoid a loss | **depreciates** |
+| **Government intervention** | e.g. if greater demand for British goods raises the pound, the Bank of England can **sell its reserves of pounds** on the foreign exchange market, increasing supply | the rate **falls**; buying the currency with reserves raises it |
+
+*The teaching material's tick exercise — answers.*
+
+| Situation | Likely effect |
 |---|---|
-| **Demand for exports** rises (better products, effective marketing, higher incomes in export markets) | **appreciates** — more of the currency is needed to pay for them |
-| **Demand for imports** rises | **depreciates** — more of the currency is supplied to buy foreign currency |
-| **Relative interest rates** rise | **appreciates** — savers seek the higher return |
-| **Relative inflation** rises | **depreciates** — exports become dearer, so demand for them and the currency falls |
-| **Foreign direct investment** into the country | **appreciates** the host currency (and depreciates the MNC's home currency) |
-| **Speculation** that it will rise | **appreciates** as buyers move in early; expected falls cause selling and depreciation |
-| **Government / central-bank intervention** | selling reserves of its own currency increases supply and lowers the rate; buying raises it |
-| **Global trading patterns** and the **balance of payments** | a persistent deficit tends to depreciate the currency; a surplus to appreciate it |
+| There is a balance of payments deficit | depreciate |
+| People speculate that the currency will rise and buy more of it | appreciate |
+| Demand for other currencies rises as domestic consumers buy more imports | depreciate |
+| Interest rates fall relative to other countries, so people move their savings to banks overseas | depreciate |
+| Inflation is lower than in other countries, attracting savings from overseas residents | appreciate |
+| People speculate that the currency will fall and sell their holdings of it | depreciate |
+| There is a balance of payments surplus | appreciate |
 
-| System | How the rate is set | Strengths | Weaknesses |
+### Floating, fixed and managed exchange rates
+
+| System | How the rate is set (teaching material) | Advantages | Disadvantages |
 |---|---|---|---|
-| **Floating** | purely by demand and supply, with no government intervention | adjusts automatically; no reserves needed; interest rates free for domestic aims | volatile and uncertain for traders and investors |
-| **Fixed** | pegged to an anchor currency and not allowed to fluctuate | certainty for trade and investment; disciplines inflation | needs large reserves; interest rates tied to defending the peg; a misaligned peg invites speculative attack |
-| **Managed** | influenced by the central bank around a preferred rate | some stability with some flexibility | still needs reserves; the target may not be credible |
+| **Floating** | the price is determined by the forces of demand and supply for the currency **only**, with **no** government involvement or intervention | adjusts automatically — a deficit tends to cause depreciation, which helps correct it; no foreign reserves needed to defend a rate; interest rates are free to target inflation | can be **volatile**, creating uncertainty for exporters, importers and investors; a sharp fall can cause imported inflation |
+| **Fixed** | the value of the currency is **fixed in relation to an anchor currency** — not allowed to fluctuate | **certainty** for traders and investors, encouraging trade and investment; discipline on inflation | the central bank needs large **reserves** to buy or sell its currency; interest rates must be used to defend the rate rather than for domestic aims; if set too high, exports become uncompetitive; risk of speculative attack |
+| **Managed** | the rate is **influenced by the government via the central bank around a preferred rate** | some stability with some flexibility | still needs reserves; the market may test the preferred rate |
+
+A fixed rate held **above** equilibrium acts like a **minimum price** for the currency (the central bank must buy the excess supply); one held **below** equilibrium acts like a **maximum price**. NZ's dollar has floated since 1985.
 
 ## Effects of an exchange-rate change
 
-The old mnemonic is **SPICED** — **S**trong **P**ound, **I**mports **C**heap, **E**xports **D**ear. It works for any currency: a strong NZ dollar makes imports cheap and exports dear.
+**Impacts on the balance of payments** (teaching material):
+
+- An **appreciation** should lead to a **fall** in demand for exports and a **rise** in demand for imports, so the balance of payments should get "worse".
+- A **depreciation** should lead to a **rise** in demand for exports and a **fall** in demand for imports, so the balance of payments should "improve".
+- **But** the volume and the actual amount of income and expenditure depend on the relative **PED for imports and exports**.
+
+**An appreciation of the NZ dollar**, worked through the teaching material's four headings:
+
+| Affected | Effect of an appreciation |
+|---|---|
+| **Balance of payments** (what we earn from exports against what we pay for imports) | exports decrease and imports increase, so the balance of payments will usually **worsen** |
+| **Employment** | if exports decrease, jobs will likely be **lost in exporting industries** |
+| **Inflation** | decreased consumer spending will usually **reduce inflationary pressures** — and cheaper imports lower prices directly |
+| **Economic growth** | using $C + I + G + (X - M)$: consumer spending falls if export jobs are lost, and net exports $(X - M)$ should fall, so economic growth is **likely to fall** |
+
+A **depreciation** reverses each effect. In full:
 
 | | Appreciation | Depreciation |
 |---|---|---|
@@ -160,22 +255,40 @@ The old mnemonic is **SPICED** — **S**trong **P**ound, **I**mports **C**heap, 
 | Export volumes | tend to fall | tend to rise |
 | Import volumes | tend to rise | tend to fall |
 | Firms using imported inputs | gain — cheaper materials | lose — dearer materials, higher costs |
-| Inflation | eases — imports are cheaper and spending falls | rises — **imported** (cost-push) inflation |
+| Inflation | eases | rises — **imported** (cost-push) inflation |
 | Employment in export industries | falls | rises |
-| Economic growth | likely to fall — net exports $(X-M)$ fall and consumer spending drops as export jobs go | likely to rise as net exports and aggregate demand rise |
-| Current account | tends to worsen | tends to improve |
+| Economic growth | likely to fall | likely to rise as net exports and aggregate demand rise |
+| Current account | tends to worsen | tends to improve, if demand is elastic enough |
 | Foreign-currency debts | cheaper to repay | **dearer** to service and repay |
 
-**None of this is automatic.** Four reasons:
+A memory aid sometimes used is **SPICED** — **S**trong **P**ound, **I**mports **C**heap, **E**xports **D**ear; it works for any currency.
 
-1. **Elasticity.** A depreciation raises export *revenue* only if demand for exports is price **elastic**; if it is inelastic, the lower price earns less. Likewise imports fall much only if demand for them is elastic — a country importing essential food, oil and machinery has very inelastic import demand.
-2. **Time lags.** Existing contracts are priced in advance, so volumes take months or years to respond.
-3. **Capacity constraints.** If export factories are already at full capacity, higher foreign demand cannot be met.
-4. **Imported inputs.** An exporter that imports its raw materials sees its costs rise with the depreciation, offsetting the competitiveness gain.
+**Why the effect is not automatic** — the points the teaching material says lift an answer above 7/10:
 
-So a depreciation tends to help an **export-oriented** economy with strong domestic production, while an economy that relies on imported food, energy and materials mainly gets **higher inflation and a lower standard of living**.
+1. **Price elasticity.** A depreciation raises export **revenue** only if demand for exports is price **elastic**; if it is inelastic, the lower foreign-currency price earns less. Likewise spending on imports falls only if demand for them is elastic — a country importing essential food, oil and machinery has inelastic import demand, so its import bill **rises**.
+2. **Time lags.** Trade volumes take time to adjust because existing import and export contracts are fixed in the short term.
+3. **Capacity constraints.** If local factories are already at 100% capacity, they cannot produce more exports even if foreign demand rises.
+4. **Imported inputs and other offsets.** An exporter that imports its raw materials sees its costs rise; lower export prices may also be offset by poor quality, falling incomes abroad, or new trade restrictions by foreign governments.
 
-**Coping with a high exchange rate.** Exporters facing an appreciation can cut prices and accept a lower margin, find cheaper suppliers, raise efficiency, compete on non-price factors (quality, brand, social responsibility), or focus on goods with inelastic demand.
+So a depreciation tends to help an **export-oriented** economy with strong domestic production, while an economy that relies on imported food, energy and materials mainly gets **higher inflation and a lower standard of living** — it depends on the economy's structure.
+
+**Coping with a high exchange rate.** When the currency appreciates, demand for exports falls. Exporters may need to:
+
+- cut their prices and accept a lower profit margin to maintain demand
+- seek out cheaper suppliers of materials
+- increase efficiency so they can keep profits at lower prices
+- focus on non-price factors — quality, brand image, social responsibility (the "Taste Pure Nature" campaign for NZ beef and lamb sells on quality, not price)
+- focus on goods with inelastic demand
+
+### Past-paper practice used in the teaching material
+
+The case: in 2019 the Singapore government feared a recession; it introduced supply-side measures to raise productivity, and tried to **reduce** the international value of the Singapore dollar.
+
+- **Define recession** [2]: a fall in GDP / negative economic growth (1) for two successive quarters, six months or more (1).
+- **Explain two reasons why an economy may have a high foreign exchange rate** [4]: a **high demand** for the currency (1), for example from good-quality or low-priced exports, or speculation that it will rise (1); a **low supply** of the currency (1), because of low demand for imports or little investment abroad (1); the **government setting a high rate** (1) by buying the currency (1). Higher relative interest rates and low relative inflation are other valid reasons.
+- **Discuss whether a fall in the international value of its currency will always benefit an economy** (marked out of 8 on the mark scheme shown; the slide labels it 10): up to 5 marks **for** — lower export prices and higher import prices make domestic products more competitive, raising export revenue and lowering import spending **if demand is elastic**, improving the current account; more domestic production raises output, growth, employment, incomes and living standards; if the government had been holding the rate **above** equilibrium, it no longer needs to spend reserves or keep interest rates high, and lower rates can stimulate activity. Up to 5 marks **against** — dearer imports cause inflation and raise the cost of raw materials and production, and reduce the pressure on domestic firms to be price-competitive; lower export prices may be offset by low quality, falling incomes abroad or new trade restrictions; if demand for exports and imports is **inelastic**, export revenue may fall and import spending rise. The school requires a **conclusion**: 1 mark for a limited one, 2 for a strong one.
+
+The sample answer in the teaching material scored **7/10** — good knowledge, clear analysis and an evaluative conclusion ("it depends on the economy's structural nature"). To score higher it needed fewer words with **definite statements** ("this **will** happen", "this is **likely** to occur"), **specific examples** of countries, firms and industries, and the evaluation points listed above: **PED**, **time lags** and **capacity constraints**.
 
 ## The balance of payments
 
@@ -234,6 +347,15 @@ If a country spends more than it earns, the gap must be paid for by capital flow
 
 A **surplus** is not automatically good either: it may mean weak domestic demand, it can bring inflationary pressure and currency appreciation, and it invites protectionist retaliation from deficit partners.
 
+**Consequences of a current-account deficit for the economy** — the four the Cambridge syllabus names:
+
+| On | Effect of a deficit caused by rising imports or falling exports |
+|---|---|
+| **GDP** | net exports $(X - M)$ are negative or falling, which reduces aggregate demand and growth |
+| **Employment** | jobs are lost in export industries and in domestic firms losing sales to imports |
+| **Inflation** | less pressure on prices (spending leaks abroad), unless a falling currency raises import prices |
+| **Exchange rate** | more of the currency is supplied to buy imports than is demanded for exports, so it tends to **depreciate** |
+
 **Corrective policies for a deficit:**
 
 | Policy | Mechanism | Limits |
@@ -247,6 +369,7 @@ Supply-side measures attack the cause rather than the symptom, but take years; d
 
 ## Practice
 
-1. Explain two reasons why an economy may have a high exchange rate. *Model points:* high relative interest rates attract foreign savings, raising demand for the currency; strong demand for its exports; low relative inflation; inward investment; speculation.
+1. Explain two reasons why an economy may have a high exchange rate. *Model points:* high demand for the currency — strong demand for its exports, high relative interest rates attracting foreign savings, low relative inflation, inward investment, speculation that it will rise; low supply of the currency — low demand for imports, little investment abroad; the government buying its own currency to hold the rate up.
 2. Discuss whether a fall in the international value of its currency will always benefit an economy. *Model points:* for — exports cheaper, export demand and AD rise, jobs and GDP rise, imports dearer so the current account improves; against — imported inflation and cost-push pressure, lower living standards, dearer foreign debt; evaluation — elasticities, time lags, capacity, imported inputs, and whether the economy is export-oriented or import-dependent; "always" invites a conclusion that it depends.
-3. Discuss whether trade protection supports the growth of domestic firms. *Model points:* for — dearer imports shift demand to domestic goods, raising revenue, profit and jobs; infant industries can grow to economies of scale; against — retaliation cuts export sales, dearer imported materials raise costs, lower-quality domestic inputs, complacency and inefficiency.
+3. NZ\$1 = 0.62 euro becomes NZ\$1 = 0.58 euro. Calculate the NZ price of a 31 000-euro car before and after, and name the change. *Answer:* 31 000 ÷ 0.62 = NZ\$50 000; 31 000 ÷ 0.58 = NZ\$53 448; the NZ dollar has depreciated, so the import is dearer.
+4. Discuss whether trade protection supports the growth of domestic firms. *Model points:* for — dearer imports shift demand to domestic goods, raising revenue, profit and jobs; infant industries can grow to economies of scale; against — retaliation cuts export sales, dearer imported materials raise costs, lower-quality domestic inputs, complacency and inefficiency.

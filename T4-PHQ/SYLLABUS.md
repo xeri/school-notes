@@ -4,7 +4,9 @@
 Paper 1 — 1 hour, 40 multiple-choice questions, 1 mark each, answer grid. Paper 2 cannot be started until the hour has elapsed.
 Paper 2 — 2 hours, 10 short-answer sections of 15 marks. Q1–8 theory, Q9–10 practical skills. Full marks need the equation, the substitution, and a final answer with a unit and appropriate significant figures.
 
-Covers everything studied from the start of Term 1, including practical data analysis, graph plotting and experiment design. Unit 5.4 Digital electronics was removed from the syllabus in 2022. Elastic/inelastic collision labels and beta-plus emission are out of scope.
+Covers everything studied from the start of Term 1, including practical data analysis, graph plotting and experiment design. Unit 5.4 Digital electronics was removed from the syllabus in 2022. Elastic/inelastic collision labels and beta-plus emission are out of scope (beta-plus is excluded from IGCSE 0625 too).
+
+Pre-Q is based closely on Cambridge IGCSE Physics 0625. The notes also cover the 0625 Extended content that the school list below does not spell out — the Earth, Moon and Solar System, the life cycle of stars, the cosmic microwave background, the kilowatt-hour, digital and analogue signals, sight correction with lenses, diodes' I–V graph, and electrical safety details — so that nothing in the IGCSE benchmark is missed.
 
 Formula reference: [FORMULAS.md](FORMULAS.md) — no formula sheet is provided in the exam.
 Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Import** in Anki.
@@ -18,7 +20,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 | 5 | Thermal physics | [notes](notes/thermal.md) | [deck](anki/thermal.txt) |
 | 6 | Waves, light and sound | [notes](notes/waves.md) | [deck](anki/waves.txt) |
 | 7 | Electricity and magnetism | [notes](notes/electricity.md) | [deck](anki/electricity.txt) |
-| 8 | Atomic physics and space | [notes](notes/atomic-space.md) | [deck](anki/atomic-space.txt) |
+| 8 | Atomic physics and space | [notes](notes/atomic-space.md) | [deck](anki/atomic-space.txt), [space deck](anki/space.txt) |
 | 9 | Practical skills | [notes](notes/practical.md) | [deck](anki/practical.txt) |
 
 ---

@@ -127,7 +127,7 @@ Concession is not weakness; on *to what extent* and *discuss* questions it is wh
 - **Name a competing reading and adjudicate.** *The gesture may equally register habit rather than fear; the surrounding paragraph's repeated conditionals make the second reading harder to sustain.*
 - **Argue against the premise.** If a question asserts something the text does not support (that characters interest us only when they transform, for instance), say so, and build the essay on the better claim. Examiners reward engagement with the premise, not obedience to it.
 
-**Quoted critics.** Paper 3 general questions often quote a critic, such as Coleridge on Iago's *"motiveless malignity"*. The school's essay guide gives three options: wholesale agreement, wholesale disagreement, or **agreement with qualifications**. The third scores best. Test the claim against all the characters and every stage of the play, and ask whether its language is too strong or too weak.
+**Quoted critics.** Paper 3 general questions often quote a critic, such as Coleridge on Iago's *"motiveless malignity"*. The school's essay guide gives three options: wholesale agreement, wholesale disagreement, or **agreement with qualifications**. The third scores best. Test the claim against all the characters and every stage of the play, and ask whether its language is too strong or too weak. Every Term 4 2025 drama general question took this form; the step-by-step method, with worked plans, is in [the Othello notes](../notes/othello.md), under *Critical-claim general questions*.
 
 Concession markers to use deliberately: *Although*, *While it is true that*, *Even though*, *It may well be that… however*, *Regardless of the fact that*, *Nonetheless*, *Be that as it may*.
 

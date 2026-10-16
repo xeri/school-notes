@@ -63,6 +63,30 @@ The scarce resources used to produce goods and services are the **factors of pro
 
 "Capital" in economics means productive equipment, not money. Money is only a means of acquiring capital.
 
+### Mobility of the factors of production
+
+**Factor mobility** is how easily a factor can move between **uses** (occupational mobility) or between **places** (geographical mobility). Immobile factors are a cause of unemployment and market failure.
+
+| Factor | Occupational mobility | Geographical mobility |
+|---|---|---|
+| **Land** | fairly mobile between uses — a paddock can switch from sheep to dairy or to housing, though planning rules and soil limit this | **immobile** — land cannot be moved |
+| **Labour** | limited by skills, qualifications and training time — a laid-off freezing-works worker cannot become a nurse overnight | limited by housing costs, family ties, culture and language, and lack of information about jobs elsewhere |
+| **Capital** | depends on how specialised it is — a delivery van has many uses, a milking shed very few | some is portable (laptops, vehicles); buildings and infrastructure are not |
+| **Enterprise** | usually the most mobile — entrepreneurial skill transfers across industries | mobile, though local knowledge and networks matter |
+
+Mobility rises with education and retraining, better job information, cheaper housing and transport, and recognition of qualifications across regions and countries.
+
+### Changes in the quantity and quality of factors
+
+| Factor | Quantity rises with… | Quality rises with… |
+|---|---|---|
+| **Land** | land reclamation, discovery of new mineral deposits, irrigation bringing land into use | fertilisers, irrigation, better land management (quality falls with erosion and pollution) |
+| **Labour** | population growth, net immigration, a higher retirement age, higher participation (more women in work) | education, training, apprenticeships, better healthcare and nutrition |
+| **Capital** | investment in new machinery, buildings and infrastructure (more than replaces what wears out) | new technology, research and development |
+| **Enterprise** | lower taxes on profit, less red tape, a culture that rewards risk-taking | business education, access to finance and advice |
+
+More or better factors raise the economy's productive capacity — on a PPC this is an **outward shift**.
+
 ## Types of good that cause trouble for markets
 
 | Type | Meaning | Examples |
@@ -95,6 +119,8 @@ Division of labour works best in **mass production of standardised products**, s
 ## Production possibility curve
 
 A **PPC** (or production possibility frontier, PPF) shows the **maximum combinations of two goods** that can be produced when **all resources and technology are used in the most efficient way**. It assumes only two goods. Full drawing rules are in [the diagrams page](../DIAGRAMS.md).
+
+![Two PPC panels. Left: a concave PPC with points A and B on the curve, C inside and D outside, and an arrow along the curve from A to B; dashed guides mark K1, K2, C1 and C2. Right: PPC1 shifting outwards to PPC2 with arrows](econ-ppc.svg)
 
 | Point | Meaning |
 |---|---|
@@ -129,6 +155,8 @@ A **PPC** (or production possibility frontier, PPF) shows the **maximum combinat
 | more capital and a larger labour supply | loss of inputs through war or conflict |
 | innovation — new products, processes and resources | economic recession (see the caution below) |
 | discovery or extraction of new natural resources | |
+
+*Recession and the PPC.* A recession (unemployed workers, idle factories) moves the economy from a point **on** its PPC to a point **inside** it; a rise in total demand that puts resources back to work moves it back towards the curve. That is a movement of the **point**, not a shift of the curve.
 
 *Caution on recession.* The teaching material lists recession as a cause of an inward shift. Be precise in an answer: a recession first leaves resources **unemployed**, which is a point **inside** the existing curve. The curve itself moves in only if capacity is actually lost — firms close for good, machinery is scrapped, skills decay.
 

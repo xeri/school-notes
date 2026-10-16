@@ -17,6 +17,10 @@ The course page says the **surface area and volume formulae for the sphere, pyra
 
 **Index laws:** $a^ma^n = a^{m+n}$, $\dfrac{a^m}{a^n} = a^{m-n}$, $(a^m)^n = a^{mn}$, $a^0 = 1$ ($a\neq0$), $a^{-n} = \dfrac{1}{a^n}$, $a^{m/n} = \left(\sqrt[n]{a}\right)^m$
 
+**Bounds:** upper bound of $a-b$ is $a_{max}-b_{min}$; of $a\div b$ is $a_{max}\div b_{min}$.
+
+**Sets:** $n(A\cup B) = n(A)+n(B)-n(A\cap B)$
+
 **Surds:** $\sqrt{ab} = \sqrt a\sqrt b$, $\sqrt{\dfrac ab} = \dfrac{\sqrt a}{\sqrt b}$, $\dfrac{1}{\sqrt a} = \dfrac{\sqrt a}{a}$, $\dfrac{1}{a-\sqrt b} = \dfrac{a+\sqrt b}{a^2-b}$
 
 ## Algebra
@@ -32,7 +36,8 @@ The course page says the **surface area and volume formulae for the sphere, pyra
 | Quadratic sequence | $n^2$ coefficient $=\tfrac12\times$ second difference |
 | Direct variation | $y = kx$ |
 | Inverse variation | $y = \dfrac kx$ |
-| Composite function | $gf(x) = g[f(x)]$ |
+| Composite function | $gf(x) = g[f(x)]$ — apply $f$ first |
+| Turning point of $a(x+p)^2+q$ | $(-p,\ q)$; minimum if $a>0$, maximum if $a<0$ |
 
 ## Coordinate geometry
 
@@ -48,15 +53,20 @@ The course page says the **surface area and volume formulae for the sphere, pyra
 
 ## Calculus
 
-Not on the objective list, but in every final from 2022 to 2025.
+Examined in every final from 2022 to 2025. Rows marked * were not asked in those papers.
 
 | | |
 |---|---|
 | Differentiate | $ax^n \to anx^{n-1}$; a constant $\to 0$ |
+| Powers to rewrite first | $\sqrt x = x^{1/2}$, $\dfrac1{x^n} = x^{-n}$, $\dfrac{1}{\sqrt x} = x^{-1/2}$ |
 | Gradient at $x = a$ | $f'(a)$ |
 | Tangent at $x = a$ | $y-f(a) = f'(a)(x-a)$ |
-| Turning point | $f'(x) = 0$ |
+| Normal at $x = a$ * | gradient $-\dfrac{1}{f'(a)}$ |
+| Stationary point * | $f'(x) = 0$; $f''(x) < 0$ maximum, $f''(x) > 0$ minimum |
+| Increasing / decreasing * | $f'(x) > 0$ / $f'(x) < 0$ |
 | Integrate | $\displaystyle\int ax^n\,dx = \frac{ax^{n+1}}{n+1}+C$, $n\neq-1$ |
+| Find $C$ | substitute the given point into the integrated function |
+| Definite integral * | $\displaystyle\int_a^b f(x)\,dx = F(b)-F(a)$ = area under the curve when it is above the $x$-axis |
 
 ## Geometry
 
@@ -141,4 +151,6 @@ Units: lengths in cm, areas in cm², volumes in cm³. Convert every length to th
 | Frequency density | $\dfrac{\text{frequency}}{\text{class width}}$ |
 | Pie chart angle | $\dfrac{f}{\text{total}}\times360°$ |
 | Interquartile range | $Q_3-Q_1$ |
+| Conditional probability | $P(A\mid B) = \dfrac{P(A\text{ and }B)}{P(B)}$ |
+| At least one | $1-P(\text{none})$ |
 | Quartile positions (cumulative frequency curve) | $Q_1$ at $\tfrac n4$, $Q_2$ at $\tfrac n2$, $Q_3$ at $\tfrac{3n}{4}$ |

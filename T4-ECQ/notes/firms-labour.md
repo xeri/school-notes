@@ -16,6 +16,15 @@ $$\text{labour productivity} = \frac{\text{total output}}{\text{number of worker
 
 **What affects labour productivity:** the degree of competition in the market; advances in technology; specialisation and division of labour; business investment in new capital; apprenticeships and training; the quality of management; the quality of infrastructure; and the strength of demand for the product.
 
+**What determines a firm's demand for a factor of production.** The demand for labour, capital or land is **derived** from the demand for the product, and also depends on:
+
+| Influence | Effect on demand for the factor |
+|---|---|
+| **Demand for the product** | higher sales mean more workers and machines are needed |
+| **The price of the factor** | a higher wage makes labour relatively dearer, so firms hire fewer workers or substitute capital |
+| **The price and availability of other factors** | cheaper, better machines encourage capital-intensive production; a shortage of skilled labour does too |
+| **Productivity of the factor** | a more productive worker or machine is worth employing at a higher price |
+
 **Why it matters.** Falling productivity raises firms' costs. Rising productivity lets firms pay higher wages **and** earn higher profits, and in the long run it is a major determinant of economic growth and of inflation. Specialisation and the division of labour are covered in [Scarcity, choice and economic systems](../notes/foundations.md).
 
 ## Capital-intensive and labour-intensive production
@@ -31,6 +40,18 @@ $$\text{labour productivity} = \frac{\text{total output}}{\text{number of worker
 | Disadvantages | risk of poor employer–employee relations; high cost if staff turnover is high; continual training costs | huge investment needed; machines can become obsolete; workers may resist change |
 
 The same industry can switch over time. Coal mining in the 1880s was labour-intensive — many miners carrying, sorting and managing, with few tools. Coal mining today is capital-intensive, using advanced machinery relative to the number of workers.
+
+## Classifying firms
+
+| Classification | Categories | Examples |
+|---|---|---|
+| **By sector of production** | **primary** — extracting and growing natural resources; **secondary** — manufacturing and construction; **tertiary** — services | a dairy farm; a cheese factory; a supermarket |
+| **By ownership** | **private sector** — owned by individuals or shareholders, mainly for profit; **public sector** — owned by the government, mainly to provide a service | a sole-trader plumber; a state school, KiwiRail |
+| **By size** | small, medium and large, measured by employees, revenue, capital employed or market share | see "Measuring business size" below |
+
+**Why small firms survive** alongside large ones: many markets are small or local (a rural garage); customers want a personal, flexible or specialist service (a hairdresser, a craft brewery); some products cannot be mass-produced; small firms can serve **niches** large firms ignore; owners may prefer independence to growth; and many small firms supply or are franchised by large ones.
+
+**Challenges small firms face:** limited access to finance and higher interest rates; no economies of scale, so higher average costs and prices; competition from large firms that can undercut them; dependence on a few customers or on the owner's health; the burden of regulation and paperwork falling on few staff.
 
 ## Types of business organisation
 
@@ -98,6 +119,8 @@ A limited company is divided into **shares**. A shareholder is a part-owner with
 
 A **plc is still a private-sector business** — "public" means its shares are sold to the public, not that the state owns it.
 
+How shares and bonds are traded, and the types of share, are in [Money and exchange](../notes/money.md) under the stock exchange.
+
 ### Franchises
 
 A **franchise** is when the owner of a business (the **franchisor**) sells another person or company (the **franchisee**) the right to use its name, logo, products and methods in return for a fee. Remember: franchis**o**r = the **o**riginal business; franchis**ee** = the **e**xpanding new outlet.
@@ -110,30 +133,6 @@ The franchisor provides staff training, marketing support and a tried-and-truste
 | **Franchisee** | lower risk — a proven product; predictable costs; ongoing support | pays a start-up fee and a share of revenue, cutting profit; must do things the franchisor's way |
 
 The world's largest franchises by sales include McDonald's, 7-Eleven, Burger King, KFC and Subway.
-
-## The stock exchange
-
-The **stock exchange** (stock market) is where shares and government bonds are bought and sold. New Zealand's is the **NZX**; others include the New York, London and Tokyo exchanges. Both Ltds and plcs sell shares to raise finance, but **only plcs** can sell shares on the stock exchange. The total value of a company's issued shares is its **market capitalisation**.
-
-$$\text{market capitalisation} = \text{share price} \times \text{number of shares issued}$$
-
-| Function | What happens |
-|---|---|
-| **Raising share capital** | a firm sells shares openly and can raise very large sums; going public for the first time is an **initial public offering (IPO)** — an oversubscribed IPO drives the share price up |
-| **Facilitating growth** | existing plcs issue more shares to fund expansion; takeovers and mergers (including hostile ones) happen by buying shares |
-| **Selling government bonds** | governments borrow by selling bonds, which can then be resold on the exchange |
-| **Price mechanism for shares** | share prices are set by supply and demand, driven by company performance, confidence and rumour; a rising market is **bullish**, a falling one **bearish** |
-| **Safety of transactions** | trading is regulated and prices are published, which builds confidence |
-
-Capital raised by selling shares is **permanent capital**: the firm never repays it. A shareholder who wants money back must sell the shares to someone else.
-
-| Type of stock | Return | Vote |
-|---|---|---|
-| **Preference shares** | a **fixed** percentage dividend, paid **before** other shareholders | **no** vote at the AGM |
-| **Ordinary shares** | a dividend from whatever profit remains — possibly nothing | **one vote per share**; the majority shareholder can control policy and the board |
-| **Government bonds** | fixed interest, and the face value repaid at **maturity** | no ownership, no vote |
-
-People buy shares through a **broker**, through a managed **fund** that pools many investors' money, or through an online platform. A well-functioning stock exchange supports **business and consumer confidence**, which encourages investment and spending.
 
 ## Measuring business size
 
@@ -190,6 +189,16 @@ D employs the most people but has low capital, sales and profit; B has the highe
 
 Whether to grow depends on the **owner's objective**. An owner running a business for independence, personal service and control may rationally stay small.
 
+**Mergers — who gains and who loses.**
+
+| Type | Possible advantages | Possible disadvantages |
+|---|---|---|
+| **Horizontal** | economies of scale; larger market share; removes a competitor; rationalises duplicated sites | less competition may mean **higher prices and less choice** for consumers; job losses from closing duplicated sites; may attract investigation by the competition authority |
+| **Vertical** | secures supplies or outlets; cuts out the middleman's profit margin; better coordination and quality control | the firm must manage an unfamiliar stage of production; rivals may be denied supplies, reducing competition |
+| **Conglomerate** | spreads risk across unrelated markets; can move profits and skills between divisions | no economies of scale in production; managers may lack expertise in the new industry; diseconomies of scale |
+
+For **workers**, a merger can mean redundancies but also more training and promotion paths in a larger firm. For the **economy**, it can raise efficiency and international competitiveness — or create monopoly power.
+
 ## Economies and diseconomies of scale
 
 **Economies of scale** — as a business grows, its **average cost of production falls**. Not "total cost falls" — total cost almost always rises with output. Lower average cost lets a firm earn higher profit or charge more competitive prices and win customers from rivals.
@@ -215,6 +224,8 @@ Whether to grow depends on the **owner's objective**. An owner running a busines
 | **Shared infrastructure** | new roads, bridges or a power station cut every firm's costs |
 
 **Diseconomies of scale** — the business grows and its **average cost rises** because it has become too large to run efficiently.
+
+![Long-run average cost curve, U-shaped: average cost falls with economies of scale up to the lowest point at output Q*, then rises with diseconomies of scale](econ-lrac.svg)
 
 | Diseconomy | Cause |
 |---|---|
@@ -242,6 +253,14 @@ Whether to grow depends on the **owner's objective**. An owner running a busines
 | **Contribution per unit** | $\text{selling price} - \text{variable cost per unit}$ |
 | **Break-even output** | $\text{fixed costs} \div \text{contribution per unit}$ |
 
+The Cambridge IGCSE syllabus also uses the **averages** of fixed and variable cost; marginal cost and marginal revenue are **not** required.
+
+| Average cost | Formula | Shape as output rises |
+|---|---|---|
+| **Average fixed cost** | $AFC = FC \div \text{output}$ | falls continuously — the same fixed cost is spread over more units |
+| **Average variable cost** | $AVC = VC \div \text{output}$ | usually falls then rises (U-shaped) |
+| **Average total cost** | $ATC = TC \div \text{output} = AFC + AVC$ | U-shaped |
+
 *Average cost.* If making 10 000 cars costs \$30m in total, average cost is $30\,000\,000/10\,000 = \$3000$ per car — the car must sell for more than \$3000 to make a profit.
 
 *Worked example — a magazine.* Each copy sells for \$5. Printing-machine hire is \$2400 a month and factory rent \$1600, so FC = \$4000. Materials and wages are \$3 a copy.
@@ -258,6 +277,12 @@ Whether to grow depends on the **owner's objective**. An owner running a busines
 | 8000 | \$4000 | \$24 000 | \$28 000 | \$3.50 | \$40 000 | \$12 000 |
 
 Contribution per copy is \$5 − \$3 = \$2, so break-even output is $4000 \div 2 = 2000$ copies — matching the table. Average cost falls as output rises because the fixed cost is spread over more copies.
+
+*Averages from the same table.* At 4000 copies: $AFC = 4000 \div 4000 = \$1.00$, $AVC = 12\,000 \div 4000 = \$3.00$, so $ATC = \$4.00$ — matching the AC column. At 8000 copies AFC has halved to \$0.50 while AVC is still \$3.00. Here AVC is constant because each copy costs exactly \$3 to make; in most firms AVC eventually rises (diminishing returns), which gives the U-shaped ATC below.
+
+![Break-even chart for the magazine: FC flat at 4000 dollars, TC rising from 4000 to 28 000 dollars and TR rising from 0 to 40 000 dollars over 0 to 8000 copies; TR crosses TC at 2000 copies and 10 000 dollars, the break-even point, with a loss area to the left and a profit area to the right](econ-break-even.svg)
+
+![Two cost diagrams. Left: FC horizontal, VC rising from the origin, TC parallel to VC and FC above it. Right: AFC falling continuously, AVC and ATC both U-shaped, with the ATC minimum to the right of the AVC minimum and the gap between them narrowing](econ-cost-curves.svg)
 
 **Average cost is normally U-shaped.** It falls at first as fixed costs are spread and economies of scale appear; beyond some output it rises — a car firm expanding from 8000 to 10 000 cars may not find skilled workers and must hire and train unskilled ones, slowing production and raising cost per car. **Average revenue usually falls as output rises**, because to sell more units the firm must cut the price.
 
@@ -327,7 +352,7 @@ It can **bend backwards**: a builder works 35 hours at \$7 an hour (\$245), 40 h
 | more provision of the relevant education and training | education dropped (stop teaching accounting → fewer accountants) |
 | a higher participation rate | worse net benefits of the job (no promotion prospects, fewer holidays) |
 
-**The equilibrium wage** is where the demand for labour equals the supply of labour. If the wage is above or below it, market forces push it back; a **shift** in either curve creates a new equilibrium wage and level of employment. The diagram is in [the diagrams page](../DIAGRAMS.md).
+**The equilibrium wage** is where the demand for labour equals the supply of labour. If the wage is above or below it, market forces push it back; a **shift** in either curve creates a new equilibrium wage and level of employment. Drawing rules are in [the diagrams page](../DIAGRAMS.md).
 
 ## Labour force participation rate
 
@@ -353,11 +378,24 @@ $$\text{LFPR} = \frac{\text{labour force}}{\text{working-age population}}\times1
 
 **Public against private sector.** Governments compete with private firms for similar workers but often pay less: there is no profit motive to generate revenue; higher pay means higher taxes; and public-sector jobs are traditionally more secure, which is part of the reward.
 
+**Explaining any differential with demand and supply.** A wage is high when the **demand** for the labour is high (its product is valuable, the worker is productive) and the **supply** is low (long training, rare skills, unpleasant or dangerous work). Add **bargaining power** (a strong union, or a single dominant employer holding wages down), **discrimination**, and **government policy** (the minimum wage, public-sector pay settlements).
+
+| Differential | Usual explanation |
+|---|---|
+| **Skilled against unskilled** | skilled workers are more productive (high demand) and scarce because training takes years (low supply); unskilled labour is plentiful |
+| **Primary, secondary and tertiary** | pay tends to be lower in primary work (fruit picking) with many substitutable workers, and higher in specialist tertiary jobs (finance, medicine); but some secondary trades pay well because of skill shortages |
+| **Male and female** | women are more often in lower-paid occupations and part-time work, take career breaks, and may face **discrimination**; equal-pay law and changing attitudes narrow the gap |
+| **Private and public sector** | as above — no profit to share, pay set by negotiation with the government, more job security in the public sector |
+
 ## Minimum wage and the role of government
 
 A **national minimum wage** is the legal minimum a firm may pay. It is introduced when the equilibrium wage is below **subsistence** (workers cannot afford basic needs), to stop **exploitation** (including of migrant workers), and to **reduce income inequality**.
 
 If the labour market is in equilibrium at $W_1$, $N_1$ and a minimum wage $W_2$ is set above it, more workers offer themselves ($N_2$, read from supply) but firms want fewer ($N_3$, read from demand). The minimum wage **raises the pay of those still in work but can increase unemployment**.
+
+![Labour market with a minimum wage: demand for labour DL and supply SL cross at E with wage W1 and employment N1. A minimum wage W2 above W1 cuts employment to N3 on DL while N2 workers want jobs on SL; the gap N3 to N2 is unemployment](econ-labour-min-wage.svg)
+
+*Worked example.* At the equilibrium wage of \$22 an hour, 10 000 workers are employed. A minimum wage of \$25 is set: firms now want 9000 workers while 11 500 want jobs. Employment falls by 1000 and unemployment (excess supply) is $11\,500 - 9000 = 2500$. Those still employed earn \$3 an hour more.
 
 | Positive effects | Negative effects |
 |---|---|
@@ -387,6 +425,17 @@ A **trade union** is an organisation that aims to improve its members' condition
 
 A pay claim usually rests on one of four grounds: the **cost of living** has risen faster than pay; **comparable occupations** earn more; **profits** in the industry are high and should be shared; or **productivity** has risen.
 
+**What makes a union strong:**
+
+| Factor | Stronger union when… |
+|---|---|
+| **Membership** | a high share of the workforce belongs, so a strike would halt production |
+| **The state of the economy** | unemployment is low and firms are short of workers; in a recession workers fear for their jobs |
+| **Substitutes for the workers** | they are skilled and hard to replace by other workers or machines |
+| **The law** | the law protects the right to organise and strike (in NZ, strikes are lawful mainly during collective bargaining) |
+| **The employer's position** | the firm is profitable, demand for its product is inelastic so higher wage costs can be passed on, and a stoppage is costly to it |
+| **Public support and finance** | the public sympathise with the claim; the union has funds to support members on strike |
+
 **Benefits to a business:** negotiating with one union is cheaper and quicker than with every employee; the union is a channel of communication; and it can be a supportive partner through major change.
 
 | Industrial action (most to least severe) | Effect on the firm | Effect on employees |
@@ -412,4 +461,6 @@ The judgement depends on the union's **starting strength** and how much it chang
 1. Explain why the opportunity cost of becoming a teacher may be greater for one worker than another. *Model points:* define opportunity cost; one worker gives up higher earnings, or more non-wage benefits such as promotion chances, or faces longer travel and less leisure.
 2. Analyse the advantages of being a sole trader. *Model points:* flexible, quick decisions; easy and cheap to set up; personal service; keeps all the profit; total control of hours and holidays; good relations with staff.
 3. Discuss whether most people would prefer to work for a multinational company or a sole trader. *Model points:* MNC — higher pay from economies of scale, fringe benefits, training, promotion and overseas opportunities, stability; sole trader — friendlier, more say, wider responsibility, closer to home, no risk of the employer leaving the country; conclude with a judgement that depends on the worker's priorities.
-4. Discuss whether an economy would benefit from stronger trade unions. *Model points:* use the table above; conclude on the starting strength of unions and the link to productivity.
+4. Calculate average fixed cost and average total cost for the magazine at 5000 copies. *Answer:* AFC = \$4000 ÷ 5000 = \$0.80; ATC = \$19 000 ÷ 5000 = \$3.80.
+5. Analyse, using a diagram, how a national minimum wage set above the equilibrium wage may affect employment. *Model points:* labelled labour-market diagram; W2 above W1; quantity demanded of labour falls to N3, supply rises to N2; unemployment N2 − N3; size depends on the elasticity of demand for labour and how far above equilibrium W2 is.
+6. Discuss whether an economy would benefit from stronger trade unions. *Model points:* use the table above; conclude on the starting strength of unions and the link to productivity.

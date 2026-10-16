@@ -54,6 +54,29 @@ For two-set Venn problems, always fill the **intersection first**, then work out
 
 With **three sets**, start at the centre (in all three), then the rest of each two-set overlap, then each "only" region, and finally the region outside all three.
 
+**Counting formula.** For two sets,
+
+$$n(A\cup B) = n(A)+n(B)-n(A\cap B)$$
+
+so in the example above $n(A\cup B) = 18+14-8 = 24$, and $n\big((A\cup B)'\big) = 30-24 = 6$.
+
+**Venn diagrams with an unknown.** In a class of 30, 17 study French, 15 study History and 4 study neither. How many study both? Let $x$ study both. Then French only is $17-x$ and History only is $15-x$:
+
+$$(17-x)+x+(15-x)+4 = 30 \Rightarrow 36-x = 30 \Rightarrow x = 6$$
+
+So 11 study French only and 9 study History only.
+
+**Describing regions.** Read the notation as instructions:
+
+| Region | Shade |
+|---|---|
+| $A\cap B'$ | in $A$ but not in $B$ — "$A$ only" |
+| $A'\cap B'$ or $(A\cup B)'$ | outside both circles |
+| $A'\cup B$ | everything except "$A$ only" |
+| $(A\cap B)'$ | everything except the overlap |
+
+**Mark-losing errors:** filling in the totals for $A$ and $B$ without subtracting the overlap (it gets counted twice); confusing $\subset$ with $\in$ — an element **belongs to** ($\in$) a set, a set **is a subset of** ($\subset$) another set; forgetting the region outside the circles.
+
 ## Fractions, decimals, percentages
 
 Convert freely:
@@ -83,6 +106,12 @@ $$16^{3/4} = \left(\sqrt[4]{16}\right)^3 = 2^3 = 8 \qquad 25^{-1/2} = \frac{1}{\
 - $0.000\,082 = 8.2\times10^{-5}$
 - $(3\times10^5)\times(4\times10^{-2}) = 12\times10^3 = 1.2\times10^4$ — adjust $A$ back into range
 
+A **negative fractional index** does three things — reciprocal, root, power — in any order:
+
+$$8^{-2/3} = \frac{1}{8^{2/3}} = \frac{1}{\left(\sqrt[3]8\right)^2} = \frac{1}{4}$$
+
+**Mark-losing errors:** $5^{-2}$ is $\tfrac{1}{25}$, not $-25$; $(2x)^3 = 8x^3$ but $2x^3$ cubes only the $x$; $a^m\times a^n$ adds the indices, it does not multiply them; leaving $12\times10^3$ as a standard-form answer.
+
 ## Surds
 
 A surd is a root that cannot be simplified to a rational number, such as $\sqrt2$. The rules:
@@ -104,6 +133,8 @@ $$\left(1-2\sqrt3\right)\left(1+5\sqrt3\right) = 1+5\sqrt3-2\sqrt3-30 = 3\sqrt3-
 
 $$\frac{6}{\sqrt3} = \frac{6\sqrt3}{3} = 2\sqrt3 \qquad \frac{4}{3-\sqrt5} = \frac{4\left(3+\sqrt5\right)}{9-5} = 3+\sqrt5$$
 
+**Mark-losing errors:** $\sqrt{a+b}$ is **not** $\sqrt a+\sqrt b$ ($\sqrt{9+16} = 5$, not 7); $(\sqrt5)^2 = 5$, not 25; $\left(1+\sqrt3\right)^2 = 4+2\sqrt3$ — the middle term is easy to miss; multiplying only the denominator by the conjugate.
+
 ## Approximation and bounds
 
 Round to a given number of **significant figures** (count from the first non-zero digit) or **decimal places**.
@@ -123,7 +154,26 @@ For a rectangle $4.6 \times 7.2$ cm (both 1 d.p.):
 - maximum area $= 4.65 \times 7.25 = 33.7$ cm²
 - minimum area $= 4.55 \times 7.15 = 32.5$ cm²
 
-For **division**, the maximum of $a/b$ uses $a_{max}/b_{min}$ — the biggest numerator over the smallest denominator.
+For **division**, the maximum of $a/b$ uses $a_{max}/b_{min}$ — the biggest numerator over the smallest denominator. **Subtraction** works the same way: the maximum of $a-b$ is $a_{max}-b_{min}$.
+
+| Calculation | Upper bound | Lower bound |
+|---|---|---|
+| $a+b$ | $a_{max}+b_{max}$ | $a_{min}+b_{min}$ |
+| $a-b$ | $a_{max}-b_{min}$ | $a_{min}-b_{max}$ |
+| $a\times b$ | $a_{max}\times b_{max}$ | $a_{min}\times b_{min}$ |
+| $a\div b$ | $a_{max}\div b_{min}$ | $a_{min}\div b_{max}$ |
+
+*Worked example.* A runner covers 100 m (to the nearest metre) in 12.5 s (to 1 d.p.).
+
+- distance: $99.5 \leqslant d < 100.5$; time: $12.45 \leqslant t < 12.55$
+- upper bound of speed $= \dfrac{100.5}{12.45} = 8.07$ m/s
+- lower bound of speed $= \dfrac{99.5}{12.55} = 7.93$ m/s
+
+Both bounds round to 8 m/s to 1 significant figure, so 8 m/s is the speed to an appropriate accuracy.
+
+*Subtraction.* $p = 12.3$ and $q = 4.3$, both to 1 d.p. The upper bound of $p-q$ is $12.35-4.25 = 8.1$; the lower bound is $12.25-4.35 = 7.9$.
+
+**Mark-losing errors:** writing the upper bound of 4.6 as 4.64 or 4.649 (it is 4.65); using upper bounds everywhere in a division or subtraction; halving the wrong unit — "to the nearest 10" gives $\pm5$, not $\pm0.5$.
 
 ## Ratio and proportion
 
@@ -137,6 +187,10 @@ For **division**, the maximum of $a/b$ uses $a_{max}/b_{min}$ — the biggest nu
 Also met: $y \propto x^2$, $y \propto \sqrt{x}$, $y \propto \tfrac{1}{x^2}$. Always find $k$ from the given pair first.
 
 *Example.* $y \propto \tfrac{1}{x^2}$ and $y = 12$ when $x = 2$. Then $k = 12\times4 = 48$, so $y = \tfrac{48}{x^2}$, and when $x = 4$, $y = 3$.
+
+*Example.* $y$ is proportional to the square of $x$, and $y = 18$ when $x = 3$. Then $18 = 9k$, so $k = 2$ and $y = 2x^2$; when $x = 5$, $y = 50$.
+
+**Mark-losing errors:** writing $y = kx$ when the question says "the square of $x$"; finding $k$ but never writing the equation; using $y = k - x$ for inverse proportion (it is $y = \tfrac kx$).
 
 **Work problems** use inverse proportion: more workers, fewer days. It takes 6 men 4 days to dig a hole 3 m deep. That is $6\times4 = 24$ man-days for 3 m, or 8 man-days per metre. A 7 m hole needs 56 man-days, so 10 men take $56\div10 = 5.6$ days.
 
@@ -175,4 +229,6 @@ $$\text{value} = P\left(1+\frac{r}{100}\right)^n$$
 
 **Depreciation** uses the same formula with a negative rate, i.e. $\times(1-\tfrac{r}{100})^n$. A \$18 000 car losing 15% a year is worth $18000\times0.85^3 = \$11\,054.25$ after 3 years.
 
-**Exponential growth and decay** follow the same pattern: bacteria doubling every hour give $N = N_0\times2^t$; a population growing 3% a year gives $P_0\times1.03^t$.
+**Exponential growth and decay** follow the same pattern: bacteria doubling every hour give $N = N_0\times2^t$; a population growing 3% a year gives $P_0\times1.03^t$. Finding how many years it takes to pass a target, and the graphs of growth and decay, are in [Coordinate geometry and graphs](../notes/graphs.md).
+
+**Mark-losing errors:** giving the final value when the question asks for the interest (subtract $P$); using $r\times n$ in place of the power; using $1.15$ for a 15% decrease.
