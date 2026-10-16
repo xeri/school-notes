@@ -1,0 +1,84 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::20 The geomorphic cycle and plate tectonics
+#tags:geography tectonics
+Pre-Q Basic	Geomorphic cycle?	Land built by tectonics, worn down and recycled into new rock	
+Pre-Q Cloze	Land-building (tectonic) processes: {{c1::folding}}, {{c2::faulting}}, {{c3::volcanism}}		F, F, V
+Pre-Q Cloze	Land-modifying agents: {{c1::rivers}}, {{c2::ice}}, {{c3::wind}}, {{c4::waves}}	Plus gravity (mass movement)	4 agents
+Pre-Q Cloze	Landforms made by rivers are {{c1::fluvial}}; by ice {{c2::glacial}}; by wind {{c3::aeolian}}		
+Pre-Q Basic	Igneous rock?	Rock formed from cooled magma or lava (basalt, granite)	
+Pre-Q Basic	Sedimentary rock?	Buried sediment compacted and cemented into rock (sandstone, limestone)	
+Pre-Q Basic	Metamorphic rock?	Rock altered by heat and pressure (marble, schist)	
+Pre-Q Basic	Plate tectonics?	Theory that the lithosphere is split into moving plates	
+Pre-Q Basic	Lithosphere?	Crust plus rigid upper mantle, broken into plates	
+Pre-Q Cloze	Inner core: {{c1::solid}} iron and nickel	Solid because of the pressure	
+Pre-Q Cloze	Outer core: {{c1::liquid}} iron and nickel; generates the {{c2::magnetic field}}		
+Pre-Q Basic	Oceanic crust?	Thin, dense basaltic crust that can be subducted	Contrast continental crust
+Pre-Q Basic	Continental crust?	Thick, light granitic crust; too light to sink	
+Pre-Q Basic	Convection current (mantle)?	Circulation of heated mantle rock that drags the plates above	
+Pre-Q Cloze	Mantle convection: heated rock becomes {{c1::less dense}} and rises; cooled rock becomes {{c2::denser}} and sinks; the flow {{c3::drags the plate}}	Marks need the density step	3 blanks
+Pre-Q Basic	Slab pull?	Sinking dense edge of a subducting plate pulls the plate along	
+Pre-Q Basic	Subduction?	Denser plate sinking beneath a less dense one	
+Pre-Q Basic	Ocean trench?	Deep sea-floor trough where one plate subducts beneath another	
+Pre-Q Basic	Constructive (divergent) boundary?	Plates move apart; rising magma forms new crust	
+Pre-Q Basic	Destructive (convergent) boundary?	Plates converge; denser oceanic plate subducts (Andes)	
+Pre-Q Basic	Collision boundary?	Two continental plates collide; neither subducts (Himalayas)	
+Pre-Q Basic	Conservative boundary?	Plates slide past; no crust made or destroyed (San Andreas)	
+Pre-Q Cloze	Constructive boundary landforms: {{c1::mid-ocean ridge}}, {{c2::rift valley}}, {{c3::shield volcanoes}}	Mid-Atlantic Ridge, Iceland	3 landforms
+Pre-Q Cloze	Destructive boundary features: {{c1::ocean trench}}, {{c2::fold mountains}}, {{c3::composite volcanoes}}, {{c4::violent earthquakes}}		4 features
+Pre-Q Basic	Why no volcanoes at conservative boundaries?	No crust is destroyed, so no magma forms	
+Pre-Q Basic	Hot spot?	Magma plume rising through the middle of a plate (Hawaii)	
+Pre-Q Basic	Global distribution of earthquakes and volcanoes?	Long narrow belts along plate boundaries	
+Pre-Q Basic	Pacific Ring of Fire?	Belt round the Pacific holding most active volcanoes and quakes	
+Pre-Q Basic	Folding?	Buckling of rock layers under compression	
+Pre-Q Basic	Anticline vs syncline	Anticline = upfold; syncline = downfold	A for arch
+Pre-Q Basic	Faulting?	Rock fractures and the blocks either side move	
+Pre-Q Basic	Fold mountains?	Ranges formed where converging plates fold and uplift sediment	
+Pre-Q Cloze	Fold mountain formation: plates {{c1::converge}}; sea-floor sediment is {{c2::squeezed}}; layers {{c3::buckle into folds}}; light crust is {{c4::pushed upwards}}	Himalayas, Alps, Andes	4 steps; start with plate movement
+Pre-Q Basic	Rift valley (graben)?	Block dropped down between two parallel faults	
+Pre-Q Basic	Block mountain (horst)?	Block pushed up between two faults	
+Pre-Q Basic	Normal vs reverse fault	Normal: tension drops a block. Reverse: compression thrusts it up	Think tension vs compression
+Pre-Q Basic	Volcano?	Opening in the crust where magma, gas and ash erupt	
+Pre-Q Basic	Magma vs lava	Magma is underground; lava is at the surface	
+Pre-Q Cloze	Volcano parts: {{c1::magma chamber}} stores molten rock; {{c2::vent}} is the pipe it rises through; {{c3::crater}} is the summit hollow		3 parts
+Pre-Q Basic	Basaltic magma?	Low silica and runny; gentle eruptions	
+Pre-Q Basic	Andesitic magma?	Intermediate silica and sticky; explosive eruptions	
+Pre-Q Basic	Rhyolitic magma?	High silica, very sticky; violently explosive	
+Pre-Q Basic	Why are andesitic eruptions explosive?	Sticky magma traps gas until it bursts out	Think viscosity
+Pre-Q Basic	Shield volcano?	Broad, gently sloping volcano of runny basaltic lava	
+Pre-Q Basic	Composite cone?	Steep volcano of alternating ash and andesitic lava layers	
+Pre-Q Basic	Lava dome?	Steep mound of very viscous rhyolitic lava around a vent	
+Pre-Q Basic	Caldera?	Huge crater formed by collapse into an emptied magma chamber	
+Pre-Q Cloze	Active = {{c1::erupted recently, likely again}}; dormant = {{c2::not for a long time, but could}}; extinct = {{c3::will never erupt}}		3 states
+Pre-Q Basic	Pyroclastic flow?	Extremely hot, fast avalanche of gas and ash	
+Pre-Q Basic	Lahar?	Fast-moving flow of volcanic ash mixed with water	
+Pre-Q Basic	Phreatic eruption?	Steam-driven eruption as magma heats groundwater	
+Pre-Q Cloze	Rangitoto formation: {{c1::underwater eruption}} builds a {{c2::scoria cone}} and tuff ring; then {{c3::basaltic lava flows}} build the {{c4::shield}} shape	Field-trip volcano, about 600 years old	4 blanks
+Pre-Q Basic	Earthquake?	Sudden shaking as built-up stress is released along a fault	
+Pre-Q Basic	Focus (hypocentre)?	Underground point where the rock breaks	
+Pre-Q Basic	Epicentre?	Point on the surface directly above the focus	
+Pre-Q Basic	Magnitude (earthquake)?	Energy released, on the Richter or moment magnitude scale	
+Pre-Q Basic	Intensity (earthquake)?	Shaking and damage felt at a place (Mercalli I–XII)	Varies from place to place
+Pre-Q Cloze	Each +1 magnitude ≈ {{c1::32}}× energy and {{c2::10}}× ground movement		Logarithmic scale
+Pre-Q Basic	Seismometer?	Instrument that records ground movement	
+Pre-Q Basic	Why do shallow-focus quakes do more damage?	Less energy is lost before waves reach the surface	
+Pre-Q Basic	Liquefaction?	Shaking makes waterlogged sediment act like a liquid	
+Pre-Q Basic	Tsunami?	Large sea waves from a sudden sea-floor displacement	
+Pre-Q Cloze	Earthquake secondary effects: {{c1::liquefaction}}, {{c2::landslides}}, {{c3::tsunami}}, {{c4::fires}}, {{c5::disease}}		5 effects
+Pre-Q Cloze	Why people live near volcanoes: {{c1::fertile soil}}, {{c2::geothermal energy}}, {{c3::tourism}}, {{c4::minerals}}		4 reasons
+Pre-Q Basic	Hazard perception?	People underestimate risks they have not experienced	
+Pre-Q Cloze	Hazard management 4Ps: {{c1::prediction}}, {{c2::protection}}, {{c3::preparation}}, {{c4::planning}}		4 Ps
+Pre-Q Cloze	Volcano monitoring: {{c1::gas emissions}}, {{c2::ground swelling}}, {{c3::earthquake swarms}}	Tiltmeters and GPS measure swelling	3 signs
+Pre-Q Cloze	Aseismic design: {{c1::base isolation}}, {{c2::cross-bracing}}, {{c3::deep foundations}}, {{c4::flexible pipes}}		4 methods
+Pre-Q Basic	Easier to predict: earthquakes or eruptions?	Eruptions; earthquakes give no reliable warning	
+Pre-Q Basic	Haiti vs Christchurch earthquakes: lesson?	Haiti's toll far higher: poverty matters more than size	Think HIC vs LIC
+Pre-Q Cloze	Christchurch earthquake: {{c1::22 February 2011}}, magnitude {{c2::6.2}}		
+Pre-Q Basic	Christchurch 2011: why so destructive?	Very shallow and close to the CBD, at lunchtime	
+Pre-Q Cloze	Christchurch 2011: {{c1::185}} deaths, most in the {{c2::CTV building}} collapse		
+Pre-Q Basic	Christchurch 2011: environmental effects?	Liquefaction in the east; Port Hills rockfalls	
+Pre-Q Basic	Christchurch 2011: residential red zone?	About 8000 damaged-land properties bought by the government	
+Pre-Q Basic	Christchurch 2011: main lesson?	Enforce building standards; prediction is impossible	
+Pre-Q Cloze	Whakaari / White Island eruption: {{c1::9 December 2019}}; {{c2::22}} of 47 people died		
+Pre-Q Cloze	Whakaari alert level before the eruption: {{c1::2}}	Tours continued	
+Pre-Q Basic	Whakaari 2019: main lesson?	Monitoring worked, but access was not restricted	

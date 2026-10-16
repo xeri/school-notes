@@ -1,66 +1,103 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Business::2 People in business
-Definition of motivation	The driving force behind behaviour — at work, the desire to work hard and do a good job
-Five benefits of a satisfied, motivated workforce	Higher productivity, higher morale, better co-operation, lower absenteeism, lower labour turnover
-Taylor's view of motivation	Money is the main motivator — make each task as efficient as possible and pay piece rate
-Criticism of Taylor	Assumes everyone is motivated only by money; repetitive tasks demotivate
-Maslow's five levels, bottom to top	Physiological, safety, social, esteem, self-actualisation
-How does a business meet safety needs?	Job security, safe conditions, a contract
-How does a business meet esteem needs?	Recognition, status, job titles, praise
-Criticism of Maslow	Assumes everyone is the same — not all employees are motivated by the same needs
-Herzberg's hygiene factors	Pay, conditions, job security, status, relationships with managers — they do not motivate, but must be satisfied or satisfaction falls
-Herzberg's motivators	Achievement, recognition, responsibility, interesting work, promotion, personal development
-Herzberg's practical conclusion	Improving pay removes a grievance; enriching the job creates motivation
-How does piece rate work, and what is the risk?	Paid per unit produced — encourages speed but quality may fall, so costly quality control is needed
-How does commission work?	A percentage of the sales the employee makes — common for sales staff
-Risk of profit sharing	Less profit is left to reinvest in the business
-Four examples of fringe benefits	Company car, staff discounts, health insurance, gym membership
-Definition of job rotation	Employees swap tasks for limited periods — more variety and easier cover, but the tasks are no more enjoyable
-Definition of job enlargement	Adding more tasks at the same level
-Definition of job enrichment	Adding more challenging tasks and genuine responsibility, with training
-Which non-financial motivator does Herzberg recommend?	Job enrichment
-Two costs of training	Time away from production and the expense; the trained worker may also leave
-Definition of chain of command	The route down which instructions pass
-Definition of span of control	The number of subordinates a manager directly supervises
-Definition of delegation	Entrusting tasks and responsibilities from senior managers to junior managers or employees
-Who keeps accountability after delegation?	The manager — accountability cannot be delegated
-Definition of de-layering	Removing a level of management
-Advantages of a tall structure	Easier supervision, managers can specialise, delegation prepares staff for promotion
-Disadvantages of a tall structure	High management cost and slow decision-making
-Advantages of a flat structure	Lower management cost and more freedom to make decisions, which can raise motivation
-Disadvantages of a flat structure	Harder to supervise and communicate; staff may lack skills; objectives may be unclear
-When does a wide span of control work?	With experienced capable staff doing similar low-risk work
-Five functions of management	Planning, organising, coordinating, commanding, controlling
-When does autocratic leadership suit?	Emergencies, inexperienced staff, safety-critical work
-When does democratic leadership suit?	Skilled experienced teams, and decisions needing buy-in
-When does laissez-faire leadership suit?	Creative, highly expert professionals
-Five elements of the communication process	Sender, message, channel, receiver, feedback
-Main weakness of one-way communication	No feedback, so no confirmation of understanding
-What is the grapevine?	Informal communication — fast but unreliable and prone to rumour
-Remedy for no feedback	Ask the receiver to confirm or repeat back the instruction
-Which channel suits detailed technical information?	Written, so it can be referred back to
-Which channel suits sensitive news?	Face-to-face, allowing questions and reassurance
-Definition of a trade union	An organisation that aims to improve its members' conditions and provide support and legal services
-Definition of collective bargaining	Negotiation between a union and an employer on behalf of all members
-Four forms of industrial action, most to least severe	Strike, sit-in, go-slow, work to rule (also an overtime ban)
-Who loses from a strike?	Both — the business loses output and revenue, the employees lose pay
-Difference between a job description and a person specification	The description states the duties; the specification states the skills and qualities needed
-Two advantages of internal recruitment	Cheaper and quicker, and the candidate is already known
-Two disadvantages of internal recruitment	A narrower pool, no new ideas, and it leaves another vacancy
-Two advantages of external recruitment	A wider pool and new skills and fresh ideas
-Purpose of induction training	To introduce a new employee to the premises, procedures, safety rules and colleagues
-On-the-job training: advantage and drawback	Cheap and directly relevant; bad habits can pass on and the trainer's output falls
-Off-the-job training: advantage and drawback	Broader higher-quality skills; expensive and time away from work
-Difference between dismissal and redundancy	Dismissal is for the employee's conduct or performance; redundancy is because the job no longer exists
-What makes a dismissal unfair?	No adequate reason, or the correct procedure was not followed
-Five protections employment law gives	A written statement of terms, protection from unfair dismissal, protection from discrimination, a safe workplace, wage protection
-Theory X manager	Believes workers dislike work and responsibility, so supervises closely — motivated only by money or threat
-Theory Y manager	Believes workers are self-motivated and want responsibility, so supports and develops them
-Definition of performance-related pay	Pay linked to an appraisal of how effectively the employee works — used where output cannot be counted
-Centralised vs decentralised organisation	Centralised keeps decisions at the top (tall structures); decentralised delegates them down (flat structures)
-Labour turnover formula	(employees leaving in a year ÷ number employed) × 100
-Voluntary vs compulsory redundancy	Voluntary: the employee chooses to leave for compensation; compulsory: the employee is forced to leave, with compensation
-Five ways to overcome communication barriers	Keep records to re-send, choose the right method for the audience, keep it short and jargon-free, train staff, use several methods
-What is a sit-in?	Union members occupy the premises but do not do their normal work
+#tags:business people
+Pre-Q Basic	Motivation?	The desire to work hard and do a good job	
+Pre-Q Cloze	Why people work: {{c1::money}}, {{c2::to feel useful}}, {{c3::to learn skills}}, {{c4::to meet people}}		4 reasons
+Pre-Q Cloze	A motivated workforce gives {{c1::higher productivity}}, {{c2::better quality}}, {{c3::lower absenteeism}}, {{c4::lower labour turnover}}		4 benefits
+Pre-Q Basic	Scientific management (Taylor)?	Efficient standardised tasks, paid by piece rate	Money is the motivator
+Pre-Q Basic	Taylor: main criticism?	Not everyone is motivated only by money	
+Pre-Q Cloze	Maslow, bottom up: {{c1::physiological}}, {{c2::safety}}, {{c3::social}}, {{c4::esteem}}, {{c5::self-actualisation}}		5 levels, lowest first
+Pre-Q Basic	Maslow: how does a manager use it?	Find workers' current level; offer the next one up	
+Pre-Q Basic	Maslow: main criticism?	Assumes everyone has the same needs	
+Pre-Q Basic	Hygiene factors (Herzberg)?	Factors that prevent dissatisfaction but don't motivate	e.g. pay
+Pre-Q Basic	Motivators (Herzberg)?	Factors that create satisfaction and motivation	e.g. recognition
+Pre-Q Basic	Herzberg's conclusion?	Pay removes a grievance; enriching the job motivates	
+Pre-Q Basic	Theory X manager (McGregor)?	Believes workers dislike work and need close supervision	
+Pre-Q Basic	Theory Y manager (McGregor)?	Believes workers are self-motivated and want responsibility	
+Pre-Q Basic	Time-rate wage?	Pay per hour worked	
+Pre-Q Basic	Piece rate?	Payment per unit produced	
+Pre-Q Basic	Piece rate: main risk?	Quality falls as workers rush	
+Pre-Q Basic	Salary?	Fixed annual amount, paid monthly or fortnightly	
+Pre-Q Basic	Commission?	Pay as a percentage of sales value	
+Pre-Q Basic	Profit sharing?	A share of profit on top of pay	
+Pre-Q Basic	Performance-related pay?	Pay linked to an appraisal of the employee's effectiveness	Used where output can't be counted
+Pre-Q Basic	Share ownership (employees)?	Employees given shares that earn dividends	
+Pre-Q Basic	Fringe benefits?	Non-cash rewards such as a company car	
+Pre-Q Cloze	{{c1::Job rotation}}: moving between tasks of similar difficulty		
+Pre-Q Cloze	{{c1::Job enlargement}}: more tasks at the same level		Not the same as enrichment
+Pre-Q Cloze	{{c1::Job enrichment}}: more challenging work and real responsibility		Herzberg's recommendation
+Pre-Q Basic	Hierarchy?	The levels of authority in an organisation	
+Pre-Q Basic	Levels of hierarchy?	Number of layers of authority, top to bottom	
+Pre-Q Basic	Chain of command?	Route down which instructions pass	
+Pre-Q Basic	Span of control?	Number of subordinates one manager directly supervises	
+Pre-Q Basic	Delegation?	Passing authority for a task down to subordinates	
+Pre-Q Basic	Who keeps accountability after delegating?	The manager	
+Pre-Q Basic	De-layering?	Removing a level of management	
+Pre-Q Basic	Supervisor?	Oversees a team's daily work and reports to managers	
+Pre-Q Basic	Organisational chart?	Diagram of an organisation's structure and reporting lines	
+Pre-Q Basic	Centralised vs decentralised organisation?	Decisions kept at the top vs delegated down	
+Pre-Q Basic	Tall structure?	Many levels with narrow spans of control	
+Pre-Q Basic	Flat structure?	Few levels with wide spans of control	
+Pre-Q Basic	Tall structure: advantage vs drawback?	Easier supervision; slow decisions	
+Pre-Q Basic	Flat structure: advantage vs drawback?	Lower management cost; harder to supervise	
+Pre-Q Basic	De-layering: benefit vs drawback?	Lower costs and faster messages; redundancy costs	
+Pre-Q Basic	A wider span of control needs?	Capable staff doing similar, low-risk work	
+Pre-Q Basic	When do managers delegate less?	High-risk tasks or inexperienced staff	Trust vs control
+Pre-Q Basic	Directors vs managers?	Directors set strategy; managers turn it into department plans	
+Pre-Q Cloze	Functions of management: {{c1::planning}}, {{c2::organising}}, {{c3::coordinating}}, {{c4::commanding}}, {{c5::controlling}}		5 functions
+Pre-Q Basic	Autocratic leadership?	Leader decides alone and gives instructions	
+Pre-Q Basic	Democratic leadership?	Leader consults and involves staff in decisions	
+Pre-Q Basic	Laissez-faire leadership?	Leader sets the goal and leaves staff to it	
+Pre-Q Basic	Leadership style for an emergency or inexperienced staff?	Autocratic	
+Pre-Q Basic	Leadership style for skilled staff whose support is needed?	Democratic	
+Pre-Q Basic	Leadership style for creative experts?	Laissez-faire	
+Pre-Q Cloze	Communication process: {{c1::sender}}, {{c2::message}}, {{c3::channel}}, {{c4::receiver}}, {{c5::feedback}}		5 parts
+Pre-Q Basic	One-way vs two-way communication?	No feedback vs questions and correction allowed	
+Pre-Q Basic	Formal vs informal communication?	Follows the hierarchy vs the grapevine	
+Pre-Q Basic	Best method for sensitive news?	Face-to-face	
+Pre-Q Basic	Best method for urgent news to one person?	Phone call, then written follow-up	
+Pre-Q Cloze	Communication barriers: {{c1::jargon}}, {{c2::wrong channel}}, {{c3::long chain of command}}, {{c4::no feedback}}		4 barriers
+Pre-Q Basic	Remedy when the receiver misunderstands?	Ask for feedback to confirm understanding	
+Pre-Q Basic	Trade union?	Organisation improving members' conditions and giving legal support	
+Pre-Q Basic	Collective bargaining?	Union negotiates with the employer for all members	
+Pre-Q Basic	Trade union: benefit to the business?	Negotiates with one body, not many individuals	
+Pre-Q Cloze	Industrial action, most to least severe: {{c1::strike}}, {{c2::sit-in}}, {{c3::go-slow}}, {{c4::work to rule}}		4 actions
+Pre-Q Basic	When do employees have more bargaining power?	Public support, and action is costly for the employer	
+Pre-Q Basic	Human resource management (HRM)?	Managing employees to give a competitive advantage	
+Pre-Q Basic	Workforce planning?	Forecasting staff numbers and skills needed	
+Pre-Q Basic	Recruitment?	Identifying and attracting candidates	
+Pre-Q Basic	Selection?	Choosing between candidates against the job's requirements	
+Pre-Q Basic	Job description?	Duties and responsibilities of the post	
+Pre-Q Basic	Person specification?	Skills, qualifications and qualities the post-holder needs	
+Pre-Q Cloze	Recruitment steps: {{c1::identify vacancy}}, {{c2::job analysis}}, {{c3::advertise}}, {{c4::receive applications}}		Steps 1–4
+Pre-Q Cloze	Selection steps: {{c1::shortlist}}, {{c2::select}}, {{c3::appoint}}, {{c4::induction}}		Steps 5–8
+Pre-Q Cloze	Selection methods: {{c1::interviews}}, {{c2::skills tests}}, {{c3::personality tests}}, {{c4::references}}		4 methods
+Pre-Q Basic	Internal recruitment: advantage vs drawback?	Cheaper and quicker; no new ideas	
+Pre-Q Basic	External recruitment: advantage vs drawback?	Wider pool and fresh ideas; costly and slow	
+Pre-Q Basic	How to choose who to employ?	Compare against the person specification and business needs	
+Pre-Q Basic	Part-time staff: benefit vs limitation?	Flexible cover for busy times; harder to train	
+Pre-Q Basic	Full-time staff: benefit vs limitation?	Continuity and commitment; high wage bill when quiet	
+Pre-Q Basic	Induction?	Introducing a new employee to premises, people and procedures	
+Pre-Q Basic	On-the-job training: advantage vs drawback?	Cheap and relevant; bad habits passed on	
+Pre-Q Basic	Off-the-job training: advantage vs drawback?	Broader skills; expensive time away	
+Pre-Q Basic	Downsizing?	Reducing the total number of employees	
+Pre-Q Cloze	Reasons to downsize: {{c1::automation}}, {{c2::falling demand}}, {{c3::site closure}}, {{c4::merger}}		4 reasons
+Pre-Q Cloze	Redundancy selection criteria: {{c1::length of service}}, {{c2::skills needed}}, {{c3::performance and attendance}}, {{c4::volunteers}}		4 criteria
+Pre-Q Basic	Dismissal?	Ending employment because of conduct or performance	
+Pre-Q Basic	Redundancy?	Ending employment because the job is no longer needed	Voluntary or compulsory
+Pre-Q Basic	Unfair dismissal?	No adequate reason, or the correct procedure not followed	
+Pre-Q Basic	Employment contract?	Written terms and conditions of a job	
+Pre-Q Cloze	Employment law protects: {{c1::written terms}}, {{c2::unfair dismissal}}, {{c3::discrimination}}, {{c4::health and safety}}, {{c5::minimum wage}}		5 protections
+Pre-Q Basic	Labour turnover?	Employees leaving in a year as a % of the workforce	
+Pre-Q Cloze	Labour turnover = ({{c1::leavers in a year}} ÷ {{c2::number employed}}) × 100		
+Pre-Q Basic	Teamworking: why motivating?	Meets social needs; mutual support; shared problem-solving	Maslow level 3
+Pre-Q Basic	Bonus (pay)?	Lump sum, usually at year end, for good performance	
+Pre-Q Basic	Bonus: drawback?	Resentment from those who miss out	
+Pre-Q Basic	Overtime ban?	Industrial action: workers refuse to work overtime	
+Pre-Q Basic	Rightsizing?	Restructuring the size and mix of the workforce	Not just cutting jobs
+Pre-Q Basic	Work–life balance?	Fitting work around life: flexible hours, home working, job sharing	
+Pre-Q Basic	Union membership: benefit vs cost to the worker?	Stronger bargaining power vs a fee and lost pay in strikes	
+Pre-Q Basic	Union membership: benefit vs cost to the business?	One body to negotiate with vs higher wages and strike risk	
+Pre-Q Basic	Email: advantage vs limitation?	Fast, cheap record to many vs may be ignored or unread	

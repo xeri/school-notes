@@ -1,0 +1,46 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::22 Glaciation
+#tags:geography glaciation
+Pre-Q Basic	Glacier?	Large mass of ice moving slowly downhill under its own weight	
+Pre-Q Basic	Valley glacier vs ice sheet	Valley glacier fills a valley; ice sheet covers a continent	
+Pre-Q Basic	Accumulation zone?	Upper part of a glacier where snow inputs exceed losses	
+Pre-Q Basic	Ablation zone?	Lower part of a glacier where melting exceeds inputs	
+Pre-Q Basic	Glacier budget?	Accumulation minus ablation: positive advances, negative retreats	
+Pre-Q Basic	Snout (glacier)?	The front, lowest end of a glacier	
+Pre-Q Basic	Firn (névé)?	Partly compacted granular snow, between snow and ice	
+Pre-Q Cloze	Glacier formation: snow {{c1::accumulates}} in a shaded hollow; weight {{c2::compresses}} it; it becomes {{c3::firn}}, then {{c4::glacier ice}}; it moves under {{c5::gravity}}		5 steps
+Pre-Q Basic	Basal sliding?	Glacier sliding over its bed on a film of meltwater	
+Pre-Q Basic	Internal deformation (ice)?	Ice crystals slowly flowing under pressure	
+Pre-Q Basic	Crevasse?	Crack in the brittle surface ice of a glacier	
+Pre-Q Basic	Plucking?	Ice freezes onto jointed rock and tears blocks away	
+Pre-Q Basic	Glacial abrasion?	Rock embedded in the ice base scraping the bedrock	
+Pre-Q Basic	Striations?	Scratches cut in bedrock by glacial abrasion	
+Pre-Q Basic	Rotational slip (glacier)?	Ice rotating in a hollow, deepening it	
+Pre-Q Basic	Till vs outwash	Till: unsorted ice deposit. Outwash: sorted meltwater deposit	One is sorted
+Pre-Q Basic	Cirque (corrie)?	Armchair-shaped hollow with a steep back wall	
+Pre-Q Cloze	Corrie formation: snow fills a {{c1::shaded hollow}}; {{c2::plucking}} steepens the back wall; {{c3::rotational slip}} and {{c4::abrasion}} deepen the floor; thin ice leaves a {{c5::rock lip}}	A tarn may fill it after melting	5 blanks
+Pre-Q Basic	Tarn?	Small lake in a corrie	
+Pre-Q Basic	Why do corries face away from the Sun?	Shade lets snow last longest	
+Pre-Q Basic	Arête?	Knife-edged ridge between two corries	
+Pre-Q Basic	Pyramidal peak?	Sharp peak where 3+ corries erode back (Matterhorn)	
+Pre-Q Basic	U-shaped valley (glacial trough)?	Steep-sided, flat-floored valley eroded by a glacier	
+Pre-Q Cloze	U-shaped valley formation: a glacier fills a {{c1::V-shaped river valley}}; {{c2::plucking}} and {{c3::abrasion}} erode its {{c4::floor and sides}}		4 blanks
+Pre-Q Basic	Truncated spur?	Spur end cut off by ice, left as a cliff	
+Pre-Q Basic	Hanging valley?	Tributary valley left high above the main trough	Often has a waterfall
+Pre-Q Basic	Why do hanging valleys form?	Smaller tributary glacier eroded less deeply	
+Pre-Q Basic	Finger (ribbon) lake?	Long narrow lake in an over-deepened trough	
+Pre-Q Basic	Fiord?	Glacial trough eroded below sea level and drowned	
+Pre-Q Basic	Roche moutonnée?	Outcrop smoothed up-glacier, plucked steep down-glacier	Two sides, two processes
+Pre-Q Basic	Misfit stream?	Small river in a trough far too big for it	
+Pre-Q Basic	Moraine?	Unsorted debris deposited by a glacier	
+Pre-Q Basic	Lateral moraine?	Debris ridge along the edge of a glacier	
+Pre-Q Basic	Medial moraine?	Ridge down the middle where two glaciers join	Think confluence
+Pre-Q Basic	Terminal moraine?	Ridge marking the glacier's furthest advance	
+Pre-Q Basic	Recessional moraine?	Ridge left where a retreating snout paused	
+Pre-Q Basic	Drumlin?	Egg-shaped till hill; blunt end faces up-glacier	
+Pre-Q Basic	Erratic?	Boulder dropped by ice far from its source	
+Pre-Q Basic	Outwash plain?	Flat spread of sorted meltwater gravel beyond the snout	
+Pre-Q Cloze	Glacial opportunities: {{c1::tourism}}, {{c2::HEP}}, {{c3::water supply}}, {{c4::skiing}}		4 uses
+Pre-Q Cloze	Glacial hazards: {{c1::retreat with warming}}, {{c2::rockfalls}}, {{c3::lake outburst floods}}		3 hazards

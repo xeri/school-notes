@@ -1,60 +1,59 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Physics::5 Thermal physics
-Particle arrangement in a solid	Regular lattice, touching, vibrating about fixed positions
-Particle arrangement in a liquid	Close together but disordered, sliding past each other
-Particle arrangement in a gas	Far apart (~10 diameters), random fast motion, straight lines between collisions
-Which state is easily compressible and why?	Gas — the particles are far apart with large gaps
-What does temperature measure?	The average kinetic energy of the molecules
-What is internal energy?	The total of molecular kinetic AND potential energy
-Why is Kelvin the scientific temperature scale?	It is proportional to molecular kinetic energy
-What happens at 0 K?	Molecular motion stops — absolute zero, the lowest possible temperature
-Celsius to Kelvin conversion	\(T/\mathrm{K} = T/^\circ\mathrm{C} + 273\)
-Convert 27 °C to kelvin	300 K
-Is a change of 20 °C the same as a change of 20 K?	Yes — the interval is identical, only the zero differs
-Explain gas pressure in terms of molecules	Molecules collide with the walls; each collision reverses their momentum, exerting a force spread over the wall area
-What is Brownian motion?	The random jittering of smoke particles seen under a microscope
-What does Brownian motion show?	That invisible, fast-moving air molecules are bombarding the particle unevenly — evidence for the kinetic model
-Do molecular collisions lose kinetic energy?	No — molecules never slow down and stop, even after millions of collisions
-Boyle's law	\(pV = \text{constant}\) at constant temperature
-Gay-Lussac's law	\(P/T = \text{constant}\) at constant volume
-Charles' law	\(V/T = \text{constant}\) at constant pressure
-Combined gas law	\(\dfrac{P_1V_1}{T_1} = \dfrac{P_2V_2}{T_2}\)
-What units must temperature be in for the gas laws?	Kelvin, always
-Why does reducing volume raise pressure at constant temperature?	The same molecules hit the walls more often per second in a smaller space
-Why does raising temperature raise pressure at constant volume?	Molecules move faster, so they hit the walls harder and more often
-Explain evaporation molecularly	The fastest molecules at the surface escape
-Why does evaporation cool a liquid?	Losing the fastest molecules lowers the average kinetic energy of those left
-Three factors that speed up evaporation	Higher temperature, larger surface area, a draught over the surface
-Difference between evaporation and boiling	Evaporation is at the surface only at any temperature; boiling is throughout the liquid at a fixed point
-Order of thermal expansion magnitude	gases ≫ liquids > solids
-Why do gases expand most?	The forces between their molecules are weakest, so separation grows most freely
-Three applications of thermal expansion	Bridge expansion gaps, bimetallic strip thermostats, liquid-in-glass thermometers
-What are fixed points?	Reproducible reference temperatures used to define a scale — pure melting ice (0 °C) and boiling water (100 °C)
-How does a liquid-in-glass thermometer work?	The liquid in the bulb expands much more than the glass, so it rises up the narrow capillary
-How do you make a liquid-in-glass thermometer more sensitive?	A larger bulb or a narrower capillary
-What does a narrower capillary cost you?	A smaller range
-When is a thermocouple used instead?	For high temperatures and rapidly varying temperatures — it has a tiny junction and no liquid to boil
-Definition of specific heat capacity	The energy needed to raise 1 kg of a substance by 1 K
-Specific heat capacity formula	\(Q = mc\Delta T\)
-Specific heat capacity of water	About 4200 J/(kg·K)
-Thermal capacity of a whole object	\(C = mc\), in J/K — the energy to raise the whole object by 1 K
-Main error in a specific heat capacity experiment	Heat loss to the surroundings, which makes the measured value too high — reduce it by lagging
-Why does temperature stay constant during melting or boiling?	The energy input changes the molecular arrangement (breaks bonds) rather than increasing molecular speed
-Specific latent heat formula	\(Q = ml\)
-Definition of specific latent heat	The energy per kilogram needed to change state at constant temperature
-Latent heat of fusion refers to which change?	Solid ↔ liquid
-Latent heat of vaporisation refers to which change?	Liquid ↔ gas
-Explain conduction in a non-metal	Hot molecules vibrate more and jostle their neighbours, passing energy along
-Why do metals conduct heat much better than non-metals?	They also have free (delocalised) electrons that travel through the lattice carrying kinetic energy
-Which state is the worst conductor?	Gas — the molecules are far apart
-Describe an experiment comparing conductors	Identical rods of copper, aluminium, glass and wood with pins waxed to the far ends, heated at one end; the pins fall in order of conductivity
-Explain a convection current	Heating a fluid lowers its density, so it rises; denser cold fluid sinks to replace it, circulating
-Does radiation need a medium?	No — it crosses a vacuum, which is how the Sun's energy reaches Earth
-Which surface is the best emitter and absorber of radiation?	Dull black
-Which surface is the best reflector of radiation?	Shiny silver
-Two other factors affecting radiation emitted	Surface temperature and surface area
-What does Leslie's cube demonstrate?	That dull black faces emit more infrared radiation than shiny ones, at the same temperature
-How does a vacuum flask block all three transfers?	Vacuum stops conduction and convection, silvered walls reduce radiation, a stopper stops evaporation
-Hot and cold bodies exchange heat with no losses: what is equal?	Energy given out by the hot body = energy taken in by the cold body
+#tags:physics thermal
+Pre-Q Basic	Temperature (molecular)?	Measure of average molecular kinetic energy	
+Pre-Q Basic	Internal energy?	Total molecular kinetic + potential energy	
+Pre-Q Basic	Heat?	Energy transferred from hotter to colder body	
+Pre-Q Basic	Absolute zero?	0 K = −273 °C; molecular motion stops	
+Pre-Q Basic	Brownian motion?	Random jitter of visible particles hit unevenly by molecules	
+Pre-Q Basic	Thermal capacity?	Energy to raise a whole object by 1 K	Whole object, not per kg
+Pre-Q Basic	Specific heat capacity?	Energy to raise 1 kg by 1 K	Per kg
+Pre-Q Basic	Specific latent heat?	Energy per kg to change state at constant temperature	
+Pre-Q Basic	Melting point?	Fixed temperature at which a pure solid melts	
+Pre-Q Basic	Boiling point?	Fixed temperature at which a liquid boils throughout	
+Pre-Q Basic	Evaporation?	Escape of the fastest molecules from a liquid's surface	
+Pre-Q Basic	Fixed points (thermometer)?	Reference temperatures defining a scale: 0 °C and 100 °C	
+Pre-Q Basic	Ideal gas?	Gas that obeys the gas laws exactly	
+Pre-Q Basic	Conduction?	Energy passed through matter with no bulk movement	
+Pre-Q Basic	Convection?	Thermal transfer by bulk movement of a fluid	
+Pre-Q Basic	Thermal radiation?	Energy carried by infrared waves; needs no medium	
+Pre-Q Cloze	Solid: {{c1::regular lattice, touching}}; particles {{c2::vibrate about fixed positions}}		
+Pre-Q Cloze	Liquid: {{c1::close but disordered}}; particles {{c2::slide past each other}}		
+Pre-Q Cloze	Gas: {{c1::far apart}}; particles move {{c2::fast and randomly}}		
+Pre-Q Cloze	Kelvin: \(T/\mathrm{K} = {{c1::\theta/^\circ\mathrm{C} + 273}}\)	A change of 1 °C = a change of 1 K	
+Pre-Q Basic	Gas pressure: molecular explanation?	Molecules hit walls, change momentum: force over area	Think Δp per collision
+Pre-Q Cloze	Boyle's law: \(pV = {{c1::\text{constant} }}\) at constant {{c2::temperature}}		
+Pre-Q Cloze	Pressure law: \(\dfrac{p}{T} = {{c1::\text{constant} }}\) at constant {{c2::volume}}		T in K
+Pre-Q Cloze	Charles's law: \(\dfrac{V}{T} = {{c1::\text{constant} }}\) at constant {{c2::pressure}}		T in K
+Pre-Q Cloze	Combined gas law: \(\dfrac{p_1V_1}{T_1} = {{c1::\dfrac{p_2V_2}{T_2} }}\)	Fixed mass of gas	T in K
+Pre-Q Basic	p–V graph at constant temperature?	Curve (inverse proportion); p vs 1/V is straight	
+Pre-Q Basic	When is the combined gas law unreliable?	Very high pressure, or near liquefying	Real gas, not ideal
+Pre-Q Basic	Smaller gas volume: why more pressure?	Molecules hit walls more often	
+Pre-Q Basic	Hotter gas at constant volume: why more pressure?	Faster molecules hit harder and more often	
+Pre-Q Basic	Why does evaporation cool a liquid?	Average KE of remaining molecules drops	Which molecules leave?
+Pre-Q Cloze	Faster evaporation: {{c1::higher temperature}}, {{c2::larger surface area}}, {{c3::draught over surface}}		3 factors
+Pre-Q Basic	Evaporation vs boiling	Evaporation: surface only, any temp. Boiling: throughout at fixed temp	
+Pre-Q Basic	Thermal expansion order?	Gases ≫ liquids &gt; solids	Weaker forces, more expansion
+Pre-Q Basic	Liquid-in-glass thermometer works how?	Liquid expands more than glass; rises up capillary	
+Pre-Q Cloze	Thermometer: larger bulb → {{c1::more sensitive}}; narrower capillary → more sensitive but {{c2::smaller range}}; uniform bore → {{c3::linear scale}}		
+Pre-Q Basic	Thermocouple?	Two-metal junction e.m.f. sensor for high, rapidly varying temperatures	Tiny junction
+Pre-Q Cloze	Thermal capacity: \(C = {{c1::mc}}\), unit {{c2::J/K}}		
+Pre-Q Cloze	\(Q = {{c1::mc\Delta T}}\), c in {{c2::J/(kg·K)}}	Water: c ≈ 4200 J/(kg·K)	Per kg per K
+Pre-Q Cloze	Specific heat capacity: \(c = {{c1::\dfrac{\Delta E}{m\Delta\theta} }}\)		
+Pre-Q Cloze	Electrical heating energy: \(Q = {{c1::VIt}}\)		
+Pre-Q Basic	Main error in a c experiment?	Heat loss: c too high. Fix: lagging	
+Pre-Q Cloze	Heat exchange: energy lost by {{c1::hot body}} = energy gained by {{c2::cold body}}		
+Pre-Q Basic	Why is temperature constant while melting?	Energy breaks bonds, doesn't speed molecules	Arrangement changes
+Pre-Q Cloze	Latent heat: \(Q = {{c1::ml}}\), l in {{c2::J/kg}}	Not \(Q = mc\Delta T\) during change of state	
+Pre-Q Cloze	Latent heat of {{c1::fusion}}: solid ↔ liquid; of {{c2::vaporisation}}: liquid ↔ gas		
+Pre-Q Basic	Condensation (molecular)?	Gas molecules slow, attract into a liquid; latent heat released	
+Pre-Q Basic	Why metals conduct better than non-metals?	Free electrons carry energy	
+Pre-Q Basic	Compare conductors: experiment?	Rods with waxed pins, heat one end; pins fall in order	
+Pre-Q Basic	Convection current: cause?	Heated fluid less dense, rises; cold fluid sinks	
+Pre-Q Cloze	Best emitter and absorber: {{c1::dull black}}; best reflector: {{c2::shiny silver}}		
+Pre-Q Basic	Leslie's cube shows?	Dull black face emits most infrared	
+Pre-Q Cloze	Infrared emission rises with higher surface {{c1::temperature}} and larger surface {{c2::area}}		
+Pre-Q Basic	When does an object stay at constant temperature?	Energy lost at same rate as received	
+Pre-Q Cloze	Vacuum flask: vacuum stops {{c1::conduction and convection}}; silvering reduces {{c2::radiation}}; stopper stops {{c3::evaporation}}		

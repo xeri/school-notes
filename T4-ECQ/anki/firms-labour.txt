@@ -1,76 +1,83 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Economics::4 Firms, costs and labour markets
-Difference between production and productivity	Production is the value of output; productivity is the efficiency of the factors of production, such as output per worker
-Formula for labour productivity	Total output ÷ number of workers
-Does a rise in production prove a rise in productivity?	No — output may have risen only because more inputs were used
-Five factors that raise labour productivity	New technology, training, investment in capital, division of labour, better management
-Definition of labour-intensive production	Production that uses more labour relative to capital, such as fruit picking or hairdressing
-Definition of capital-intensive production	Production that uses more capital relative to labour, such as oil refining or car manufacturing
-Break-even output of labour-intensive compared with capital-intensive firms	Labour-intensive firms have mainly variable costs and a lower break-even output; capital-intensive firms have mainly fixed costs and a higher one
-Definition of unlimited liability	The owner is personally responsible for all the business's debts and may lose personal possessions
-Definition of limited liability	Shareholders can lose only the amount they invested
-What makes limited liability possible?	Separate legal identity — the company is a legal person distinct from its owners
-Three disadvantages of being a sole trader	Unlimited liability, limited access to finance, no continuity
-Three contents of a Deed of Partnership	Voting rights, each partner's responsibilities and authority, the profit and loss split
-Is a Deed of Partnership a legal requirement?	No — without one, everything is shared equally
-How shares in a private limited company are sold	Privately, and every shareholder must agree to the buyer
-Three advantages of becoming a private limited company	Limited liability, more capital from more shareholders, continuity
-Definition of a dividend	A payment to shareholders out of after-tax profit, usually in proportion to the shares held
-Three disadvantages of a public limited company	Huge set-up costs, control can be lost, all financial information is public
-Definition of divorce of ownership and control	Shareholders own the company but directors and managers run it, and they may want different things
-Is a plc a public-sector business?	No — "public" means its shares are sold to the public, not that the state owns it
-Definition of a franchise	An agreement where a franchisor sells the right to use its name, logo, products and methods to a franchisee for a fee
-Difference between franchisor and franchisee	The franchisor is the original business selling the rights; the franchisee is the expanding new outlet buying them
-What the franchisee pays the franchisor	A start-up fee plus a percentage of revenue or profit
-Two advantages of franchising for the franchisor	Quick, cheap expansion without borrowing, and the skills of franchisees
-Which businesses can sell shares on the stock exchange?	Public limited companies only
-Five functions of the stock exchange	Raising share capital, facilitating growth, selling government bonds, pricing shares by supply and demand, safe regulated trading
-Why is share capital called permanent capital?	The firm never repays it; a shareholder must sell the shares to get money back
-Difference between preference and ordinary shares	Preference shares get a fixed dividend first but no vote; ordinary shares get what profit remains and one vote per share
-Definition of a government bond	A loan to the government paying fixed interest and repaid at maturity, with no ownership
-Formula for market capitalisation	Share price × number of shares issued
-Name five measures of business size	Number of employees, sales revenue, capital employed, value of output, market share
-Formula for market share	The firm's sales ÷ total market sales × 100
-Definition of internal (organic) growth	Expanding from within, usually funded by retained profit, such as opening another outlet
-Difference between a merger and a takeover	A merger is two firms mutually joining to form a new one; a takeover is one firm buying control of another
-Definition of horizontal integration	Joining a firm in the same industry at the same stage of production
-Difference between backward and forward vertical integration	Backward joins a firm closer to the raw materials; forward joins one closer to the end consumer
-Definition of conglomerate integration	Joining a firm in an unrelated industry, which spreads the risk of failure
-Definition of economies of scale	Average cost of production falls as the business grows
-Name six internal economies of scale	Purchasing, marketing, financial, technical, managerial, risk-bearing
-Definition of purchasing economies of scale	Buying in bulk at a discount, so the cost per unit falls
-Name four external economies of scale	Access to skilled workers, ancillary firms, joint marketing benefits, shared infrastructure
-Definition of diseconomies of scale	Average cost rises because the business has grown too large to run efficiently
-Name four diseconomies of scale	Communication, management, labour, agglomeration
-Definition of fixed costs	Costs that do not change with output, such as rent, insurance and advertising
-Definition of variable costs	Costs that change with output, such as raw materials and hourly wages
-Formula for break-even output	Fixed costs ÷ contribution per unit
-Break-even output with fixed costs of $4000, a price of $5 and variable cost of $3 a unit	4000 ÷ 2 = 2000 units
-Why is the average cost curve U-shaped?	Fixed costs are spread and economies of scale lower it at first; then diseconomies of scale raise it
-Why does average revenue usually fall as output rises?	To sell more units the firm must lower its price
-What does SMART stand for?	Specific, measurable, achievable, realistic, time-specific
-Most likely primary objective of a new business	Survival — no other objective is possible without it
-Four factors that determine a firm's objectives	Corporate culture, legal structure, public or private sector, years in business
-Difference between a wage and a salary	A wage is paid by the hour (a variable cost); a salary is an annual amount (a fixed cost)
-Five non-wage factors in choosing an occupation	Challenge, career prospects, danger, length of training, personal satisfaction (and recognition)
-Why is the demand for labour a derived demand?	Labour is demanded for the goods and services it produces, not for itself
-Why does the demand curve for labour slope downward?	Workers are more affordable at lower wages, so firms employ more
-Three things that shift the demand for labour left	A recession, higher non-wage employment costs, capital becoming relatively cheaper
-Who is excluded from the supply of labour?	People in full-time education and those who choose not to work
-Three things that shift the supply of labour right	Population growth or net immigration, a higher retirement age, more provision of education and training
-Why can the supply of labour bend backwards?	At high wages a worker can earn more in fewer hours and chooses more leisure
-Formula for the labour force participation rate	Labour force ÷ working-age population × 100
-LFPR with a labour force of 35 million and a working-age population of 50 million	70%
-Definition of the equilibrium wage	The wage at which the demand for labour equals the supply of labour
-Five causes of wage differentials between occupations	Abilities and qualifications, unsociable hours and danger, job satisfaction, lack of information about jobs, labour immobility
-Three causes of pay differences within the same occupation	Regional demand and supply conditions, experience and length of service, discrimination
-Three reasons for a national minimum wage	Equilibrium pay below subsistence, to stop exploitation, to reduce income inequality
-Effect of a minimum wage set above the equilibrium wage	Those in work earn more, but more people offer to work than firms want to hire, so unemployment may rise
-Definition of a trade union	An organisation that aims to improve its members' conditions and provides support and legal services
-Definition of collective bargaining	Negotiation by a union on behalf of all its members rather than worker by worker
-Four types of trade union	Craft, industrial, general, white-collar
-Four grounds for a pay claim	Cost of living rising faster than pay, comparable jobs paying more, high industry profits, higher productivity
-Four types of industrial action, most to least severe	Strike, sit-in, go-slow, work-to-rule
-Two ways stronger trade unions may harm an economy	Higher costs cause cost-push inflation and unemployment, and industrial action disrupts output and investment
+#notetype column:1
+#deck:Economics::6 Firms, costs and labour markets
+#tags:economics firms-labour
+Pre-Q Basic	Production vs productivity	Production: total output. Productivity: output per unit of input	
+Pre-Q Cloze	Labour productivity = {{c1::total output}} ÷ {{c2::number of workers}}		
+Pre-Q Cloze	Labour productivity rises with: {{c1::technology}}, {{c2::training}}, {{c3::capital investment}}, {{c4::division of labour}}, {{c5::better management}}		5 items
+Pre-Q Cloze	Demand for a factor depends on: {{c1::demand for the product}}, {{c2::the factor's price}}, {{c3::price of other factors}}, {{c4::the factor's productivity}}		4 items
+Pre-Q Basic	Labour-intensive production?	Uses more labour relative to capital	
+Pre-Q Basic	Capital-intensive production?	Uses more capital relative to labour	
+Pre-Q Cloze	Why small firms survive: {{c1::small or local markets}}, {{c2::personal service}}, {{c3::niche products}}, {{c4::owners prefer independence}}		4 items
+Pre-Q Basic	Unlimited liability?	Owner is personally liable for all business debts	
+Pre-Q Basic	Limited liability?	Shareholders can lose only what they invested	
+Pre-Q Basic	Sole trader?	Business owned by one person with unlimited liability	
+Pre-Q Basic	Partnership?	Two or more owners sharing investment and responsibility	
+Pre-Q Basic	Private limited company (Ltd)?	Limited company selling shares privately	
+Pre-Q Basic	Public limited company (plc)?	Limited company selling shares openly on the stock exchange	
+Pre-Q Basic	Dividend?	Share of after-tax profit paid to shareholders	
+Pre-Q Basic	Franchise?	Franchisor sells right to use its name and methods for a fee	
+Pre-Q Cloze	Measures of business size: {{c1::employees}}, {{c2::sales revenue}}, {{c3::capital employed}}, {{c4::value of output}}, {{c5::market share}}		5 items
+Pre-Q Cloze	Market share = {{c1::firm's sales}} ÷ {{c2::total market sales}} × 100		
+Pre-Q Basic	Internal (organic) growth?	Expanding from within, usually funded by retained profit	
+Pre-Q Basic	Merger vs takeover	Merger: firms join mutually. Takeover: one buys control	
+Pre-Q Cloze	Integration: same stage = {{c1::horizontal}}; towards raw materials = {{c2::backward vertical}}; towards consumer = {{c3::forward vertical}}; unrelated = {{c4::conglomerate}}		
+Pre-Q Basic	Economies of scale?	Average cost falls as the firm grows	Not total cost
+Pre-Q Cloze	Internal economies of scale: {{c1::purchasing}}, {{c2::marketing}}, {{c3::financial}}, {{c4::technical}}, {{c5::managerial}}, {{c6::risk-bearing}}		6 items
+Pre-Q Basic	External economies of scale?	Cost savings outside the firm but within its industry	
+Pre-Q Cloze	External economies of scale: {{c1::skilled workers nearby}}, {{c2::ancillary firms}}, {{c3::joint marketing}}, {{c4::shared infrastructure}}		4 items
+Pre-Q Basic	Diseconomies of scale?	Average cost rises as firm gets too big to run well	
+Pre-Q Cloze	Diseconomies of scale: {{c1::communication}}, {{c2::management}}, {{c3::labour}}, {{c4::agglomeration}}		4 items
+Pre-Q Basic	Direct vs indirect cost	Direct: linked to production. Indirect: not linked	
+Pre-Q Basic	Fixed vs variable cost	Fixed: unchanged by output. Variable: changes with output	
+Pre-Q Cloze	Total cost = {{c1::fixed cost}} + {{c2::variable cost}}		
+Pre-Q Cloze	AFC = {{c1::fixed cost}} ÷ output; AVC = {{c2::variable cost}} ÷ output		
+Pre-Q Cloze	ATC = {{c1::AFC}} + {{c2::AVC}}	Also TC ÷ output	
+Pre-Q Cloze	Total revenue = {{c1::price}} × quantity sold; average revenue = TR ÷ {{c2::units sold}}		
+Pre-Q Cloze	Profit = {{c1::total revenue}} − {{c2::total cost}}		
+Pre-Q Cloze	Contribution per unit = {{c1::selling price}} − {{c2::variable cost per unit}}		
+Pre-Q Cloze	Break-even output = {{c1::fixed costs}} ÷ {{c2::contribution per unit}}		Uses contribution
+Pre-Q Basic	Why is the ATC curve U-shaped?	Falls as fixed costs spread; rises with diseconomies	
+Pre-Q Basic	Break-even point on a chart?	Where total revenue crosses total cost	
+Pre-Q Basic	Mission statement?	General statement of a business's core aims	
+Pre-Q Cloze	SMART objectives: {{c1::specific}}, {{c2::measurable}}, {{c3::achievable}}, {{c4::realistic}}, {{c5::time-specific}}		5 items
+Pre-Q Basic	Profit maximisation vs satisficing	Maximum profit vs enough profit	
+Pre-Q Cloze	Non-wage job factors: {{c1::challenge}}, {{c2::career prospects}}, {{c3::danger}}, {{c4::training length}}, {{c5::satisfaction}}		5 items
+Pre-Q Basic	Wage vs salary	Wage: hourly (variable cost). Salary: annual (fixed cost)	
+Pre-Q Basic	Why is demand for labour a derived demand?	Labour is wanted for what it produces	
+Pre-Q Cloze	Labour demand shifts left with: {{c1::recession}}, {{c2::higher non-wage costs}}, {{c3::cheaper capital}}		
+Pre-Q Basic	Why does labour supply slope upward?	Higher wage raises the opportunity cost of not working	
+Pre-Q Cloze	Labour supply shifts right with: {{c1::population growth}}, {{c2::higher retirement age}}, {{c3::more training}}, {{c4::higher participation}}		4 items
+Pre-Q Basic	Backward-bending labour supply?	At high wages workers choose more leisure	
+Pre-Q Basic	Equilibrium wage?	Where demand for labour equals supply of labour	
+Pre-Q Cloze	Labour force participation rate = {{c1::labour force}} ÷ {{c2::working-age population}} × 100		Not total population
+Pre-Q Cloze	Pay differs between jobs due to: {{c1::qualifications}}, {{c2::unsociable hours or danger}}, {{c3::job satisfaction}}, {{c4::labour immobility}}		4 items
+Pre-Q Basic	National minimum wage?	Legal minimum a firm may pay	
+Pre-Q Cloze	Reasons for a minimum wage: {{c1::pay below subsistence}}, {{c2::stop exploitation}}, {{c3::reduce inequality}}		
+Pre-Q Basic	Minimum wage above equilibrium: effect?	Higher pay for those employed; unemployment may rise	
+Pre-Q Basic	Trade union?	Organisation improving its members' pay and conditions	
+Pre-Q Basic	Collective bargaining?	Union negotiates on behalf of all members	
+Pre-Q Cloze	Union is stronger with: {{c1::high membership}}, {{c2::low unemployment}}, {{c3::hard-to-replace workers}}, {{c4::inelastic product demand}}		4 items
+Pre-Q Cloze	Industrial action, most to least severe: {{c1::strike}}, {{c2::sit-in}}, {{c3::go-slow}}, {{c4::work-to-rule}}		4 items
+Pre-Q Basic	Strong unions: 2 harms	Cost-push inflation (wage–price spiral); strikes cut output	
+Pre-Q Basic	Deed of Partnership?	Agreement setting voting rights, duties and profit split; not legally required	Without one: shared equally
+Pre-Q Basic	Annual General Meeting (AGM)?	Yearly shareholders' meeting that elects the directors	
+Pre-Q Basic	Memorandum of Association?	Company document: name, objectives, liability, number of shares	External details
+Pre-Q Basic	Articles of Association?	Company document setting out its internal rules	Not the Memorandum
+Pre-Q Basic	Divorce of ownership and control?	Shareholders own, managers run: they may want different things	
+Pre-Q Basic	Franchisor vs franchisee?	Original business selling the rights vs new outlet buying them	o = original, ee = expanding
+Pre-Q Basic	External growth?	Growth by merger or takeover	
+Pre-Q Basic	Marginal cost?	Extra cost of producing one more unit	
+Pre-Q Cloze	Average fixed cost = {{c1::FC ÷ output}}	Falls continuously as output rises	
+Pre-Q Cloze	Average variable cost = {{c1::VC ÷ output}}	Usually U-shaped	
+Pre-Q Cloze	Average total cost = {{c1::TC ÷ output}} = {{c2::AFC + AVC}}	U-shaped	2 ways
+Pre-Q Basic	Corporate social responsibility (CSR)?	Firm's ethical and environmental aims	
+Pre-Q Basic	Piece rate?	Pay per unit produced	Fruit picking
+Pre-Q Basic	Performance-related pay?	Pay that varies with the success of the business	
+Pre-Q Basic	Share options (pay)?	Shares given to staff: incentive via dividends and gains	
+Pre-Q Basic	Fringe benefits?	Non-monetary perks: company car, gym, phone	
+Pre-Q Basic	Living wage?	Voluntary hourly rate needed for necessities and community life	Not the minimum wage
+Pre-Q Basic	Craft union?	Oldest type: workers with one particular skill	Printers
+Pre-Q Basic	White-collar union?	Professional, administrative and clerical workers	Nurses, teachers
+Pre-Q Basic	Full-time workers: benefit vs drawback for the firm?	Motivated, skilled, loyal staff vs higher wage costs	

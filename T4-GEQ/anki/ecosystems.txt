@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::28 Ecosystems: tropical rainforest and hot desert
+#tags:geography ecosystems
+Pre-Q Basic	Ecosystem?	Living organisms interacting with their non-living environment as one system	
+Pre-Q Basic	Biotic vs abiotic	Biotic = living parts; abiotic = non-living parts such as climate	
+Pre-Q Basic	Biome?	Large ecosystem with similar climate and vegetation	
+Pre-Q Basic	Producer (ecosystem)?	Green plant making food by photosynthesis	
+Pre-Q Basic	Decomposer?	Fungi and bacteria returning nutrients from dead matter	
+Pre-Q Basic	Biodiversity?	Variety of species in an area	
+Pre-Q Basic	Nutrient cycle?	Movement of nutrients between soil, biomass and litter	
+Pre-Q Basic	Biomass?	Total mass of living material in an ecosystem	
+Pre-Q Basic	Leaching?	Soluble nutrients washed down out of the topsoil	
+Pre-Q Basic	Latosol?	Deep red leached rainforest soil, poor in nutrients	
+Pre-Q Basic	Deforestation?	Clearance of forest for other land uses	
+Pre-Q Basic	Desertification?	Degradation of dry land into desert-like conditions	
+Pre-Q Basic	Hot desert?	Under about 250 mm rain a year; hot days, large daily range	
+Pre-Q Cloze	Tropical rainforests: within about {{c1::10°}} of the equator	Amazon, Congo, South-East Asia	
+Pre-Q Basic	Why are rainforests near the equator?	Rising air at the ITCZ gives daily rain; high Sun	
+Pre-Q Cloze	Hot deserts: about {{c1::15–30°}} N and S, often on {{c2::west}} sides of continents	Sahara, Atacama, Kalahari	
+Pre-Q Cloze	Why hot deserts form: {{c1::sinking air}}, {{c2::dry trade winds}}, {{c3::cold offshore currents}}, {{c4::rain shadows}}		4 reasons
+Pre-Q Cloze	Rainforest climate: {{c1::26–28 °C}} all year; over {{c2::2000 mm}} of rain	Annual range only 1–2 °C	Give units
+Pre-Q Basic	Why is the rainforest annual temperature range small?	High Sun all year and daily cloud	
+Pre-Q Basic	Why is the hot desert daily range large?	Clear skies: hot days, heat escapes at night	
+Pre-Q Cloze	Rainforest layers, top down: {{c1::emergents}}, {{c2::canopy}}, {{c3::under-canopy}}, {{c4::shrub layer}}, {{c5::forest floor}}	Floor gets about 2% of light	5 layers
+Pre-Q Basic	Drip-tip leaves?	Shed heavy rain fast to stop rot	
+Pre-Q Basic	Buttress roots?	Support tall trees in shallow soil	
+Pre-Q Basic	Lianas?	Woody vines rooted in the ground that climb to the light	
+Pre-Q Basic	Epiphytes?	Plants on branches taking water from humid air	
+Pre-Q Cloze	Rainforest animal adaptations: {{c1::prehensile tails}}, {{c2::camouflage}}, {{c3::suction pads}}		3 adaptations
+Pre-Q Cloze	Why rainforest soil is poor: rapid {{c1::decomposition}}; nutrients taken up by {{c2::shallow roots}} and stored in {{c3::biomass}}; heavy rain {{c4::leaches}} the rest		4 blanks
+Pre-Q Basic	Why does cleared rainforest lose fertility fast?	The nutrient store is removed with the trees	
+Pre-Q Basic	How does the Amazon make its own rain?	Transpiration returns moisture to the air	
+Pre-Q Cloze	Value of rainforests: {{c1::biodiversity}}, {{c2::medicines}}, {{c3::carbon store}}, {{c4::indigenous homes}}		4 values
+Pre-Q Cloze	Amazon: about {{c1::5.5 million km²}}, about {{c2::60%}} in Brazil		
+Pre-Q Basic	Amazon deforestation: biggest cause?	Cattle ranching	
+Pre-Q Cloze	Other Amazon deforestation causes: {{c1::soya farming}}, {{c2::logging}}, {{c3::mining}}, {{c4::roads}}, {{c5::dams}}		5 causes
+Pre-Q Basic	Trans-Amazonian Highway: effect?	Opened the forest to settlers from the 1970s	
+Pre-Q Cloze	Brazil's Amazon clearing peaked at about {{c1::27 000 km²}} a year in {{c2::2004}}	Much lower by 2024	
+Pre-Q Cloze	Deforestation local effects: {{c1::biodiversity loss}}, {{c2::soil erosion}}, {{c3::less rainfall}}, {{c4::indigenous peoples displaced}}		4 effects
+Pre-Q Basic	Deforestation: global effect?	Stored carbon released, enhancing the greenhouse effect	
+Pre-Q Basic	Amazon development: benefits?	Jobs and exports such as beef and soya	
+Pre-Q Cloze	Sustainable rainforest management: {{c1::protected reserves}}, {{c2::satellite monitoring}}, {{c3::selective logging}}, {{c4::ecotourism}}		4 methods
+Pre-Q Cloze	{{c1::Soy Moratorium}} ({{c2::2006}}): no soya bought from newly cleared Amazon land		
+Pre-Q Basic	Succulent?	Plant storing water in thick stems or leaves	
+Pre-Q Basic	Cactus spines: purpose?	Cut transpiration and deter animals	
+Pre-Q Basic	Desert plant root adaptations?	Long tap roots or wide shallow roots	
+Pre-Q Basic	Ephemeral plants?	Dormant seeds that grow and seed fast after rain	
+Pre-Q Cloze	Camel adaptations: {{c1::fat-storing hump}}, {{c2::long eyelashes}}, {{c3::closable nostrils}}, {{c4::wide feet}}		4 adaptations
+Pre-Q Basic	Fennec fox adaptation?	Huge ears lose heat	
+Pre-Q Basic	Sahara?	World's largest hot desert, across North Africa	
+Pre-Q Basic	Sahel?	Semi-arid belt on the Sahara's southern edge	
+Pre-Q Cloze	Sahel rainfall: about {{c1::200–600 mm}}, very {{c2::unreliable}}		
+Pre-Q Cloze	Sahel desertification causes: {{c1::overgrazing}}, {{c2::over-cultivation}}, {{c3::fuelwood cutting}}, {{c4::drought}}		4 causes
+Pre-Q Cloze	Desertification effects: {{c1::soil erosion}}, {{c2::lower yields}}, {{c3::food shortages}}, {{c4::migration}}		4 effects
+Pre-Q Basic	Great Green Wall?	Belt of trees and restored land across the Sahel (2007)	
+Pre-Q Basic	Zaï pits and stone lines?	Trap rainwater and soil in Sahel fields	

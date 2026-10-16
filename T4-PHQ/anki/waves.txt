@@ -1,74 +1,83 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Physics::6 Waves, light and sound
-What does a wave transfer?	Energy, without transferring matter
-Definition of wavelength	The distance between matching points on consecutive waves
-Definition of frequency	The number of oscillations per second, in Hz
-Definition of period	The time for one oscillation, \(T = 1/f\)
-Definition of amplitude	The maximum displacement from the undisturbed position
-Definition of a wavefront	A line joining points oscillating in step
-Wave equation	\(v = f\lambda\)
-A 50 Hz wave of wavelength 0.40 m: speed and period?	\(v = 20\) m/s, \(T = 0.020\) s
-Definition of a transverse wave	Oscillation perpendicular to the direction of travel
-Definition of a longitudinal wave	Oscillation parallel to the direction of travel
-Three transverse wave examples	Water waves, all electromagnetic waves, a wave on a rope
-Two longitudinal wave examples	Sound, a slinky pushed along its length
-What changes during refraction?	Speed, wavelength and direction — the frequency stays the same
-When is diffraction through a gap greatest?	When the gap size is about equal to the wavelength
-Which wavelengths diffract most at an edge?	Longer ones — which is why low-pitched sound bends round corners more easily
-What apparatus demonstrates reflection, refraction and diffraction of waves?	A ripple tank
-State the law of reflection	Angle of incidence = angle of reflection, both measured from the normal
-Four properties of a plane-mirror image	Same size, same distance behind the mirror, laterally inverted, virtual
-What is a virtual image?	One the rays only appear to come from — it cannot be caught on a screen
-Which way does light bend entering a denser medium?	Towards the normal (it slows down)
-When does a ray not bend at a boundary?	When it travels along the normal
-What happens to a ray through a parallel-sided glass block?	It emerges parallel to its original direction, displaced sideways
-Refractive index from angles	\(n = \sin i / \sin r\)
-Refractive index from speeds	\(n = \) speed in vacuum / speed in the medium
-Refractive index of glass	About 1.5
-Two conditions for total internal reflection	Travelling from denser to less dense medium, AND angle of incidence greater than the critical angle
-Critical angle formula	\(n = 1/\sin c\)
-Critical angle for n = 1.5	42°
-How do you demonstrate the critical angle?	Aim a ray at the centre of the flat face of a semicircular glass block and rotate it
-Medical use of optical fibres	An endoscope carries light in and an image out of the body without surgery
-Communications advantage of optical fibres	Far more data, less signal loss, no electrical interference
-Definition of principal focus	The point where a converging lens brings a parallel beam to meet
-Definition of focal length	The distance from the lens to the principal focus
-Ray rule 1 for a converging lens	A ray parallel to the axis passes through the principal focus
-Ray rule 2 for a converging lens	A ray through the centre of the lens continues straight
-Image when the object is beyond 2f	Real, inverted, diminished
-Image when the object is between f and 2f	Real, inverted, enlarged
-Image when the object is inside f	Virtual, upright, enlarged — a magnifying glass
-Why does a prism disperse white light?	Each colour has a slightly different refractive index, so each bends by a different amount
-Which colour bends most in a prism?	Violet (red bends least)
-Seven colours of the spectrum in order	Red, orange, yellow, green, blue, indigo, violet
-Meaning of monochromatic	Light of a single frequency
-Primary colours of light	Red, green, blue
-Red + green =	Yellow
-Green + blue =	Cyan
-Red + blue =	Magenta
-Why does a red book look black under blue light?	It absorbs blue and has no red light to reflect
-Electromagnetic spectrum in order of increasing frequency	Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma
-Speed of all EM waves in a vacuum	\(3.0\times10^8\) m/s
-Uses of microwaves	Satellite television, mobile phones, cooking
-Uses of infrared	Electrical appliances, TV remote controls, intruder alarms, thermal imaging
-Uses of X-rays	Medical imaging, airport security scanning
-Safety danger of microwaves	They are absorbed by water and heat body cells
-Safety danger of X-rays and gamma rays	They are ionising — they damage DNA and can cause cell mutation
-Which EM regions are NOT ionising?	Radio, microwave, infrared (and visible)
-How is sound produced?	By a vibrating source
-Is sound transverse or longitudinal?	Longitudinal
-What are compressions and rarefactions?	Regions where air particles are closer/higher pressure and further apart/lower pressure
-Why does a bell in a bell jar go silent as air is pumped out?	Sound is a mechanical vibration of particles, so it needs a medium
-Audible range for a healthy human ear	About 20 Hz to 20 000 Hz
-Definition of ultrasound	Sound of frequency above the human audible range
-Speed of sound in air	About 330–340 m/s
-Speed of sound in water	About 1500 m/s
-Speed of sound in steel	About 5000 m/s
-Why is sound fastest in solids?	The particles are closest together with the strongest forces between them
-What does loudness depend on?	Amplitude
-What does pitch depend on?	Frequency
-Echo method for the speed of sound	Clap at a measured distance d from a wall, time the echo t; \(v = 2d/t\)
-What does the eardrum do?	Vibrates in response to pressure variations in the air
-What does the cochlea do?	Converts mechanical vibration into electrical impulses carried to the brain by the auditory nerve
+#tags:physics waves
+Pre-Q Basic	What do waves transfer?	Energy, not matter	
+Pre-Q Basic	Wavelength?	Distance between matching points on consecutive waves	
+Pre-Q Basic	Frequency?	Oscillations per second (Hz)	
+Pre-Q Basic	Period (wave)?	Time for one oscillation (s)	
+Pre-Q Basic	Amplitude?	Maximum displacement from the rest position	Not crest to trough
+Pre-Q Basic	Wave speed?	Distance the wave pattern travels per second	
+Pre-Q Basic	Wavefront?	Line joining points oscillating in step	
+Pre-Q Basic	Transverse wave?	Vibration at right angles to direction of travel	
+Pre-Q Basic	Longitudinal wave?	Vibration parallel to direction of travel	
+Pre-Q Basic	Diffraction?	Waves spreading out after passing a gap or edge	
+Pre-Q Basic	Interference (superposition)?	Overlapping waves' displacements add	Constructive vs destructive
+Pre-Q Basic	Law of reflection?	Angle of incidence = angle of reflection	Measured from the normal
+Pre-Q Basic	Refractive index?	Speed of light in vacuum ÷ speed in material	
+Pre-Q Basic	Critical angle?	Angle of incidence giving 90° refraction	In the denser medium
+Pre-Q Basic	Total internal reflection?	All light reflected inside the denser medium	
+Pre-Q Basic	Principal focus?	Point where parallel rays meet after a converging lens	
+Pre-Q Basic	Focal length?	Distance from lens centre to principal focus	
+Pre-Q Basic	Principal axis?	Line through the lens centre, at 90° to the lens	
+Pre-Q Basic	Real image?	Formed where rays actually cross; can be on a screen	
+Pre-Q Basic	Virtual image?	Where rays only appear to come from; not on a screen	
+Pre-Q Basic	Dispersion?	Splitting white light into its colours	Prism
+Pre-Q Basic	Monochromatic light?	Light of a single frequency	
+Pre-Q Basic	Echo?	Reflection of sound from a hard surface	
+Pre-Q Basic	Ultrasound?	Sound above 20 kHz (beyond human hearing)	
+Pre-Q Cloze	Wave equation: \(v = {{c1::f\lambda}}\)	v in m/s, f in Hz, λ in m	Convert kHz/MHz first
+Pre-Q Cloze	Period: \(T = {{c1::\dfrac{1}{f} }}\)		
+Pre-Q Cloze	Transverse examples: {{c1::water waves}}, {{c2::all EM waves}}, seismic {{c3::S-waves}}		
+Pre-Q Cloze	Longitudinal examples: {{c1::sound}}, seismic {{c2::P-waves}}		
+Pre-Q Basic	Water waves entering shallower water?	Slows and wavelength shortens; frequency unchanged	What stays the same?
+Pre-Q Basic	Diffraction greatest when?	Gap about equal to the wavelength	
+Pre-Q Basic	At an edge, which wavelengths diffract more?	Longer wavelengths	Why low notes bend round corners
+Pre-Q Cloze	Plane mirror image: {{c1::same size}}, same distance {{c2::behind}} the mirror, {{c3::laterally inverted}}, {{c4::virtual}}		4 features
+Pre-Q Cloze	Law of reflection: \(i = {{c1::r}}\)		
+Pre-Q Basic	Light entering a denser medium?	Slows and bends towards the normal	
+Pre-Q Basic	Ray through a parallel-sided glass block?	Emerges parallel to original, shifted sideways	
+Pre-Q Cloze	Refractive index: \(n = {{c1::\dfrac{\sin i}{\sin r} }}\)	i is the angle in air	Air angle on top
+Pre-Q Cloze	Refractive index: \(n = {{c1::\dfrac{c}{v} }}\)		Speeds
+Pre-Q Cloze	Critical angle: \(n = {{c1::\dfrac{1}{\sin c} }}\)		
+Pre-Q Cloze	Total internal reflection needs: {{c1::denser to less dense medium}} and angle {{c2::greater than the critical angle}}		2 conditions
+Pre-Q Basic	Optical fibre in medicine?	Endoscope: sees inside the body without surgery	
+Pre-Q Cloze	Optical fibres vs copper cables: {{c1::more data}}, {{c2::less signal loss}}, {{c3::no electrical interference}}		3 advantages
+Pre-Q Cloze	Converging lens rays: parallel ray → {{c1::through principal focus}}; ray through centre → {{c2::straight on}}		
+Pre-Q Cloze	Object beyond 2F: image {{c1::real}}, {{c2::inverted}}, {{c3::diminished}}		
+Pre-Q Cloze	Object at 2F: image real, inverted, {{c1::same size}}		
+Pre-Q Cloze	Object between F and 2F: image real, inverted, {{c1::enlarged}}		
+Pre-Q Cloze	Object inside F: image {{c1::virtual}}, {{c2::upright}}, {{c3::enlarged}} (magnifying glass)		Draw traced-back rays dashed
+Pre-Q Basic	Diverging lens on a parallel beam?	Spreads it, as if from a focus on the same side	
+Pre-Q Cloze	Short sight: image forms {{c1::in front of}} the retina; corrected by a {{c2::diverging}} lens		Opposite of long sight
+Pre-Q Cloze	Long sight: image forms {{c1::behind}} the retina; corrected by a {{c2::converging}} lens		Opposite of short sight
+Pre-Q Basic	Why does a prism disperse white light?	Each colour has a different refractive index	
+Pre-Q Cloze	Spectrum, increasing frequency: {{c1::red}}, {{c2::orange}}, {{c3::yellow}}, {{c4::green}}, {{c5::blue}}, {{c6::indigo}}, {{c7::violet}}		ROY G BIV
+Pre-Q Cloze	Primary colours of light: {{c1::red}}, {{c2::green}}, {{c3::blue}}		
+Pre-Q Cloze	Red + green = {{c1::yellow}}; green + blue = {{c2::cyan}}; red + blue = {{c3::magenta}}		
+Pre-Q Basic	Red object under blue light looks?	Black	It absorbs non-red light
+Pre-Q Basic	Coloured filter?	Transmits its own colour, absorbs the rest	
+Pre-Q Cloze	EM spectrum, increasing frequency: {{c1::radio}}, {{c2::microwave}}, {{c3::infrared}}, {{c4::visible}}, {{c5::ultraviolet}}, {{c6::X-ray}}, {{c7::gamma}}		7 regions
+Pre-Q Cloze	EM waves in vacuum: speed \(c = {{c1::3.0\times10^8}}\) m/s; all are {{c2::transverse}}		
+Pre-Q Cloze	Radio waves: {{c1::radio and TV}} broadcasts, {{c2::Bluetooth}}		
+Pre-Q Cloze	Microwaves: {{c1::satellite TV}}, {{c2::mobile phones}}; danger: {{c3::internal heating of cells}}		
+Pre-Q Cloze	Infrared: {{c1::remote controls}}, {{c2::intruder alarms}}; danger: {{c3::skin burns}}		
+Pre-Q Cloze	Ultraviolet: {{c1::security marking}}, {{c2::sterilising water}}; danger: {{c3::skin cancer and eye damage}}		
+Pre-Q Cloze	X-rays: {{c1::medical imaging}}, {{c2::airport security}}; danger: {{c3::ionising, cell mutation}}		
+Pre-Q Cloze	Gamma rays: {{c1::sterilising food and equipment}}, {{c2::detecting and treating cancer}}		
+Pre-Q Basic	Geostationary satellite?	Orbits once in 24 h; stays above same point	
+Pre-Q Basic	Analogue signal?	Varies continuously; any value	
+Pre-Q Basic	Digital signal?	Only two values (1/0)	
+Pre-Q Basic	2 benefits of digital signals	Higher data rate; noise removed when regenerated	
+Pre-Q Basic	Compression (sound)?	Region of particles close together, high pressure	
+Pre-Q Basic	Rarefaction (sound)?	Region of particles spread apart, low pressure	
+Pre-Q Basic	Bell in a bell jar goes silent as air is removed: why?	Sound needs a medium	
+Pre-Q Cloze	Speed of sound: air ~{{c1::330–350 m/s}}; water ~{{c2::1500 m/s}}; steel ~{{c3::5000 m/s}}		
+Pre-Q Basic	Why is sound fastest in solids?	Particles closest, strongest forces	
+Pre-Q Cloze	Human hearing range: ~{{c1::20 Hz}} to {{c2::20 000 Hz}}		
+Pre-Q Cloze	Ultrasound uses: {{c1::medical scanning}}, {{c2::non-destructive testing}}, {{c3::sonar}}		3 uses
+Pre-Q Cloze	Sonar depth: \(d = {{c1::\dfrac{vt}{2} }}\)	Pulse goes there and back	
+Pre-Q Cloze	Loudness depends on {{c1::amplitude}}; pitch depends on {{c2::frequency}}		
+Pre-Q Cloze	Echo method: \(v = {{c1::\dfrac{2d}{t} }}\)	d = distance to the wall	Sound goes there and back
+Pre-Q Cloze	Ear: {{c1::eardrum}} vibrates; small bones transmit; {{c2::cochlea}} makes impulses; {{c3::auditory nerve}} carries them		

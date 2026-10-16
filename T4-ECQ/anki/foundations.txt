@@ -1,64 +1,71 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Economics::1 Scarcity, choice and economic systems
-Definition of economics	A social science studying the production, distribution and consumption of goods and services
-Definition of scarcity	Limited means against unlimited wants
-Three limited means that cause scarcity	Time, money or income, and skill and knowledge
-Why are wants described as unlimited?	Once one want is satisfied, another replaces it
-Definition of a need	Something people must have to survive, such as food, water, air, shelter or clothing
-Definition of a want	Something people would like to have but can survive without
-Three questions every economy must answer	What to produce, how to produce it, and for whom
-Definition of opportunity cost	The next best alternative forgone
-A government ranks healthcare first, police second and education third, then funds healthcare. What is the opportunity cost?	The police spending — only the next best alternative, not police plus education
-Definition of a free good	A good so plentiful it has no cost, such as wind or sunshine
-Definition of an economic good	A scarce good, which therefore has a cost
-Definition of a capital (producer) good	A man-made good used to produce other goods and services, such as a coffee machine or a truck
-Definition of the factors of production	The scarce resources, or inputs, that a production process turns into goods and services
-Name the four factors of production	Land, labour, capital, enterprise
-Reward to each factor of production	Land earns rent, labour wages, capital interest, enterprise profit
-Definition of land as a factor of production	The place where business activity happens, and all natural resources
-Definition of capital as a factor of production	Man-made resources that help produce other goods and services
-Definition of enterprise	The ability to employ and organise the other factors, taking the risk of the venture
-Does capital mean money in economics?	No — it means productive equipment; money is only a means of acquiring it
-Two features of a public good	Non-excludable and non-rival
-Meaning of non-excludable	People who do not pay cannot be stopped from benefiting
-Meaning of non-rival	One person's use does not reduce the amount available to others
-Three examples of public goods	Street lighting, lighthouses, police (or national defence)
-Definition of a merit good	A beneficial good that consumers undervalue, so it is under-consumed in a free market
-Definition of a demerit good	A harmful good that consumers overvalue, so it is over-consumed in a free market
-Key difference between merit goods and public goods	Merit goods are excludable and rival; public goods are neither
-Definition of division of labour	Splitting production into separate tasks, each done by a specialist worker
-Two advantages of division of labour	Higher productivity and efficiency, and easier use of specialised machinery
-Three disadvantages of division of labour	Boredom lowers quality, workers feel like a cog and lose motivation, and production stops if a specialist is absent
-Definition of derived demand	Demand for something that results from demand for another good, such as lithium for phone batteries
-The law of diminishing returns	Adding more of one factor while the others stay fixed eventually adds less and less extra output
-What does a production possibility curve show?	The maximum combinations of two goods that can be produced when all resources and technology are used efficiently
-Meaning of a point inside the PPC	Production inefficiency — both goods can increase with no opportunity cost
-Meaning of a point outside the PPC	Unattainable with current resources and technology
-PPC: the firm moves from 90 Coke and 0 Fanta to 60 Coke and 80 Fanta. What is the opportunity cost?	30 cans of Coke for 80 cans of Fanta
-What does a PPC bowed outwards show?	Increasing opportunity cost, because resources are better suited to one good than the other
-What does a straight-line PPC show?	Constant opportunity cost — resources are equally suited to both goods
-What does a steeper section of a PPC show?	A higher opportunity cost of the good on the horizontal axis
-What does an outward shift of the PPC mean?	Economic growth — production possibilities have increased
-Five causes of an outward shift of the PPC	Higher productivity, better management, more capital and labour, innovation, discovery of natural resources
-Four causes of an inward shift of the PPC	Natural disaster, large outward migration, war, loss of capital
-Is moving labour from manufacturing to services a shift of the PPC?	No — a movement along it: more services at the expense of manufacturing
-What does a PPC pivoting outwards on one axis only show?	An improvement in one industry only, such as new farming technology
-Why does producing more capital goods now matter on a PPC?	It raises future productive capacity, so the PPC shifts out faster later, at the cost of consumption now
-Name the four economic systems	Free market, command (planned), mixed, traditional
-How a free market economy allocates resources	By price, through demand and supply, with no government involvement
-Three advantages of a free market economy	Efficiency, freedom of choice, incentive to work hard
-Three disadvantages of a free market economy	Environmental damage, inequality, social problems such as no public goods
-Who answers the three economic questions in a command economy?	The government, often through five-year plans
-Three advantages of a command economy	Prevents waste, social equality, economies of scale from large national suppliers
-Two disadvantages of a command economy	Lack of freedom of choice and career, and no incentive to work harder
-Definition of a mixed economy	A combination of free market and command, with the government providing essential services and merit goods
-Why are almost all real economies mixed?	Every economy needs some form of government
-Definition of a traditional economy	One that answers what, how and for whom by custom and tradition
-Difference between the private and public sectors	The private sector is owned by individuals or companies for profit; the public sector is owned by government to provide services
-Three functions of the price mechanism	Signalling, incentive, rationing
-The signalling function of price	A rising price tells producers buyers want more, and tells consumers to look for substitutes
-The incentive function of price	A higher price makes supplying more profitable, drawing resources into that market
-The rationing function of price	When a good is scarce its price rises, so it goes to those willing and able to pay most
-Four limits of the price mechanism	It ignores external costs, provides no public goods, under-provides merit goods, and allocates by ability to pay rather than need
+#tags:economics foundations
+Pre-Q Cloze	Economics studies the {{c1::production}}, {{c2::distribution}} and {{c3::consumption}} of goods and services		P-D-C
+Pre-Q Basic	Scarcity?	Unlimited wants but limited means to satisfy them	
+Pre-Q Basic	Need?	Something people must have to survive	
+Pre-Q Basic	Want?	Something people would like but can survive without	
+Pre-Q Cloze	3 limited means: {{c1::time}}, {{c2::money or income}}, {{c3::skill and knowledge}}		3 items
+Pre-Q Cloze	3 basic economic questions: {{c1::what}} to produce, {{c2::how}} to produce, {{c3::for whom}} to produce		
+Pre-Q Basic	Opportunity cost?	The next best alternative forgone	Only one alternative counts
+Pre-Q Basic	Goods vs services	Goods are physical items; services are done for you	
+Pre-Q Basic	Free good?	Plentiful and costless, e.g. sunshine	
+Pre-Q Basic	Economic good?	Scarce, so it has a cost	
+Pre-Q Basic	Consumer good?	Good for private use by households	
+Pre-Q Basic	Durable vs non-durable consumer goods	Durable last (cars); non-durable are used up (food)	
+Pre-Q Basic	Capital (producer) good?	Man-made good used to make other goods and services	
+Pre-Q Cloze	3 types of resource: {{c1::natural}}, {{c2::human}}, {{c3::man-made}}		
+Pre-Q Basic	Factors of production?	Scarce resources used to produce goods and services	
+Pre-Q Cloze	4 factors of production: {{c1::land}}, {{c2::labour}}, {{c3::capital}}, {{c4::enterprise}}		L-L-C-E
+Pre-Q Cloze	Factor rewards: land earns {{c1::rent}}, labour {{c2::wages}}, capital {{c3::interest}}, enterprise {{c4::profit}}		R-W-I-P
+Pre-Q Basic	Land (factor of production)?	Place of business activity plus all natural resources	
+Pre-Q Basic	Labour (factor of production)?	Human physical and mental effort	
+Pre-Q Basic	Capital (factor of production)?	Man-made productive equipment, not money	
+Pre-Q Basic	Enterprise?	Organising the other factors and taking the risk	
+Pre-Q Basic	Factor mobility?	How easily a factor moves between uses or places	
+Pre-Q Basic	Occupational vs geographical mobility	Moving between jobs or uses vs moving between places	
+Pre-Q Basic	Public good?	Good that is non-excludable and non-rival	
+Pre-Q Basic	Non-excludable?	Non-payers cannot be stopped from benefiting	
+Pre-Q Basic	Non-rival?	One person's use does not reduce what is left for others	
+Pre-Q Cloze	Public good examples: {{c1::street lighting}}, {{c2::lighthouses}}, {{c3::national defence}}		3 items
+Pre-Q Basic	Merit good?	Beneficial good consumers undervalue, so it is under-consumed	
+Pre-Q Basic	Demerit good?	Harmful good consumers overvalue, so it is over-consumed	
+Pre-Q Basic	Why are merit goods not public goods?	Merit goods are excludable and rival	Think school places
+Pre-Q Basic	Specialisation?	Concentrating on one product or task	
+Pre-Q Basic	Division of labour?	Splitting production into tasks, each done by a specialist	
+Pre-Q Cloze	Division of labour advantages: {{c1::higher productivity}}, {{c2::less wasted time}}, {{c3::easier use of specialised machinery}}		3 items
+Pre-Q Cloze	Division of labour disadvantages: {{c1::boredom cuts quality}}, {{c2::low motivation}}, {{c3::one absence can stop production}}		3 items
+Pre-Q Basic	Derived demand?	Demand for something because of demand for another product	Think lithium and phones
+Pre-Q Basic	Law of diminishing returns?	Add one factor to fixed others: extra output eventually falls	Think more café staff, same space
+Pre-Q Basic	Production possibility curve (PPC)?	Maximum combinations of two goods using all resources efficiently	
+Pre-Q Basic	Point inside the PPC?	Inefficient; both goods can rise with no opportunity cost	
+Pre-Q Basic	Point outside the PPC?	Unattainable with current resources and technology	
+Pre-Q Basic	How to find opportunity cost from a PPC?	Units of one good given up for the units gained	
+Pre-Q Basic	PPC bowed outwards (concave)?	Increasing opportunity cost	
+Pre-Q Basic	Straight-line PPC?	Constant opportunity cost	
+Pre-Q Basic	Steeper section of a PPC?	Higher opportunity cost of the horizontal-axis good	
+Pre-Q Basic	Movement along a PPC?	Reallocating resources between the two goods; not a shift	
+Pre-Q Basic	Outward PPC shift means?	Economic growth: more productive capacity	
+Pre-Q Cloze	PPC shifts out with: {{c1::higher productivity}}, {{c2::more capital or labour}}, {{c3::innovation}}, {{c4::new natural resources}}		4 items
+Pre-Q Cloze	PPC shifts in with: {{c1::natural disasters}}, {{c2::large emigration}}, {{c3::war}}, {{c4::loss of capital}}		4 items
+Pre-Q Basic	Recession on a PPC?	Point moves inside the curve; the curve stays put	Movement or shift?
+Pre-Q Basic	More capital goods now: PPC effect?	Faster outward shifts later; less consumption now	Think opportunity cost
+Pre-Q Basic	Economic system?	How an economy answers the three basic questions	
+Pre-Q Cloze	4 economic systems: {{c1::free market}}, {{c2::command (planned)}}, {{c3::mixed}}, {{c4::traditional}}		4 items
+Pre-Q Basic	Free market allocates resources by?	Price, through demand and supply	
+Pre-Q Cloze	Free market advantages: {{c1::efficiency}}, {{c2::freedom of choice}}, {{c3::incentive to work}}		
+Pre-Q Cloze	Free market disadvantages: {{c1::environmental damage}}, {{c2::inequality}}, {{c3::no public goods}}		
+Pre-Q Basic	Command economy?	Government decides everything, often through five-year plans	
+Pre-Q Cloze	Command economy advantages: {{c1::less waste}}, {{c2::social equality}}, {{c3::economies of scale}}		
+Pre-Q Basic	Command economy: 2 disadvantages	No freedom of choice; no incentive to work harder	
+Pre-Q Basic	Mixed economy?	Markets for most goods; state provides essentials and merit goods	
+Pre-Q Basic	Traditional economy?	Decisions made by custom and tradition	
+Pre-Q Basic	Private sector?	Owned by individuals or firms, mainly for profit	
+Pre-Q Basic	Public sector?	Owned by government, mainly to provide a service	
+Pre-Q Cloze	3 functions of the price mechanism: {{c1::signalling}}, {{c2::incentive}}, {{c3::rationing}}		S-I-R
+Pre-Q Basic	Signalling function of price?	Rising price tells producers buyers want more	
+Pre-Q Basic	Incentive function of price?	Higher price makes supplying more profitable	
+Pre-Q Basic	Rationing function of price?	Scarce good goes to those willing to pay most	
+Pre-Q Cloze	Price mechanism limits: {{c1::ignores external costs}}, {{c2::no public goods}}, {{c3::too few merit goods}}, {{c4::allocates by ability to pay}}		4 items

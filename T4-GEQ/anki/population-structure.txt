@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::02 Population structure and policies
+#tags:geography population-structure
+Pre-Q Basic	Population pyramid (age/sex pyramid)?	Back-to-back bar graphs of % males and females in each age group	
+Pre-Q Basic	Dependency ratio?	Young and elderly dependants per 100 people of working age	
+Pre-Q Basic	Youthful population?	High proportion of under-15s, from high birth and fertility rates	
+Pre-Q Basic	Ageing population?	High and rising proportion of over-65s	
+Pre-Q Basic	Demographic dividend?	Faster growth when falling births leave many workers, few dependants	
+Pre-Q Basic	Anti-natalist policy?	Government policy to reduce the birth rate	
+Pre-Q Basic	Pro-natalist policy?	Government policy to raise the birth rate	
+Pre-Q Basic	4-2-1 family?	Four grandparents, two parents, one child	
+Pre-Q Cloze	Describe a pyramid in order: {{c1::shape}}, {{c2::base}}, {{c3::apex}}, {{c4::sides}}, then bulges and notches	End with one figure and its unit	4 items
+Pre-Q Basic	Wide pyramid base means?	High birth rate; youthful population	
+Pre-Q Basic	Pyramid base narrower than the bar above?	Birth rate recently falling	
+Pre-Q Basic	Steeply tapering, concave pyramid sides?	High death rate; short life expectancy	
+Pre-Q Basic	Notch in a population pyramid?	Past war, epidemic, famine or birth dip	
+Pre-Q Basic	Pyramid bulge of young adult men?	In-migration of male workers (Gulf states)	
+Pre-Q Basic	Pyramid with too few young adults?	Out-migration or HIV/AIDS deaths	
+Pre-Q Basic	Why more women at the top of a pyramid?	Women live longer	
+Pre-Q Cloze	Pyramid with wide base, concave triangle: DTM stage {{c1::2}}	e.g. Niger	
+Pre-Q Cloze	Pyramid with wide base narrowing at the bottom: DTM stage {{c1::3}}	e.g. India	
+Pre-Q Cloze	Column (beehive) pyramid: DTM stage {{c1::4}}	e.g. UK	
+Pre-Q Cloze	Pyramid with narrow base, wide top: DTM stage {{c1::5}}	e.g. Japan	
+Pre-Q Cloze	Dependency ratio = {{c1::(0–14 + 65+) ÷ (15–64)}} × 100		dependants over workers
+Pre-Q Basic	Main dependants: LIC vs HIC?	LIC: young. HIC: elderly	
+Pre-Q Basic	Dependency ratio: limitation?	Many teens still study; many over-65s and LIC children work	
+Pre-Q Cloze	Youthful population problems: {{c1::school places}}, {{c2::too few jobs}}, {{c3::food and water stress}}, {{c4::housing shortages}}		4 items
+Pre-Q Basic	Youthful population: main opportunity?	Large, cheap future workforce; demographic dividend	
+Pre-Q Cloze	Anti-natalist measures: {{c1::free contraception}}, {{c2::girls' education}}, {{c3::small-family incentives}}, {{c4::family-size limits}}		4 items
+Pre-Q Basic	Causes of an ageing population?	Long life expectancy plus low fertility	
+Pre-Q Cloze	Ageing population problems: {{c1::pension costs}}, {{c2::healthcare costs}}, {{c3::labour shortages}}, {{c4::fewer taxpayers}}		4 items
+Pre-Q Cloze	Ageing population opportunities: {{c1::grey spending}}, {{c2::experienced workers}}, {{c3::volunteering}}, {{c4::grandparent childcare}}		4 items
+Pre-Q Cloze	Pro-natalist measures: {{c1::baby bonuses}}, {{c2::parental leave}}, {{c3::subsidised childcare}}, {{c4::tax relief}}		4 items
+Pre-Q Cloze	Ageing without more births: raise the {{c1::retirement age}}, recruit {{c2::migrants}}, {{c3::automation}}, compulsory {{c4::pension saving}}		4 items
+Pre-Q Cloze	China one-child policy: {{c1::1979/80}} to {{c2::2015}}		
+Pre-Q Cloze	China after the one-child policy: two-child {{c1::2016}}; three-child {{c2::2021}}		
+Pre-Q Cloze	China one-child policy enforced by {{c1::permits}}, {{c2::fines}} and {{c3::rewards}} for one-child families		3 items
+Pre-Q Cloze	China one-child side effects: {{c1::male-biased sex ratio}}, {{c2::rapid ageing}}, {{c3::4-2-1 families}}, {{c4::shrinking workforce}}		4 items
+Pre-Q Basic	China: when did the population start falling?	2022, despite pro-natalist incentives	
+Pre-Q Cloze	Niger: fertility ~{{c1::6}} (world's highest); ~{{c2::half}} aged under 15	Growth over 3% a year	
+Pre-Q Basic	Why has Niger's family planning had little effect?	Early marriage, rural poverty and cultural norms	
+Pre-Q Cloze	Bangladesh: fertility fell from over {{c1::6}} (1970s) to about {{c2::2}}		
+Pre-Q Cloze	Bangladesh cut fertility with door-to-door {{c1::family planning}}, free {{c2::contraception}}, {{c3::girls' education}}, {{c4::garment jobs}} for women		4 items
+Pre-Q Basic	Bangladesh vs Niger: lesson for population policy?	Policy works when combined with development	
+Pre-Q Cloze	Japan: ~{{c1::29%}} aged 65+; fertility ~{{c2::1.2}}		
+Pre-Q Cloze	Japan's ageing responses: {{c1::childcare support}}, higher {{c2::pension age}}, {{c3::care robots}}, {{c4::foreign-worker visa}} (2019)		4 items
+Pre-Q Basic	Why does Japan's workforce keep shrinking?	Births keep falling; immigration culturally limited	
+Pre-Q Basic	Why Italy's baby bonuses failed?	Small payments vs youth unemployment and dear housing	
+Pre-Q Basic	Germany's response to an ageing population?	Migration: over 1 million asylum seekers in 2015–16	

@@ -1,0 +1,48 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Economics::3 Money and exchange
+#tags:economics money
+Pre-Q Basic	Barter?	Swapping goods or services directly for others	
+Pre-Q Cloze	Problems with barter: {{c1::double coincidence of wants}}, {{c2::measuring value}}, {{c3::perishability}}, {{c4::subjective value}}		4 items
+Pre-Q Basic	Double coincidence of wants?	Each side must have what the other wants	
+Pre-Q Basic	Money?	Any agreed item used as a medium of exchange	
+Pre-Q Cloze	Characteristics of money: {{c1::acceptability}}, {{c2::divisibility}}, {{c3::portability}}, {{c4::durability}}, {{c5::scarcity}}		5 items
+Pre-Q Cloze	4 functions of money: {{c1::medium of exchange}}, {{c2::measure of value}}, {{c3::store of value}}, {{c4::standard of deferred payment}}		4 items
+Pre-Q Basic	Medium of exchange?	Widely accepted as payment for goods and services	
+Pre-Q Basic	Measure (unit) of value?	Lets the values of different products be compared	
+Pre-Q Basic	Store of value?	Can be kept and spent later	
+Pre-Q Basic	Standard of deferred payment?	Allows buy now, pay later (debt)	
+Pre-Q Cloze	Money supply = {{c1::notes and coins}} + {{c2::bank deposits}} + other {{c3::very liquid assets}}		
+Pre-Q Basic	Saving?	Keeping part of income for the future	
+Pre-Q Basic	Borrowing?	Obtaining money from a lender, repaid with interest	
+Pre-Q Basic	Disposable income?	Income left after all taxes and deductions	
+Pre-Q Basic	Saving vs borrowing	Saving: spend less than income. Borrowing: spend more	
+Pre-Q Basic	Interest rates rise: spending, saving, borrowing?	Spending falls; saving rises; borrowing falls	
+Pre-Q Basic	Easier credit or higher confidence: spending and saving?	Spending and borrowing rise; saving falls	
+Pre-Q Basic	Direct tax rises: spending and saving?	Both fall	
+Pre-Q Basic	Interest rate cut: effect on investment?	Rises; cheaper borrowing makes projects more profitable	
+Pre-Q Basic	Interest rate?	Cost of borrowing and reward for saving	
+Pre-Q Cloze	Real interest rate = {{c1::nominal interest rate}} − {{c2::inflation rate}}		Adjusts for prices
+Pre-Q Basic	Inflation above the interest rate: savers?	Negative real rate; savings lose purchasing power	
+Pre-Q Basic	Money market?	All those who borrow and supply money	
+Pre-Q Cloze	How banks profit: {{c1::interest on loans}}, {{c2::fees}}, {{c3::investing deposits}}		3 items
+Pre-Q Basic	Commercial (retail) bank?	Takes deposits, makes loans and offers payment services	
+Pre-Q Basic	Investment bank?	Helps large firms raise finance; advises on mergers	
+Pre-Q Basic	Credit union?	Member-owned non-profit co-operative giving cheap loans	
+Pre-Q Cloze	Central bank roles: {{c1::issues notes and coins}}, {{c2::government's bank}}, {{c3::manages national debt}}, {{c4::regulates commercial banks}}, {{c5::monetary policy}}		5 items
+Pre-Q Basic	Quantitative easing?	Central bank creates money to buy bonds from banks	An expansionary tool
+Pre-Q Basic	Stock exchange?	Market where shares and government bonds are traded	
+Pre-Q Basic	Who can sell shares on the stock exchange?	Public limited companies (plcs) only	
+Pre-Q Cloze	Market capitalisation = {{c1::share price}} × {{c2::number of shares issued}}		
+Pre-Q Basic	Initial public offering (IPO)?	Company sells shares to the public for the first time	
+Pre-Q Cloze	Stock exchange functions: {{c1::raising share capital}}, {{c2::facilitating growth}}, {{c3::selling government bonds}}, {{c4::pricing shares}}, {{c5::safe regulated trading}}		5 items
+Pre-Q Basic	Permanent capital?	Share capital the firm never repays	Think shares, not loans
+Pre-Q Basic	Bullish vs bearish market	Bullish: rising. Bearish: falling	
+Pre-Q Basic	Preference shares?	Fixed dividend paid first; no vote	Compare ordinary shares
+Pre-Q Basic	Ordinary shares?	Dividend from remaining profit; one vote per share	
+Pre-Q Basic	Government bond?	Loan to government: fixed interest, repaid at maturity	
+Pre-Q Basic	Koha?	Māori custom of gift-giving	Reciprocity, not money
+Pre-Q Basic	Banks as intermediaries?	Go-between linking savers and borrowers	
+Pre-Q Basic	NZX?	New Zealand's stock exchange	
+Pre-Q Basic	Broker (shares)?	Agent who buys and sells shares for investors	

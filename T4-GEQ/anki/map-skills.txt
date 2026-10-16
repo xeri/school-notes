@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::60 Map skills
+#tags:geography map-skills
+Pre-Q Basic	Scale (maps)?	Ratio of map distance to ground distance	
+Pre-Q Basic	Easting?	Vertical grid line numbered west to east; quoted first	
+Pre-Q Basic	Northing?	Horizontal grid line numbered south to north; quoted second	
+Pre-Q Cloze	Grid references: {{c1::eastings}} first, then {{c2::northings}}		Along the corridor, up the stairs
+Pre-Q Basic	4-figure grid reference identifies?	A 1 km square, by the lines at its bottom-left corner	
+Pre-Q Basic	How to give a 6-figure grid reference?	Add tenths east then tenths north within the square	Each tenth 0–9
+Pre-Q Cloze	1:50 000 scale: 1 cm = {{c1::500 m}}; 1 km = {{c2::2 cm}}		
+Pre-Q Cloze	1:25 000 scale: 1 cm = {{c1::250 m}}; 1 km = {{c2::4 cm}}		
+Pre-Q Cloze	Ground distance = {{c1::map distance × scale factor}}		
+Pre-Q Cloze	3 ways to show scale: {{c1::ratio}}, {{c2::scale bar}}, {{c3::statement}}		3 forms
+Pre-Q Cloze	Curved route: {{c1::mark a paper strip}} at the start; {{c2::pivot at each bend}}; read the total on the {{c3::scale bar}}		3 steps
+Pre-Q Basic	How to estimate area on a map?	Count whole squares plus part-squares as halves	
+Pre-Q Cloze	16-point compass between N and E: N, {{c1::NNE}}, {{c2::NE}}, {{c3::ENE}}, E		3 points
+Pre-Q Basic	Bearing?	Clockwise angle from grid north, written as three digits	
+Pre-Q Cloze	Measuring a bearing: protractor centre on the {{c1::starting point}}; 0° to {{c2::grid north}}; read {{c3::clockwise}}		3 blanks
+Pre-Q Cloze	Bearings: E = {{c1::090°}}, S = {{c2::180°}}, W = {{c3::270°}}		
+Pre-Q Basic	Back bearing?	Bearing in the opposite direction: add or subtract 180°	e.g. from 060°
+Pre-Q Basic	Contour?	Line joining points of equal height	
+Pre-Q Basic	Contour interval?	Height difference between successive contours	
+Pre-Q Basic	Spot height?	Point on a map marked with its exact height	
+Pre-Q Basic	Close vs widely spaced contours	Close: steep slope. Wide: gentle or flat	
+Pre-Q Basic	Convex slope (contours)?	Contours closer together at the bottom	
+Pre-Q Basic	Concave slope (contours)?	Contours closer together at the top	
+Pre-Q Basic	Contour V pointing uphill?	Valley	
+Pre-Q Basic	Contour V pointing downhill?	Spur	
+Pre-Q Basic	Concentric closed contours?	Hill or summit	
+Pre-Q Basic	Col (saddle)?	Low point on a ridge between two summits	
+Pre-Q Basic	Gradient?	Steepness of a slope	
+Pre-Q Cloze	Gradient = {{c1::vertical rise ÷ horizontal distance}}		Convert map cm to metres first
+Pre-Q Basic	How to express gradient as "1 in x"?	Horizontal distance ÷ vertical rise	
+Pre-Q Basic	Cross-section?	Side-on profile of the ground along a chosen line	
+Pre-Q Cloze	Drawing a cross-section: mark {{c1::contour crossings}} on a paper edge; plot {{c2::heights}} on the graph; join with a {{c3::smooth curve}}		3 steps
+Pre-Q Basic	Vertical exaggeration?	Vertical scale ÷ horizontal scale of a cross-section	
+Pre-Q Cloze	Drainage patterns: {{c1::dendritic}}, {{c2::radial}}, {{c3::trellis}}, {{c4::parallel}}		4 patterns
+Pre-Q Basic	Routes and relief on a map?	Follow valleys and passes; avoid steep land and marsh	
+Pre-Q Basic	Bridging point (map evidence)?	Road crosses a river at a narrow point	
+Pre-Q Basic	Dry point (map evidence)?	Higher ground above floodplain or marsh	
+Pre-Q Cloze	Describing a map distribution: {{c1::general pattern}} first, then {{c2::exceptions}}, anchored by {{c3::grid references}}		3 blanks
+Pre-Q Basic	Map question: what evidence is credited?	Map evidence only, not general knowledge	
+Pre-Q Basic	Sketch map?	Simplified hand-drawn map showing one pattern	
+Pre-Q Cloze	Sketch map needs: {{c1::frame and title}}, {{c2::north arrow}}, {{c3::scale}}, {{c4::key}}		4 items
+Pre-Q Basic	Label vs annotation	Label names a feature; annotation explains what it is doing	
+Pre-Q Basic	Oblique photograph?	Photo taken at an angle, showing perspective	
+Pre-Q Cloze	Describing an oblique photo: {{c1::foreground}}, {{c2::middle distance}}, {{c3::background}}	Then left, centre, right	3 zones
+Pre-Q Basic	Vertical aerial photograph?	Photo taken straight down, like a map	
+Pre-Q Basic	GIS?	Layers of data placed over a map	

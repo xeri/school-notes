@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::47 Water and the environmental risks of development
+#tags:geography environmental-risks
+Pre-Q Basic	Natural resource?	Anything in nature people can use (water, soil, minerals)	
+Pre-Q Basic	Resource depletion?	Using a resource faster than it is replaced	
+Pre-Q Basic	Conservation?	Protecting and managing resources and environments so they last	
+Pre-Q Basic	Sustainability?	Meeting present needs without stopping future generations meeting theirs	
+Pre-Q Basic	Ecological footprint?	Land and sea area needed to supply resources and absorb waste	
+Pre-Q Basic	Circular economy?	Reduce, reuse, repair and recycle so materials stay in use	
+Pre-Q Basic	Water stress?	Water demand approaches or exceeds supply	
+Pre-Q Basic	Physical water scarcity?	Not enough water exists (deserts, drought)	
+Pre-Q Basic	Economic water scarcity?	Water exists but people can't afford the infrastructure	not physical scarcity
+Pre-Q Basic	Water security?	Reliable access to enough safe water	
+Pre-Q Basic	Aquifer (water supply)?	Underground rock layer storing groundwater	
+Pre-Q Basic	Desalination?	Removing salt from sea water to make fresh water	
+Pre-Q Basic	Pollution haven?	Country with weak environmental rules that attracts polluting industry	
+Pre-Q Basic	Externality?	Cost or benefit of an activity falling on third parties	
+Pre-Q Basic	Kaitiakitanga?	Māori guardianship and protection of the environment	
+Pre-Q Basic	Environmental impact assessment?	Study of a project's environmental effects before approval	
+Pre-Q Cloze	Resource use rises with {{c1::population growth}}, rising {{c2::incomes}}, {{c3::industrialisation}}, {{c4::urbanisation}}		4 items
+Pre-Q Cloze	Global freshwater use: agriculture ~{{c1::70%}}, industry ~{{c2::20%}}, domestic ~{{c3::10%}}	Mostly irrigation	
+Pre-Q Basic	Water use: HIC vs LIC?	HIC: more per person, more industry. LIC: more for farming	
+Pre-Q Cloze	Water sources: rivers and lakes, {{c1::reservoirs}}, {{c2::aquifers}}, {{c3::rainwater tanks}}, {{c4::desalination}}		4 gaps
+Pre-Q Cloze	Water shortage causes: {{c1::drought}}, rising {{c2::demand}}, {{c3::pollution}}, {{c4::over-pumping}} of aquifers		4 items
+Pre-Q Cloze	Water shortage effects: {{c1::disease}}, {{c2::collection time}}, {{c3::crop failure}}, {{c4::conflict}}		4 items
+Pre-Q Cloze	Increase water supply: {{c1::dams}}, {{c2::wells and boreholes}}, {{c3::transfer schemes}}, {{c4::desalination}}		4 items
+Pre-Q Cloze	Reduce water demand: {{c1::metering}}, {{c2::efficient irrigation}}, {{c3::fixing leaks}}, drought {{c4::restrictions}}		4 items
+Pre-Q Basic	Desalination: drawback?	Expensive and energy-hungry	
+Pre-Q Cloze	Auckland's water: {{c1::Waitākere}} and {{c2::Hūnua}} dams, groundwater, the {{c3::Waikato River}}		3 sources
+Pre-Q Basic	Auckland 2020 drought: response?	Restrictions from May 2020; more water taken from the Waikato	dams fell below half
+Pre-Q Basic	Canterbury aquifers: problem?	Dairy nitrate in drinking groundwater; over-extraction	
+Pre-Q Basic	Air pollution from development: causes?	Fossil-fuel power, industry and vehicles	
+Pre-Q Basic	Water pollution from development: causes?	Effluent and sewage; farm runoff; oil spills	
+Pre-Q Basic	Soil degradation: causes?	Overgrazing and over-cultivation; deforestation; salinisation	
+Pre-Q Basic	Soil degradation: effects?	Erosion and desertification; lower yields	
+Pre-Q Basic	Why is pollution often worst in industrialising countries?	Weak laws and older technology; growth comes first	
+Pre-Q Cloze	Balancing development and environment: {{c1::laws}}, {{c2::carbon pricing}}, {{c3::clean technology}}, {{c4::zoning}}		4 items
+Pre-Q Basic	Who pays for environmental damage?	The poor, people near the source and future generations	
+Pre-Q Basic	Why do views on environmental damage differ?	LICs prioritise growth; HICs can afford strict rules	

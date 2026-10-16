@@ -1,46 +1,54 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Mathematics::7 Vectors, matrices and transformations
-What does the column vector (x, y) mean?	x across and y up
-How must you mark a vector in a handwritten answer?	Underline it or use an arrow — an unmarked letter loses the mark
-Magnitude of a vector	\(|\mathbf{a}| = \sqrt{x^2+y^2}\)
-Magnitude of (5, −12)	13
-How do you add vectors?	Component by component
-What is \(-\mathbf{a}\)?	The same magnitude as a but the opposite direction
-Relationship between \(\overrightarrow{AB}\) and \(\overrightarrow{BA}\)	\(\overrightarrow{BA} = -\overrightarrow{AB}\)
-How do you tell whether two vectors are parallel?	One is a scalar multiple of the other — this also proves two lines are parallel
-\(\overrightarrow{AB}\) in terms of position vectors	\(\mathbf{b}-\mathbf{a}\) — destination minus start
-Position vector of the midpoint of AB	\(\tfrac12(\mathbf{a}+\mathbf{b})\)
-How do you find a route vector like \(\overrightarrow{AC}\)?	Travel along available arrows: \(\overrightarrow{AB}+\overrightarrow{BC}\), negating any arrow you go against
-How do you prove three points are collinear?	Show two vectors between them are parallel and share a point
-What must you state to describe a reflection fully?	The equation of the mirror line
-What must you state to describe a rotation fully?	The angle, the direction, and the centre
-What must you state to describe a translation fully?	The column vector
-What must you state to describe an enlargement fully?	The scale factor and the centre
-Reflection in y = x maps (a,b) to	(b, a)
-Reflection in y = −x maps (a,b) to	(−b, −a)
-Reflection in the x-axis maps (a,b) to	(a, −b)
-Rotation 90° anticlockwise about O maps (a,b) to	(−b, a)
-Rotation 180° about O maps (a,b) to	(−a, −b)
-Rotation 90° clockwise about O maps (a,b) to	(b, −a)
-What does an enlargement with 0 < k < 1 do?	Makes the shape smaller — it is still called an enlargement
-What does a negative scale factor do?	Puts the image on the opposite side of the centre, inverted
-Enlarge (5,3) by scale factor −2 about the origin	(−10, −6)
-How do you find the centre of a rotation?	Construct the perpendicular bisectors of two lines joining corresponding points
-What is the order of a matrix?	Rows × columns
-Condition for multiplying an m×n by a p×q matrix	n must equal p
-Is matrix multiplication commutative?	No — AB ≠ BA in general
-The 2×2 identity matrix	\(\begin{pmatrix}1&0\\0&1\end{pmatrix}\)
-Determinant of \(\begin{pmatrix}a&b\\c&d\end{pmatrix}\)	\(ad-bc\)
-Inverse of a 2×2 matrix	\(\frac{1}{ad-bc}\begin{pmatrix}d&-b\\-c&a\end{pmatrix}\)
-What is a singular matrix?	One with determinant 0 — it has no inverse
-Matrix for reflection in the x-axis	\(\begin{pmatrix}1&0\\0&-1\end{pmatrix}\)
-Matrix for reflection in y = x	\(\begin{pmatrix}0&1\\1&0\end{pmatrix}\)
-Matrix for rotation 90° anticlockwise	\(\begin{pmatrix}0&-1\\1&0\end{pmatrix}\)
-Matrix for rotation 180°	\(\begin{pmatrix}-1&0\\0&-1\end{pmatrix}\)
-Matrix for enlargement scale factor k	\(\begin{pmatrix}k&0\\0&k\end{pmatrix}\)
-How do you find the matrix of a transformation?	Apply it to (1,0) and (0,1); the images are the columns
-What does RM(a) = c mean?	Apply M first, then R
-Determinant of a reflection matrix	−1 — area preserved, orientation flipped
-What does the determinant tell you geometrically?	Area is multiplied by its absolute value under the transformation (k² for an enlargement of scale factor k)
+#notetype column:1
+#deck:Mathematics::7 Vectors, transformations and matrices
+#tags:maths vectors-matrices
+Pre-Q Basic	Vector?	A quantity with magnitude and direction	
+Pre-Q Basic	Position vector?	The vector from the origin to a point	
+Pre-Q Basic	Invariant point?	A point that does not move under a transformation	
+Pre-Q Basic	Matrix order?	Rows × columns	
+Pre-Q Basic	Singular matrix?	Determinant 0, so it has no inverse	
+Pre-Q Basic	Column vector \(\begin{pmatrix}x\\y\end{pmatrix}\) means?	x across (right), y up	
+Pre-Q Basic	How must a handwritten vector be shown?	Underlined or with an arrow	
+Pre-Q Cloze	Magnitude \(\left|\begin{pmatrix}x\\y\end{pmatrix}\right| = {{c1::\sqrt{x^2+y^2} }}\)		Pythagoras
+Pre-Q Cloze	Vectors add {{c1::component by component}}; a scalar multiplies {{c2::each component}}		
+Pre-Q Cloze	\(\overrightarrow{BA} = {{c1::-\overrightarrow{AB} }}\)	Same magnitude, opposite direction	
+Pre-Q Basic	Parallel vectors?	One is a scalar multiple of the other	
+Pre-Q Basic	How to express \(\overrightarrow{AC}\) by a route?	Follow arrows, \(\overrightarrow{AB}+\overrightarrow{BC}\); against an arrow is negative	
+Pre-Q Cloze	\(\overrightarrow{AB} = {{c1::\mathbf{b}-\mathbf{a} }}\)	a and b are position vectors	Order matters
+Pre-Q Cloze	Midpoint of AB: position vector \({{c1::\tfrac12(\mathbf{a}+\mathbf{b})}}\)		
+Pre-Q Basic	How to prove three points are collinear?	Two vectors between them are parallel and share a point	2 conditions
+Pre-Q Cloze	Describe a reflection: state {{c1::the equation of the mirror line}}		
+Pre-Q Cloze	Describe a rotation: state {{c1::the angle}}, {{c2::the direction}} and {{c3::the centre}}	180° needs no direction	3 marks
+Pre-Q Cloze	Describe a translation: state {{c1::the column vector}}	Not coordinates	
+Pre-Q Cloze	Describe an enlargement: state {{c1::the scale factor}} and {{c2::the centre}}		
+Pre-Q Basic	Informal words like "flip" or "turn" in a description?	Lose marks; use the proper name	
+Pre-Q Basic	How to find a mirror line?	Perpendicular bisector of a point and its image	Join point to image
+Pre-Q Cloze	Reflect (a, b) in the x-axis: {{c1::(a, −b)}}; in the y-axis: {{c2::(−a, b)}}		
+Pre-Q Cloze	Reflect (a, b) in y = x: {{c1::(b, a)}}; in y = −x: {{c2::(−b, −a)}}		
+Pre-Q Cloze	Reflect (a, b) in x = k: {{c1::(2k − a, b)}}		
+Pre-Q Cloze	Rotate (a, b) about the origin: 90° anticlockwise {{c1::(−b, a)}}; 180° {{c2::(−a, −b)}}; 90° clockwise {{c3::(b, −a)}}		
+Pre-Q Basic	How to find a centre of rotation?	Perpendicular bisectors of two object–image segments meet there	Tracing paper also works
+Pre-Q Basic	How to find the angle of rotation?	Compare one edge's direction before and after	
+Pre-Q Basic	How to find a translation vector?	Count across then up from a point to its image	
+Pre-Q Basic	How to find a centre of enlargement?	Lines through corresponding points meet there	Ray method
+Pre-Q Cloze	Enlargement scale factor = {{c1::image length}} ÷ {{c2::object length}}		
+Pre-Q Basic	Enlargement with \(0 &lt; k &lt; 1\)?	Image is smaller (still called an enlargement)	
+Pre-Q Basic	Enlargement with a negative scale factor?	Image on the opposite side of the centre, inverted	Rays pass through the centre
+Pre-Q Basic	How to draw an enlargement?	Image = centre + k × (point − centre)	
+Pre-Q Basic	\(EF(A)\): which transformation acts first?	F (nearest the shape), then E	Same order for matrices
+Pre-Q Basic	"Single transformation" question: answer?	One transformation, not a combination	
+Pre-Q Cloze	Invariant points: reflection {{c1::the mirror line}}; rotation {{c2::only the centre}}; translation {{c3::none}}	Enlargement: only the centre	
+Pre-Q Basic	Matrix addition vs scalar multiplication?	Element by element (same order) vs multiply every element	
+Pre-Q Cloze	Matrix product: (m×n)(p×q) possible if {{c1::n = p}}; result is {{c2::m×q}}		Inner dimensions
+Pre-Q Basic	Matrix multiplication: each entry?	A row of the first × a column of the second	
+Pre-Q Basic	Does AB = BA for matrices?	Not in general	
+Pre-Q Cloze	2×2 zero matrix {{c1::\(\begin{pmatrix}0&0\\0&0\end{pmatrix}\)}}; identity I {{c2::\(\begin{pmatrix}1&0\\0&1\end{pmatrix}\)}}	AI = IA = A	
+Pre-Q Cloze	Determinant of \(\begin{pmatrix}a&b\\c&d\end{pmatrix}\) = {{c1::\(ad-bc\)}}		
+Pre-Q Cloze	Inverse \(A^{-1} = \frac{1}{ {{c1::ad-bc}} }\begin{pmatrix} {{c2::d}} & {{c2::-b}} \\ {{c2::-c}} & {{c2::a}} \end{pmatrix}\)	Only if ad − bc ≠ 0	Swap one pair, negate the other
+Pre-Q Cloze	Reflection matrices: x-axis {{c1::\(\begin{pmatrix}1&0\\0&-1\end{pmatrix}\)}}; y-axis {{c2::\(\begin{pmatrix}-1&0\\0&1\end{pmatrix}\)}}; y = x {{c3::\(\begin{pmatrix}0&1\\1&0\end{pmatrix}\)}}; y = −x {{c4::\(\begin{pmatrix}0&-1\\-1&0\end{pmatrix}\)}}		Columns are images of (1, 0) and (0, 1)
+Pre-Q Cloze	Rotation matrices: 90° anticlockwise {{c1::\(\begin{pmatrix}0&-1\\1&0\end{pmatrix}\)}}; 180° {{c2::\(\begin{pmatrix}-1&0\\0&-1\end{pmatrix}\)}}; 90° clockwise {{c3::\(\begin{pmatrix}0&1\\-1&0\end{pmatrix}\)}}	About the origin	
+Pre-Q Cloze	Enlargement, scale factor k, centre origin: matrix {{c1::\(\begin{pmatrix}k&0\\0&k\end{pmatrix}\)}}		
+Pre-Q Basic	How to find a transformation's matrix?	Images of \((1, 0)\) and \((0, 1)\) become the columns	
+Pre-Q Basic	Determinant: geometric meaning?	Area scale factor (its size)	
+Pre-Q Basic	Determinant of a reflection matrix?	−1 (area kept, orientation flipped)	

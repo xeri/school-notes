@@ -1,64 +1,55 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Economics::7 Development, population and poverty
-Difference between economic growth and economic development	Growth is a rise in real output; development is an improvement in quality of life and living standards
-Does economic growth guarantee development?	No — the gains can be wasted or kept by a wealthy elite
-How does growth enable development?	Higher real GDP means more can be spent on healthcare and education
-Definition of economic welfare	The level of prosperity and the quality of living standards in an economy
-Three development objectives	Producing more necessities, raising living standards through education and healthcare, expanding economic and social choice
-Why should several development indicators be used together?	Each single indicator misses something, and they often disagree
-Main weakness of GDP per head as a development indicator	It is an average, so it hides how income is distributed
-Three dimensions of the Human Development Index	Income (GDP per head), education (years of schooling), health (life expectancy)
-Range of the HDI	0 to 1, with higher meaning more developed
-Four limitations of the HDI	Ignores income distribution, gender equality and human rights, the environment, and cultural differences
-What does the Gini coefficient measure?	How evenly income (or wealth) is distributed across a population
-Gini coefficient of 0 and of 1	0 is perfect equality; 1 is perfect inequality
-Does a high Gini coefficient mean a country is poor?	No — it measures distribution, not the level of income
-Purpose of the Human Poverty Index	To measure deprivation directly, with separate versions for developing (HPI-1) and developed (HPI-2) countries
-Three measures in HPI-1 for developing countries	Probability of dying before 40, adult illiteracy, population without clean water (also income poverty and underweight children)
-Meaning of MEDC and LEDC	More Economically Developed Country and Less Economically Developed Country
-Four features of an MEDC	Large modern farms, many firms of different sizes, good transport and communications, a stable government and healthy, educated population
-Four features of an LEDC	Low-output farming, few firms, poor transport, little education, healthcare and clean water
-Definition of an emerging economy	A country developing rapidly, also called a newly industrialised country, such as China or India
-Features of an underdeveloped economy	Very low GDP per head, high population growth, poor infrastructure and services, low literacy and productivity, a large primary sector
-Features of a developing economy	Industry expanding and extreme poverty falling, rising foreign investment, but possibly still low living standards
-Name five reasons for low economic development	Reliance on agriculture, lack of capital, too little investment in education and health, poor infrastructure, high population growth (also unstable government and unfair trade)
-Why does a lack of capital keep development low?	Low incomes leave little to invest in machinery, so too little is produced
-Limitation of the MEDC and LEDC labels	They force a continuous spectrum into two boxes and hide differences within countries
-Four internal development gaps within a country	Urban against rural, region against region, formal against informal work, and between social groups
-Definition of birth rate	Live births per 1000 of the population per year
-Definition of death rate	Deaths per 1000 of the population per year
-Formula for natural increase	Birth rate − death rate
-Definition of net migration	Immigration − emigration
-Formula for population change	Natural increase + net migration
-Growth of a population of 10 million with birth rate 22, death rate 9 and net migration +20 000	130 000 + 20 000 = 150 000, or 1.5%
-Five factors that lower the birth rate	Fewer child deaths, contraception, female employment, later marriage, changing customs
-Why do birth rates stay high in many LEDCs?	Many children still die, children work and support parents, and contraception is less known or accepted
-Three factors that lower the death rate	Better food, sanitation and housing; medical advances; access to healthcare
-Three factors that raise the death rate	Disease such as HIV and malaria, famine and war, unhealthy diets and smoking
-Two benefits of higher net migration to a receiving country	Fills skill shortages, and adds tax revenue and entrepreneurship
-Two costs of higher net migration to a receiving country	Pressure on house prices and services, and lower wages in some occupations
-Definition of the brain drain	Skilled workers leaving a country for higher-paid work overseas
-Four features of a population	Age, sex, geographic and occupational distribution
-Shape of an LEDC population pyramid	Wide base and narrow top
-Shape of an MEDC population pyramid	Narrow base with a bulge in the middle and upper age groups
-Formula for the dependency ratio	(Population aged 0–14 + aged 65 and over) ÷ population aged 15–64 × 100
-Dependency ratio with 3 million under 15, 1 million over 64 and 6 million aged 15 to 64	(3 + 1) ÷ 6 × 100 ≈ 66.7
-Three effects of an ageing population	More pressure on pensions and healthcare, a shrinking labour force, a heavier tax burden on workers
-Two consequences of urbanisation	Higher production and living standards, but more use of land and water and more pollution
-Definition of optimum population	The population at which output per head is maximised
-Definition of over-population	Too many people for the available resources
-Definition of under-population	Too little labour to make full use of the available resources
-Three measures to reduce population growth	Improve education, provide or subsidise contraception, remove financial incentives to have children
-Three measures to increase population growth	More immigration, financial incentives such as paid parental leave, flexible work for families
-Definition of poverty	Lacking the financial resources and essentials for a minimum standard of living
-Definition of extreme (absolute) poverty	Being unable to meet basic needs for food, water, clothing and shelter — below about US$1.25 a day
-Definition of moderate poverty	Basic needs met but no resources to improve life — below about US$2.50 a day
-Definition of relative poverty	Lacking the resources that others in the same country normally have
-Four groups more affected by poverty	Women, people with disabilities, minority groups, rural people
-Name six causes of poverty	Poor access to water and food, no access to jobs, conflict, inequality, poor education, climate change
-The poverty cycle	Low income → too little food and healthcare → malnutrition → sickness and poor child development → low energy and concentration → few work opportunities → low income
-Four criteria for assessing a poverty-reduction policy	Access, quality, implementation capacity, time before benefits arrive
-How does education help reduce poverty?	It raises skills, productivity and earnings, and lowers birth rates
-Main risk of relying on aid	Dependency, misdirection, or conditions attached
+#notetype column:1
+#deck:Economics::9 Development, population and poverty
+#tags:economics development
+Pre-Q Basic	Economic growth vs economic development	Growth: more real output. Development: better quality of life	
+Pre-Q Basic	Economic development?	Improvement in quality of life and living standards	
+Pre-Q Basic	Can growth happen without development?	Yes; gains wasted or kept by a wealthy few	
+Pre-Q Basic	Real GDP per head: main weakness as an indicator?	An average; hides how income is distributed	
+Pre-Q Cloze	Other development indicators: {{c1::life expectancy}}, {{c2::literacy rate}}, {{c3::infant mortality}}, {{c4::access to clean water}}		4 items
+Pre-Q Basic	Human Development Index (HDI)?	UN composite measure of living standards, from 0 to 1	
+Pre-Q Cloze	HDI components: {{c1::income}} (GNI per head), {{c2::education}} (years of schooling), {{c3::health}} (life expectancy)		3 items
+Pre-Q Cloze	HDI limits: ignores {{c1::income distribution}}, {{c2::gender equality and rights}}, {{c3::the environment}}, {{c4::cultural differences}}		4 items
+Pre-Q Basic	Gini coefficient?	Measure of how evenly income is distributed	
+Pre-Q Cloze	Gini coefficient {{c1::0}} = perfect equality; {{c2::1}} = perfect inequality		
+Pre-Q Basic	Lorenz curve?	Cumulative % of income against cumulative % of population, poorest first	
+Pre-Q Cloze	Gini from a Lorenz curve = {{c1::A}} ÷ ({{c2::A + B}})	A: between equality line and curve. B: below curve	Areas, not lengths
+Pre-Q Basic	Human Poverty Index (HPI)?	UN index counting deprivation directly	
+Pre-Q Cloze	The {{c1::Multidimensional Poverty Index (MPI)}} replaced the HPI; it covers health, education and {{c2::living standards}}		
+Pre-Q Cloze	MEDC = {{c1::More Economically Developed Country}}; LEDC = {{c2::Less Economically Developed Country}}		
+Pre-Q Cloze	LEDC features: {{c1::low-output farming}}, {{c2::few firms}}, {{c3::poor transport}}, {{c4::little education and healthcare}}		4 items
+Pre-Q Basic	Emerging economy?	Country developing rapidly; newly industrialised	
+Pre-Q Basic	Limits of MEDC and LEDC labels?	Two boxes for a spectrum; hide within-country gaps	
+Pre-Q Cloze	Reasons for low development: {{c1::dependence on agriculture}}, {{c2::lack of capital}}, {{c3::poor education and health}}, {{c4::poor infrastructure}}, {{c5::high population growth}}, {{c6::unstable government}}		6 items
+Pre-Q Cloze	Vicious circle: low income → low {{c1::saving}} → low {{c2::investment}} → low {{c3::productivity}} → low income		
+Pre-Q Cloze	Within-country gaps: {{c1::urban vs rural}}, {{c2::region vs region}}, {{c3::formal vs informal work}}		
+Pre-Q Basic	Birth rate vs death rate	Live births vs deaths, per 1000 people per year	
+Pre-Q Cloze	Natural increase = {{c1::birth rate}} − {{c2::death rate}}		
+Pre-Q Cloze	Net migration = {{c1::immigration}} − {{c2::emigration}}		
+Pre-Q Cloze	Population change = {{c1::natural increase}} + {{c2::net migration}}		
+Pre-Q Basic	How to turn a rate per 1000 into number of people?	Divide by 1000, multiply by population	
+Pre-Q Cloze	Birth rate falls with: {{c1::fewer child deaths}}, {{c2::contraception}}, {{c3::female employment}}, {{c4::later marriage}}		4 items
+Pre-Q Cloze	Death rate falls with: {{c1::better living standards}}, {{c2::medical advances}}, {{c3::healthcare access}}		
+Pre-Q Cloze	Immigration benefits: {{c1::fills skill gaps}}, {{c2::more tax revenue}}, {{c3::entrepreneurship}}		
+Pre-Q Basic	Brain drain?	Skilled workers emigrating for higher pay abroad	
+Pre-Q Cloze	4 population distributions: {{c1::age}}, {{c2::sex}}, {{c3::geographic}}, {{c4::occupational}}		
+Pre-Q Basic	LEDC population pyramid shape?	Wide base, narrow top	
+Pre-Q Basic	MEDC population pyramid shape?	Narrow base; bulge in middle and upper ages	
+Pre-Q Cloze	Reading a pyramid: base shows {{c1::birth rate}}; top shows {{c2::life expectancy}}; bulges show {{c3::booms, wars or migration}}		
+Pre-Q Cloze	Dependency ratio = ({{c1::aged 0–14 + aged 65+}}) ÷ {{c2::aged 15–64}} × 100		Dependants over workers
+Pre-Q Cloze	Ageing population effects: higher {{c1::pension and healthcare costs}}, smaller {{c2::workforce}}, heavier {{c3::tax burden on workers}}		
+Pre-Q Basic	Optimum population?	Level at which output per head is maximised	
+Pre-Q Basic	Over-population?	Too many people for the available resources	
+Pre-Q Basic	Under-population?	Too few workers to use resources fully	
+Pre-Q Cloze	Cutting population growth: {{c1::education}}, {{c2::contraception}}, {{c3::removing child incentives}}, {{c4::limiting immigration}}		4 items
+Pre-Q Basic	Poverty?	Lacking resources for a minimum standard of living	
+Pre-Q Basic	Extreme (absolute) poverty?	Cannot meet basic needs for food, water and shelter	
+Pre-Q Basic	Moderate poverty?	Basic needs met but no resources to improve life	
+Pre-Q Basic	Relative poverty?	Lacking what others in the same country normally have	
+Pre-Q Cloze	Causes of poverty in every country: {{c1::unemployment}}, {{c2::low wages}}, {{c3::illness or disability}}, {{c4::age}}		4 items
+Pre-Q Cloze	Poverty cycle: low income → poor {{c1::food and healthcare}} → {{c2::sickness}} → low {{c3::energy and schooling}} → few jobs → low income		
+Pre-Q Cloze	Anti-poverty policies: {{c1::growth}}, {{c2::education}}, {{c3::state benefits}}, {{c4::progressive tax}}, {{c5::minimum wage}}		5 items
+Pre-Q Cloze	Judge development policies on: {{c1::access}}, {{c2::quality}}, {{c3::implementation capacity}}, {{c4::time before benefits}}		4 items
+Pre-Q Basic	Income poverty?	Household income below the official poverty line	
+Pre-Q Basic	Occupational distribution?	What work people do, by sector	MEDCs mostly services

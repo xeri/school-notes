@@ -1,0 +1,68 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::05 Settlement and service provision
+#tags:geography settlement-services
+Pre-Q Basic	Settlement?	A place where people live, from an isolated farm to a city	
+Pre-Q Basic	Site (settlement)?	The actual land a settlement is built on	
+Pre-Q Basic	Situation (settlement)?	Position relative to the surrounding region, routes and places	
+Pre-Q Basic	Site vs situation: which explains growth?	Site: why it began. Situation: why it grew	one is the land, one is the position
+Pre-Q Basic	Wet-point site?	A reliable spring or well in a dry area	think oasis towns
+Pre-Q Basic	Dry-point site?	A mound or terrace above flood level	think flood plains
+Pre-Q Basic	Bridging point?	Lowest or narrowest crossing point of a river	think London on the Thames
+Pre-Q Basic	Route centre (nodal point)?	Where routes meet: gap, confluence or crossroads	
+Pre-Q Basic	Defensive site examples?	Hilltop, meander loop or island	
+Pre-Q Basic	Dispersed settlement?	Isolated buildings with no central cluster	
+Pre-Q Basic	Nucleated settlement?	Buildings clustered round a central point	
+Pre-Q Basic	Linear settlement?	Buildings strung out along a route, river or valley	
+Pre-Q Basic	Function (of a settlement)?	Its main economic or social purpose (port, resort, capital)	
+Pre-Q Basic	Hamlet?	Very small rural settlement of a few houses, few services	
+Pre-Q Basic	Conurbation?	Large urban area formed when neighbouring towns merge	
+Pre-Q Basic	Settlement hierarchy?	Ranking of settlements by population, services and sphere of influence	
+Pre-Q Basic	Primate city?	More than twice the size of the next city; dominates the country	think Bangkok, Lima
+Pre-Q Basic	Threshold population?	Minimum customers needed for a service to survive	a number of people, not a distance
+Pre-Q Basic	Range (of a service)?	Maximum distance people will travel to use a service	
+Pre-Q Basic	Sphere of influence?	Area served by a settlement or service	
+Pre-Q Basic	High-order service?	Expensive, rarely used, large threshold (hospital)	
+Pre-Q Basic	Middle-order service?	Medium threshold and range, used weekly (supermarket)	
+Pre-Q Basic	Low-order service?	Cheap, used often, small threshold (dairy)	
+Pre-Q Basic	Convenience goods?	Cheap goods bought often near home (bread, milk)	
+Pre-Q Basic	Comparison goods?	Expensive goods bought rarely after comparing shops (clothes)	
+Pre-Q Basic	Central place theory?	Christaller (1933): settlements serve hexagonal market areas in a hierarchy	1933 German geographer
+Pre-Q Basic	Regional shopping centre?	Large indoor mall at an accessible suburban site serving a region	
+Pre-Q Basic	Out-of-town retail park?	Big single-storey stores with car parks on cheap edge land	
+Pre-Q Basic	Suburban parade?	Row of local shops along a suburban main road	
+Pre-Q Basic	Hub-and-spoke network?	All routes run to one central hub, where journeys change	think airline networks
+Pre-Q Basic	Urban hierarchy?	Ranking of a country's towns and cities by size, services and influence	
+Pre-Q Basic	Multiplier effect (settlement growth)?	New jobs and spending create more jobs and services, drawing more people	
+Pre-Q Basic	Describe a settlement's site from a map?	Say what it is on, then what it is near	
+Pre-Q Cloze	Dispersed settlement causes: {{c1::large farms}}, {{c2::pastoral farming}}, {{c3::difficult relief}}		3 items
+Pre-Q Cloze	Nucleated settlement causes: {{c1::defence}}, a single {{c2::water source}}, a {{c3::route centre}}, shared {{c4::services}}		4 items
+Pre-Q Basic	Rural vs urban settlement?	Rural: small, primary jobs. Urban: large, industry and services	
+Pre-Q Cloze	Settlements grow with a good {{c1::situation}}, {{c2::flat land}}, {{c3::resources and jobs}}, {{c4::capital status}}		4 items
+Pre-Q Basic	Why does a mountain village stay small?	Little flat land and isolation; no jobs, so the young leave	
+Pre-Q Cloze	Settlement hierarchy upward: isolated dwelling, {{c1::hamlet}}, {{c2::village}}, town, city, {{c3::conurbation}}, capital		3 gaps
+Pre-Q Basic	Moving up the settlement hierarchy?	Settlements fewer and further apart; more higher-order services	
+Pre-Q Basic	When is a service viable?	When its range includes its threshold population	
+Pre-Q Basic	Range vs threshold?	Range: a distance. Threshold: a number of people	commonly confused
+Pre-Q Basic	High-order vs low-order: threshold and range?	High-order: larger threshold and longer range	
+Pre-Q Basic	How to map a sphere of influence?	Survey shoppers' origins; plot them; line round the outermost points	
+Pre-Q Basic	Why do CBD shops have a large sphere of influence?	High-order goods, wide choice; focus of transport routes	
+Pre-Q Basic	Central place theory: limitation?	Land is not uniform; people don't always use the nearest centre	
+Pre-Q Cloze	Modern shopping hierarchy, top down: {{c1::CBD}}, {{c2::regional shopping centre}}, {{c3::retail park}}, suburban parade, {{c4::corner shop}}		4 gaps
+Pre-Q Basic	Online retail: range and threshold?	Unlimited range; almost no threshold	
+Pre-Q Basic	Out-of-town and online shopping: effect on the CBD?	Empty shops; feeds inner-city decay	
+Pre-Q Basic	How do councils respond to CBD retail decline?	Pedestrianisation, events and CBD apartments	
+Pre-Q Basic	Hub-and-spoke network: advantages?	Far fewer routes; fuller, cheaper vehicles	
+Pre-Q Basic	Hub-and-spoke network: disadvantages?	Longer spoke-to-spoke trips; delays at the hub spread	
+Pre-Q Basic	Hub-and-spoke network examples?	Airline domestic hubs; supermarket distribution centres	
+Pre-Q Basic	Why do hub-and-spoke networks help big settlements grow?	The hub is most accessible, so high-order services locate there	
+Pre-Q Basic	Why are rural services closing in HICs?	Cars extend range, so village services fall below threshold	think car ownership
+Pre-Q Basic	Rural service closures: who suffers most?	People without cars (the elderly, young and poor)	
+Pre-Q Basic	Responses to rural service decline?	Mobile and online services; community-run shops	
+Pre-Q Cloze	NZ urban hierarchy top: {{c1::Auckland}}, {{c2::Wellington}}, {{c3::Christchurch}}, then Hamilton and Dunedin		3 items
+Pre-Q Basic	Why does Auckland top NZ's urban hierarchy?	Two harbours and the main entry point to NZ	
+Pre-Q Cloze	Wellington: NZ capital since {{c1::1865}}, for its {{c2::central}} location		
+Pre-Q Basic	Christchurch's early growth?	Canterbury Plains and Lyttelton port	
+Pre-Q Basic	Why did Hamilton overtake Dunedin?	Service town for Waikato dairy land	
+Pre-Q Basic	Does NZ show a primate city pattern?	Yes: Auckland is about 3× the next city	

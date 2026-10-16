@@ -1,0 +1,68 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::40 Development and inequality
+#tags:geography development
+Pre-Q Basic	Development?	Improvement in quality of life and standard of living	
+Pre-Q Basic	Economic development?	Rising value of goods and services produced; national income	
+Pre-Q Basic	Social development?	Better quality of life, well-being, equality and justice	
+Pre-Q Basic	Political development?	More democracy and freedom of speech	
+Pre-Q Basic	Environmental development?	Greater sustainability; less pollution and resource use	
+Pre-Q Basic	Economic growth?	An increase in a country's output or income	
+Pre-Q Basic	Economic growth vs development?	Growth: more output. Development: better lives	growth may not reach people
+Pre-Q Basic	Growth without development?	Gains go to an élite or destroy the environment	
+Pre-Q Basic	Standard of living?	Material conditions: income and possessions	not quality of life
+Pre-Q Basic	Quality of life?	Overall well-being: health, safety and freedom as well as income	wider than income
+Pre-Q Basic	Sustainable development?	Meeting present needs without harming future generations' ability to meet theirs	
+Pre-Q Basic	Gross domestic product (GDP)?	Total value of goods and services a country produces in a year	
+Pre-Q Basic	GDP per capita?	GDP ÷ population: average income per person	
+Pre-Q Basic	GNI per capita?	National income, including earnings abroad, ÷ population	
+Pre-Q Basic	Purchasing power parity (PPP)?	Income adjusted for local prices, for fair comparison	think what money buys
+Pre-Q Basic	Human Development Index (HDI)?	Composite of income, education and life expectancy on a 0–1 scale	
+Pre-Q Basic	Happy Planet Index (HPI)?	Well-being and life expectancy relative to ecological footprint	
+Pre-Q Basic	Gender Inequality Index?	Composite of inequality between women and men in health, empowerment and work	
+Pre-Q Basic	Multidimensional Poverty Index?	Household deprivations in health, education and living standards	
+Pre-Q Basic	Composite indicator?	Combines several development measures into one score	
+Pre-Q Basic	Development gap?	Difference in wealth and living standards between richest and poorest countries	
+Pre-Q Basic	HIC, MIC, LIC?	High-, middle- and low-income countries, by GNI per head	
+Pre-Q Basic	NIC (newly industrialised country)?	Country grown rapidly through manufacturing (South Korea, China)	
+Pre-Q Basic	Brandt Line?	1980 line dividing a rich "North" from a poor "South"	
+Pre-Q Cloze	SEEP causes of uneven development: {{c1::social}}, {{c2::economic}}, {{c3::environmental}}, {{c4::political}}		S-E-E-P
+Pre-Q Cloze	Cycle of poverty: low income, {{c1::poor health and education}}, {{c2::low productivity}}, low income		
+Pre-Q Basic	Rostow's model?	1960 model of development in five stages	
+Pre-Q Basic	Frank's dependency theory?	Core grew rich buying cheap raw materials from a dependent periphery	core vs periphery
+Pre-Q Basic	Core and periphery (within a country)?	Investment clusters in favoured regions; remote regions lose people and services	
+Pre-Q Basic	Urbanisation of poverty?	Poverty shifting from rural to urban as cities outgrow formal jobs	
+Pre-Q Cloze	Gini coefficient: {{c1::0}} = perfect equality; {{c2::1}} = one person has everything		
+Pre-Q Basic	Tied aid?	Aid that must be spent on the donor's goods or services	
+Pre-Q Basic	Bilateral vs multilateral aid?	Bilateral: government to government. Multilateral: via international organisations	
+Pre-Q Basic	Appropriate (intermediate) technology?	Simple, affordable technology local people can maintain (hand pumps)	
+Pre-Q Basic	Sustainable Development Goals?	17 UN goals for 2015–2030, replacing the Millennium Development Goals	
+Pre-Q Basic	Fair trade?	Guaranteed minimum price plus a premium for farmers	
+Pre-Q Basic	Microfinance?	Small loans for small businesses, often to women	
+Pre-Q Basic	GDP per capita: weaknesses?	An average that hides inequality; misses the informal economy	
+Pre-Q Basic	Why is infant mortality a sensitive development indicator?	Reflects health care, sanitation and mothers' education	
+Pre-Q Basic	Doctors per 100 000: weakness?	Ignores the city vs rural spread	
+Pre-Q Basic	HDI: strength?	Combines social and economic measures	
+Pre-Q Basic	HDI: weaknesses?	Ignores environment and inequality within countries; missing data	
+Pre-Q Basic	HPI: weakness?	No economic dimension	
+Pre-Q Basic	Why can Brazil beat the UK on the HPI?	Similar well-being with a much smaller ecological footprint	
+Pre-Q Basic	Why is no single development indicator enough?	Each reveals some aspects and hides others	
+Pre-Q Basic	Why is the Brandt Line out of date?	Singapore and South Korea are now HICs	
+Pre-Q Basic	Trade trap?	Volatile, low-value raw exports leave no capital to industrialise	think commodity prices
+Pre-Q Basic	Social causes of uneven development?	Disease, low literacy and rapid population growth	
+Pre-Q Basic	Environmental causes of uneven development?	Drought, poor soils and a landlocked position	
+Pre-Q Basic	Political causes of uneven development?	Conflict, corruption and colonial legacy	
+Pre-Q Cloze	Rostow stages: {{c1::traditional society}}, {{c2::preconditions for take-off}}, {{c3::take-off}}, {{c4::drive to maturity}}, {{c5::high mass consumption}}		5 stages
+Pre-Q Basic	Rostow stage 1: traditional society?	Subsistence farming; little technology or trade	e.g. Mali, Niger
+Pre-Q Basic	Rostow stage 3: take-off?	Shift from farming to manufacturing; a few industries grow fast	e.g. Sri Lanka
+Pre-Q Basic	Rostow stage 4: drive to maturity?	Growth and technology spread to many industries	e.g. China
+Pre-Q Basic	Rostow stage 5: high mass consumption?	Many consumer goods; services dominate	e.g. NZ, Australia
+Pre-Q Cloze	Rostow criticisms: {{c1::outdated}}, assumes {{c2::equal starts}}, {{c3::debt}} blocks take-off, ignores {{c4::exploitation}}		4 items
+Pre-Q Basic	Frank's dependency theory: limitation?	Some periphery countries moved up (South Korea, China)	
+Pre-Q Basic	Rostow vs Frank?	Rostow: all can climb the stages. Frank: the core holds the periphery back	sequence vs dependency
+Pre-Q Cloze	Life expectancy: NZ ~{{c1::82}} vs Niger ~{{c2::62}}		
+Pre-Q Cloze	Niger less developed: {{c1::landlocked}}, {{c2::drought and desert}}, rapid {{c3::population growth}}, {{c4::political instability}}		4 items
+Pre-Q Basic	NZ regional inequality: richer vs poorer regions?	Richer: Auckland, Wellington. Poorer: Northland, Gisborne	
+Pre-Q Cloze	NZ regional inequality causes: {{c1::remoteness}}, 1980s {{c2::restructuring}}, reliance on {{c3::primary industries}}, youth {{c4::out-migration}}		4 items
+Pre-Q Basic	Brazil's regional inequality?	Rich industrial south-east vs poor north-east	

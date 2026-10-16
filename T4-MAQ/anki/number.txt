@@ -1,63 +1,60 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Mathematics::1 Number
-Is 1 a prime number?	No — it has only one factor
-Which is the only even prime?	2
-Definition of a rational number	One that can be written as a fraction a/b with integers a and b, b ≠ 0
-Two examples of irrational numbers	π and √2
-How do you find the HCF from prime factorisations?	Multiply the lowest power of each shared prime
-How do you find the LCM from prime factorisations?	Multiply the highest power of every prime that appears
-Relationship between HCF, LCM and the two numbers	HCF × LCM = the product of the two numbers
-Meaning of \(x \in A\)	x is an element of A
-Meaning of \(A'\)	The complement — everything not in A
-Meaning of \(A \cup B\)	Union — in A or B (or both)
-Meaning of \(A \cap B\)	Intersection — in A and B
-Meaning of \(A \subset B\)	A is a proper subset of B
-Symbol for the empty set	∅
-Symbol for the universal set	Ԑ
-What should you fill in first on a Venn diagram?	The intersection (the centre, for three sets), then work outwards
-Convert \(0.\dot7\) to a fraction	\(10x - x = 7 \Rightarrow x = 7/9\)
-Convert \(0.\dot2\dot7\) to a fraction	\(100x - x = 27 \Rightarrow x = 27/99 = 3/11\)
-Order of operations	Brackets, indices, division and multiplication, addition and subtraction
-How do you divide by a fraction?	Multiply by its reciprocal
-\(a^m \times a^n\)	\(a^{m+n}\)
-\(a^m \div a^n\)	\(a^{m-n}\)
-\((a^m)^n\)	\(a^{mn}\)
-\(a^0\)	1
-\(a^{-n}\)	\(1/a^n\)
-\(a^{1/n}\)	The nth root of a
-\(a^{m/n}\)	The nth root of a, all raised to the power m
-Evaluate \(16^{3/4}\)	\((\sqrt[4]{16})^3 = 2^3 = 8\)
-Evaluate \(25^{-1/2}\)	1/5
-Range of A in standard form \(A\times10^n\)	\(1 \leqslant A < 10\)
-Write 0.000082 in standard form	\(8.2\times10^{-5}\)
-How do you count significant figures?	From the first non-zero digit
-Bounds of a length given as 4.6 cm to 1 d.p.	\(4.55 \leqslant l < 4.65\)
-How do you find the maximum of a product?	Multiply the two upper bounds
-How do you find the maximum of a quotient a/b?	Largest numerator ÷ smallest denominator
-Share $450 in the ratio 4:5:6	15 parts, so $120 : $150 : $180
-Increase 80 in the ratio 7:5	\(80\times7/5 = 112\)
-Equation for direct proportion	\(y = kx\)
-Equation for inverse proportion	\(y = k/x\)
-First step in any variation question	Find k from the given pair of values
-Formula for average speed	Total distance ÷ total time (never the average of two speeds)
-Multiplier to increase by 15%	×1.15
-Multiplier to decrease by 15%	×0.85
-How do you do a reverse percentage?	Divide by the multiplier, do not add the percentage back
-A coat costs $84 after a 30% reduction — original price?	\(84 \div 0.70 = \$120\)
-Compound interest formula	\(P(1+r/100)^n\)
-Depreciation formula	\(P(1-r/100)^n\)
-Simple interest formula	\(I = Prt/100\)
-$2000 at 4% compound for 5 years	\(2000\times1.04^5 = \$2433.31\)
-How do you write 14:35 as 12-hour time?	2:35 pm
-Temperature rises from −7 °C to 4 °C — by how much?	\(4-(-7) = 11\) °C
-Order \(\tfrac35\), 0.62, 58%, \(\tfrac{7}{11}\) from smallest	Convert to decimals (0.6, 0.62, 0.58, 0.636…): 58%, \(\tfrac35\), 0.62, \(\tfrac{7}{11}\)
-How do you estimate a calculation?	Round every number to 1 significant figure, then calculate
-Simplify \(\sqrt{48}\)	\(\sqrt{16\times3} = 4\sqrt3\)
-Write \(6\sqrt5\) as an entire surd	\(\sqrt{36\times5} = \sqrt{180}\)
-Does \(\sqrt2+\sqrt3\) simplify?	No — only like surds add, e.g. \(3\sqrt5+2\sqrt5 = 5\sqrt5\)
-Rationalise \(\frac{6}{\sqrt3}\)	\(\frac{6\sqrt3}{3} = 2\sqrt3\)
-Rationalise \(\frac{4}{3-\sqrt5}\)	Multiply top and bottom by \(3+\sqrt5\): \(\frac{4(3+\sqrt5)}{9-5} = 3+\sqrt5\)
-A price including 15% GST is $1750 — price before GST?	\(1750\div1.15 = \$1521.74\)
-6 men dig a 3 m hole in 4 days — how long for 10 men to dig 7 m?	24 man-days per 3 m = 8 per metre; 7 m needs 56 man-days; \(56\div10 = 5.6\) days
+#tags:maths number
+Pre-Q Basic	Natural numbers?	The counting numbers, from 1 upwards	
+Pre-Q Basic	Integer?	Whole number: positive, negative or zero	
+Pre-Q Basic	Prime number?	Has exactly two factors: 1 and itself	
+Pre-Q Basic	Rational number?	Can be written \(\frac ab\) with integers a and b, b ≠ 0	
+Pre-Q Basic	Irrational number?	Cannot be a fraction; its decimal never ends or repeats	Examples: π, √2
+Pre-Q Basic	Surd?	A root that cannot simplify to a rational number	
+Pre-Q Basic	HCF?	Highest common factor: largest number dividing all of them	
+Pre-Q Basic	LCM?	Lowest common multiple: smallest number they all divide into	
+Pre-Q Cloze	HCF from prime factors: multiply the {{c1::lowest}} power of each {{c2::shared}} prime		
+Pre-Q Cloze	LCM from prime factors: multiply the {{c1::highest}} power of {{c2::every}} prime		
+Pre-Q Basic	\(x \in A\) vs \(x \notin A\)?	x is an element of A vs x is not	
+Pre-Q Basic	\(A'\) (sets)?	Complement: everything not in A	
+Pre-Q Basic	\(\varnothing\)?	The empty set	
+Pre-Q Basic	\(\mathcal{E}\)?	The universal set	
+Pre-Q Basic	\(A \subseteq B\) vs \(A \subset B\)?	Subset vs proper subset	
+Pre-Q Basic	\(A \cup B\)?	Union: in A or B (or both)	
+Pre-Q Basic	\(A \cap B\)?	Intersection: in both A and B	
+Pre-Q Basic	\(n(A)\)?	Number of elements in set A	
+Pre-Q Basic	\(A \cap B'\) vs \(A' \cap B'\)?	A only vs outside both circles	Not in B vs in neither
+Pre-Q Basic	Set-builder notation \(\{x : \ldots\}\) reads?	"The set of x such that …"	
+Pre-Q Basic	Venn diagram: which region to fill first?	The intersection, then work outwards	
+Pre-Q Cloze	\(n(A \cup B) = {{c1::n(A)+n(B)}} - {{c2::n(A\cap B)}}\)		The overlap is counted twice
+Pre-Q Basic	How to order fractions, decimals and percentages?	Convert all to decimals, then compare	
+Pre-Q Basic	How to convert a recurring decimal to a fraction?	Let x = decimal; multiply by 10 or 100; subtract x; solve	\(0.\dot7 = \frac79\)
+Pre-Q Cloze	Order of operations: {{c1::brackets}}, {{c2::indices}}, {{c3::division and multiplication}}, {{c4::addition and subtraction}}		B-I-DM-AS
+Pre-Q Cloze	\(a^m\times a^n = a^{ {{c1::m+n}} }\), \(a^m\div a^n = a^{ {{c2::m-n}} }\), \((a^m)^n = a^{ {{c3::mn}} }\)		
+Pre-Q Cloze	\(a^0 = {{c1::1}}\) and \(a^{-n} = {{c2::\frac{1}{a^n} }}\)	\(a \neq 0\)	
+Pre-Q Cloze	\(a^{\frac1n} = {{c1::\sqrt[n]{a} }}\) and \(a^{\frac mn} = {{c2::\left(\sqrt[n]{a}\right)^m}}\)		The denominator is the root
+Pre-Q Cloze	Negative fractional index: {{c1::reciprocal}}, {{c2::root}} and {{c3::power}}, in any order		3 steps
+Pre-Q Cloze	Standard form \(A\times10^n\): {{c1::\(1 \leqslant A &lt; 10\)}} and n is {{c2::an integer}}	Adjust A back into range after calculating	
+Pre-Q Cloze	\(\sqrt{ab} = {{c1::\sqrt a\sqrt b}}\) and \(\sqrt{\frac ab} = {{c2::\frac{\sqrt a}{\sqrt b} }}\)		
+Pre-Q Cloze	Rationalise: \(\frac{1}{\sqrt a} = {{c1::\frac{\sqrt a}{a} }}\)		Multiply top and bottom by \(\sqrt a\)
+Pre-Q Cloze	Rationalise: \(\frac{1}{a-\sqrt b} = \frac{ {{c1::a+\sqrt b}} }{ {{c2::a^2-b}} }\)	Multiply top and bottom by the conjugate	Difference of two squares
+Pre-Q Basic	How to simplify a surd?	Take out the largest square factor	e.g. \(\sqrt{48} = \sqrt{16}\sqrt3\)
+Pre-Q Basic	How to write \(a\sqrt b\) as an entire surd?	Square a and bring it inside: \(\sqrt{a^2b}\)	
+Pre-Q Basic	Which surds can be added?	Only like surds (same number under the root)	\(\sqrt{a+b} \neq \sqrt a+\sqrt b\)
+Pre-Q Basic	Significant figures: count from?	The first non-zero digit	
+Pre-Q Basic	How to estimate a calculation?	Round every number to 1 s.f., then calculate	
+Pre-Q Basic	Bounds of a measurement?	Half a unit either side of the stated accuracy	e.g. to the nearest 10: ±5
+Pre-Q Cloze	Upper bound of \(a+b\) or \(a\times b\): use {{c1::both upper bounds}}	Lower bound: both lower bounds	
+Pre-Q Cloze	Bounds of \(a-b\): upper = {{c1::\(a_{max}-b_{min}\)}}; lower = {{c2::\(a_{min}-b_{max}\)}}		Make the gap biggest, then smallest
+Pre-Q Cloze	Bounds of \(a\div b\): upper = {{c1::\(a_{max}\div b_{min}\)}}; lower = {{c2::\(a_{min}\div b_{max}\)}}		
+Pre-Q Basic	How to share a quantity in a ratio?	Find one part (total ÷ sum of parts), then multiply	
+Pre-Q Cloze	Direct proportion: \(y = {{c1::kx}}\); inverse proportion: \(y = {{c2::\frac kx}}\)		
+Pre-Q Basic	First step in a variation question?	Find k from the given pair of values	
+Pre-Q Cloze	Average speed = {{c1::total distance}} ÷ {{c2::total time}}	Never the mean of the speeds	
+Pre-Q Cloze	Percentage change = {{c1::change}} ÷ {{c2::original}} × 100		
+Pre-Q Cloze	Multiplier to increase by r%: {{c1::\(1+\frac{r}{100}\)}}; to decrease by r%: {{c2::\(1-\frac{r}{100}\)}}		
+Pre-Q Basic	Reverse percentage (find the original)?	Divide by the multiplier	Not adding the percentage back on
+Pre-Q Cloze	Price before a sales tax (e.g. GST) = price including tax ÷ {{c1::(1 + tax rate)}}		A reverse percentage
+Pre-Q Basic	Currency conversion: multiply or divide by the rate?	Multiply going the quoted way; divide coming back	
+Pre-Q Cloze	Simple interest: \(I = \frac{ {{c1::Prt}} }{100}\)	r% per year, t in years; same amount each year	
+Pre-Q Cloze	Compound interest: value \(= P\left( {{c1::1+\frac{r}{100} }} \right)^{ {{c2::n}} }\)		
+Pre-Q Basic	Compound interest formula gives?	The total value, not the interest (subtract P)	
+Pre-Q Cloze	Depreciation: value \(= P\left( {{c1::1-\frac{r}{100} }} \right)^n\)		

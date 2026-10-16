@@ -1,32 +1,23 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Physics::9 Practical skills
-Which Paper 2 questions test practical skills?	Q9 and Q10, 15 marks each
-Definition of the independent variable	The one you deliberately change
-Definition of the dependent variable	The one you measure
-Definition of a control variable	One kept the same so it cannot affect the result
-Control variables in a pendulum investigation	Mass of bob, small and consistent amplitude, same pivot, no push on release
-Where is a pendulum's length measured from and to?	From the pivot to the centre of the bob
-Why time 20 oscillations rather than one?	For a 2.0 s period, a ±0.2 s reaction error is 10% of one swing but only 0.5% of the 40 s for 20 swings
-What should you use to measure a wire's diameter?	A micrometer (±0.01 mm) — a metre rule cannot resolve it
-What goes in a table column heading?	The quantity AND its unit, e.g. Length / m
-How many decimal places should a column use?	The same for every value, set by the instrument's resolution
-Why is 0.4523 m wrong from a metre rule?	It invents precision the instrument cannot deliver — write 0.452 m
-Which axis takes the independent variable?	The horizontal axis, unless the analysis needs otherwise
-How much of the grid should a graph scale use?	More than half in both directions
-Which scale steps are acceptable?	1, 2, 5, 10 — never 3 per square
-Should you join points dot-to-dot?	No — draw a single best-fit straight line or smooth curve
-Which points do you use for a gradient triangle?	Two widely separated points ON the line, not data points
-What does a non-zero intercept suggest when physics predicts zero?	A systematic error
-What is the correct response to an anomalous result?	Check and repeat that measurement, then exclude it only with a stated reason
-What does random error look like?	Scatter either side of the best-fit line; repeats differ
-What does systematic error look like?	All readings shifted the same way, often a non-zero intercept
-How do you reduce random error?	Repeat and average; measure larger quantities
-Does repeating fix a systematic error?	No — only calibration or correcting the zero does
-What is a zero error?	The instrument reads non-zero with nothing loaded; note it and subtract it
-Four things a full-mark calculation needs	The equation, the substitution, the final answer with correct significant figures, and the unit
-How many significant figures should an answer have?	The same as the least precise data used — not all the calculator digits
-Why is "be more accurate" worth no marks?	It is not specific — name the change and what error it fixes
-Good improvement for timing	Use light gates instead of a stopwatch to remove reaction-time error
-What must a conclusion include?	Evidence from the data (gradient or values) plus the limits — the range tested and the conditions held constant
+#tags:physics practical
+Pre-Q Basic	Independent variable?	The variable you change	
+Pre-Q Basic	Dependent variable?	The variable you measure	
+Pre-Q Basic	Control variable?	A variable kept the same	
+Pre-Q Basic	Random error?	Scatter either side; reduce by repeating and averaging	Not systematic
+Pre-Q Basic	Systematic error?	All readings shifted one way; fix by calibration or zero check	Not random
+Pre-Q Basic	Zero error?	Instrument reads non-zero with nothing loaded; subtract it	
+Pre-Q Basic	Anomalous result: correct response?	Check and repeat; exclude only with a stated reason	
+Pre-Q Basic	Why time 20 oscillations, not one?	Reaction-time error becomes a tiny percentage	
+Pre-Q Basic	Justify an instrument choice by?	The precision needed for the size of the quantity	
+Pre-Q Cloze	Table: column headings show {{c1::quantity and unit}}; each column to the same {{c2::number of decimal places}}		
+Pre-Q Cloze	Graph: label axes with {{c1::quantity and unit}}; scale uses {{c2::more than half}} the grid; draw a {{c3::best-fit line}}, never dot-to-dot		
+Pre-Q Basic	Gradient triangle: which points?	Two far-apart points on the best-fit line	Not data points
+Pre-Q Basic	Non-zero intercept when zero expected?	Systematic error	
+Pre-Q Basic	How do light gates improve timing?	Remove reaction-time error	
+Pre-Q Cloze	Full-mark calculation: {{c1::equation}}, {{c2::substitution}}, {{c3::final answer to sensible s.f.}}, {{c4::unit}}		4 parts
+Pre-Q Basic	Significant figures in a final answer?	Same as the least precise data used	Usually 2 or 3
+Pre-Q Cloze	Pendulum controls: {{c1::bob mass}}, {{c2::small amplitude}}, {{c3::same pivot}}; length measured to {{c4::centre of the bob}}		
+Pre-Q Basic	A good improvement suggestion must?	Be specific and say what error it fixes	"Be more accurate" scores nothing

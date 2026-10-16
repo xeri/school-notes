@@ -1,41 +1,42 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Physics::1 Measurement, units and vectors
-How many SI base quantities are there?	7
-SI base unit of length	metre (m)
-SI base unit of mass	kilogram (kg)
-SI base unit of time	second (s)
-SI base unit of electric current	ampere (A)
-SI base unit of thermodynamic temperature	kelvin (K)
-SI base unit of amount of substance	mole (mol)
-SI base unit of luminous intensity	candela (cd)
-Unit of force	newton (N) = kg·m/s²
-Unit of pressure	pascal (Pa) = N/m²
-Unit of energy	joule (J) = N·m
-Unit of power	watt (W) = J/s
-Unit of potential difference	volt (V) = J/C
-Unit of charge	coulomb (C) = A·s
-Unit of momentum	kg·m/s
-Convert 72 km/h to m/s	72 × 1000 / 3600 = 20 m/s
-Convert 1 cm³ to m³	\(10^{-6}\) m³ (all three dimensions ÷ 100)
-Convert 2.7 g/cm³ to kg/m³	2700 kg/m³
-Write 0.00052 m in standard form	\(5.2\times10^{-4}\) m
-Precision of a vernier calliper	±0.1 mm
-Precision of a micrometer screw gauge	±0.01 mm
-Precision of a metre rule	±1 mm
-How is a voltmeter connected?	In parallel across the component
-How is an ammeter connected?	In series with the component
-Formula for an average of n readings	average = (sum of n readings) / n
-What is a normal?	A construction line drawn at 90° to a surface, used as the reference for angles
-How do you avoid parallax error?	View the scale with your eye directly in line with the mark
-Definition of a scalar	A quantity with magnitude only
-Definition of a vector	A quantity with magnitude and direction
-Three scalar examples	Distance, speed, mass (also time, energy, temperature)
-Three vector examples	Displacement, velocity, weight (also force, acceleration, momentum)
-Walk 3 m east then 4 m north: distance and displacement?	Distance 7 m; displacement 5 m at 37° east of north
-How do you find a resultant by scale diagram?	Draw vectors head-to-tail to a stated scale; the resultant runs from the first tail to the last head
-Resultant of 3.0 N east and 4.0 N north	5.0 N at 37° east of north
-How should axes on a graph be labelled?	With the quantity AND its unit
-How do you find a gradient accurately?	Use a large triangle on the best-fit line, Δy ÷ Δx, and state the units
-Difference between accuracy and precision	Accuracy: how close a reading is to the true value. Precision: how close repeated readings are to each other (and how fine the scale is)
+#tags:physics measurement
+Pre-Q Basic	Scalar?	Quantity with magnitude only	
+Pre-Q Basic	Vector?	Quantity with magnitude and direction	
+Pre-Q Basic	Accuracy (measurement)?	How close a measurement is to the true value	Not the same as precision
+Pre-Q Basic	Precision (measurement)?	How close repeated readings are to each other	Not the same as accuracy
+Pre-Q Basic	Parallax error?	Misreading a scale by viewing it at an angle	
+Pre-Q Basic	Normal (light and surfaces)?	Construction line at 90° to a surface	
+Pre-Q Basic	Resultant (vectors)?	Single vector with the same effect as all combined	
+Pre-Q Basic	Range of an instrument?	The span of values it can measure	
+Pre-Q Basic	Resolution of an instrument?	Smallest change it can display	
+Pre-Q Cloze	SI base units: length {{c1::metre (m)}}; mass {{c2::kilogram (kg)}}; time {{c3::second (s)}}		
+Pre-Q Cloze	SI base units: current {{c1::ampere (A)}}; temperature {{c2::kelvin (K)}}; amount of substance {{c3::mole (mol)}}; luminous intensity {{c4::candela (cd)}}		
+Pre-Q Cloze	Derived units: force {{c1::newton (N)}} = {{c2::kg·m/s²}}; pressure {{c3::pascal (Pa)}} = {{c4::N/m²}}		
+Pre-Q Cloze	Derived units: energy {{c1::joule (J)}} = {{c2::N·m}}; power {{c3::watt (W)}} = {{c4::J/s}}		
+Pre-Q Cloze	Derived units: charge {{c1::coulomb (C)}} = {{c2::A·s}}; momentum {{c3::kg·m/s}} = {{c4::N·s}}		
+Pre-Q Cloze	Prefixes: giga (G) = {{c1::10⁹}}; mega (M) = {{c2::10⁶}}; kilo (k) = {{c3::10³}}		
+Pre-Q Cloze	Prefixes: centi (c) = {{c1::10⁻²}}; milli (m) = {{c2::10⁻³}}; micro (μ) = {{c3::10⁻⁶}}; nano (n) = {{c4::10⁻⁹}}		Small m is milli, capital M is mega
+Pre-Q Basic	When to convert units in a calculation?	Before substituting into the equation	
+Pre-Q Basic	How to convert km/h to m/s?	× 1000 ÷ 3600 (i.e. ÷ 3.6)	km to m, then h to s
+Pre-Q Basic	How to convert cm³ to m³?	× 10⁻⁶	Three dimensions, each ÷ 100
+Pre-Q Basic	How to convert g/cm³ to kg/m³?	× 1000	
+Pre-Q Cloze	Precision: metre rule {{c1::±1 mm}}; vernier calliper {{c2::±0.1 mm}}; micrometer screw gauge {{c3::±0.01 mm}}		Each about 10× finer
+Pre-Q Cloze	Voltmeter connected in {{c1::parallel}}; ammeter in {{c2::series}}		
+Pre-Q Basic	How to avoid parallax error?	Eye level, perpendicular to the scale mark	
+Pre-Q Basic	Choosing a measuring instrument?	Range covers the quantity; resolution fine enough	
+Pre-Q Cloze	Average = {{c1::sum of the readings}} ÷ {{c2::number of readings}}		
+Pre-Q Basic	Do repeat readings remove systematic error?	No; they only reduce random error	
+Pre-Q Basic	How to improve accuracy?	Remove systematic errors: zero check, calibration	Think what shifts all readings
+Pre-Q Basic	How to improve precision?	Finer instrument; repeat and average	
+Pre-Q Basic	Precise but inaccurate readings?	Tightly grouped round the wrong value (systematic error)	
+Pre-Q Cloze	Gradient = {{c1::Δy}} ÷ {{c2::Δx}}	Units: y-units ÷ x-units	Use a large triangle
+Pre-Q Basic	Distance vs displacement	Distance: path length (scalar). Displacement: straight line + direction (vector)	
+Pre-Q Cloze	Scalar–vector pairs: distance → {{c1::displacement}}; speed → {{c2::velocity}}; mass → {{c3::weight}}		Give the vector partner
+Pre-Q Cloze	Scalar or vector? Energy {{c1::scalar}}; momentum {{c2::vector}}; gravitational field strength {{c3::vector}}; time {{c4::scalar}}		
+Pre-Q Cloze	Vector scale diagram: choose a {{c1::scale}}; draw vectors {{c2::head-to-tail}}; resultant from {{c3::first tail to last head}}		3 steps
+Pre-Q Basic	Resultant of forces along the same line?	Add if same direction; subtract if opposite	
+Pre-Q Cloze	Perpendicular vectors: \(R = {{c1::\sqrt{a^2 + b^2} }}\)		Pythagoras
+Pre-Q Cloze	Perpendicular vectors: angle \(= {{c1::\tan^{-1}(a/b)}}\)		Trigonometry

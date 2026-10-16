@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::25 Coasts
+#tags:geography coasts
+Pre-Q Basic	Fetch?	Distance of open water the wind blows over	
+Pre-Q Basic	Why do waves break?	Sea-bed friction slows the base; the top topples	
+Pre-Q Basic	Swash vs backwash	Swash rushes up the beach; backwash drains back down	
+Pre-Q Basic	Constructive wave?	Low, long wave with strong swash; builds beaches	
+Pre-Q Basic	Destructive wave?	High, steep wave with strong backwash; erodes beaches	Contrast constructive
+Pre-Q Cloze	Waves per minute: constructive {{c1::6–8}}; destructive {{c2::10–14}}		
+Pre-Q Basic	Hydraulic action (coasts)?	Air forced into cracks expands as waves retreat, breaking rock	
+Pre-Q Basic	Abrasion (coasts)?	Waves hurl sand and pebbles at the cliff	
+Pre-Q Basic	Attrition (coasts)?	Rocks knock together, becoming smaller and rounder	
+Pre-Q Basic	Corrosion (coasts)?	Sea-water acids dissolve limestone and chalk	
+Pre-Q Basic	Sub-aerial processes?	Weathering and mass movement on cliffs above the waves	
+Pre-Q Basic	Longshore drift?	Sediment moved along a coast by waves approaching at an angle	
+Pre-Q Cloze	Longshore drift: swash carries sediment up {{c1::at an angle}}; backwash pulls it {{c2::straight down}}; net {{c3::zigzag along the coast}}		3 blanks
+Pre-Q Basic	Wave refraction?	Waves bending so energy focuses on headlands	
+Pre-Q Basic	Sand trapping?	Plants slow the wind so sand drops and dunes grow	
+Pre-Q Cloze	Coastal deposition sites: {{c1::sheltered bays}}, {{c2::estuaries}}, {{c3::where the coastline changes direction}}	Waves lose energy there	3 sites
+Pre-Q Basic	Submergent coast?	Sea level rose: drowned valleys such as rias and fiords	
+Pre-Q Basic	Emergent coast?	Land rose or sea fell: raised beaches	
+Pre-Q Basic	Concordant coast?	Rock bands run parallel to the coastline	
+Pre-Q Basic	Discordant coast?	Rock bands run at right angles to the coast	Gives headlands and bays
+Pre-Q Basic	Headland?	Resistant rock projecting into the sea between bays	
+Pre-Q Cloze	Headland and bay formation: {{c1::discordant}} rock bands; {{c2::soft rock}} eroded into bays; {{c3::hard rock}} left as headlands		Differential erosion
+Pre-Q Basic	Wave-cut notch?	Undercut at the cliff base at high-tide level	
+Pre-Q Basic	Wave-cut platform?	Gently sloping rock surface left as a cliff retreats	
+Pre-Q Cloze	Cliff retreat: waves cut a {{c1::notch}} at the cliff foot; the {{c2::overhang}} collapses; the cliff {{c3::retreats}}, leaving a {{c4::wave-cut platform}}		4 steps
+Pre-Q Cloze	Headland erosion: crack → {{c1::cave}} → {{c2::arch}} → {{c3::stack}} → {{c4::stump}}		4 stages
+Pre-Q Basic	Stack?	Isolated rock pillar left when an arch roof collapses	
+Pre-Q Basic	How does a beach form?	Constructive waves deposit sand in sheltered bays	
+Pre-Q Basic	Spit?	Ridge of sand or shingle attached to land at one end	
+Pre-Q Cloze	Spit formation: {{c1::longshore drift}} moves sediment; the coast {{c2::changes direction}}; a {{c3::second wind direction}} curves the tip; {{c4::salt marsh}} forms behind		4 blanks
+Pre-Q Basic	Bar (coasts)?	Ridge of sand across a bay enclosing a lagoon	
+Pre-Q Basic	Tombolo?	Spit or bar joining an island to the mainland	
+Pre-Q Basic	Salt marsh?	Vegetated mudflat in sheltered water behind a spit	
+Pre-Q Cloze	Sand dune formation: wind moves dry sand inland by {{c1::saltation}}; it is {{c2::trapped}} by plants or driftwood; plant {{c3::roots bind}} it	Marram, spinifex, pīngao	3 steps
+Pre-Q Basic	Coastal sediment in the geomorphic cycle?	Buried and compacted into new sedimentary rock	
+Pre-Q Cloze	Coastal hazards: {{c1::cliff erosion}}, {{c2::storm surge}}, {{c3::sea-level rise}}, {{c4::tsunami}}		4 hazards
+Pre-Q Basic	Storm surge?	Temporary sea rise from low pressure and onshore wind	
+Pre-Q Cloze	Coastal opportunities: {{c1::ports}}, {{c2::tourism}}, {{c3::fishing}}, {{c4::housing}}		4 uses
+Pre-Q Basic	Sea wall?	Concrete wall reflecting wave energy; costly, scours beach	
+Pre-Q Basic	Revetment?	Sloping barrier that breaks waves but lets water through	
+Pre-Q Basic	Rip-rap (rock armour)?	Large boulders absorbing wave energy at the cliff foot	
+Pre-Q Basic	Gabion?	Wire cage of rocks absorbing wave energy	
+Pre-Q Basic	Groyne?	Barrier across a beach trapping longshore drift sediment	
+Pre-Q Basic	Groynes: drawback?	Starve the coast downdrift of sediment	
+Pre-Q Basic	Beach nourishment?	Adding sand to replace beach lost to erosion	
+Pre-Q Basic	Dune planting and fencing?	Plants trap sand; fences keep people off	
+Pre-Q Basic	Managed retreat (coasts): how it works?	Low-value land left to erode; buildings moved back	
+Pre-Q Cloze	Muriwai erosional landforms: {{c1::cliffs}}, {{c2::wave-cut platform}}, {{c3::caves}}, and the stack {{c4::Motutara Island}}		4 blanks
+Pre-Q Cloze	Muriwai, Cyclone Gabrielle 2023: a landslide killed {{c1::two volunteer firefighters}}		
+Pre-Q Basic	Mangawhai Heads: key landform?	Sand spit sheltering an estuary	
+Pre-Q Cloze	Mangawhai spit: breached in {{c1::1978}}; rebuilt with sand; shelters {{c2::fairy terns}}		
+Pre-Q Basic	Mount Maunganui: landform?	Tombolo	
+Pre-Q Basic	How to measure a beach profile?	Ranging poles and clinometer at each break of slope	
+Pre-Q Basic	How to measure longshore drift?	Time a float or track painted pebbles along the beach	

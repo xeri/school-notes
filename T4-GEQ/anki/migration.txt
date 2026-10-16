@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::03 Migration
+#tags:geography migration
+Pre-Q Basic	Migration?	Permanent or semi-permanent change of residence, usually ≥1 year	
+Pre-Q Basic	Emigration?	Leaving a country; the source loses people	
+Pre-Q Basic	Immigration?	Entering a country; the destination gains people	
+Pre-Q Basic	Internal migration?	A move within one country	
+Pre-Q Basic	International migration?	A move across a national border	
+Pre-Q Basic	Voluntary migration?	A move the migrant chooses (work, family)	
+Pre-Q Basic	Forced migration?	A move with no real choice (conflict, persecution, disaster)	
+Pre-Q Basic	Refugee?	Fled own country from fear of persecution, conflict or disaster	
+Pre-Q Basic	Asylum seeker?	Applied for refugee status abroad; awaiting a decision	
+Pre-Q Basic	Internally displaced person (IDP)?	Forced from home but still inside own country	
+Pre-Q Basic	Economic migrant?	Moves mainly for income or jobs	
+Pre-Q Basic	Climate refugee?	Forced to move by climate change (sea-level rise)	
+Pre-Q Basic	Remittance?	Money a migrant sends home to family	
+Pre-Q Basic	Brain drain?	Loss of skilled, educated workers through emigration	
+Pre-Q Basic	Brain gain?	Gain of skilled workers through immigration	
+Pre-Q Basic	Push factor?	Negative condition at the origin encouraging people to leave	
+Pre-Q Basic	Pull factor?	Attractive condition at the destination drawing people in	
+Pre-Q Basic	Intervening obstacle?	Barrier between origin and destination (distance, cost, visas)	
+Pre-Q Basic	Step migration?	Moving in stages: village, town, then city	
+Pre-Q Basic	Chain migration?	Following family or friends who moved earlier	
+Pre-Q Basic	Seasonal migration?	Temporary migration for part of the year (fruit picking)	
+Pre-Q Basic	Points-based immigration system?	Admits migrants who score enough points for skills and age	
+Pre-Q Cloze	4 migration motives: {{c1::economic}}, {{c2::social}}, {{c3::political}}, {{c4::environmental}}		E-S-P-E
+Pre-Q Basic	Is commuting migration?	No: residence does not change	
+Pre-Q Basic	Refugee vs economic migrant?	Refugee is forced to flee; economic migrant chooses to move for work	
+Pre-Q Cloze	Push factors: {{c1::unemployment}}, {{c2::poor services}}, {{c3::drought}}, {{c4::war or persecution}}		4 items
+Pre-Q Cloze	Pull factors: {{c1::jobs and wages}}, {{c2::better services}}, {{c3::safety}}, {{c4::family already there}}		4 items
+Pre-Q Basic	Push vs pull: which dominates forced migration?	Push (pull dominates voluntary economic moves)	
+Pre-Q Basic	Why can a migrant's decision be wrong?	Based on perception of the destination, which may be inaccurate	
+Pre-Q Cloze	Lee's model (1966): factors at the {{c1::origin}}, at the {{c2::destination}}, {{c3::intervening obstacles}}, {{c4::personal factors}}		4 parts
+Pre-Q Basic	Lee's model: + − 0 factors mean?	+ keeps or attracts; − repels; 0 neutral	
+Pre-Q Basic	Lee's model: why do two people facing the same conditions choose differently?	Personal factors (age, family stage, perception)	
+Pre-Q Basic	Lee's model: limitations?	Suits voluntary not forced moves; assumes full information	
+Pre-Q Cloze	Migration benefits to source: {{c1::remittances}}, less pressure on {{c2::jobs and services}}, returnees bring {{c3::skills}}		3 items
+Pre-Q Cloze	Migration costs to source: {{c1::brain drain}}, {{c2::older population}}, {{c3::gender imbalance}}, {{c4::split families}}		4 items
+Pre-Q Cloze	Migration benefits to destination: fills {{c1::labour gaps}}, {{c2::brain gain}}, {{c3::younger population}}, {{c4::cultural diversity}}		4 items
+Pre-Q Cloze	Migration costs to destination: pressure on {{c1::housing and services}}, {{c2::lower wages}}, {{c3::social tension}}, {{c4::integration costs}}		4 items
+Pre-Q Basic	Migration: effect on destination pyramid?	Bulge in the 20–39 bands; younger average age	
+Pre-Q Basic	Migration: effect on source pyramid?	Indent in the 20–39 bands; more children and elderly	
+Pre-Q Basic	Is migration always harmful?	Forced: mostly harms migrants. Managed voluntary: usually benefits both	
+Pre-Q Cloze	Samoa to NZ: ~{{c1::180 000}} Samoans live in NZ vs ~{{c2::200 000}} in Samoa	Mainly South and West Auckland	
+Pre-Q Cloze	Samoa to NZ push: few {{c1::jobs}}, low {{c2::wages}}, limited {{c3::higher education}}, {{c4::cyclone and tsunami}} risk		4 items
+Pre-Q Cloze	Samoa to NZ pull: {{c1::jobs}}, {{c2::family already there}}, {{c3::education and health}}, historical {{c4::ties}}		4 items
+Pre-Q Cloze	Samoan Quota (since 2002): up to {{c1::1100}} a year gain NZ residence by {{c2::ballot}}		
+Pre-Q Cloze	{{c1::RSE}} scheme (2007): seasonal Pacific workers for NZ {{c2::horticulture}}	Recognised Seasonal Employer	
+Pre-Q Basic	Samoa to NZ: main benefit to Samoa?	Remittances, about a fifth or more of GDP	
+Pre-Q Basic	Samoa to NZ: impact on NZ?	Labour for horticulture and services; large Pacific community	
+Pre-Q Cloze	Syrian refugee flow: civil war from {{c1::2011}}		
+Pre-Q Cloze	Syria at peak: over {{c1::6 million}} refugees abroad; ~{{c2::half}} the pre-war population displaced		
+Pre-Q Cloze	Syrian refugee hosts: {{c1::Turkey}}, {{c2::Lebanon}}, {{c3::Jordan}}; in Europe mainly {{c4::Germany}}		4 items
+Pre-Q Basic	Syrian refugees: impact on Lebanon and Jordan?	Strained housing, schools and water; aid dependence	think Zaatari camp
+Pre-Q Basic	Syrian refugee flow: impact on Syria?	Lost doctors, teachers and young workers	
+Pre-Q Basic	Syrian refugees: impact on Germany?	Filled labour gaps; integration costs and political backlash	

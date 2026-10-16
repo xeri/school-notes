@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Mathematics::9 Calculus
+#tags:maths calculus
+Pre-Q Basic	Derivative (gradient function)?	Gives the gradient of the curve at any x	Written \(f'(x)\) or \(\frac{dy}{dx}\)
+Pre-Q Basic	Stationary (turning) point?	A point where the gradient is zero	
+Pre-Q Basic	Integration?	The reverse of differentiation	
+Pre-Q Basic	Normal to a curve?	The line perpendicular to the tangent at that point	
+Pre-Q Cloze	\(\frac{d}{dx}(ax^n) = {{c1::an}}\,x^{ {{c2::n-1}} }\)		Two steps
+Pre-Q Cloze	Derivative of a constant: {{c1::0}}; of kx: {{c2::k}}		
+Pre-Q Cloze	Rewrite as powers: \(\sqrt x = x^{ {{c1::\frac12}} }\), \(\frac{1}{x^n} = x^{ {{c2::-n}} }\), \(\frac{1}{\sqrt x} = x^{ {{c3::-\frac12}} }\)	Do this before differentiating	
+Pre-Q Basic	\(\frac{a}{bx^n}\) as a power of x?	\(\frac ab x^{-n}\) (b stays in the coefficient)	
+Pre-Q Basic	Differentiating a negative power: new power?	One lower, so more negative	\(x^{-2}\) → power −3
+Pre-Q Basic	How to differentiate a bracket squared or a product?	Expand first, then differentiate term by term	No rule for products here
+Pre-Q Basic	How to differentiate a fraction with a one-term denominator?	Divide each term by it, then differentiate	
+Pre-Q Cloze	At x = a: gradient = {{c1::\(f'(a)\)}}; y-coordinate = {{c2::\(f(a)\)}}		
+Pre-Q Cloze	Tangent at \(x=a\): \(y-f(a) = {{c1::f'(a)}}(x - {{c2::a}})\)		
+Pre-Q Cloze	Normal at \(x=a\): gradient \({{c1::-\frac{1}{f'(a)} }}\)		Negative reciprocal
+Pre-Q Basic	How to find where a curve has a given gradient?	Set dy/dx equal to it and solve for x	
+Pre-Q Basic	How to show a line is a tangent to a curve?	Same point on both, and equal gradients there	
+Pre-Q Basic	How to find a stationary point?	Solve dy/dx = 0, then find y	
+Pre-Q Cloze	\(\frac{d^2y}{dx^2} &lt; 0\): {{c1::maximum}}; \(\frac{d^2y}{dx^2} &gt; 0\): {{c2::minimum}}	Second derivative test	
+Pre-Q Cloze	Sign test: gradient + 0 − is a {{c1::maximum}}; − 0 + is a {{c2::minimum}}	Use if the second derivative is 0	
+Pre-Q Basic	Can a stationary point be neither a max nor a min?	Yes: \(y = x^3\) at the origin (+ 0 +)	
+Pre-Q Cloze	Increasing where {{c1::\(f'(x) &gt; 0\)}}; decreasing where {{c2::\(f'(x) &lt; 0\)}}	Answer as an inequality in x	
+Pre-Q Basic	Practical max/min problem method?	One-variable function; differentiate; set = 0; check nature	4 steps
+Pre-Q Cloze	\(\int ax^n\,dx = \frac{ {{c1::ax^{n+1} }} }{ {{c2::n+1}} } + {{c3::C}}\)	\(n \neq -1\)	Add 1 to the power
+Pre-Q Basic	Why add +C when integrating?	Constants differentiate to 0, so C is unknown	
+Pre-Q Basic	Integrating brackets or fractions?	Expand or simplify into powers of x first	
+Pre-Q Basic	How to check an integral?	Differentiate it: you should get the original back	
+Pre-Q Basic	How to find a function from its gradient function and a point?	Integrate, then substitute the point to find C	Not into \(f'(x)\)
+Pre-Q Cloze	Definite integral: \(\int_a^b f(x)\,dx = {{c1::F(b)}} - {{c2::F(a)}}\)	No +C needed	
+Pre-Q Basic	Area under a curve: limits?	The x-intercepts: solve y = 0	
+Pre-Q Basic	Definite integral comes out negative?	Region is below the x-axis; take its size	

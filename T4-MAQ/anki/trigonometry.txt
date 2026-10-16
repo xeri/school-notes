@@ -1,47 +1,40 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Mathematics::6 Trigonometry
-To what accuracy are angles required?	Degrees to one decimal place
-Pythagoras' theorem	\(a^2+b^2 = c^2\), c being the hypotenuse
-How do you find a shorter side with Pythagoras?	Subtract: \(a = \sqrt{c^2-b^2}\)
-sin θ	opposite / hypotenuse
-cos θ	adjacent / hypotenuse
-tan θ	opposite / adjacent
-Where is the hypotenuse?	Always opposite the right angle
-What happens to "opposite" and "adjacent" if you switch acute angles?	They swap
-How do you find an angle from a ratio?	Use the inverse function, e.g. \(\tan^{-1}\)
-Angle of elevation	Measured UP from the horizontal
-Angle of depression	Measured DOWN from the horizontal
-Relationship between elevation and depression between two points	They are equal (alternate angles)
-How are three-figure bearings measured?	Clockwise from North, written with three digits, 000°–360°
-Bearing of East	090°
-Bearing of South-west	225°
-How do you write 7° east of north as a bearing?	007°
-How do you find a back bearing?	Add 180° if the bearing is under 180°, otherwise subtract 180°
-Back bearing of 125°	305°
-What should every bearings sketch include?	A North arrow at EACH point
-\(\sin(180° - \theta)\)	\(\sin\theta\)
-\(\cos(180° - \theta)\)	\(-\cos\theta\)
-Value of sin 150°	0.5, same as sin 30°
-Value of cos 150°	−0.866, the negative of cos 30°
-Why can the sine rule give two answers?	\(\sin^{-1}\) returns only the acute angle; the obtuse option is 180° minus it
-Sine rule	\(\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}\)
-When do you use the sine rule?	When you have an angle and its opposite side, plus one more piece of information
-Form of the sine rule for finding an angle	\(\frac{\sin A}{a} = \frac{\sin B}{b}\)
-Cosine rule	\(a^2 = b^2+c^2-2bc\cos A\)
-Cosine rule rearranged for an angle	\(\cos A = \frac{b^2+c^2-a^2}{2bc}\)
-When do you use the cosine rule?	Two sides and the included angle, or all three sides
-Why is the cosine rule unambiguous?	A negative cosine gives the obtuse angle directly
-Area of a triangle (non-right-angled)	\(\tfrac12 ab\sin C\), C being the angle between a and b
-Sides 5, 7, 9 — largest angle?	\(\cos A = (25+49-81)/70 = -0.1 \Rightarrow 95.7°\)
-How do you tackle a 3-D trigonometry problem?	Draw one right-angled triangle at a time, separately from the 3-D figure
-How do you find the angle between a line and a plane?	Drop a perpendicular to the plane and use the projection of the line on it
-Cuboid 4 × 3 × 12 — base diagonal?	\(\sqrt{16+9} = 5\) cm
-Cuboid 4 × 3 × 12 — space diagonal?	\(\sqrt{25+144} = 13\) cm
-Cuboid 4 × 3 × 12 — angle of the space diagonal to the base?	\(\tan\theta = 12/5 \Rightarrow 67.4°\)
-Amplitude and period of \(y = a\sin bx\)	Amplitude a, period \(360°/b\)
-Where does \(y = \cos x\) cross the x-axis for 0°–360°?	90° and 270°
-Period of \(y = \tan x\)	180° (asymptotes at 90° and 270°)
-Solve \(\cos x = \frac{\sqrt3}{2}\) for 0°–360°	30° and \(360°-30° = 330°\)
-Second solution of \(\sin x = k\) for 0°–360°	180° minus the calculator angle
+#notetype column:1
+#deck:Mathematics::5 Trigonometry
+#tags:maths trigonometry
+Pre-Q Basic	Hypotenuse?	The longest side, opposite the right angle	
+Pre-Q Basic	Angle of elevation vs angle of depression?	Up from the horizontal vs down from the horizontal	
+Pre-Q Basic	Three-figure bearing?	Angle clockwise from North, written with 3 digits	
+Pre-Q Basic	Amplitude (trig graph)?	Height from the middle line to a peak	
+Pre-Q Basic	Period (trig graph)?	Horizontal length of one full cycle	
+Pre-Q Cloze	Pythagoras: \(a^2+b^2 = {{c1::c^2}}\), where c is the {{c2::hypotenuse}}		
+Pre-Q Basic	Pythagoras: how to find a shorter side?	Subtract: \(a^2 = c^2-b^2\)	
+Pre-Q Cloze	\(\sin\theta = \frac{ {{c1::\text{opposite} }} }{ {{c2::\text{hypotenuse} }} }\)		
+Pre-Q Cloze	\(\cos\theta = \frac{ {{c1::\text{adjacent} }} }{ {{c2::\text{hypotenuse} }} }\)		
+Pre-Q Cloze	\(\tan\theta = \frac{ {{c1::\text{opposite} }} }{ {{c2::\text{adjacent} }} }\)		
+Pre-Q Basic	How to find an angle from a trig ratio?	Use the inverse function, e.g. \(\sin^{-1}\)	
+Pre-Q Basic	Elevation and depression between two points: relation?	Equal (alternate angles)	
+Pre-Q Cloze	Bearings: East {{c1::090°}}, South {{c2::180°}}, West {{c3::270°}}	North = 000°	
+Pre-Q Cloze	Back bearing: {{c1::add}} 180° if under 180°, otherwise {{c2::subtract}} 180°		Turn round
+Pre-Q Basic	Bearings sketch: what is needed?	A North line at each point	
+Pre-Q Cloze	\(\sin(180°-\theta) = {{c1::\sin\theta}}\) and \(\cos(180°-\theta) = {{c2::-\cos\theta}}\)		One sign changes
+Pre-Q Basic	Calculator \(\sin^{-1}\) gives?	Only the acute angle	
+Pre-Q Cloze	\(y = \sin x\) (0°–360°): max {{c1::1 at 90°}}, min {{c2::−1 at 270°}}, zeros {{c3::0°, 180°, 360°}}		Starts at 0
+Pre-Q Cloze	\(y = \cos x\) (0°–360°): starts at {{c1::1}}, min {{c2::−1 at 180°}}, zeros {{c3::90° and 270°}}		
+Pre-Q Cloze	\(y = \tan x\): period {{c1::180°}}; asymptotes at {{c2::90° and 270°}}		
+Pre-Q Cloze	\(y = a\sin bx\): amplitude {{c1::a}}, period {{c2::\(\frac{360°}{b}\)}}	Same for \(y = a\cos bx\)	
+Pre-Q Basic	Graph of \(y = \cos x + k\)?	\(y = \cos x\) moved up by k	
+Pre-Q Cloze	Second solution in 0°–360°: sin {{c1::180° − θ}}; cos {{c2::360° − θ}}; tan {{c3::180° + θ}}	θ = calculator angle	Use graph symmetry
+Pre-Q Cloze	Sine rule: \(\frac{a}{ {{c1::\sin A}} } = \frac{b}{ {{c2::\sin B}} } = \frac{c}{\sin C}\)	Side a is opposite angle A	
+Pre-Q Cloze	Sine rule for an angle: \(\frac{ {{c1::\sin A}} }{ {{c2::a}} } = \frac{\sin B}{b}\)		Flip it over
+Pre-Q Basic	When to use the sine rule?	An angle and its opposite side, plus one more	Opposite pairs
+Pre-Q Basic	Ambiguous case (sine rule)?	The angle may be acute or 180° minus it: two triangles	Check room for the third angle
+Pre-Q Basic	Sine rule gives only one triangle when?	The side opposite the given angle is the longer one	
+Pre-Q Cloze	Cosine rule: \(a^2 = {{c1::b^2+c^2}} - {{c2::2bc\cos A}}\)	A is the angle between b and c	
+Pre-Q Cloze	Cosine rule for an angle: \(\cos A = \frac{ {{c1::b^2+c^2-a^2}} }{ {{c2::2bc}} }\)		
+Pre-Q Basic	When to use the cosine rule?	Two sides and the included angle, or three sides	
+Pre-Q Basic	Why is the cosine rule never ambiguous?	A negative cosine gives the obtuse angle directly	
+Pre-Q Cloze	Area of a triangle \(= \tfrac12 {{c1::ab}}\,{{c2::\sin C}}\)	C is the angle between a and b	Included angle
+Pre-Q Basic	3-D trigonometry method?	One right-angled triangle at a time, drawn separately	Draw it flat
+Pre-Q Basic	Angle between a line and a plane?	Angle between the line and its projection on the plane	Drop a perpendicular

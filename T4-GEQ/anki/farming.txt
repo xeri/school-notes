@@ -1,0 +1,69 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::42 Farming and food shortages
+#tags:geography farming
+Pre-Q Basic	Commercial farming?	Farming to sell produce for profit	
+Pre-Q Basic	Subsistence farming?	Farming to feed the farmer's own household	
+Pre-Q Basic	Arable farming?	Growing crops	
+Pre-Q Basic	Pastoral farming?	Rearing livestock	
+Pre-Q Basic	Mixed farming?	Crops and animals on the same farm	
+Pre-Q Basic	Horticulture?	Intensive growing of fruit, vegetables and flowers	
+Pre-Q Basic	Intensive farming?	High inputs of labour or capital per hectare; high yield per hectare	not the same as large
+Pre-Q Basic	Extensive farming?	Low inputs over a large area; low output per hectare	opposite of intensive
+Pre-Q Basic	Nomadic pastoralism?	Herders moving animals in search of grazing	
+Pre-Q Basic	Plantation?	Large estate growing one cash crop for export	
+Pre-Q Basic	Farming system?	A farm as inputs, processes, outputs and feedback	
+Pre-Q Basic	Von Thünen's model?	Farm land use in rings round a market, set by transport cost and land rent	
+Pre-Q Basic	Food shortage?	Not enough food for an active, healthy life	
+Pre-Q Basic	Famine?	Severe, widespread food shortage causing mass hunger and death	
+Pre-Q Basic	Food security?	Reliable access to enough affordable, nutritious food	
+Pre-Q Basic	Malnutrition?	Ill health from a diet lacking enough food or nutrients	
+Pre-Q Basic	Green Revolution?	1960s high-yield varieties, fertiliser, pesticides and irrigation raising yields	
+Pre-Q Basic	Genetically modified (GM) crops?	Crops altered for pest or drought resistance and higher yields	
+Pre-Q Basic	Eutrophication?	Nitrate and phosphate cause algal growth that strips water of oxygen	think algal blooms
+Pre-Q Basic	Salinisation?	Salts left in soil when irrigation water evaporates	think arid irrigated land
+Pre-Q Basic	Pugging?	Soil compaction by cattle on wet ground	
+Pre-Q Basic	Desertification (farming cause)?	Overgrazing and over-cultivation strip semi-arid land of vegetation	
+Pre-Q Basic	Carrying capacity (farming)?	Maximum stocking rate land supports without degradation	
+Pre-Q Cloze	Physical farming factors: {{c1::relief}}, {{c2::soil}}, {{c3::rainfall}}, {{c4::temperature}}, water supply		4 items
+Pre-Q Cloze	Human farming factors: {{c1::market}}, {{c2::transport}}, {{c3::capital}}, {{c4::government policy}}		4 items
+Pre-Q Basic	How does relief affect farming?	Flat land suits machinery and crops; steep land suits grazing	
+Pre-Q Basic	Why is perishable produce farmed near the market?	It must reach the market or plant quickly	
+Pre-Q Cloze	Farm inputs: physical are {{c1::land, climate, soil}}; human are {{c2::labour, capital, machinery}}		physical vs human
+Pre-Q Basic	Farm outputs?	Products (milk, crops), waste and money	
+Pre-Q Basic	Farm feedback?	Profit reinvested; a bad season cuts next year's inputs	
+Pre-Q Basic	Von Thünen's model: main idea?	Transport cost rises with distance, so intensive and perishable goods are nearest	
+Pre-Q Cloze	Von Thünen rings outwards: {{c1::market gardening and dairy}}, {{c2::forestry}}, {{c3::arable}}, {{c4::ranching}}, wilderness	1826	4 rings
+Pre-Q Basic	Von Thünen: why is forestry ring 2?	Wood was heavy, bulky and needed for fuel	think 19th-century fuel
+Pre-Q Basic	Von Thünen: why is ranching outermost?	Animals walk themselves to market	
+Pre-Q Cloze	Von Thünen assumptions: one {{c1::market}}, flat uniform {{c2::plain}}, farmers {{c3::carry their own produce}}, transport cost ∝ {{c4::distance}}		4 items
+Pre-Q Basic	Von Thünen: limitations?	Land varies; refrigeration and modern transport; ignores subsidies	
+Pre-Q Basic	Von Thünen: effect of a navigable river?	Rings stretch along it (cheaper transport)	
+Pre-Q Cloze	NZ dairy regions: {{c1::Waikato}} (largest), {{c2::Taranaki}}, {{c3::Southland}}, irrigated {{c4::Canterbury}}		4 items
+Pre-Q Cloze	NZ dairy: ~{{c1::4.7 million}} cows; average herd ~{{c2::445}}	2023/24	
+Pre-Q Basic	NZ dairy farm: physical location factors?	Mild climate so grass grows almost all year; reliable rain	
+Pre-Q Basic	Why are dairy farms near a processing plant?	Milk is perishable and collected daily by tanker	
+Pre-Q Cloze	NZ dairy cows are milked {{c1::twice a day}} and calve in {{c2::spring}}		
+Pre-Q Cloze	Dairy earns ~{{c1::one in three}} dollars of NZ goods exports		
+Pre-Q Basic	Dairy water pollution sources?	Nitrate (fertiliser, urine); phosphate and E. coli (effluent)	
+Pre-Q Basic	Farming greenhouse gases?	Methane (cattle) and nitrous oxide (fertiliser, urine)	
+Pre-Q Cloze	Agriculture produces ~{{c1::half}} of NZ's greenhouse emissions		
+Pre-Q Basic	Irrigation: environmental impacts?	Draws down rivers and aquifers; salinisation	
+Pre-Q Basic	Soil erosion from farming: causes?	Ploughing, overgrazing and removing shelter belts	
+Pre-Q Cloze	Sustainable dairy: {{c1::riparian planting}}, {{c2::nutrient budgets}}, {{c3::effluent ponds}}, lower {{c4::stocking rates}}		4 items
+Pre-Q Basic	Riparian planting and fencing: how it helps?	Filters runoff, shades streams, keeps stock out	
+Pre-Q Basic	Stand-off pads: purpose?	Keep stock off wet paddocks: less pugging and leaching	
+Pre-Q Basic	Long-term sustainability of dairy farming depends on?	Enforced mitigation, and fewer cows where water suffers	
+Pre-Q Basic	Green Revolution: drawbacks?	Needs capital the poorest lack; pollution and water use	
+Pre-Q Basic	GM crops: problems?	Costly seed under corporate control; ecological risk	
+Pre-Q Cloze	Food shortage causes: natural {{c1::drought}}, economic {{c2::poverty}}, political {{c3::war}}, demographic {{c4::population growth}}		4 types
+Pre-Q Cloze	Food shortage effects: {{c1::malnutrition}}, {{c2::stunting}}, {{c3::disease}}, {{c4::migration}}		4 items
+Pre-Q Basic	Emergency food aid: drawback?	Can undercut local farmers; often arrives late	
+Pre-Q Basic	Why are most modern famines access failures?	Food exists, but people can't afford or reach it	think affordability
+Pre-Q Basic	Early warning systems (food)?	Forecast food crises so aid arrives in time	
+Pre-Q Cloze	Somalia famine 2011: two failed {{c1::rainy seasons}}; worst drought in ~{{c2::60}} years		
+Pre-Q Basic	Somalia famine 2011: human causes?	High food prices; civil war; al-Shabaab blocked aid	3 causes
+Pre-Q Cloze	Somalia famine 2011: ~{{c1::258 000}} deaths, about {{c2::half}} children under five		
+Pre-Q Basic	Somalia famine 2011: lesson?	Warnings came early; conflict and slow response caused famine	
+Pre-Q Basic	Sahel: causes of chronic food shortage?	Drought and desertification; rapid population growth	

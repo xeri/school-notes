@@ -1,50 +1,53 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Mathematics::4 Geometry
-Angles at a point	Sum to 360°
-Angles on a straight line	Sum to 180°
-Vertically opposite angles	Equal
-Corresponding angles (F shape)	Equal
-Alternate angles (Z shape)	Equal
-Co-interior angles (C shape)	Sum to 180°
-Angles in a triangle	Sum to 180°
-Exterior angle of a triangle	Equals the sum of the two opposite interior angles
-Angles in a quadrilateral	Sum to 360°
-Sum of interior angles of an n-sided polygon	\((n-2)\times180°\)
-Sum of exterior angles of any polygon	360°
-Exterior angle of a regular n-sided polygon	\(360°/n\)
-Interior angle of a regular octagon	\(180 - 45 = 135°\)
-A regular polygon has interior angles of 162° — how many sides?	Exterior angle 18°, so \(360/18 = 20\) sides
-Angle in a semicircle	90°
-Angle between a tangent and a radius	90°
-Angle at the centre vs angle at the circumference	The angle at the centre is twice the angle at the circumference on the same arc
-Angles in the same segment	Equal
-Opposite angles of a cyclic quadrilateral	Supplementary — sum to 180°
-Equal chords in a circle	Are equidistant from the centre
-Perpendicular bisector of a chord	Passes through the centre
-Tangents from an external point	Are equal in length
-What must you always include with an angle answer?	The name of the geometrical rule used as the reason
-Properties of a rhombus	4 equal sides, opposite angles equal, diagonals bisect at 90°
-Properties of a parallelogram	Opposite sides parallel and equal, opposite angles equal
-Properties of a kite	Two pairs of adjacent equal sides, one line of symmetry
-Definition of a trapezium	Exactly one pair of parallel sides
-Difference between similar and congruent	Similar: same shape, sides in proportion. Congruent: identical in shape AND size
-Lines of symmetry in a parallelogram	None
-Order of rotational symmetry of a parallelogram	2
-Order of rotational symmetry of a scalene triangle	1 (no rotational symmetry)
-Planes of symmetry of a cylinder	Infinitely many
-Area scale factor for similar figures	\(k^2\)
-Volume scale factor for similar figures	\(k^3\)
-Two similar cones, heights 6 cm and 9 cm — area scale factor?	\(k = 1.5\), so \(k^2 = 2.25\)
-Volumes are 8 and 27 — length scale factor?	\(k = 3/2\)
-How do you construct a triangle from three sides?	Draw the longest side, then intersecting arcs of the other two lengths from each end
-How do you construct a perpendicular bisector?	Equal arcs above and below from each end, then join the intersections
-How do you construct an angle bisector?	Arc across both arms from the vertex, then equal arcs from each crossing, joined to the vertex
-What must you NOT erase in a construction?	The construction arcs — they carry the marks
-Scale 1:50 000 — what does 1 cm represent?	50 000 cm = 0.5 km
-Locus of points a fixed distance from a point	A circle
-Locus of points a fixed distance from a line	Two parallel lines either side (semicircular ends on a segment)
-Locus of points equidistant from two points	The perpendicular bisector
-Locus of points equidistant from two intersecting lines	The two angle bisectors
-Solid or dashed boundary line for a strict inequality?	Dashed
+#tags:maths geometry
+Pre-Q Cloze	Angle types: acute {{c1::&lt; 90°}}, obtuse {{c2::between 90° and 180°}}, reflex {{c3::&gt; 180°}}	Right angle = 90°	
+Pre-Q Basic	Isosceles triangle?	Two equal sides and two equal base angles	
+Pre-Q Cloze	Parallelogram: opposite sides {{c1::parallel and equal}}; opposite angles {{c2::equal}}		
+Pre-Q Cloze	Rhombus: {{c1::4 equal sides}}; opposite angles equal; diagonals {{c2::bisect at 90°}}		
+Pre-Q Basic	Kite?	Two pairs of adjacent equal sides; one line of symmetry	
+Pre-Q Basic	Trapezium?	Exactly one pair of parallel sides	
+Pre-Q Basic	Chord?	A straight line joining two points on a circle	
+Pre-Q Basic	Tangent to a circle?	A line touching the circle at exactly one point	
+Pre-Q Basic	Segment vs sector (circle)?	Chord and arc vs two radii and arc	Sector = pizza slice
+Pre-Q Basic	Cyclic quadrilateral?	A quadrilateral with all four vertices on a circle	
+Pre-Q Basic	Similar figures?	Same shape: equal angles, sides in proportion	Think enlargement
+Pre-Q Basic	Congruent figures?	Identical in shape and size	
+Pre-Q Basic	Locus?	The set of all points satisfying a condition	
+Pre-Q Cloze	Angles at a point sum to {{c1::360°}}; on a straight line to {{c2::180°}}		
+Pre-Q Cloze	Vertically opposite angles are {{c1::equal}}		
+Pre-Q Cloze	Parallel lines: {{c1::corresponding}} (F) and {{c2::alternate}} (Z) angles are equal; {{c3::co-interior}} (C) angles sum to 180°	Write the names, not "F" or "Z"	3 names
+Pre-Q Cloze	Angles in a triangle sum to {{c1::180°}}; in a quadrilateral to {{c2::360°}}		
+Pre-Q Cloze	Exterior angle of a triangle = {{c1::sum of the two opposite interior angles}}		
+Pre-Q Cloze	Polygon interior angle sum = {{c1::\((n-2)\times180°\)}}	n = number of sides	Split into triangles
+Pre-Q Cloze	Polygon exterior angles sum to {{c1::360°}}; each exterior angle of a regular polygon = {{c2::\(\frac{360°}{n}\)}}		
+Pre-Q Basic	Regular polygon: number of sides from the interior angle?	360° ÷ (180° − interior angle)	Find the exterior angle first
+Pre-Q Cloze	Angle at the centre = {{c1::twice}} the angle at the circumference on the same arc		Not half
+Pre-Q Cloze	Angle in a semicircle = {{c1::90°}}	Angle subtended by a diameter	
+Pre-Q Cloze	Angles in the same segment are {{c1::equal}}		
+Pre-Q Cloze	Cyclic quadrilateral: opposite angles sum to {{c1::180°}}		
+Pre-Q Cloze	Tangent and radius meet at {{c1::90°}}	At the point of contact	
+Pre-Q Cloze	Tangents from an external point are {{c1::equal in length}}		
+Pre-Q Cloze	The perpendicular from the centre to a chord {{c1::bisects the chord}}		
+Pre-Q Cloze	The perpendicular bisector of a chord passes through {{c1::the centre}}		
+Pre-Q Cloze	Equal chords are {{c1::equidistant from the centre}}		
+Pre-Q Cloze	Alternate segment theorem: tangent–chord angle = {{c1::angle in the alternate segment}}		
+Pre-Q Basic	Circle triangle with two radii as sides?	Isosceles	Radii are equal
+Pre-Q Basic	Angle-reason marks: what is needed?	The rule named in correct geometrical terms	
+Pre-Q Basic	Order of rotational symmetry?	Number of positions in a full turn that look the same	
+Pre-Q Basic	Parallelogram: symmetry?	No lines; rotational order 2	
+Pre-Q Basic	Planes of symmetry of a cylinder or cone?	Infinitely many	
+Pre-Q Cloze	Length scale factor k: area × {{c1::\(k^2\)}}; volume × {{c2::\(k^3\)}}	Mass and capacity scale like volume	
+Pre-Q Basic	Length scale factor from an area or volume ratio?	Square root of area ratio; cube root of volume ratio	Undo \(k^2\) or \(k^3\)
+Pre-Q Basic	How to find a missing length in similar triangles?	Show equal angles; match corresponding sides; use the ratio	Compare whole sides
+Pre-Q Cloze	Congruent triangle tests: {{c1::SSS}}, {{c2::SAS}}, {{c3::ASA}}, {{c4::RHS}}	AAA proves only similarity	4 tests
+Pre-Q Basic	How to construct a triangle from three sides?	Draw one side; arcs of the other two lengths from each end	Ruler and compasses
+Pre-Q Basic	How to construct a perpendicular bisector?	Equal arcs (over half the length) from each end; join the crossings	
+Pre-Q Basic	How to construct an angle bisector?	Arc across both arms; equal arcs from those points; join to the vertex	
+Pre-Q Basic	Map scale 1 : n means?	1 cm on the map is n cm in reality	
+Pre-Q Basic	Locus: fixed distance from a point?	A circle	
+Pre-Q Basic	Locus: fixed distance from a straight line?	Two parallel lines (semicircular ends for a segment)	
+Pre-Q Basic	Locus: equidistant from two points?	The perpendicular bisector of the segment joining them	
+Pre-Q Basic	Locus: equidistant from two intersecting lines?	The angle bisectors	

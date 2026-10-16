@@ -1,56 +1,87 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Business::5 Financial information and decisions
-Definition of start-up capital	Finance needed to begin trading — premises, equipment, initial stock
-Definition of working capital	Current assets minus current liabilities
-Is working capital the bank balance?	No — it includes inventory and receivables, less short-term debts
-Why match the term of finance to the purpose?	An overdraft can be recalled long before a building pays for itself
-Four internal sources of finance	Retained profit, owner's savings, sale of assets, sale and leaseback
-Retained profit: advantage and limit	No interest and no loss of control; limited by past profits
-Bank loan: advantage and drawback	A fixed sum with planned repayments; interest, and security usually required
-Overdraft: advantage and the key danger	Flexible short-term cover with interest only on what is used; it is repayable on demand
-Share capital: advantage and drawback	No repayment date or interest; dilutes ownership and control
-Definition of a debenture	A long-term loan to a company, usually at a fixed rate of interest
-Trade credit: advantage and drawback	Effectively free delay in paying suppliers; lost discounts and strained relations if abused
-Difference between leasing and hire purchase	Hire purchase ends in ownership once the full price plus interest is paid; leasing lets you use the asset and return it (or sometimes buy it at a discount) at the end
-Definition of microfinance	Small loans to very small businesses without conventional collateral
-Seven criteria for choosing a source of finance	What is available (size, legal form, existing loans), what it is for, how much, how quickly, the cost, the effect on control, the risk
-Difference between profit and cash flow	Profit is revenue minus expenses for a period; cash flow is money actually moving in and out
-Why is a loan not revenue?	It is borrowed money, not income earned from selling
-Definition of overtrading	Expanding faster than the available working capital allows
-Net cash flow formula	Total receipts − total payments
-Closing balance formula	Opening balance + net cash flow
-What becomes next month's opening balance?	This month's closing balance
-Can a month have negative net cash flow but a positive closing balance?	Yes — the business is still solvent
-Six causes of cash-flow problems	Excess inventory, expanding too quickly, too much spent on non-current assets, borrowing too much, poor credit control, seasonal sales (also inflation)
-Four solutions to a short-term cash-flow problem	Take out more loans (interest), delay payments to suppliers, call in debtors early, improve credit control
-Gross profit formula	Revenue − cost of sales
-Operating profit formula	Gross profit − operating expenses
-Profit for the year formula	Operating profit − interest − tax
-Retained profit formula	Profit for the year − dividends
-Two uses of profit	Paying dividends to owners, or retaining it to finance growth
-What does a statement of financial position show?	What the business owns and owes at a single date
-Definition of a non-current asset	An asset kept for more than a year, such as premises or equipment
-Three examples of current assets	Inventory, trade receivables, cash
-Two examples of current liabilities	Trade payables and an overdraft
-Capital employed formula	Equity + non-current liabilities
-Gross profit margin formula	(gross profit ÷ revenue) × 100
-Operating profit margin formula	(operating profit ÷ revenue) × 100
-ROCE formula	(operating profit ÷ capital employed) × 100
-Current ratio formula	Current assets ÷ current liabilities
-Acid-test ratio formula	(current assets − inventory) ÷ current liabilities
-Why does the acid test exclude inventory?	Stock may not sell quickly, so it is the stricter test of liquidity
-Is a ratio quoted as a percentage?	Liquidity ratios are a ratio or multiple; profitability ratios are percentages
-What does a very high current ratio suggest?	Cash or stock sitting idle rather than being used to earn money — the school's 'ideal' is 1:1 to 1.5:1
-Four users of accounts and why	Shareholders (return), lenders (can the loan be repaid), suppliers (will we be paid), employees (job security)
-Three limitations of ratio analysis	A ratio means nothing alone, definitions must be consistent, and it ignores morale, brand and market conditions
-What should a ratio be compared with?	The same firm over time, or similar firms in the same industry
-Capital vs revenue expenditure	Capital: spending on non-current assets (premises, vehicles); revenue: spending on running costs (wages, rent)
-Definition of sale and leaseback	Selling a non-current asset and renting it back — raises cash while still using the asset
-Definition of venture capital	Finance from a venture capital firm or business angel, in return for a share of ownership and management
-Definition of gearing	The proportion of a firm's finance that is debt rather than equity — high gearing means high risk
-Cost of sales (COGS) formula	Opening inventory + purchases − closing inventory
-Three sections of an income statement	Trading account (gross profit), profit and loss account (operating profit to profit for the year), appropriation account (dividends and retained earnings)
-Accounting equation	Assets = liabilities + equity (so assets − liabilities = equity)
-When is ROCE unsatisfactory?	When it is below the bank's interest rate — the owners would earn more leaving the money in the bank
+#tags:business finance
+Pre-Q Basic	Start-up capital?	Finance needed to begin trading	
+Pre-Q Basic	Capital vs revenue expenditure?	Spending on non-current assets vs running costs	
+Pre-Q Basic	Working capital?	Finance available for day-to-day operations	Not the bank balance
+Pre-Q Cloze	Working capital = {{c1::current assets}} − {{c2::current liabilities}}		
+Pre-Q Basic	Retained profit?	Profit kept in the business rather than distributed	
+Pre-Q Basic	Overdraft?	Short-term facility to go into deficit on a bank account	
+Pre-Q Basic	Trade credit?	Buying from a supplier now and paying later	
+Pre-Q Basic	Debenture?	Long-term loan to a company, usually at fixed interest	
+Pre-Q Basic	Hire purchase?	Instalments plus interest; owned once fully paid	Not the same as leasing
+Pre-Q Basic	Leasing?	Paying to use an asset without buying it	
+Pre-Q Basic	Sale and leaseback?	Selling a non-current asset and renting it back	
+Pre-Q Basic	Venture capital?	Investment in return for a share of ownership and management	Think business angels
+Pre-Q Basic	Microfinance?	Very small loans to people banks won't lend to	
+Pre-Q Basic	Crowdfunding?	Raising small amounts from many people, usually online	
+Pre-Q Basic	Collateral?	An asset offered as security for a loan	
+Pre-Q Basic	Gearing?	Proportion of a firm's finance that is borrowed	
+Pre-Q Cloze	Gearing = ({{c1::non-current liabilities}} ÷ {{c2::capital employed}}) × 100	Highly geared above about 60%	
+Pre-Q Basic	Debt vs equity finance?	Debt is repaid with interest; equity is never repaid	
+Pre-Q Basic	Revenue?	Income from sales: price × quantity	
+Pre-Q Cloze	Cost of sales = {{c1::opening inventory}} + {{c2::purchases}} − {{c3::closing inventory}}		
+Pre-Q Basic	Profit for the year?	Profit after interest and tax	
+Pre-Q Basic	Non-current asset?	Asset kept for more than a year	e.g. premises
+Pre-Q Basic	Current asset?	Asset expected to become cash within a year	e.g. inventory
+Pre-Q Basic	Current liability?	Debt due within a year	e.g. overdraft
+Pre-Q Basic	Intangible asset?	Non-current asset that cannot be seen, e.g. a patent	
+Pre-Q Basic	Equity?	Share capital plus retained earnings	Total assets minus total liabilities
+Pre-Q Basic	Liquidity?	Ability to meet short-term debts as they fall due	
+Pre-Q Basic	Insolvency?	Being unable to pay debts when they are due	
+Pre-Q Basic	Overtrading?	Expanding faster than working capital allows	
+Pre-Q Basic	Profitability?	How well a firm turns sales and capital into profit	
+Pre-Q Basic	Cash-flow forecast?	Estimate of future cash inflows and outflows	
+Pre-Q Basic	Income statement?	Summary of revenue, costs and profit over a period	
+Pre-Q Cloze	Income statement sections: {{c1::trading account}}, {{c2::profit and loss account}}, {{c3::appropriation account}}		3 accounts
+Pre-Q Basic	Statement of financial position?	What the business owns and owes on one date	
+Pre-Q Basic	Why match the term of finance to its purpose?	Long-term assets need long-term finance	Why not buy a building with an overdraft?
+Pre-Q Cloze	Internal finance: {{c1::retained profit}}, {{c2::owner's savings}}, {{c3::sale of assets}}, {{c4::sale and leaseback}}		4 sources
+Pre-Q Cloze	Short-term finance: {{c1::overdraft}}, {{c2::trade credit}}, {{c3::credit card}}	Repaid within a year	3 sources
+Pre-Q Cloze	Long-term finance: {{c1::bank loan}}, {{c2::debentures}}, {{c3::share issue}}, {{c4::hire purchase}}	More than a year	4 sources
+Pre-Q Basic	Retained profit: limitation?	New or small firms may have little	
+Pre-Q Basic	Overdraft: key danger?	Repayable on demand	
+Pre-Q Basic	Bank loan: advantage vs drawback?	Fixed sum and term; interest and security needed	
+Pre-Q Basic	Trade credit: risk of paying late?	Lost discounts and future supplies refused	
+Pre-Q Basic	Share issue: advantage vs drawback?	Permanent capital; dilutes control	
+Pre-Q Basic	Government grant: drawback?	Conditions attached, such as keeping jobs	
+Pre-Q Cloze	Choosing finance: {{c1::amount}}, {{c2::purpose}}, {{c3::time}}, {{c4::cost}}, {{c5::risk}}, {{c6::legal form}}		6 factors
+Pre-Q Basic	Why is cash vital?	Bills must be paid on time or the firm fails	
+Pre-Q Basic	Profit vs cash flow?	Revenue minus expenses vs money actually moving	
+Pre-Q Basic	Why can a credit sale give profit but no cash?	Revenue is recorded now; cash arrives later	
+Pre-Q Basic	Is a loan revenue?	No: cash comes in, but it is not revenue	
+Pre-Q Cloze	Net cash flow = {{c1::total receipts}} − {{c2::total payments}}		
+Pre-Q Cloze	Closing balance = {{c1::opening balance}} + {{c2::net cash flow}}	Closing balance becomes next month's opening	
+Pre-Q Basic	How to find a missing payment in a forecast?	Total payments minus the other payments	Work backwards
+Pre-Q Basic	Negative net cash flow but positive closing balance?	Still solvent; no overdraft needed yet	
+Pre-Q Basic	Negative closing balance in a forecast?	Overdraft or other finance is needed	
+Pre-Q Cloze	Cash-flow problem causes: {{c1::excess inventory}}, {{c2::overtrading}}, {{c3::too much debt}}, {{c4::poor credit control}}, {{c5::seasonal sales}}		5 causes
+Pre-Q Cloze	Improving cash flow: {{c1::overdraft}}, {{c2::delay paying suppliers}}, {{c3::chase debtors}}, {{c4::reduce stock}}, {{c5::lease, not buy}}		Cash in sooner, out later
+Pre-Q Cloze	Why profit matters: {{c1::reward for risk}}, {{c2::source of finance}}, {{c3::attracts investors}}, {{c4::pays dividends}}		4 reasons
+Pre-Q Cloze	Gross profit = {{c1::revenue}} − {{c2::cost of sales}}		
+Pre-Q Cloze	Operating profit = {{c1::gross profit}} − {{c2::operating expenses}}		
+Pre-Q Cloze	Profit for the year = {{c1::operating profit}} − {{c2::interest}} − {{c3::tax}}		
+Pre-Q Cloze	Retained profit = {{c1::profit for the year}} − {{c2::dividends}}		
+Pre-Q Basic	How to raise gross profit?	Raise the price or cut cost of sales	
+Pre-Q Cloze	{{c1::Assets}} = {{c2::liabilities}} + {{c3::equity}}	Accounting equation	
+Pre-Q Cloze	Capital employed = {{c1::equity}} + {{c2::non-current liabilities}}		
+Pre-Q Cloze	Gross profit margin = ({{c1::gross profit}} ÷ {{c2::revenue}}) × 100		
+Pre-Q Cloze	Operating profit margin = ({{c1::operating profit}} ÷ {{c2::revenue}}) × 100		
+Pre-Q Cloze	ROCE = ({{c1::operating profit}} ÷ {{c2::capital employed}}) × 100	Return on capital employed	Which profit?
+Pre-Q Basic	ROCE below the bank interest rate means?	Owners would earn more in the bank	
+Pre-Q Cloze	Current ratio = {{c1::current assets}} ÷ {{c2::current liabilities}}	A ratio, not a %	
+Pre-Q Cloze	Acid-test ratio = ({{c1::current assets}} − {{c2::inventory}}) ÷ {{c3::current liabilities}}		
+Pre-Q Basic	Why does the acid test exclude inventory?	Stock may not sell quickly	
+Pre-Q Basic	"Ideal" range for liquidity ratios (school)?	1:1 to 1.5:1	
+Pre-Q Basic	Very high current ratio means?	Idle cash or stock that is not earning	
+Pre-Q Basic	Can a profitable firm be illiquid?	Yes: money tied up in stock and equipment	
+Pre-Q Basic	Which ratios does a lender check?	Liquidity and profitability	
+Pre-Q Basic	Which ratios does a supplier check?	Current and acid-test ratios	
+Pre-Q Cloze	Ratio analysis limits: {{c1::needs comparison}}, {{c2::consistent definitions}}, {{c3::ignores non-financial factors}}		3 limits
+Pre-Q Basic	Fixed capital?	Money invested in non-current assets	Not working capital
+Pre-Q Basic	Liquidation?	Closing an insolvent business and selling its assets to pay debts	Follows insolvency
+Pre-Q Basic	Net assets?	Total assets minus total liabilities	
+Pre-Q Basic	Total equity (balance sheet)?	Owners' capital in the business; equals net assets	
+Pre-Q Cloze	Accounting equation: assets = {{c1::liabilities}} + {{c2::equity}}	So assets − liabilities = equity	

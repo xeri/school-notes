@@ -1,0 +1,29 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::04 Population density and distribution
+#tags:geography population-density
+Pre-Q Basic	Population density?	Average number of people per km²	
+Pre-Q Basic	Population distribution?	The pattern of where people live across an area	
+Pre-Q Basic	Population density vs distribution?	Density is a number; distribution is a pattern	which one wants locations?
+Pre-Q Cloze	Population density = {{c1::total population ÷ area (km²)}}		
+Pre-Q Basic	Why can a regional density figure mislead?	It is an average: hides crowded and empty areas	
+Pre-Q Cloze	About {{c1::90%}} of people live in the Northern Hemisphere	Mostly on lowlands near the sea	
+Pre-Q Cloze	4 great population clusters: {{c1::East Asia}}, {{c2::South Asia}}, {{c3::Europe}}, {{c4::north-east USA}}		4 items
+Pre-Q Cloze	4 sparsely populated area types: {{c1::hot deserts}}, {{c2::cold lands}}, {{c3::high mountains}}, {{c4::dense rainforest}}		4 items
+Pre-Q Cloze	Physical factors for high density: {{c1::flat lowland}}, {{c2::reliable rainfall}}, {{c3::fertile soil}}, {{c4::water supply}}		4 items
+Pre-Q Basic	Economic factors for high population density?	Jobs, trade and good transport	
+Pre-Q Basic	Social factors for high population density?	Services, and family or community already there	
+Pre-Q Basic	Political factors affecting population density?	Stability and investment raise it; conflict lowers it	
+Pre-Q Basic	Why do human factors now explain more of the pattern?	Technology lets people live in harsh places; jobs cluster in cities	
+Pre-Q Cloze	Bangladesh (high density): over {{c1::1100}} people per km²		
+Pre-Q Cloze	Bangladesh dense: flat fertile {{c1::alluvium}}, abundant {{c2::water}}, {{c3::monsoon}} rice harvests, high {{c4::natural increase}}		4 items
+Pre-Q Cloze	Auckland (high density): ~{{c1::one-third}} of NZ's population		
+Pre-Q Cloze	Auckland dense: two {{c1::harbours}}, {{c2::port and airport}}, mild {{c3::climate}}, {{c4::jobs}} for immigrants		4 items
+Pre-Q Cloze	Nile valley: ~{{c1::95%}} of Egyptians live on ~{{c2::5%}} of the land		
+Pre-Q Cloze	Sahara (low density): under {{c1::1}} person per km²; under {{c2::250 mm}} rain a year		
+Pre-Q Basic	Sahara: why sparsely populated?	Aridity, extreme heat and no surface water	
+Pre-Q Basic	NZ West Coast: why sparsely populated?	Steep mountains, very high rainfall and isolation	
+Pre-Q Basic	Amazon: why sparsely populated?	Dense forest, leached soils and disease	
+Pre-Q Basic	Northern Canada and Siberia: why sparsely populated?	Extreme cold, permafrost and a short growing season	
+Pre-Q Cloze	Describe a distribution: {{c1::general pattern}}, then {{c2::anomalies}}, then {{c3::anchor}} with places and figures		3 steps

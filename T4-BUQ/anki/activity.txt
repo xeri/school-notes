@@ -1,74 +1,104 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Business::1 Understanding business activity
-Definition of opportunity cost	The next best alternative given up when a choice is made
-Definition of added value	Selling price minus the cost of bought-in materials
-Is added value the same as profit?	No — wages, rent and overheads still come out of it
-Four ways to add value	Building a brand, excellent service, extra product features, convenience
-Four factors of production	Land, labour, capital, enterprise
-Primary sector	Extracting natural resources — farming, fishing, mining
-Secondary sector	Manufacturing and construction
-Tertiary sector	Providing services — retail, banking, transport
-What is de-industrialisation?	The decline in the importance of the secondary (manufacturing) sector as an economy develops
-Difference between private and public sector	Private is owned and run by private individuals and firms, mainly for profit; public is owned and controlled by government, mainly to provide services
-Two purposes of a business plan	To force the owner to think the venture through, and to persuade a lender or investor to provide finance
-Five causes of business failure	No USP, insufficient cash flow and poor financial management, poor planning and management, changes in the environment (laws, competitors, economy), overexpansion
-Five ways to measure business size	Number of employees, sales revenue, output, capital employed, market share (or market capitalisation)
-Why can size measures disagree?	A capital-intensive firm can have huge revenue with very few employees
-Definition of economies of scale	The lower average costs of production a firm gains as it grows
-Purchasing economy of scale	Buying materials in bulk earns cheaper or discounted rates
-Technical economy of scale	Large firms can afford the latest specialised equipment, raising efficiency and productivity
-Financial economy of scale	Banks see larger firms as less risky, so lend at cheaper interest rates
-Marketing economy of scale	Larger advertising campaigns reach a wider audience, spreading the cost over more output
-Four diseconomies of scale	Labour (boredom), communication (sites, languages, time zones), management (conflicting managers), agglomeration (too many different businesses to coordinate)
-A $6000 campaign over 2000 vs 6000 units	$3 per unit vs $1 per unit
-Liability of a sole trader	Unlimited — personally responsible for all business debts
-Two advantages of being a sole trader	Total control and keeps all the profit (also easy to set up)
-Two drawbacks of being a sole trader	Hard to raise capital, unlimited liability (also no continuity)
-Two advantages of a partnership	Combines finance and expertise, shares the workload
-Two drawbacks of a partnership	Unlimited liability and shared profits (also disagreements and no continuity)
-Definition of limited liability	A shareholder can lose no more than the amount invested
-What makes limited liability possible?	The company has separate legal identity from its owners
-Is a public limited company in the public sector?	No — "public" means shares are offered to the public; it is a private-sector business
-Difference between Ltd and plc	Ltd shares are sold privately with every shareholder's agreement; plc shares are bought and sold openly on the stock market
-Two drawbacks of becoming a plc	Very expensive to set up, and easy to lose control (also financial information is public)
-What does a franchisee pay the franchisor?	A start-up fee plus a percentage of sales revenue
-Two benefits to the franchisee	A lower-risk start with a tried and trusted product; ongoing training and support
-Two drawbacks to the franchisee	The fee and share of revenue reduce profit; must do things the franchisor's way
-Two benefits to the franchisor	Quick, cheap expansion without borrowing; franchisees pay to grow the brand
-Definition of a joint venture	Two or more parties pooling their resources to accomplish a specific task, sharing its profits, losses and costs
-Definition of a co-operative	A business owned and democratically controlled by its members, run for their mutual benefit rather than for investors' profit
-Definition of a social enterprise	A private-sector business with mainly social objectives whose surpluses are reinvested rather than used to maximise owners' profit
-What does SMART stand for?	Specific, measurable, achievable, realistic, time specific
-Why do objectives change over time?	A start-up aims to survive, then to grow, then perhaps to maximise profit
-Give an example of conflicting objectives	Growth may require cutting prices, reducing short-run profit
-Definition of corporate social responsibility	Operating ethically in three areas — people, planet and profit (the triple bottom line)
-Three arguments for CSR	Better brand image and sales, a possible USP, easier recruitment (and avoids fines and boycotts)
-Three arguments against CSR	Higher costs cut profit, can slow expansion, shareholders may prefer dividends
-Difference between ethics and legal compliance	Ethics considers society's interests beyond the law — what is right, not just what is legal
-Definition of a stakeholder	Anyone who has a direct interest in the performance of a business
-Is a shareholder the same as a stakeholder?	No — a shareholder is one kind of stakeholder
-Main aim of employees as stakeholders	Fair pay, job security and good working conditions
-Main aim of suppliers as stakeholders	Regular orders and prompt payment
-Give an example of stakeholder conflict	Shareholders want dividends; employees want higher wages and job security — both come from the same profit
-Effect of technology on operations	Automation cuts unit costs and raises consistency, but needs capital and may cut jobs
-Effect of technology on employment	Demand shifts from unskilled to skilled work, creating retraining and redundancy costs
-Is profit a measure of business size?	No — profit measures performance and efficiency, not size
-Risk-bearing economy of scale	A wider product range, more customers and more locations spread the risk of failure
-Difference between a merger and a takeover	A merger is a mutual agreement to join into one business; in a takeover one business buys another, which comes under its control
-Horizontal integration	Joining a firm in the same industry at the same stage of production — less competition, more market share
-Backward vs forward vertical integration	Backward: taking over a firm closer to the raw materials; forward: a firm closer to the end consumer
-Conglomerate integration	Joining a firm in an unrelated industry — spreads risk
-Three reasons some firms stay small	The type of industry (personal service), a small market, the owners' wish to keep control
-Who owns and who runs a limited company?	Shareholders own it; directors, elected at the AGM, run it
-What does a deed of partnership set out?	Voting rights, each partner's responsibilities, and how profit and loss are split — it is not a legal requirement
-Free-market economy	Resources privately owned, no government control, prices set by supply and demand
-Command (planned) economy	Government owns and plans all resources; no private businesses
-Definition of privatisation	Selling government-owned businesses to the private sector
-Definition of a public corporation	A business wholly owned by the government, run by a board of directors it appoints
-Difference between an aim and an objective	An aim is where the business wants to go; an objective is a measurable target for achieving it
-Definition of profit satisficing	Making enough profit, without profit being the only focus
-Kaitiakitanga	Guardianship of natural resources — e.g. sustainability initiatives
-Manaakitanga	The ethic of caring and hospitality — a welcoming workplace, looking after guests
-Tino rangatiratanga	Self-determination, ownership and active control — taking responsibility for your own area
+#tags:business activity
+Pre-Q Basic	Need?	Good or service essential for survival	
+Pre-Q Basic	Want?	Something desired but not essential	
+Pre-Q Basic	Scarcity?	Limited resources against unlimited wants	The basic economic problem
+Pre-Q Basic	Opportunity cost?	Next best alternative given up when choosing	
+Pre-Q Basic	Added value?	Selling price minus cost of bought-in materials	Not the same as profit
+Pre-Q Cloze	4 factors of production: {{c1::land}}, {{c2::labour}}, {{c3::capital}}, {{c4::enterprise}}		L-L-C-E
+Pre-Q Basic	Entrepreneur?	Person who takes the risk of combining the factors of production	
+Pre-Q Basic	Specialisation?	Concentrating on the task one does best	
+Pre-Q Basic	Primary sector (business)?	Extracting natural resources	
+Pre-Q Basic	Secondary sector (business)?	Manufacturing and construction	
+Pre-Q Basic	Tertiary sector (business)?	Providing services	
+Pre-Q Basic	Private sector?	Owned and run by private individuals and firms	
+Pre-Q Basic	Public sector?	Owned and controlled by government	
+Pre-Q Basic	De-industrialisation?	Decline in importance of the manufacturing sector	
+Pre-Q Basic	Free-market economy?	Resources privately owned; prices set by supply and demand	
+Pre-Q Basic	Command (planned) economy?	Government owns and plans all resources	
+Pre-Q Basic	Mixed economy?	Has both a private and a public sector	
+Pre-Q Basic	Privatisation?	Selling government-owned businesses to the private sector	Opposite: nationalisation
+Pre-Q Basic	Business plan?	Formal statement of goals and how they will be reached	
+Pre-Q Basic	Chain of production?	Stages from raw material to sale, each adding value	
+Pre-Q Basic	Supply chain?	Businesses supplying materials and products along a chain of production	
+Pre-Q Basic	Economies of scale?	Fall in average cost per unit as scale expands	Per unit, not total cost
+Pre-Q Basic	Diseconomies of scale?	Rise in average cost when growth reduces efficiency	
+Pre-Q Basic	Capital employed?	Total long-term finance invested in the business	
+Pre-Q Cloze	Market capitalisation = {{c1::share price}} × {{c2::number of shares issued}}	A size measure for a plc only	
+Pre-Q Basic	Internal (organic) growth?	Expanding the firm's own operations, usually from retained profit	
+Pre-Q Basic	External growth?	Growth by merger or takeover	
+Pre-Q Basic	Merger?	Businesses mutually agree to join into one	
+Pre-Q Basic	Takeover?	One business buys another and takes control of it	
+Pre-Q Cloze	{{c1::Horizontal}} integration: same industry, same stage of production		
+Pre-Q Cloze	{{c1::Backward vertical}} integration: joining a firm closer to raw materials		Which direction along the chain?
+Pre-Q Cloze	{{c1::Forward vertical}} integration: joining a firm closer to the consumer		Which direction along the chain?
+Pre-Q Cloze	{{c1::Conglomerate}} integration: joining a firm in an unrelated industry		
+Pre-Q Basic	Unlimited liability?	Owner personally responsible for all business debts	
+Pre-Q Basic	Limited liability?	Shareholder can lose no more than the amount invested	
+Pre-Q Basic	Separate legal identity?	Company is a legal person distinct from its owners	
+Pre-Q Basic	Sole trader?	Business owned and controlled by one person	
+Pre-Q Basic	Partnership?	Two or more owners sharing profits and unlimited liability	
+Pre-Q Basic	Deed of partnership?	Agreement on partners' voting rights, duties and profit split	Not a legal requirement
+Pre-Q Basic	Private limited company (Ltd)?	Shares sold privately, only with all shareholders' agreement	
+Pre-Q Basic	Public limited company (plc)?	Shares traded openly on the stock market	
+Pre-Q Basic	Is a plc in the public or private sector?	Private: "public" refers to selling shares	Think about who owns it
+Pre-Q Basic	Directors (company)?	Elected by shareholders at the AGM to run the company	
+Pre-Q Basic	Dividend?	Share of after-tax profit paid to shareholders	
+Pre-Q Basic	Franchise?	Right to use a firm's name, products and methods for a fee	
+Pre-Q Basic	Franchisor vs franchisee?	Franchisor sells the right; franchisee buys it	o = original, e = expanding
+Pre-Q Basic	Joint venture?	Parties pool resources for a specific task, sharing profit and loss	
+Pre-Q Basic	Co-operative?	Business owned and democratically controlled by its members	Run for mutual benefit, not investors
+Pre-Q Basic	Social enterprise?	Private business with social aims; surpluses reinvested	
+Pre-Q Basic	Public corporation?	Business wholly owned by government, run by an appointed board	
+Pre-Q Basic	Aim (business)?	Where the business wants to go; a statement of purpose	
+Pre-Q Basic	Objective (business)?	Stated, measurable target for achieving an aim	
+Pre-Q Cloze	SMART objectives: {{c1::specific}}, {{c2::measurable}}, {{c3::achievable}}, {{c4::realistic}}, {{c5::time specific}}		S-M-A-R-T
+Pre-Q Basic	Mission statement?	Short, motivating statement of the core aims	
+Pre-Q Basic	Profit satisficing?	Aiming for enough profit, not the maximum	
+Pre-Q Basic	Stakeholder?	Anyone with a direct interest in a firm's performance	
+Pre-Q Cloze	Internal stakeholders: {{c1::owners}}, {{c2::managers}}, {{c3::employees}}		3 groups
+Pre-Q Cloze	External stakeholders: {{c1::customers}}, {{c2::suppliers}}, {{c3::lenders}}, {{c4::government}}, {{c5::community}}	Also pressure groups	5 groups
+Pre-Q Basic	Shareholder vs stakeholder?	Shareholder is a part-owner: one type of stakeholder	
+Pre-Q Basic	Corporate social responsibility (CSR)?	Operating ethically beyond legal requirements	Think triple bottom line
+Pre-Q Cloze	Triple bottom line: {{c1::people}}, {{c2::planet}}, {{c3::profit}}		3 Ps
+Pre-Q Basic	Ethics (business)?	Doing what is right, beyond legal obligations	
+Pre-Q Basic	Kaitiakitanga?	Guardianship of natural resources	
+Pre-Q Basic	Manaakitanga?	Ethic of caring and hospitality	
+Pre-Q Basic	Tikanga?	Māori values followed in the business	
+Pre-Q Basic	Tino rangatiratanga?	Self-determination, ownership and control	
+Pre-Q Basic	Pūtake?	Origin or reason for being	
+Pre-Q Basic	How to increase added value?	Raise the price customers pay, or cut material costs	2 routes
+Pre-Q Cloze	Entrepreneur traits: {{c1::risk-taker}}, {{c2::creative}}, {{c3::hard-working}}, {{c4::self-confident}}, {{c5::good communicator}}		5 traits
+Pre-Q Cloze	Why governments support start-ups: {{c1::jobs}}, {{c2::competition}}, {{c3::future tax and exports}}, {{c4::innovation}}		4 reasons
+Pre-Q Cloze	How governments support start-ups: {{c1::grants}}, {{c2::low-interest loans}}, {{c3::advice and training}}, {{c4::cheap premises}}		4 methods
+Pre-Q Basic	Why does the tertiary sector grow as economies develop?	Richer people spend more on services	
+Pre-Q Basic	Privatisation: argument for vs against?	More efficiency; loss-making services may close	
+Pre-Q Cloze	Causes of business failure: {{c1::no USP}}, {{c2::poor cash flow}}, {{c3::poor planning}}, {{c4::changing environment}}, {{c5::overexpansion}}		5 causes
+Pre-Q Cloze	Measures of business size: {{c1::employees}}, {{c2::sales revenue}}, {{c3::output}}, {{c4::capital employed}}, {{c5::market share}}		5 measures
+Pre-Q Basic	Why is profit not a measure of size?	It measures performance, not size	
+Pre-Q Cloze	Why owners expand: {{c1::more profit}}, {{c2::economies of scale}}, {{c3::market power}}, {{c4::spread risk}}, {{c5::status}}		5 reasons
+Pre-Q Cloze	Why firms stay small: {{c1::personal-service industry}}, {{c2::small market}}, {{c3::owner wants control}}, {{c4::lack of finance}}		4 reasons
+Pre-Q Cloze	Problems of growth: {{c1::finding finance}}, {{c2::overtrading}}, {{c3::diseconomies}}, {{c4::lost personal service}}, {{c5::culture clash}}		5 problems
+Pre-Q Cloze	{{c1::Purchasing}} economy of scale: bulk-buying discounts		
+Pre-Q Cloze	{{c1::Marketing}} economy of scale: campaign cost spread over more output		
+Pre-Q Cloze	{{c1::Financial}} economy of scale: banks lend more cheaply to large firms		
+Pre-Q Cloze	{{c1::Risk-bearing}} economy of scale: more products and markets spread risk		
+Pre-Q Cloze	{{c1::Technical}} economy of scale: affording the latest specialised equipment		
+Pre-Q Cloze	{{c1::Managerial}} economy of scale: affording specialist managers		
+Pre-Q Cloze	Diseconomies of scale: {{c1::labour}}, {{c2::communication}}, {{c3::management}}, {{c4::agglomeration}}		4 types
+Pre-Q Basic	Unincorporated vs incorporated business?	Owner is the business vs company is a separate legal person	
+Pre-Q Cloze	Choosing a form of ownership: {{c1::risk}}, {{c2::finance}}, {{c3::control}}, {{c4::cost and paperwork}}		4 factors
+Pre-Q Basic	Franchise: drawback for the franchisee?	Fees cut profit; must follow the franchisor's methods	
+Pre-Q Cloze	Social enterprise objectives: {{c1::social}}, {{c2::environmental}}, {{c3::financial}}		3 objectives
+Pre-Q Basic	Public sector: success measured by?	Service quality, such as waiting times	
+Pre-Q Basic	Why do objectives change over time?	A start-up aims to survive, then to grow	
+Pre-Q Basic	CSR: argument for vs against?	Better image and sales; higher costs	
+Pre-Q Basic	Why do shareholders and employees conflict?	Higher wages mean lower dividends	Same profit, two claims
+Pre-Q Basic	Technology: main drawback?	High cost, plus training and obsolescence risk	
+Pre-Q Basic	Memorandum of Association?	Company document: name, objectives, shareholders' liability, number of shares	External details, not internal rules
+Pre-Q Basic	Articles of Association?	Company document setting out its internal rules	Not the Memorandum
+Pre-Q Basic	Divorce of ownership from control?	Shareholders own a company but directors run it, so aims may differ	Who owns vs who decides
+Pre-Q Basic	Franchise: what the franchisee pays?	Start-up fee plus a percentage of sales revenue	2 payments

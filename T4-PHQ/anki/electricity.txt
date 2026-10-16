@@ -1,83 +1,104 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Physics::7 Electricity and magnetism
-What are magnetic domains?	Small crystal regions that each act as a tiny magnet; aligning them magnetises the material
-Why does a magnet attract unmagnetised iron but only repel another magnet?	Attraction only needs the iron's domains to line up (induced magnetism); repulsion needs an existing like pole facing it
-Which way do magnetic field lines run outside a magnet?	From N to S
-Where is a magnetic field strongest?	At the poles, where the field lines are closest together
-Can magnetic field lines cross?	No — magnetic forces arise from field lines that cannot intersect
-What do iron filings show, and what do they not show?	The field pattern, but not the direction — use a plotting compass for that
-What is a neutral point?	A point where two fields cancel, e.g. between two facing N poles
-Three ways to magnetise a material	Stroking with one pole, placing in a coil carrying d.c., hammering inside a magnetic field
-Three ways to demagnetise a material	Hammering, heating strongly, placing in a coil carrying a.c.
-Property of soft iron	It loses its magnetism as soon as the external field is removed — ideal for electromagnet and transformer cores
-Property of a hard magnetic material like steel	It keeps its magnetism — ideal for permanent magnets
-Two advantages of an electromagnet over a permanent magnet	It can be switched off, and its strength can be varied
-What actually moves when you charge by friction?	Electrons only — protons stay in the nucleus
-How does a gold-leaf electroscope detect charge?	The leaf and stem acquire like charges and repel, so the leaf rises
-Steps for charging by induction	Bring a charged rod near, earth the far side briefly, remove the earth, then remove the rod — the sphere keeps the opposite charge
-Why do metals conduct electricity?	They have free (delocalised) electrons that drift through the lattice
-Definition of an electric field	A region in which a charge experiences a force
-Direction of an electric field at a point	The direction of the force on a positive charge there
-Field pattern between two parallel plates	Uniform — evenly spaced parallel lines from + to −
-Field pattern around a charged conducting sphere	Radial outside as if from the centre; zero inside
-Definition of current	The rate of flow of charge
-Current formula	\(I = Q/t\)
-Which way do electrons flow compared with conventional current?	Opposite — electrons go negative to positive, conventional current positive to negative
-Definition of e.m.f.	The energy change inside the supply, per unit charge, that drives charge round a complete circuit
-Definition of potential difference	The energy transferred per unit charge in a component
-What is 1 volt in base terms?	1 J/C
-Resistance formula	\(R = V/I\)
-Is current used up passing through a resistor?	No — charge is conserved
-How does resistance depend on wire length?	Directly proportional — double the length, double the resistance
-How does resistance depend on cross-sectional area?	Inversely proportional — double the diameter (×4 area) and the resistance quarters
-Resistivity formula	\(R = \rho L / A\)
-I–V graph of an ohmic resistor	A straight line through the origin
-I–V graph of a filament lamp	An S-shaped curve that flattens
-Why does a filament lamp's resistance rise with current?	It heats up, the lattice ions vibrate more, and electrons collide more often
-Current in a series circuit	The same at every point
-P.d. in a series circuit	The p.d.s across components add to the supply p.d.
-Current in a parallel circuit	The source current equals the sum of the branch currents
-P.d. in a parallel circuit	The same across each branch
-Series resistance formula	\(R_T = R_1 + R_2\)
-Parallel resistance formula	\(R_T = \dfrac{R_1R_2}{R_1+R_2}\)
-Why is combined parallel resistance less than either resistor?	There are more paths for the charge to take
-Three reasons household lamps are wired in parallel	Each can be switched independently, each gets full mains p.d., one failing does not black out the house
-Electrical power formula	\(P = IV\)
-Electrical energy formula	\(E = IVt\)
-6.0 V across 3.0 Ω: current and power?	\(I = 2.0\) A, \(P = 12\) W
-What does a potential divider do?	Taps off a fraction of the supply p.d. from two resistors in series
-Potential divider formula	\(V_{out} = V_{in}\dfrac{R_2}{R_1+R_2}\)
-How does a thermistor's resistance change?	It falls sharply as temperature rises
-How does an LDR's resistance change?	It falls as light intensity rises
-What does a relay do?	A small coil current closes contacts in a separate circuit, letting a small safe current switch a large one, with electrical isolation
-What does a diode do?	Conducts in one direction only; as a rectifier it converts a.c. to d.c.
-How do you build a light-sensitive switch?	LDR in a potential divider; the changing output p.d. operates a relay that switches the lamp
-Three electrical hazards	Damaged insulation, overheating cables, damp conditions
-Plug wire colours	Live brown, neutral blue, earth green/yellow stripes
-What does a fuse protect?	The appliance and the wiring — NOT the person
-Fuse for a 230 V, 700 W appliance	\(I = 700/230 = 3.0\) A, so a 5 A fuse
-How does earthing make an appliance safe?	A fault makes a large current flow to earth through a low-resistance path, blowing the fuse at once so the case cannot stay live
-When is an e.m.f. induced in a conductor?	When it moves across a magnetic field, or the field linking it changes
-Three factors increasing an induced e.m.f.	Faster rate of change of field, more turns on the coil, a stronger magnet
-State Lenz's law	The induced e.m.f. opposes the change that caused it
-Fleming's right-hand rule is used for what?	The generator effect — thumb motion, first finger field, second finger induced current
-Difference between a.c. and d.c.	d.c. flows one way only; a.c. reverses direction periodically
-What do slip rings do in an a.c. generator?	Keep each coil end connected to the same brush, so the output alternates with the coil
-When is a generator's output at a peak?	When the coil is parallel to the field, cutting field lines fastest
-When is a generator's output zero?	When the coil is perpendicular to the field, momentarily cutting no lines
-Why must a transformer use a.c.?	Only a changing magnetic field induces an e.m.f. in the secondary
-Transformer turns equation	\(V_p/V_s = N_p/N_s\)
-Transformer power equation (100% efficient)	\(I_pV_p = I_sV_s\)
-Why is electricity transmitted at high voltage?	For a given power, higher V means lower I, and cable loss is \(I^2R\)
-Cable power-loss formula	\(P = I^2R\)
-Field pattern around a straight current-carrying wire	Concentric circles, weakening with distance; use the right-hand grip rule
-Field pattern around a solenoid	Like a bar magnet's — strong and uniform inside, poles at the ends
-Three ways to strengthen a solenoid's field	More current, more turns, an iron core
-Fleming's left-hand rule is used for what?	The motor effect — first finger field, second finger current, thumb force
-When is the force on a current-carrying wire greatest?	When the wire is perpendicular to the field (zero when parallel)
-What happens if you reverse both the current and the field?	The force acts in the original direction
-Three ways to increase a motor's turning effect	More turns, larger current, stronger magnetic field
-What does a split-ring commutator do?	Reverses the current in the coil every half turn, so the turning effect always acts the same way and rotation continues
-State Ohm's law	The current through a metallic conductor at constant temperature is directly proportional to the p.d. across it
+#tags:physics electricity
+Pre-Q Basic	Magnetic domains?	Tiny regions acting as magnets; aligned when magnetised	
+Pre-Q Basic	Magnetic field?	Region where a magnetic pole feels a force	
+Pre-Q Basic	Magnetic field direction at a point?	Direction of force on a N pole	
+Pre-Q Basic	Induced magnetism?	Magnetic material near a magnet becomes a magnet itself	
+Pre-Q Basic	Soft magnetic material?	Loses magnetism easily (soft iron: cores)	Opposite of hard
+Pre-Q Basic	Hard magnetic material?	Keeps magnetism (steel: permanent magnets)	Opposite of soft
+Pre-Q Basic	Neutral point (magnetism)?	Point where two fields cancel	
+Pre-Q Basic	Electric field?	Region where a charge feels a force	
+Pre-Q Basic	Electric field direction?	Force on a positive charge	
+Pre-Q Basic	Current?	Rate of flow of charge	
+Pre-Q Basic	Direct current (d.c.)?	Current flowing in one direction only	
+Pre-Q Basic	Alternating current (a.c.)?	Current that repeatedly reverses direction	
+Pre-Q Basic	Conventional current?	Flow from + to −, opposite to electron flow	
+Pre-Q Basic	E.m.f. (electromotive force)?	Work done by source per unit charge round a circuit	Not a force
+Pre-Q Basic	Potential difference (p.d.)?	Work done per unit charge passing through a component	
+Pre-Q Basic	Ohm's law?	Metal at constant temperature: I ∝ V	
+Pre-Q Basic	Kilowatt-hour (kWh)?	Energy transferred by 1 kW in 1 hour	
+Pre-Q Basic	Potential divider?	Two series resistors sharing the supply p.d.	
+Pre-Q Basic	Input transducer?	Sensor turning a physical change into an electrical one	
+Pre-Q Basic	Relay?	Small coil current switches a separate, larger current	
+Pre-Q Basic	Diode?	Lets current through in one direction only	
+Pre-Q Basic	Rectifier?	Converts a.c. to d.c. (a diode)	
+Pre-Q Basic	Light-emitting diode (LED)?	Diode that gives out light when conducting	
+Pre-Q Basic	Fuse?	Thin wire that melts if current exceeds its rating	
+Pre-Q Basic	Trip switch (circuit breaker)?	Electromagnet opens a switch on excess current; resettable	
+Pre-Q Basic	Earthing?	Low-resistance path from metal case to earth	
+Pre-Q Basic	Double insulation?	Non-conducting case, no exposed metal; no earth wire	
+Pre-Q Basic	Lenz's law?	Induced e.m.f. opposes the change causing it	
+Pre-Q Basic	Motor effect?	Force on a current-carrying wire in a magnetic field	
+Pre-Q Basic	Only true test for a magnet?	Repulsion	Attraction works on any magnetic material
+Pre-Q Basic	Field line direction outside a magnet?	N to S	
+Pre-Q Basic	Field strength shown by?	Spacing of field lines (closer = stronger)	
+Pre-Q Basic	Why do field lines never cross?	Field has one direction per point	
+Pre-Q Basic	Iron filings vs plotting compass	Filings show pattern; compass shows direction	
+Pre-Q Cloze	Magnetise by: {{c1::stroking with one pole}}, {{c2::d.c. in a coil}}, {{c3::hammering in a field}}		3 ways
+Pre-Q Cloze	Demagnetise by: {{c1::hammering}}, {{c2::heating}}, {{c3::a.c. in a coil}}		3 ways
+Pre-Q Basic	Electromagnet: 2 advantages over permanent magnet	Can switch off; strength can vary	
+Pre-Q Basic	Charging by friction: what moves?	Electrons only	
+Pre-Q Cloze	Charging by induction: bring rod {{c1::near}}; {{c2::earth}} far side; remove earth; remove {{c3::rod}}		Sphere gets opposite charge
+Pre-Q Basic	Conductors vs insulators	Conductors: free electrons. Insulators: electrons bound	
+Pre-Q Basic	Field between parallel plates?	Uniform: evenly spaced lines from + to −	
+Pre-Q Cloze	Current: \(I = {{c1::\dfrac{Q}{t} }}\)	I in A, Q in C, t in s	
+Pre-Q Cloze	E.m.f.: \(E = {{c1::\dfrac{W}{Q} }}\)		Energy per charge
+Pre-Q Cloze	P.d.: \(V = {{c1::\dfrac{W}{Q} }}\); 1 V = {{c2::1 J/C}}		
+Pre-Q Cloze	Resistance: \(R = {{c1::\dfrac{V}{I} }}\), unit {{c2::Ω}}		
+Pre-Q Basic	Is current used up in a resistor?	No; charge is conserved	
+Pre-Q Basic	Find resistance experimentally?	V and I readings; R = gradient of V against I	Voltmeter across, ammeter in series
+Pre-Q Cloze	Resistivity: \(R = {{c1::\dfrac{\rho L}{A} }}\)	R ∝ length, R ∝ 1/area	
+Pre-Q Basic	Double a wire's diameter: resistance?	÷ 4	Area depends on diameter squared
+Pre-Q Basic	Ohmic resistor I–V graph?	Straight line through the origin	
+Pre-Q Basic	Filament lamp I–V graph?	Curve that flattens at higher current	
+Pre-Q Basic	Why does lamp resistance rise as it heats?	Ions vibrate more; more electron collisions	
+Pre-Q Basic	Diode I–V graph?	Nothing in reverse; steep rise after ~0.6 V forward	
+Pre-Q Cloze	Series circuit: current {{c1::same everywhere}}; p.d.s {{c2::add up to the supply}}		
+Pre-Q Cloze	Parallel circuit: source current = {{c1::sum of branch currents}}; p.d. {{c2::same across each branch}}		
+Pre-Q Cloze	Series resistance: \(R_T = {{c1::R_1 + R_2 + \dots}}\)		
+Pre-Q Cloze	Parallel resistance: \(\dfrac{1}{R_T} = {{c1::\dfrac{1}{R_1} + \dfrac{1}{R_2} + \dots}}\)		Take the reciprocal at the end
+Pre-Q Cloze	Two in parallel: \(R_T = {{c1::\dfrac{R_1R_2}{R_1+R_2} }}\)		Product over sum
+Pre-Q Basic	Combined parallel resistance vs each resistor?	Less than either; more paths	
+Pre-Q Cloze	Junction rule: \(\sum I_{in} = {{c1::\sum I_{out} }}\)	Charge is conserved	
+Pre-Q Basic	Cells in series: total e.m.f.?	Sum of e.m.f.s (reversed cell subtracts)	
+Pre-Q Basic	Why are house lamps in parallel?	Independent switching; full p.d. each; one fails, others stay on	
+Pre-Q Cloze	Electrical power: \(P = {{c1::IV}}\), unit {{c2::W}}		
+Pre-Q Cloze	Electrical energy: \(E = {{c1::IVt}}\), unit {{c2::J}}		
+Pre-Q Cloze	Energy (kWh) = {{c1::power (kW)}} × {{c2::time (h)}}; 1 kWh = {{c3::3.6 × 10⁶ J}}		Convert W to kW first
+Pre-Q Cloze	Electricity cost = {{c1::kWh used}} × {{c2::price per kWh}}		
+Pre-Q Cloze	Potential divider: \(\dfrac{V_1}{V_2} = {{c1::\dfrac{R_1}{R_2} }}\)		Bigger R, bigger share
+Pre-Q Cloze	Potential divider: \(V_{out} = V_{in} \times {{c1::\dfrac{R_2}{R_1+R_2} }}\)		
+Pre-Q Basic	Variable potential divider (potentiometer) use?	Sets any output p.d. from zero to full supply	Volume control
+Pre-Q Cloze	Thermistor: resistance {{c1::falls}} as temperature rises; LDR: resistance {{c2::falls}} as light rises		
+Pre-Q Basic	Light-sensitive switch: how?	LDR in potential divider; output p.d. operates relay	Swap for thermistor: alarm
+Pre-Q Cloze	Home electrical hazards: {{c1::damaged insulation}}, {{c2::overheating cables}}, {{c3::damp conditions}}		3 hazards
+Pre-Q Cloze	Plug wires: live {{c1::brown}}; neutral {{c2::blue}}; earth {{c3::green/yellow}}		
+Pre-Q Basic	What does a fuse protect?	Appliance and wiring, not the person	
+Pre-Q Basic	Why are switches and fuses in the live wire?	Off or blown disconnects the high voltage	
+Pre-Q Basic	Choosing a fuse rating?	Just above normal current (I = P/V)	
+Pre-Q Basic	How does earthing prevent a shock?	Fault current to earth blows the fuse	Large current, low resistance
+Pre-Q Basic	When is an e.m.f. induced?	Conductor cuts a field, or linked field changes	
+Pre-Q Cloze	Induced e.m.f. increased by {{c1::faster change}}, {{c2::more turns}}, {{c3::stronger magnet}}		3 factors
+Pre-Q Basic	Magnet held still inside a coil: induced current?	None; needs change or motion	
+Pre-Q Basic	Fleming's left-hand vs right-hand rule	Left: motors (force). Right: generators (induced current)	Which one is the dynamo?
+Pre-Q Cloze	Fleming's rules: thumb = {{c1::motion (force)}}; first finger = {{c2::field}}; second finger = {{c3::current}}		thuMb, First, seCond
+Pre-Q Basic	Slip rings (generator)?	Keep each coil end on same brush; output a.c.	Not a split ring
+Pre-Q Cloze	Generator output: peak when coil {{c1::parallel}} to field; zero when coil {{c2::perpendicular}} to field		
+Pre-Q Basic	Generator spun faster: output?	Higher peaks and higher frequency	
+Pre-Q Basic	Transformer principle?	a.c. in primary, changing field in core induces a.c. in secondary	Causal chain
+Pre-Q Basic	Why does a transformer need a.c.?	Only a changing field induces an e.m.f.	
+Pre-Q Cloze	Transformer: \(\dfrac{V_p}{V_s} = {{c1::\dfrac{N_p}{N_s} }}\)		
+Pre-Q Cloze	Transformer, 100% efficient: \({{c1::I_pV_p}} = {{c2::I_sV_s}}\)		Power in = power out
+Pre-Q Basic	Step-up vs step-down transformer	Step-up: more secondary turns. Step-down: fewer	
+Pre-Q Cloze	Cable power loss: \(P = {{c1::I^2R}}\)		
+Pre-Q Basic	Why transmit electricity at high voltage?	Lower current, less \(I^2R\) heating loss	Not lower resistance
+Pre-Q Basic	Field around a straight wire?	Concentric circles, weaker further out	Right-hand grip rule
+Pre-Q Basic	Field of a solenoid?	Like a bar magnet; strong and uniform inside	
+Pre-Q Cloze	Stronger solenoid: {{c1::more current}}, {{c2::more turns}}, {{c3::iron core}}		3 ways
+Pre-Q Basic	Force on a wire in a field greatest when?	Wire perpendicular to field (zero if parallel)	
+Pre-Q Cloze	Motor turning effect increased by {{c1::more turns}}, {{c2::more current}}, {{c3::stronger field}}		3 ways
+Pre-Q Basic	Split-ring commutator?	Reverses coil current every half turn; keeps rotation	In the coil, not the circuit
+Pre-Q Basic	Loudspeaker?	a.c. coil in field: reversing force vibrates the cone	

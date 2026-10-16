@@ -1,0 +1,60 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::01 Population growth and change
+#tags:geography population-growth
+Pre-Q Basic	J-curve (population)?	Very slow growth for most of history, explosive since ~1750	
+Pre-Q Basic	Birth rate?	Live births per 1000 people per year	
+Pre-Q Basic	Death rate?	Deaths per 1000 people per year	
+Pre-Q Basic	Fertility rate?	Average number of children per woman over her lifetime	not per 1000 people
+Pre-Q Basic	Infant mortality rate?	Deaths under age 1 per 1000 live births	
+Pre-Q Basic	Life expectancy?	Average years a newborn can expect to live	
+Pre-Q Basic	Natural increase?	Birth rate minus death rate	
+Pre-Q Basic	Natural decrease?	Population fall because deaths exceed births	
+Pre-Q Basic	Net migration?	Immigrants minus emigrants for an area	
+Pre-Q Basic	Net migration rate?	Net migration per 1000 people per year	
+Pre-Q Basic	Replacement level fertility?	About 2.1 children per woman	
+Pre-Q Basic	Demographic Transition Model (DTM)?	Five-stage model of birth rate, death rate and population as a country develops	
+Pre-Q Basic	Population–resource balance?	Population size relative to the resources and technology available	
+Pre-Q Basic	Over-population?	Too many people for resources and technology; living standards fall	
+Pre-Q Basic	Under-population?	Too few people to use resources fully; output lost	
+Pre-Q Basic	Optimum population?	Population giving the highest living standard from the resources	
+Pre-Q Basic	Why world population grew slowly before 1750?	High births cancelled by high deaths (famine, disease, war)	
+Pre-Q Cloze	World population: 1 billion ~{{c1::1800}}; 8 billion {{c2::2022}}		
+Pre-Q Cloze	UN projection: world population peaks at ~{{c1::10 billion}} in the {{c2::2080s}}		
+Pre-Q Cloze	Since the 1960s the world's population growth {{c1::rate}} has been falling	Numbers still rising	
+Pre-Q Basic	Why birth rates stayed high as death rates fell after 1750?	Families still expected child deaths and needed child labour	
+Pre-Q Cloze	Most population growth today: {{c1::sub-Saharan Africa}} and {{c2::South Asia}}		
+Pre-Q Cloze	Birth rate = {{c1::births ÷ population}} × 1000		
+Pre-Q Cloze	Natural increase rate = {{c1::birth rate − death rate}}	Per 1000	
+Pre-Q Basic	Convert natural increase per 1000 to a %?	Divide by 10	e.g. 19 per 1000
+Pre-Q Cloze	Net migration rate = {{c1::(immigrants − emigrants) ÷ population}} × 1000		
+Pre-Q Cloze	Population change = {{c1::(births − deaths)}} ± {{c2::net migration}}		
+Pre-Q Basic	Can a population grow despite net emigration?	Yes, if natural increase is larger	
+Pre-Q Basic	Birth rate vs fertility rate?	Birth rate: per 1000 people. Fertility rate: children per woman	which one ignores age structure?
+Pre-Q Basic	Economic reasons for high birth rates?	Children work and support parents in old age	
+Pre-Q Basic	High infant mortality: effect on birth rate?	Raises it: more children so some survive	
+Pre-Q Cloze	Birth rates fall with women's {{c1::education}}, {{c2::careers}}, access to {{c3::contraception}} and {{c4::later marriage}}		4 items
+Pre-Q Basic	Cultural factor raising birth rates?	Religion or custom favouring large families or sons	
+Pre-Q Cloze	Death rates fall with {{c1::clean water}}, {{c2::sanitation}}, {{c3::vaccination}} and a {{c4::reliable food supply}}		4 items
+Pre-Q Basic	Why death rates rise in some HICs?	Ageing population; lifestyle diseases	
+Pre-Q Basic	HIV/AIDS: effect on death rate and life expectancy?	Death rate up; life expectancy down by over a decade	think southern Africa
+Pre-Q Basic	HIV/AIDS: effect on birth rate?	Falls, as adults of child-bearing age die	
+Pre-Q Basic	HIV/AIDS: effect on a population pyramid?	Narrows the 20–49 age bands	
+Pre-Q Cloze	Natural decrease in Japan: small families, {{c1::contraception}}, {{c2::women's careers}}, {{c3::costly children}}, {{c4::late marriage}}	Plus an ageing population	4 items
+Pre-Q Cloze	DTM stage names: 1 {{c1::high fluctuating}}, 2 {{c2::early expanding}}, 3 {{c3::late expanding}}, 4 {{c4::low fluctuating}}, 5 {{c5::declining}}		5 stages
+Pre-Q Cloze	DTM stage 1: birth and death rates both {{c1::high}}; population low and stable	No country today	
+Pre-Q Cloze	DTM stage 2: death rate {{c1::falls rapidly}}; birth rate {{c2::stays high}}	e.g. Niger, Chad	early expanding
+Pre-Q Cloze	DTM stage 3: birth rate {{c1::falls rapidly}}; population still rising	e.g. India, Kenya	late expanding
+Pre-Q Cloze	DTM stage 4: birth and death rates {{c1::both low}}; population high and stable	e.g. UK, USA	low fluctuating
+Pre-Q Cloze	DTM stage 5: birth rate {{c1::below}} death rate; population {{c2::slowly falls}}	e.g. Japan, Italy	declining
+Pre-Q Basic	DTM: why does the death rate fall before the birth rate?	Medicine and clean water act fast; family-size norms change slowly	
+Pre-Q Basic	DTM: gap between the birth and death curves shows?	Natural increase	
+Pre-Q Cloze	DTM limits: based on {{c1::Europe}}, ignores {{c2::migration}}, gives no {{c3::timing}}, assumes {{c4::industrialisation}}		4 items
+Pre-Q Basic	DTM: main strength?	Simple; links population change to development	
+Pre-Q Basic	Natural increase in sub-Saharan Africa?	The world's highest, ~2.5–3.5% a year	
+Pre-Q Basic	Link between development and natural increase?	More development, lower birth rate and natural increase	
+Pre-Q Basic	Why is a densely populated place not always over-populated?	It depends on resources, technology and trade (Singapore)	
+Pre-Q Cloze	Signs of over-population: {{c1::unemployment}}, {{c2::food shortage}}, {{c3::squatter settlements}}, {{c4::environmental damage}}	Also emigration	4 items
+Pre-Q Basic	Under-populated country: typical response?	Encourage immigration (Canada, Australia)	
+Pre-Q Basic	How technology changes the optimum population?	Irrigation, fertiliser and trade raise the supportable population	

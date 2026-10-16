@@ -1,53 +1,50 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Mathematics::2 Algebra
-Expand \((x+4)(x-7)\)	\(x^2 - 3x - 28\)
-Expand \((2x-3)^2\)	\(4x^2 - 12x + 9\)
-Factorise \(9x^2+15xy\)	\(3x(3x+5y)\)
-Factorise \(9x^2-25y^2\)	\((3x+5y)(3x-5y)\) — difference of two squares
-Factorise \(x^2+10x+25\)	\((x+5)^2\) — perfect square
-Factorise \(x^2+2x-15\)	\((x+5)(x-3)\)
-Method for factorising \(ax+bx+kay+kby\)	Group in pairs and take out a common bracket
-Method for factorising \(ax^2+bx+c\) when a ≠ 1	Find two numbers multiplying to ac and adding to b, split the middle term, then group
-Factorise \(6x^2+11x-10\)	\((3x-2)(2x+5)\)
-Simplify \(\frac{x^2+2x}{x^2+4x+4}\)	Factorise both: \(\frac{x(x+2)}{(x+2)^2} = \frac{x}{x+2}\)
-Can you cancel individual terms in a fraction?	No — only common factors, after factorising
-Simplify \(\frac{2x}{3}\div\frac{4x}{9}\)	\(\frac{2x}{3}\times\frac{9}{4x} = \frac32\)
-Simplify \(\left(\frac{2x^5}{3}\right)^3\)	\(\frac{8x^{15}}{27}\)
-Solve \(32^x = 2\)	\((2^5)^x = 2^1 \Rightarrow x = 1/5\)
-How do you rearrange a formula when the subject appears twice?	Gather its terms on one side and factorise it out
-What is the one special rule for inequalities?	Multiplying or dividing by a negative number reverses the inequality sign
-Solve \(-3x+2 \leqslant 11\)	\(-3x \leqslant 9 \Rightarrow x \geqslant -3\)
-Number-line notation for \(\leqslant\)	A filled circle (open circle for < and >)
-Elimination method for simultaneous equations	Scale the equations to match one coefficient, then add or subtract
-How do you check a simultaneous equation answer?	Substitute into the equation you did not use for the second unknown
-Graphical meaning of simultaneous equations	The point where the two lines cross
-Quadratic formula	\(x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}\)
-Completing the square for \(x^2+bx+c\)	\(\left(x+\frac b2\right)^2 - \frac{b^2}{4} + c\)
-Complete the square: \(x^2+6x-1\)	\((x+3)^2 - 10\)
-Turning point of \(y = (x+3)^2-10\)	\((-3,-10)\)
-What do you do first if a ≠ 1 when completing the square?	Factor a out of the whole expression
-What is the discriminant?	\(b^2-4ac\)
-Discriminant positive, zero, negative — how many roots?	Two, one repeated, none
-Which quadratic method also gives the turning point?	Completing the square
-nth term of a linear sequence	\(dn + (a_1 - d)\), where d is the first difference
-nth term of 5, 9, 13, 17	\(4n+1\)
-How do you spot a quadratic sequence?	The second differences are constant
-Coefficient of \(n^2\) in a quadratic sequence	Half the second difference
-nth term of 3, 8, 15, 24	\(n^2+2n\)
-Coefficient of \(n^3\) in a cubic sequence	The third difference ÷ 6
-nth term of a geometric sequence	\(ar^{n-1}\)
-nth term of 3, 6, 12, 24	\(3\times2^{n-1}\)
-Write "y is inversely proportional to the square of x"	\(y = k/x^2\)
-Meaning of \(f(x) = 3x-5\)	A function that triples the input and subtracts 5
-How do you find an inverse function?	Write y = f(x), rearrange to make x the subject, then swap the letters
-Inverse of \(f(x) = 3x-5\)	\(f^{-1}(x) = \frac{x+5}{3}\)
-Meaning of \(gf(x)\)	Apply f first, then g — g[f(x)]
-With \(f(x)=3x-5\) and \(g(x)=x^2\), what is gf(x)?	\((3x-5)^2\)
-With \(f(x)=3x-5\) and \(g(x)=x^2\), what is fg(x)?	\(3x^2-5\)
-Does \(gf(x) = fg(x)\)?	Not in general — the order matters
-How do you find where a line meets a curve?	Substitute the line into the curve, solve the quadratic, then find each y
-Where does \(y = x+1\) meet \(y = x^2-5\)?	\(x^2-x-6 = 0\), so (3, 4) and (−2, −1)
-Solve \(x^2 \leqslant 9\)	\(-3 \leqslant x \leqslant 3\) (between the roots)
-Solve \(x^2-x-6 > 0\)	\(x < -2\) or \(x > 3\) (outside the roots)
+#tags:maths algebra
+Pre-Q Basic	Linear (arithmetic) sequence?	Constant first difference	
+Pre-Q Basic	Quadratic sequence?	Constant second difference	
+Pre-Q Basic	Geometric (exponential) sequence?	Constant ratio between terms	
+Pre-Q Basic	Discriminant?	\(b^2-4ac\): shows how many real roots a quadratic has	
+Pre-Q Basic	Inverse function \(f^{-1}(x)\)?	The function that undoes f	
+Pre-Q Basic	Composite function \(gf(x)\)?	g applied to f(x): \(g[f(x)]\)	
+Pre-Q Basic	Factorising: what to look for first?	A common factor	
+Pre-Q Basic	How to factorise by grouping (\(ax+bx+kay+kby\))?	Factorise each pair, then take out the common bracket	
+Pre-Q Cloze	Difference of two squares: \(a^2-b^2 = {{c1::(a+b)(a-b)}}\)		
+Pre-Q Cloze	\((a+b)^2 = {{c1::a^2+2ab+b^2}}\) and \((a-b)^2 = {{c2::a^2-2ab+b^2}}\)		Don't forget the middle term
+Pre-Q Basic	How to factorise \(x^2+bx+c\)?	Find two numbers that multiply to c and add to b	
+Pre-Q Basic	How to factorise \(ax^2+bx+c\) with a ≠ 1?	Numbers multiplying to ac and adding to b; split the middle; group	The "ac method"
+Pre-Q Basic	How to simplify an algebraic fraction?	Factorise top and bottom, then cancel common factors	
+Pre-Q Basic	Algebraic fraction: cancel terms or factors?	Factors only, never single terms	
+Pre-Q Basic	How to add or subtract algebraic fractions?	Use a common denominator, then combine the numerators	
+Pre-Q Basic	Subtracting an algebraic fraction: key care?	Bracket the second numerator so the minus reaches every term	
+Pre-Q Basic	Equation with algebraic fractions: first step?	Multiply every term by the common denominator	Including the right-hand side
+Pre-Q Basic	How to solve an index equation such as \(a^x = b\)?	Write both sides with the same base, then equate the indices	\(32^x = 2\): use base 2
+Pre-Q Basic	How to rearrange when the subject appears twice?	Gather the subject terms on one side, then factorise it out	
+Pre-Q Cloze	Multiply or divide an inequality by a {{c1::negative}} number: {{c2::reverse}} the sign		
+Pre-Q Cloze	Number line: {{c1::filled}} circle for ≤ or ≥; {{c2::open}} circle for &lt; or &gt;		
+Pre-Q Basic	Elimination method (simultaneous equations)?	Match one coefficient, then add or subtract to remove it	
+Pre-Q Basic	Substitution method (simultaneous equations)?	Make one unknown the subject and substitute into the other	
+Pre-Q Basic	Simultaneous equations: solution on a graph?	Where the two lines cross	
+Pre-Q Basic	How to find where a line meets a curve?	Substitute the line into the curve; solve the quadratic; find y	Each root is one point
+Pre-Q Cloze	Three ways to solve a quadratic: {{c1::factorising}}, {{c2::completing the square}}, {{c3::the formula}}		3 methods
+Pre-Q Cloze	Quadratic formula: \(x = \frac{ {{c1::-b}} \pm\sqrt{ {{c2::b^2-4ac}} } }{ {{c3::2a}} }\)	For \(ax^2+bx+c = 0\), a ≠ 0	
+Pre-Q Cloze	Discriminant &gt; 0: {{c1::two real roots}}; = 0: {{c2::one repeated root}}; &lt; 0: {{c3::no real roots}}	Discriminant = \(b^2-4ac\)	
+Pre-Q Cloze	Completing the square: \(x^2+bx+c = \left(x+ {{c1::\tfrac b2}} \right)^2 {{c2::- \tfrac{b^2}{4} }} + c\)		Halve the x coefficient
+Pre-Q Basic	Completing the square with a ≠ 1: first step?	Factor a out of the \(x^2\) and x terms	
+Pre-Q Cloze	\(y = a(x+p)^2+q\): turning point \(( {{c1::-p}}, {{c2::q}} )\)	Line of symmetry x = −p	Watch the sign of p
+Pre-Q Cloze	\(y = a(x+p)^2+q\) has a {{c1::minimum}} if a &gt; 0 and a {{c2::maximum}} if a &lt; 0		
+Pre-Q Basic	How to solve a quadratic inequality?	Solve the equation; sketch the U-shaped curve; read the region	Rearrange to compare with 0 first
+Pre-Q Cloze	\((x-a)(x-b) \leqslant 0\) (a &lt; b): x is {{c1::between}} the roots; \(&gt; 0\): x is {{c2::outside}} the roots		Picture the U shape
+Pre-Q Cloze	Linear nth term = {{c1::dn}} + {{c2::\((a_1-d)\)}}	d = common difference, \(a_1\) = first term	
+Pre-Q Cloze	Quadratic sequence: \(n^2\) coefficient = {{c1::half the second difference}}		
+Pre-Q Basic	How to find a quadratic nth term?	\(an^2\) from half the 2nd difference; subtract it; find the linear rest	3 steps
+Pre-Q Cloze	Cubic sequence: \(n^3\) coefficient = third difference ÷ {{c1::6}}		
+Pre-Q Cloze	Geometric nth term: \({{c1::a}}\,r^{ {{c2::n-1}} }\)	a = first term, r = common ratio	
+Pre-Q Basic	How to test if a number is a term of a sequence?	Set the nth term equal to it; n must be a positive whole number	
+Pre-Q Cloze	y ∝ \(x^2\): \(y = {{c1::kx^2}}\); y inversely ∝ \(x^2\): \(y = {{c2::\frac{k}{x^2} }}\)	Then find k from a given pair	
+Pre-Q Basic	\(f: x \mapsto \ldots\) means?	Same as f(x) = … (f maps x to …)	
+Pre-Q Basic	How to find an inverse function?	Write y = f(x); make x the subject; swap x and y	3 steps
+Pre-Q Basic	\(gf(x)\): which function first?	f first (nearest x), then g	
+Pre-Q Basic	\(f^{-1}(x)\) vs \(\frac{1}{f(x)}\)?	Inverse function vs reciprocal	

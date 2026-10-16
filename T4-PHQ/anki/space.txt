@@ -1,0 +1,43 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Physics::8b Space
+#tags:physics space
+Pre-Q Basic	Orbit?	Curved path of one body round another under gravity	
+Pre-Q Basic	Light-year?	Distance light travels in one year	A distance, not a time
+Pre-Q Basic	Galaxy?	Group of many billions of stars	
+Pre-Q Basic	Redshift?	Increase in observed wavelength from receding galaxies	
+Pre-Q Basic	Hubble constant?	Recession speed ÷ distance of a galaxy	
+Pre-Q Basic	Cosmic microwave background radiation (CMBR)?	Microwaves from all directions: early-Universe radiation stretched by expansion	
+Pre-Q Basic	Accretion model?	Solar System formed from a collapsing, rotating gas-and-dust disc	
+Pre-Q Basic	What causes day and night?	Earth rotating on its axis every ~24 h	
+Pre-Q Basic	What causes the seasons?	Earth's tilted axis as it orbits the Sun	Not distance from the Sun
+Pre-Q Basic	What causes the Moon's phases?	Seeing different parts of its sunlit half as it orbits	About one month
+Pre-Q Cloze	Planets from the Sun: {{c1::Mercury}}, {{c2::Venus}}, {{c3::Earth}}, {{c4::Mars}}, {{c5::Jupiter}}, {{c6::Saturn}}, {{c7::Uranus}}, {{c8::Neptune}}		My Very Easy Method Just Speeds Up Naming
+Pre-Q Cloze	Inner planets: {{c1::small and rocky}}; outer planets: {{c2::large and gaseous}}		
+Pre-Q Basic	Why are inner planets rocky and outer ones gaseous?	Near the hot Sun only rock and metal condensed	Think temperature in the disc
+Pre-Q Basic	Where is the asteroid belt?	Between Mars and Jupiter	
+Pre-Q Basic	Planetary orbit shape?	Ellipse, Sun at one focus (not centre)	
+Pre-Q Basic	Force keeping a planet in orbit?	Gravitational attraction of the Sun	
+Pre-Q Cloze	Orbital speed: \(v = {{c1::\dfrac{2\pi r}{T} }}\)	r in m, T in s	Circumference ÷ period
+Pre-Q Basic	Where is an orbiting body fastest?	Closest to the Sun	GPE converts to KE
+Pre-Q Basic	Surface gravitational field strength depends on?	The planet's mass	
+Pre-Q Basic	Gravitational field strength vs distance from a planet?	Decreases	
+Pre-Q Basic	Planets further from the Sun: orbital speed and period?	Slower speed, longer period	
+Pre-Q Cloze	Light travel time: \(t = {{c1::\dfrac{d}{c} }}\)		
+Pre-Q Cloze	Sunlight reaches Earth in about {{c1::8 minutes}}		
+Pre-Q Cloze	Light-year ≈ {{c1::\(9.5\times10^{15}\)}} m		
+Pre-Q Cloze	Milky Way diameter ≈ {{c1::100 000 light-years}}		
+Pre-Q Cloze	The Sun: {{c1::medium-sized}} star made mostly of {{c2::hydrogen and helium}}		
+Pre-Q Cloze	Stable stars are powered by fusion of {{c1::hydrogen}} into {{c2::helium}}		
+Pre-Q Cloze	Star formation: {{c1::nebula (gas and dust)}} → gravity forms a {{c2::protostar}} → fusion starts: {{c3::stable star}}		3 stages
+Pre-Q Basic	Why is a star stable?	Inward gravity balanced by outward thermal pressure	
+Pre-Q Basic	Why does a stable star change?	Core runs out of hydrogen; star expands	Not "runs out of fuel"
+Pre-Q Cloze	Sun-like star: {{c1::red giant}} → {{c2::planetary nebula}} → {{c3::white dwarf}}		
+Pre-Q Cloze	Massive star: {{c1::red supergiant}} → {{c2::supernova}} → {{c3::neutron star or black hole}}		
+Pre-Q Basic	Distance to a far galaxy found from?	Brightness of a supernova in it	Known actual brightness
+Pre-Q Basic	Redshift of nearly all galaxies shows?	The Universe is expanding (Big Bang)	
+Pre-Q Cloze	Hubble's law: \(H_0 = {{c1::\dfrac{v}{d} }}\), unit {{c2::s⁻¹}}		
+Pre-Q Cloze	Current estimate: \(H_0 \approx {{c1::2.2\times10^{-18} }}\) s⁻¹		
+Pre-Q Cloze	Age of Universe: \(\dfrac{d}{v} = {{c1::\dfrac{1}{H_0} }}\) ≈ {{c2::14 billion years}}		
+Pre-Q Cloze	Two pieces of Big Bang evidence: {{c1::redshift}} and {{c2::CMBR}}		

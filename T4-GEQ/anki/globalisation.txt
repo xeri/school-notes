@@ -1,0 +1,50 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::41 Sectors, economic transition and globalisation
+#tags:geography globalisation
+Pre-Q Basic	Primary sector (economy)?	Extracting or growing raw materials (farming, mining, fishing)	
+Pre-Q Basic	Secondary sector (economy)?	Processing raw materials and manufacturing goods	
+Pre-Q Basic	Tertiary sector (economy)?	Providing services (retail, health, transport)	
+Pre-Q Basic	Quaternary sector (economy)?	Knowledge, research and information services (ICT, R&D)	
+Pre-Q Basic	Employment structure?	% of the workforce in each sector	
+Pre-Q Basic	Economic transition?	Change in the sectors' importance as a country develops	
+Pre-Q Basic	Clark–Fisher model?	Employment shifts primary → secondary → tertiary as a country develops	
+Pre-Q Basic	Globalisation?	Increasing interconnection of economies, cultures and people worldwide	
+Pre-Q Basic	Transnational corporation (TNC)?	Company with headquarters in one country, operations in others	
+Pre-Q Basic	Multiplier effect?	Initial investment creates jobs and spending, which create more jobs	
+Pre-Q Basic	Negative multiplier?	A closure causes a downward spiral of lost jobs and spending	
+Pre-Q Basic	Foreign direct investment (FDI)?	A company investing in businesses or factories in another country	
+Pre-Q Basic	Outsourcing (offshoring)?	Moving production or services to another firm or country	
+Pre-Q Basic	Global supply chain?	Network of firms and countries that make and deliver a product	
+Pre-Q Basic	Global shift?	Manufacturing moving from HICs to NICs and LICs	
+Pre-Q Basic	Interdependence?	Countries relying on each other for goods, markets and investment	
+Pre-Q Basic	Containerisation?	Shipping goods in standard steel containers, cutting transport costs	
+Pre-Q Basic	Trade liberalisation?	Falling tariffs and quotas through the WTO and free-trade deals	
+Pre-Q Basic	Host country vs home country (TNC)?	Host: where the TNC operates. Home: where its headquarters is	
+Pre-Q Basic	Cultural homogenisation?	Local cultures becoming alike through global brands	
+Pre-Q Cloze	Crisps through the sectors: grow potatoes ({{c1::primary}}), fry and pack ({{c2::secondary}}), sell ({{c3::tertiary}}), research flavours ({{c4::quaternary}})		4 sectors
+Pre-Q Basic	Graph for three sectors summing to 100%?	Triangular graph	
+Pre-Q Cloze	Clark–Fisher stages: {{c1::pre-industrial}}, {{c2::industrial}}, {{c3::post-industrial}}		3 stages
+Pre-Q Cloze	Clark–Fisher pre-industrial stage: {{c1::primary}} sector dominant	e.g. Mali, ~65% primary	
+Pre-Q Basic	Clark–Fisher industrial stage?	Primary falling; secondary peaks; tertiary rising	e.g. China
+Pre-Q Basic	Clark–Fisher post-industrial stage?	Tertiary dominant; secondary falling; quaternary growing	e.g. UK
+Pre-Q Cloze	Economic transition chain: farm {{c1::mechanisation}} frees labour, {{c2::factories}} draw workers, rising {{c3::incomes}} raise service demand		3 steps
+Pre-Q Basic	Why does deindustrialisation happen in HICs?	Labour costs rise, so routine manufacturing relocates abroad	
+Pre-Q Basic	Why do most LIC workers work in the primary sector?	Little education or capital; subsistence farming	
+Pre-Q Basic	Clark–Fisher model: limitations?	UK-based; some skip stages (India) or stay primary exporters	
+Pre-Q Cloze	Globalisation drivers: {{c1::containerisation}}, {{c2::ICT}}, {{c3::trade liberalisation}}, {{c4::TNCs}}		4 items
+Pre-Q Basic	TNC location pattern?	HQ and research at home; factories where cheap or near markets	
+Pre-Q Cloze	Why TNCs locate in a country: cheap {{c1::labour}}, {{c2::raw materials}}, a large {{c3::market}}, government {{c4::incentives}}		4 items
+Pre-Q Cloze	TNC benefits to host: {{c1::jobs}}, {{c2::skills}}, {{c3::technology}}, {{c4::tax revenue}}, multiplier effect		4 items
+Pre-Q Cloze	TNC costs to host: profits {{c1::leak abroad}}, {{c2::low wages}}, {{c3::pollution}}, sudden {{c4::closure}}		4 items
+Pre-Q Basic	TNC: advantages for the home country?	Profits return; skilled HQ jobs	
+Pre-Q Basic	TNC: main disadvantage for the home country?	Manufacturing jobs lost abroad	
+Pre-Q Cloze	Fonterra (NZ TNC): farmer-owned {{c1::co-operative}} formed in {{c2::2001}}	~9000 farming families	
+Pre-Q Cloze	Fonterra collects ~{{c1::four-fifths}} of NZ's milk; sells to over {{c2::100}} countries		
+Pre-Q Basic	Fonterra: main markets?	China and South-East Asia	
+Pre-Q Basic	Fonterra: main risk?	Dependence on world dairy prices and China	
+Pre-Q Basic	Volkswagen Group: global links?	HQ at Wolfsburg; over 100 plants worldwide (China, Mexico)	
+Pre-Q Cloze	Globalisation benefits: {{c1::NIC growth}}, {{c2::cheaper goods}}, {{c3::technology spread}}, bigger {{c4::export markets}}		4 items
+Pre-Q Cloze	Globalisation costs: {{c1::HIC job losses}}, {{c2::worker exploitation}}, {{c3::inequality}}, {{c4::environmental damage}}		4 items
+Pre-Q Basic	How to evaluate globalisation's impacts?	By scale (local to global) and by group affected	

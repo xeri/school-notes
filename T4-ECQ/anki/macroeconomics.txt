@@ -1,75 +1,79 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Economics::5 Macroeconomics and policy
-Definition of barter	Exchanging goods and services directly for other goods and services
-Four problems with barter	Double coincidence of wants, no agreed measure of value, goods perish, value is subjective
-Five characteristics of good money	Universal acceptability, divisibility, portability, durability, scarcity
-Four functions of money	Medium of exchange, measure of value, store of value, means of deferred payment
-What makes up the money supply?	Notes, coins, bank deposits and other very liquid assets
-Definition of disposable income	The income left to spend or save after all taxes and deductions
-Effect of a rise in interest rates on spending, saving and borrowing	Spending falls, saving rises, borrowing falls
-Definition of the money market	All the people and organisations that want money and all those that supply it
-Three ways banks make a profit	Charging interest on loans, charging fees, investing deposits
-Name six roles of the central bank	Issues notes and coins, holds the government's accounts, manages national debt, regulates and lends to banks, manages reserves, operates monetary policy
-Six government macroeconomic objectives	Economic growth, high employment, low and stable inflation, a stable balance of payments, less poverty and inequality, environmental protection
-Definition of GDP	The monetary value of goods and services produced within a country over a period, usually a year
-Formula for GDP by expenditure	C + I + G + (X − M)
-Definition of economic growth	An increase in national output — the annual percentage change in real GDP
-Four causes of economic growth	Factor endowments, the size, skill and mobility of the labour force, labour productivity, investment
-Four drawbacks of economic growth	Technology replacing workers, resource depletion, pollution, inflation (and inequality)
-Difference between nominal and real GDP	Nominal GDP uses current prices; real GDP removes the effect of inflation
-Formula for real GDP	Nominal GDP ÷ GDP deflator (1 + inflation since the base year), or nominal GDP ÷ (price index ÷ 100)
-Real GDP when nominal GDP rises from $100bn to $110bn with 10% inflation	$100bn — output has not grown at all
-Why is real GDP per head a better guide to living standards than GDP?	It removes inflation and allows for population growth
-Five limitations of GDP as a measure of welfare	Ignores non-market and voluntary work, sustainability, inequality, what is produced, and externalities
-Definition of the economic cycle	The recurring pattern of ups and downs in real GDP around its long-term growth trend
-Stages of the economic cycle in order	Growth, boom, recession, slump, recovery
-What happens at the boom stage?	Demand and profits peak, inflation rises, the economy overheats with shortages, unemployment is low and wages rise
-What happens in a recession?	Growth slows or turns negative, demand and profits fall, redundancies raise unemployment, investment is cut
-Definition of inflation	A general and sustained rise in the average price level
-Definition of hyperinflation	Rapid, excessive inflation, often defined as above 50% a month
-How is inflation measured?	By a consumer price index tracking a weighted basket of goods and services bought by the average household
-What is a weighting in the CPI?	The share of household spending on that item — food at 20% of spending has a 20% weighting
-Formula for the CPI	Weighted average price this year ÷ weighted average price in the base year × 100
-CPI when the basket costs $30 in the base year and $33.30 now	111 — prices are 11% above the base year
-Index after a 15% rise and then a 10% rise from a base of 100	115 × 1.10 = 126.5
-Inflation between years when the CPI rises from 112 to 127	(127 − 112) ÷ 112 × 100 = 13.4%
-What does a CPI of 120 mean?	Prices are 20% higher than in the base year — not 120% higher, and not 20% inflation this year
-Three uses of the CPI	Economic indicator, price deflator, indexation of pay and benefits
-Definition of demand-pull inflation	Inflation caused by aggregate demand rising faster than firms can supply
-Definition of cost-push inflation	Inflation caused by rising production costs passed on to consumers to protect margins
-Definition of imported inflation	Rising prices passed on through trade, such as a fall in the exchange rate making imports dearer
-Effect of inflation on savers and borrowers	Savers lose as their money buys less; borrowers gain as the real value of debt falls
-Difference between benign and malign deflation	Benign comes from rising aggregate supply and helps; malign comes from falling aggregate demand and deepens recession
-Why do interest-rate cuts help little during deflation?	Falling prices raise the real interest rate — $1000 borrowed at 0% while prices fall 5% is worth $1050 in real terms
-Difference between deflation and disinflation	Deflation is a sustained fall in prices; disinflation is inflation slowing, so prices still rise
-Definition of the labour force	People of working age who are both willing and able to work
-Formula for the unemployment rate	Number unemployed ÷ labour force × 100
-Unemployment rate with a labour force of 35 million and 30 million employed	5 ÷ 35 × 100 ≈ 14.3%
-Cause of cyclical unemployment	Low demand for goods and services in a recession
-Cause of structural unemployment	The long-term decline of an industry, leaving workers with the wrong skills or in the wrong place
-Cause of frictional unemployment	The time spent between leaving one job and finding another
-Four costs of unemployment to the economy	Wasted human resources, lower GDP, the cost of welfare, social problems such as crime
-Why can low unemployment be inflationary?	Vacancies are hard to fill, so firms raise pay and pass the cost on in prices
-Definition of fiscal policy	Varying government spending and taxation to influence aggregate demand
-Four reasons for taxation	Fund public spending, manage the economy, reduce inequality, discourage imports and harmful products
-Four principles of a good tax	Equity, non-distortionary, certainty, convenience
-Difference between direct and indirect tax	Direct tax is taken from income or profit; indirect tax is imposed on spending
-Four examples of indirect tax	GST, excise duties, import tariffs, user charges such as road tolls
-Definition of a progressive tax	As income rises, the proportion taken in tax rises
-Definition of a proportional tax	The same proportion of income is taken at every income level
-Definition of a regressive tax	As income rises, the proportion taken in tax falls
-Why is GST regressive?	Low earners spend nearly all their income, so a larger proportion of their income is taxed
-Tax on $75 000 at 10.5% to $14 000, 17.5% to $48 000, 30% to $70 000 and 33% above	1470 + 5950 + 6600 + 1650 = $15 670, an effective rate of about 20.9%
-Difference between the effective and marginal tax rate	The effective rate is total tax ÷ income; the marginal rate is the rate on the last dollar earned
-Definition of expansionary fiscal policy	Raising government spending or cutting taxes to boost aggregate demand
-Definition of a budget deficit	Government spending exceeding government revenue
-Definition of monetary policy	The central bank's management of interest rates, the money supply and the exchange rate
-Effect of expansionary monetary policy	A lower interest rate makes borrowing cheaper and saving less attractive, so spending and investment rise
-Definition of quantitative easing	Creating new money to buy bonds from banks, so they have more to lend
-Definition of supply-side policy	Policy to increase aggregate supply — the economy's productive capacity
-Name six supply-side policies	Tax incentives, subsidies, deregulation, education and training, competition policy, privatisation
-Why do growth and price stability conflict?	If demand rises faster than resources, the result is higher prices rather than more output
-Why do full employment and price stability conflict?	Less spare labour pushes up wage demands, causing a wage–price spiral
-Why does the economy's starting position matter for policy?	With spare capacity a demand boost mainly raises output; at full capacity it mainly raises prices
+#notetype column:1
+#deck:Economics::7 Macroeconomics and policy
+#tags:economics macroeconomics
+Pre-Q Cloze	Circular flow: households supply {{c1::factors of production}} to firms and receive {{c2::incomes}}		
+Pre-Q Cloze	Macro objectives: {{c1::growth}}, {{c2::employment}}, {{c3::stable prices}}, {{c4::balance of payments stability}}, {{c5::less poverty and inequality}}, {{c6::protecting the environment}}		6 items
+Pre-Q Cloze	Growth is measured by % change in {{c1::real GDP}}; inflation by % change in the {{c2::CPI}}; BoP by the {{c3::current account as % of GDP}}		
+Pre-Q Basic	Gross domestic product (GDP)?	Value of goods and services produced in a country per period	
+Pre-Q Cloze	GDP = {{c1::C}} + {{c2::I}} + {{c3::G}} + ({{c4::X − M}})		Consumption first
+Pre-Q Basic	Economic growth?	Annual % change in real GDP	
+Pre-Q Cloze	Causes of growth: {{c1::factor endowments}}, {{c2::labour force}}, {{c3::productivity}}, {{c4::investment}}		4 items
+Pre-Q Cloze	Drawbacks of growth: {{c1::technological unemployment}}, {{c2::resource depletion}}, {{c3::pollution}}, {{c4::inflation}}, {{c5::inequality}}		5 items
+Pre-Q Basic	Recession?	Real GDP falls for two successive quarters or more	Count quarters
+Pre-Q Basic	Nominal GDP?	GDP at current prices	
+Pre-Q Basic	Real GDP?	GDP with the effect of inflation removed	
+Pre-Q Cloze	Real GDP = {{c1::nominal GDP}} ÷ ({{c2::price index}} ÷ 100)		
+Pre-Q Basic	Real GDP per head?	Real GDP divided by population	
+Pre-Q Basic	Why is real GDP per head best for living standards?	Removes inflation and population growth	
+Pre-Q Basic	Economic welfare?	Level of prosperity and quality of living standards	
+Pre-Q Cloze	GDP ignores: {{c1::non-market activity}}, {{c2::sustainability}}, {{c3::inequality}}, {{c4::what is produced}}, {{c5::externalities}}		5 items
+Pre-Q Basic	Economic cycle?	Recurring ups and downs of real GDP around its trend	
+Pre-Q Cloze	Economic cycle order: {{c1::growth}}, {{c2::boom}}, {{c3::recession}}, {{c4::slump}}, {{c5::recovery}}		5 stages
+Pre-Q Basic	V-shaped vs U-shaped recession	V: short with quick recovery. U: slower recovery	
+Pre-Q Basic	Inflation?	General, sustained rise in the average price level	
+Pre-Q Basic	Hyperinflation?	Very rapid inflation, often over 50% a month	
+Pre-Q Basic	Consumer price index (CPI)?	Weighted price of a basket of typical household spending	
+Pre-Q Cloze	CPI = {{c1::weighted average price this year}} ÷ {{c2::weighted average price in base year}} × 100		Base year = 100
+Pre-Q Cloze	Inflation rate = ({{c1::new CPI − old CPI}}) ÷ {{c2::old CPI}} × 100		
+Pre-Q Basic	CPI above 100 means?	Prices higher than in the base year	
+Pre-Q Basic	How to read a CPI value as % above base year?	Subtract 100	Not this year's inflation
+Pre-Q Cloze	Uses of the CPI: {{c1::economic indicator}}, {{c2::price deflator}}, {{c3::indexation}}		3 items
+Pre-Q Basic	Demand-pull inflation?	Aggregate demand rises faster than output	
+Pre-Q Basic	Cost-push inflation?	Rising production costs passed on as higher prices	
+Pre-Q Basic	Imported inflation?	Dearer imports (e.g. weaker currency) raise domestic prices	
+Pre-Q Basic	Inflation: savers vs borrowers	Savers lose; borrowers gain	
+Pre-Q Basic	Deflation?	Sustained fall in the general price level	
+Pre-Q Basic	Disinflation?	Inflation rate slowing; prices still rising	Not deflation
+Pre-Q Basic	Benign vs malign deflation	Benign: supply rises. Malign: demand falls	
+Pre-Q Cloze	Against inflation: {{c1::raise interest rates}}, {{c2::cut spending or raise taxes}}, {{c3::supply-side policy}}		3 policy types
+Pre-Q Basic	Labour force?	Working-age people willing and able to work	Two key words
+Pre-Q Cloze	Unemployment rate = {{c1::number unemployed}} ÷ {{c2::labour force}} × 100		Not population
+Pre-Q Basic	Claimant count?	Number claiming unemployment-related benefits	
+Pre-Q Basic	Labour force survey?	Household survey using the ILO definition of unemployed	
+Pre-Q Basic	Full employment?	Low unemployment; job seekers find work fairly quickly	
+Pre-Q Basic	Cyclical unemployment?	Low demand in a recession	
+Pre-Q Basic	Structural unemployment?	Industry decline leaves workers with wrong skills or location	
+Pre-Q Basic	Frictional unemployment?	Time between leaving one job and starting another	
+Pre-Q Basic	Seasonal unemployment?	Jobs exist only at certain times of year	
+Pre-Q Cloze	Costs of unemployment: {{c1::lost income}}, {{c2::lower GDP}}, {{c3::welfare spending}}, {{c4::social problems}}		4 items
+Pre-Q Basic	Fiscal policy?	Varying government spending and taxation to influence demand	
+Pre-Q Cloze	Principles of a good tax: {{c1::equity}}, {{c2::non-distortionary}}, {{c3::certainty}}, {{c4::convenience}}		4 items
+Pre-Q Basic	Direct vs indirect tax	Direct: on income or profit. Indirect: on spending	
+Pre-Q Cloze	{{c1::Progressive}} tax: proportion taken rises as income rises		
+Pre-Q Cloze	{{c1::Proportional}} tax: same proportion at every income		
+Pre-Q Cloze	{{c1::Regressive}} tax: proportion taken falls as income rises		
+Pre-Q Basic	Why is GST regressive?	Low earners spend more of their income, so more is taxed	
+Pre-Q Basic	Effective (average) tax rate?	Total tax ÷ income	
+Pre-Q Basic	Marginal tax rate?	Rate on the last dollar earned	
+Pre-Q Basic	How to calculate income tax with brackets?	Tax each slice at its own rate, then add	
+Pre-Q Cloze	Budget balance = {{c1::government revenue}} − {{c2::government spending}}		
+Pre-Q Basic	Budget deficit vs surplus	Deficit: spending > revenue. Surplus: revenue > spending	
+Pre-Q Basic	Expansionary vs contractionary fiscal policy	Spend more or tax less vs spend less or tax more	
+Pre-Q Basic	Monetary policy?	Central bank control of interest rates and money supply	
+Pre-Q Cloze	Higher interest rate (OCR) → {{c1::dearer borrowing}} → {{c2::less spending and investment}} → {{c3::lower aggregate demand}} → lower inflation		
+Pre-Q Basic	Supply-side policy?	Policy raising productive capacity (aggregate supply)	
+Pre-Q Cloze	Supply-side measures: {{c1::education and training}}, {{c2::tax incentives}}, {{c3::deregulation}}, {{c4::competition policy}}, {{c5::privatisation}}		5 items
+Pre-Q Basic	Full employment vs stable prices: conflict?	Tight labour market raises wages: wage–price spiral	
+Pre-Q Basic	Growth vs balance of payments: conflict?	Rising incomes raise spending on imports	
+Pre-Q Basic	Full employment vs balance of payments: conflict?	More income from jobs is spent on imports	
+Pre-Q Basic	Demand boost: spare capacity vs full capacity	Spare: output rises. Full: prices rise	
+Pre-Q Basic	Transfer payments?	Government payments with nothing produced in return (benefits, pensions)	
+Pre-Q Basic	Excise duty?	Fixed tax per unit, e.g. on alcohol and tobacco	
+Pre-Q Basic	User charges?	Fees paid to use a public service, e.g. road tolls	
+Pre-Q Basic	Budget surplus?	Government revenue > spending	Opposite of deficit
+Pre-Q Basic	K-shaped recovery?	Some sectors recover quickly while others keep declining	Two arms of the K
+Pre-Q Basic	Dependent population?	People outside the labour force: children, students, retired	
+Pre-Q Basic	Under-utilisation (labour)?	Part-time workers who want more hours	Missed by the unemployment rate
+Pre-Q Basic	Regional policy?	Subsidies for firms locating in high-unemployment areas	Fixes structural unemployment

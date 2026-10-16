@@ -1,0 +1,39 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Economics::2 The New Zealand economy
+#tags:economics nz-economy
+Pre-Q Basic	Microeconomics?	Study of individual markets and decision makers	
+Pre-Q Basic	Macroeconomics?	Study of the whole economy	
+Pre-Q Basic	Main macroeconomic decision makers?	Government and central bank	
+Pre-Q Cloze	4 sectors of the economy: {{c1::households}}, {{c2::firms}}, {{c3::government}}, {{c4::overseas}}		4 items
+Pre-Q Basic	Circular flow of income?	Flow of money between sectors of the economy	
+Pre-Q Cloze	3 leakages from the circular flow: {{c1::saving}}, {{c2::taxes}}, {{c3::imports}}		S-T-I
+Pre-Q Cloze	3 injections into the circular flow: {{c1::investment}}, {{c2::government spending}}, {{c3::exports}}		Mirror the leakages
+Pre-Q Basic	Primary sector (economy)?	Extracting or growing natural resources	
+Pre-Q Basic	Secondary sector (economy)?	Manufacturing and construction	
+Pre-Q Basic	Tertiary sector (economy)?	Services	
+Pre-Q Basic	As economies develop, sector shares shift how?	Primary share falls; tertiary grows	
+Pre-Q Basic	Why is New Zealand a mixed economy?	Private firms produce most; state provides public and merit goods	
+Pre-Q Basic	State-owned enterprise (SOE)?	Government-owned business run on commercial lines	Owned by whom, run how?
+Pre-Q Cloze	NZ from 1984 {{c1::deregulated}}: the dollar was {{c2::floated}} (1985), farm subsidies removed, state firms {{c3::corporatised}} or privatised		
+Pre-Q Basic	NZ exchange rate system?	Floating	
+Pre-Q Basic	Which sector produces most NZ GDP?	Tertiary, about two-thirds	
+Pre-Q Basic	Which sector earns most NZ goods exports?	Primary; dairy is the largest	
+Pre-Q Basic	NZ's two largest trading partners?	China and Australia	
+Pre-Q Basic	Why is NZ a small open economy?	Narrow range of output; trade is a large share of GDP	Think size and openness
+Pre-Q Basic	Why is NZ vulnerable to a fall in dairy prices?	Dairy is the largest export; incomes and growth fall	Think export earnings
+Pre-Q Basic	Who sets the Official Cash Rate (OCR) in NZ?	The Reserve Bank of New Zealand (RBNZ)	
+Pre-Q Cloze	RBNZ inflation target: {{c1::1–3%}} a year over the medium term, aiming at {{c2::2%}}		
+Pre-Q Basic	Who sets NZ fiscal policy?	The government, through the annual Budget	
+Pre-Q Basic	NZ Treasury's role?	Government's economic adviser; prepares the Budget	
+Pre-Q Basic	Inland Revenue (IRD) role?	Collects taxes such as PAYE and GST	
+Pre-Q Basic	Stats NZ role?	Publishes official data such as the CPI and GDP	
+Pre-Q Basic	Official NZ unemployment measure?	Household Labour Force Survey (HLFS)	Survey, not claimant count
+Pre-Q Basic	Commerce Commission role?	Enforces competition and consumer law	
+Pre-Q Basic	Local councils' role (NZ)?	Collect rates; provide local services; set land-use rules	
+Pre-Q Cloze	NZ GST = {{c1::15%}}, an {{c2::indirect}}, ad valorem tax		
+Pre-Q Basic	NZ income tax system type?	Progressive	
+Pre-Q Cloze	Government roles: locally {{c1::land-use rules and rates}}; nationally {{c2::macro aims and correcting market failure}}; internationally {{c3::trade deals and aid}}		3 levels
+Pre-Q Cloze	Long-term NZ issues: {{c1::low productivity growth}}, {{c2::housing affordability}}, {{c3::an ageing population}}		3 items
+Pre-Q Basic	Jobseeker Support?	NZ unemployment benefit, paid by MSD	

@@ -1,0 +1,65 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::46 Global warming and climate change
+#tags:geography global-warming
+Pre-Q Basic	Climate change?	Long-term changes in temperature, rainfall, wind and the climate system	
+Pre-Q Basic	Global warming?	Rise in Earth's average surface temperature from rising greenhouse gases	
+Pre-Q Basic	Greenhouse effect?	Natural trapping of heat by atmospheric gases, keeping Earth warm	
+Pre-Q Basic	Enhanced greenhouse effect?	Extra heat trapped because human emissions raise greenhouse gases	natural vs human
+Pre-Q Basic	Anthropogenic?	Caused by human activity	
+Pre-Q Basic	Anthropogenic pollution?	Pollution caused directly or indirectly by humans	
+Pre-Q Basic	Mitigation (climate)?	Reducing emissions: tackling the cause	
+Pre-Q Basic	Adaptation (climate)?	Adjusting to climate change: living with the effects	
+Pre-Q Basic	Mitigation vs adaptation: example of each?	Mitigation: renewable energy. Adaptation: sea walls	
+Pre-Q Basic	Carbon footprint?	Greenhouse gas emitted directly or indirectly by a person, firm or product	
+Pre-Q Basic	Carbon sink?	Store absorbing more carbon than it releases (forests, oceans)	think forests
+Pre-Q Basic	Net zero?	Emissions cut as far as possible, the rest balanced by removals	
+Pre-Q Basic	Carbon cycle?	Movement of carbon between atmosphere, oceans, living things and rocks	
+Pre-Q Basic	Ocean acidification?	Fall in ocean pH as seawater absorbs extra CO₂	think pH
+Pre-Q Basic	Coral bleaching?	Heat-stressed corals expel their algae, turn white and often die	
+Pre-Q Basic	Climate migrant?	Someone forced from home by the effects of climate change	
+Pre-Q Basic	Atoll?	Ring-shaped coral island built round a sinking volcanic island	
+Pre-Q Basic	Photochemical smog?	Haze formed when sunlight reacts with vehicle exhaust	worse under inversions
+Pre-Q Basic	Acid rain?	Rain made acidic by sulphur dioxide and nitrogen oxides	
+Pre-Q Basic	Ozone depletion?	CFCs thin the ozone layer, letting in more UV	
+Pre-Q Basic	Carbon capture and storage?	Trapping CO₂ from power stations or industry and storing it underground	
+Pre-Q Basic	Global warming vs ozone depletion?	Warming: heat trapped by greenhouse gases. Ozone depletion: UV shield thinned by CFCs	commonly confused
+Pre-Q Cloze	Greenhouse effect: {{c1::short-wave}} sunlight warms the surface; it emits {{c2::long-wave}} heat; gases {{c3::re-radiate}} some back		3 steps
+Pre-Q Cloze	Earth averages ~{{c1::15 °C}} with the greenhouse effect, ~{{c2::−18 °C}} without		
+Pre-Q Basic	CO₂: main human sources?	Burning fossil fuels; deforestation; cement	
+Pre-Q Cloze	Methane sources: {{c1::cattle and sheep}}, {{c2::rice paddies}}, {{c3::landfill}}, gas and coal leaks		3 gaps
+Pre-Q Basic	Nitrous oxide: main sources?	Nitrogen fertiliser and animal urine	
+Pre-Q Basic	Halocarbons (CFCs)?	Refrigerant gases that trap heat and destroy ozone	
+Pre-Q Basic	Why does water vapour amplify warming?	Warmer air holds more vapour: positive feedback	
+Pre-Q Cloze	Transport: ~{{c1::24%}} of global CO₂ emissions (2022)		
+Pre-Q Cloze	Atmospheric CO₂: ~{{c1::280 ppm}} pre-industrial, ~{{c2::424 ppm}} in 2024		
+Pre-Q Cloze	Warming since the late 1800s: ~{{c1::1.2–1.3 °C}}; {{c2::2024}} was the first year over 1.5 °C		
+Pre-Q Cloze	Natural causes of climate change: {{c1::orbital changes}}, {{c2::solar output}}, {{c3::volcanic eruptions}}		3 items
+Pre-Q Cloze	Climate change evidence: {{c1::thermometer records}}, {{c2::ice cores}}, {{c3::glacier retreat}}, shrinking {{c4::Arctic sea ice}}		4 items
+Pre-Q Cloze	Carbon stores: {{c1::atmosphere}}, {{c2::biosphere}}, {{c3::soil}}, {{c4::oceans}}, {{c5::lithosphere}}		5 stores
+Pre-Q Basic	Photosynthesis (carbon cycle)?	Moves carbon from the atmosphere into plants	
+Pre-Q Basic	Respiration and decomposition (carbon cycle)?	Return carbon to the atmosphere	
+Pre-Q Basic	How do fossil fuels disrupt the carbon cycle?	Release stored carbon faster than sinks can absorb it	
+Pre-Q Cloze	Sea-level rise: {{c1::melting land ice}} + {{c2::thermal expansion}}	~21–24 cm since 1880	
+Pre-Q Cloze	Warming and the water cycle: {{c1::more evaporation}}, {{c2::heavier downpours}}, {{c3::more drought}}, {{c4::earlier snowmelt}}		4 items
+Pre-Q Basic	Hurricane Harvey (2017): link to warming?	Warm Gulf waters fuelled it; ~US$125 billion damage	
+Pre-Q Cloze	Australia's {{c1::Black Summer}} fires (2019–20): ~{{c2::18 million}} hectares burnt		
+Pre-Q Cloze	Warming health impacts: {{c1::heat deaths}}, {{c2::food insecurity}}, {{c3::disease spread}}, {{c4::air pollution}}		4 items
+Pre-Q Basic	Syria: link between drought and conflict?	Drought displaced ~1.5 million farmers, feeding civil war	
+Pre-Q Cloze	Kiribati: {{c1::32}} low-lying coral atolls; over {{c2::119 000}} people		
+Pre-Q Cloze	Kiribati: over half live on {{c1::Tarawa}}, ~{{c2::3 m}} above sea level		
+Pre-Q Cloze	Kiribati sea-level threats: {{c1::king-tide flooding}}, {{c2::coastal erosion}}, salt water in the {{c3::freshwater lens}}		3 items
+Pre-Q Basic	Kiribati: effect of ocean acidification?	Reef collapse: less storm protection and fewer fish	think coral
+Pre-Q Cloze	Kiribati bought ~{{c1::20 km²}} of land in {{c2::Fiji}} (2014)	Refuge and food security	
+Pre-Q Cloze	NZ's Pacific Access Category: up to {{c1::75}} Kiribati migrants a year	"Migration with dignity"	
+Pre-Q Basic	Kiribati: adaptation measures?	Sea walls and mangroves; rainwater tanks	
+Pre-Q Basic	Kiribati: climate-justice point?	Contributed almost nothing to emissions, yet suffers most	
+Pre-Q Basic	Tuvalu: Falepili Union (2023)?	Treaty letting up to 280 Tuvaluans a year migrate to Australia	
+Pre-Q Basic	Delhi smog: causes?	Vehicles, industry and stubble burning trapped under winter inversions	
+Pre-Q Cloze	Global warming solutions: {{c1::renewables}}, {{c2::EVs and public transport}}, {{c3::reforestation}}, {{c4::carbon capture}}		4 items
+Pre-Q Basic	How to cut farm methane?	Feed additives and low-emission breeding; fewer animals	
+Pre-Q Basic	Industry solutions to global warming?	Renewable heat and efficiency; carbon pricing	
+Pre-Q Basic	Kyoto Protocol (1997)?	Binding cuts for developed countries only; USA never ratified	
+Pre-Q Basic	Paris Agreement (2015)?	Nearly all countries set targets: well below 2 °C, aiming for 1.5 °C	
+Pre-Q Basic	Why are both mitigation and adaptation needed?	Past emissions already guarantee some warming	

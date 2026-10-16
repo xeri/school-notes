@@ -1,0 +1,78 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::07 Urban change and issues in HICs
+#tags:geography urban-change-hics
+Pre-Q Basic	Urbanisation?	Rising proportion of a population living in urban areas	
+Pre-Q Basic	Urban growth?	Rising urban population or built-up area	
+Pre-Q Basic	Urbanisation vs urban growth?	Urbanisation: a proportion. Urban growth: numbers or area	which one is a %?
+Pre-Q Basic	Megacity?	Urban area of over 10 million people	
+Pre-Q Basic	Suburbanisation?	Housing spreads onto the city edge; residents commute back in	
+Pre-Q Basic	Commuting?	Daily journey from home to work and back	
+Pre-Q Basic	Commuter (dormitory) village?	Village whose working residents travel to the city daily	
+Pre-Q Basic	Urban sprawl?	Uncontrolled, low-density spread of a city onto rural land	
+Pre-Q Basic	Rural–urban fringe?	Transition zone where the built-up area meets countryside	
+Pre-Q Basic	Greenfield site?	Undeveloped land on the edge of a built-up area	
+Pre-Q Basic	Urban shadow?	Rural area beyond the fringe shaped by the nearby city	
+Pre-Q Basic	Land banking?	Holding land undeveloped until rezoned and its value rises	think speculators
+Pre-Q Basic	Counter-urbanisation?	Movement out of cities to small towns and rural areas	
+Pre-Q Basic	Suburbanisation vs counter-urbanisation?	Suburbanisation: to the city edge. Counter-urbanisation: out of the city entirely	
+Pre-Q Basic	Green belt?	Protected countryside ring round a city where building is controlled	
+Pre-Q Basic	Urban growth boundary?	Line beyond which urban development is not allowed	
+Pre-Q Basic	Rural Urban Boundary (RUB)?	Auckland's growth limit line in the 2016 Unitary Plan	
+Pre-Q Basic	Intensification?	More homes inside the existing urban area, not outwards	
+Pre-Q Basic	Infill?	New homes on spare land between or behind existing buildings	not the same as brownfield reuse
+Pre-Q Basic	Compact city?	City growing up and in, near jobs, services and transit	
+Pre-Q Basic	Inner-city decay?	Decline of inner-city economy, housing and environment after industry closes	
+Pre-Q Basic	Deindustrialisation?	Decline of manufacturing industry in an area	
+Pre-Q Basic	Comprehensive redevelopment?	Demolishing a whole area of old buildings and rebuilding it	not the same as renewal
+Pre-Q Basic	Urban renewal?	Improving existing housing and environment without demolishing	
+Pre-Q Basic	Urban regeneration?	Public agencies attract private investment to transform a run-down area	
+Pre-Q Basic	Gentrification?	Richer people buy and improve inner-city homes, displacing poorer residents	
+Pre-Q Basic	Re-urbanisation?	People moving back into the inner city, usually after regeneration	
+Pre-Q Cloze	Britain urbanised first: over half urban by about {{c1::1851}}		
+Pre-Q Basic	Britain's early urbanisation: 2 causes?	Agricultural revolution freed labour; industrial revolution built factories	
+Pre-Q Cloze	The world passed 50% urban in about {{c1::2007}}	~30% in 1950	
+Pre-Q Cloze	The world is projected to be ~{{c1::two-thirds}} urban by 2050		
+Pre-Q Basic	Where has most urbanisation happened since 1950?	LICs and MICs in Asia, Africa and Latin America	
+Pre-Q Basic	Least urbanised but fastest-urbanising regions?	Sub-Saharan Africa and South Asia	
+Pre-Q Cloze	Urbanisation curve stages: {{c1::slow}}, {{c2::rapid}}, then {{c3::levelling off}} at ~75–90%		S-shape
+Pre-Q Cloze	HIC urban cycle: {{c1::urbanisation}}, {{c2::suburbanisation}}, {{c3::counter-urbanisation}}, {{c4::re-urbanisation}}		4 stages
+Pre-Q Cloze	Suburbs grew after 1945: {{c1::cars and public transport}}, {{c2::cheap edge land}}, rising {{c3::incomes}}, {{c4::population growth}}		4 items
+Pre-Q Basic	Why did commuting become necessary?	Homes moved out; jobs stayed central	
+Pre-Q Basic	Private vs council housing estates?	Private: for sale, middle income. Council: rented, low income	
+Pre-Q Basic	Suburbanisation: effect on the inner city?	Loses wealthier residents and rates income; decays	
+Pre-Q Cloze	Urban sprawl causes: {{c1::population growth}}, cheap {{c2::greenfield land}}, {{c3::car ownership}}, weak {{c4::planning}}		4 items
+Pre-Q Cloze	Urban sprawl problems: lost {{c1::farmland}}, long {{c2::commutes}}, costly {{c3::infrastructure}}, weaker {{c4::inner city}}		4 items
+Pre-Q Cloze	Auckland since the 1970s: ~{{c1::70%}} of growth by intensification, ~{{c2::30%}} by sprawl		
+Pre-Q Cloze	Rural–urban fringe uses: {{c1::housing estates}}, {{c2::retail parks}}, {{c3::business parks}}, {{c4::golf courses}}, landfill		4 items
+Pre-Q Basic	Why develop on the rural–urban fringe?	Cheap, flat land with motorway access	
+Pre-Q Cloze	Fringe development: for are {{c1::developers}} and {{c2::councils}}; against are {{c3::farmers}} and {{c4::conservationists}}		4 groups
+Pre-Q Basic	Urban shadow: typical features?	Land held for development; haphazard temporary uses	
+Pre-Q Cloze	Counter-urbanisation causes: city {{c1::congestion}}, high {{c2::house prices}}, rural {{c3::space}}, {{c4::remote working}}		4 items
+Pre-Q Basic	Counter-urbanisation: negative effects on villages?	House prices beyond locals; village shops close	
+Pre-Q Basic	Green belt: advantages?	Stops sprawl; pushes development onto brownfield sites	
+Pre-Q Basic	Green belt: disadvantages?	Higher prices inside; leapfrog development beyond it	
+Pre-Q Cloze	Intensification methods: {{c1::infill}}, {{c2::subdivision}}, {{c3::brownfield redevelopment}}, {{c4::apartments}}		4 items
+Pre-Q Basic	Auckland Unitary Plan: centres-based approach?	Intensify round town centres and transport hubs	
+Pre-Q Cloze	{{c1::Plan Change 120}} (2025): 6+ storeys near Auckland centres and rapid-transit stations		
+Pre-Q Basic	Tāmaki regeneration?	Glen Innes 1960s state houses replaced by denser townhouses	
+Pre-Q Basic	Intensification: benefits?	Saves farmland; supports public transport; shorter commutes	
+Pre-Q Basic	Intensification: issues?	Strained schools and pipes; lost neighbourhood character	
+Pre-Q Basic	When does intensification work?	When infrastructure is upgraded at the same pace	
+Pre-Q Cloze	Inner-city decay chain: {{c1::industry closes}}, {{c2::jobs lost}}, {{c3::wealthy leave}}, {{c4::investment stays away}}		4 steps
+Pre-Q Basic	Comprehensive redevelopment: criticism?	Broke up communities; tower blocks became problem estates	
+Pre-Q Basic	Gentrification: for and against?	Better housing and tax base; poorer residents displaced	
+Pre-Q Cloze	London Docklands: docks closed by {{c1::1981}}; regenerated by the {{c2::LDDC}} (1981–98)	London Docklands Development Corporation	
+Pre-Q Basic	London Docklands: the problem?	Derelict docks, high unemployment and poor housing	
+Pre-Q Cloze	London Docklands projects: {{c1::Canary Wharf}}, {{c2::Docklands Light Railway}} (1987), {{c3::London City Airport}}		3 items
+Pre-Q Basic	London Docklands: jobs outcome?	Rose from ~27 000 to over 80 000	
+Pre-Q Basic	London Docklands: criticism?	New jobs went to commuters; locals priced out	
+Pre-Q Basic	Why don't new motorways cure congestion?	Induced demand: new roads attract more traffic	
+Pre-Q Basic	Congestion charging: evaluation?	Effective but unpopular; hits poorer drivers	
+Pre-Q Basic	Why does Auckland's traffic concentrate?	Narrow isthmus between two harbours; few corridors	
+Pre-Q Cloze	Auckland transport: {{c1::Northern Busway}} (2008), {{c2::Waterview tunnels}} (2017), {{c3::City Rail Link}} (2026)		3 projects
+Pre-Q Basic	City Rail Link: main effect?	Britomart becomes a through-station; rail capacity roughly doubles	
+Pre-Q Cloze	Auckland 2023 census: ~{{c1::1.66 million}}, about {{c2::one-third}} of NZ		
+Pre-Q Cloze	Auckland Harbour Bridge ({{c1::1959}}): rapid {{c2::North Shore}} growth		
+Pre-Q Basic	Is Auckland over-populated?	No: its infrastructure lags behind growth	

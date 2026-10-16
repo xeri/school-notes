@@ -1,64 +1,77 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Economics::6 International trade and exchange rates
-Definition of globalisation	The process by which the world becomes increasingly interconnected through increased trade and cultural exchange
-Two benefits of globalisation for consumers	More choice, and lower prices from specialist producers
-Two benefits of globalisation for producers	Larger markets, and the chance to locate where labour and materials are cheaper
-Why does specialisation lead to trade?	A specialised country produces little of other goods, so it must trade to obtain them
-Main risk of specialising in one or two exports	Over-dependence — a fall in world demand or price for them hits the whole economy
-Definition of absolute advantage	Producing more of a good than another country using the same resources
-Definition of comparative advantage	Having a lower opportunity cost of producing a good than another country
-Australia makes 250 beef or 200 tobacco with half its resources. Opportunity cost of 1 tobacco?	250 ÷ 200 = 1.25 beef
-Malawi makes 100 beef or 150 tobacco with half its resources. Opportunity cost of 1 tobacco?	100 ÷ 150 = 0.67 beef
-Australia (250 beef, 200 tobacco) and Malawi (100 beef, 150 tobacco): which advantages does each have?	Australia has an absolute advantage in both; Malawi has the comparative advantage in tobacco, Australia in beef
-Can a country with an absolute disadvantage in everything gain from trade?	Yes — if it specialises where its opportunity cost is lower and trades at a rate between the two countries' opportunity costs
-Four conditions for gains from comparative advantage	Opportunity-cost ratios differ, the trading rate lies between them, transport costs are not prohibitive, resources can switch industries
-Definition of a multinational company	A business with headquarters in one country and operations in others
-Four advantages of an MNC to a host country	Jobs and training, investment that adds to GDP, competition that improves local firms, tax revenue
-Four disadvantages of an MNC to a host country	Local firms forced to close, exploitation where labour law is weak, profits sent home, tax avoidance through transfer pricing
-Definition of free trade	The elimination of trade barriers to create large open markets
-Definition of protectionism	Restricting trade with other nations to protect domestic firms
-Definition of a tariff	An indirect tax on imported goods
-Definition of an import quota	A limit on the quantity of a product that can be imported
-Definition of an embargo	A total ban on importing a good
-Difference between a tariff and a quota for the government	A tariff raises tax revenue; a quota raises none
-Infant industry argument for protection	New industries need shelter until they are big enough to compete
-Sunset industry argument for protection	Protecting declining industries avoids sudden large-scale unemployment
-Five arguments for protection	Infant industries, sunset industries, limiting over-specialisation, correcting a trade imbalance, others are doing it
-Four arguments against protection	Less consumer choice and higher prices, protects inefficient firms, fewer new opportunities, retaliation
-How can protection harm the protected country's exporters?	Other countries retaliate, raising the price of its exports, and imported materials cost more
-What does a free trade agreement do?	Removes tariffs, bans subsidies, simplifies customs and eases business travel between members
-Definition of a customs union	A group of countries with no tariffs between them and a common external tariff
-Definition of an exchange rate	The value of one currency compared with another
-Definition of appreciation	A rise in a currency's value, so one unit buys more foreign currency
-Definition of depreciation	A fall in a currency's value, so one unit buys less foreign currency
-Convert NZ$25 into US dollars at NZ$1 = US$0.70	25 × 0.70 = US$17.50
-A car costs €120 000. Price in NZ$ at NZ$1 = €0.60 and at NZ$1 = €0.62	NZ$200 000, then NZ$193 548 — the NZ dollar has appreciated
-An American car's NZ price rises from NZ$50 000 to NZ$60 000 with no change in its US price. What happened?	The NZ dollar depreciated against the US dollar
-How are floating exchange rates determined?	By the demand for and supply of the currency on the foreign exchange market
-Who demands NZ dollars?	Foreigners buying NZ goods, services or assets, or wanting to hold NZ dollars
-Effect of higher relative interest rates on a currency	It appreciates, as savers seek the higher return
-Effect of higher relative inflation on a currency	It depreciates, as exports become dearer and demand for the currency falls
-Effect of rising demand for a country's exports on its currency	It appreciates
-Difference between floating, fixed and managed exchange rates	Floating: set by demand and supply alone; fixed: pegged to an anchor currency; managed: steered by the central bank around a preferred rate
-What does SPICED stand for?	Strong Pound, Imports Cheap, Exports Dear
-Effect of a depreciation on export and import prices	Export prices fall abroad; import prices rise at home
-Effect of an appreciation on firms that use imported materials	They gain, because their materials become cheaper
-Effect of a depreciation on inflation	It rises — imported inflation from dearer imports and materials
-Effect of an appreciation on jobs and growth	Export jobs are likely lost and net exports fall, so growth is likely to slow
-Four reasons a depreciation may not improve the current account	Inelastic demand for exports or imports, time lags, capacity constraints, dearer imported inputs
-Five ways exporters can cope with a high exchange rate	Cut prices and margins, find cheaper suppliers, raise efficiency, compete on quality and brand, focus on inelastic goods
-Definition of the balance of payments	A record of a country's transactions with the rest of the world over a period, usually a year
-Three accounts of the balance of payments	Current account, capital account, financial account
-Difference between visible and invisible trade	Visible trade is in goods; invisible trade is in services such as tourism, banking and insurance
-Is a New Zealander paying for a hotel in Europe an import or an export?	An invisible import for NZ — money leaves NZ for a service
-Formula for the balance of trade	Visible exports − visible imports
-Four components of the current account	Balance on goods, balance on services, primary income, secondary income
-What is in primary income?	Interest, dividends, profits and wages earned abroad, minus those paid to foreigners
-What is in secondary income?	One-way transfers such as foreign aid, migrants' remittances and contributions to international organisations
-Current account with trade −446.2, services +66.5, primary income +21, secondary income −58.6 ($bn)	−417.3, a deficit of $417.3bn
-What does the financial account record?	Financial investment flows — foreign direct investment, shares and bonds, and hot money
-When might a current account deficit not matter?	When it is small (under about 5% of GDP), financed by equity investment, or funds capital goods
-When is a current account deficit a problem?	When it is large and persistent, financed by borrowing, or caused by uncompetitive exports
-Four policies to correct a current account deficit	Depreciation, contractionary fiscal or monetary policy, protectionism, supply-side policy
+#notetype column:1
+#deck:Economics::8 International trade and exchange rates
+#tags:economics trade
+Pre-Q Basic	Globalisation?	World becoming more interconnected through trade and cultural exchange	
+Pre-Q Basic	Globalisation: 2 benefits to consumers	More choice; lower prices	
+Pre-Q Basic	Globalisation: 2 benefits to producers	Bigger markets; locate where inputs are cheaper	
+Pre-Q Cloze	Reasons countries trade: get goods they {{c1::can't produce}}, get goods made {{c2::more cheaply}}, sell a {{c3::surplus}}, gain {{c4::economies of scale}}		4 items
+Pre-Q Basic	Over-dependence risk in trade?	A fall in world price or demand hits the whole economy	
+Pre-Q Basic	Who bears the adjustment costs of trade?	Particular workers and regions, not everyone evenly	
+Pre-Q Basic	Absolute advantage?	Producing more of a good with the same resources	
+Pre-Q Basic	Comparative advantage?	Lower opportunity cost of producing a good	Not the same as absolute advantage
+Pre-Q Basic	How to find the opportunity cost of 1 unit of a good?	Other good given up ÷ units of this good gained	Compare countries afterwards
+Pre-Q Cloze	Gains from comparative advantage need: {{c1::different opportunity-cost ratios}}, a trading rate {{c2::between them}}, low {{c3::transport costs}}		3 conditions
+Pre-Q Basic	Multinational company (MNC)?	Headquarters in one country, operations in others	
+Pre-Q Cloze	MNC benefits to host: {{c1::jobs and training}}, {{c2::investment}}, {{c3::competition}}, {{c4::tax revenue}}		4 items
+Pre-Q Cloze	MNC drawbacks to host: {{c1::local firms close}}, {{c2::worker exploitation}}, {{c3::profits sent home}}, {{c4::transfer pricing}}		4 items
+Pre-Q Basic	Transfer pricing?	MNC shifting profits between countries to avoid tax	
+Pre-Q Basic	Free trade?	Trade with no barriers	
+Pre-Q Basic	Protectionism?	Restricting trade to protect domestic firms	
+Pre-Q Basic	Tariff?	Tax on imports	
+Pre-Q Basic	Import quota?	Limit on the quantity imported	
+Pre-Q Basic	Embargo?	Total ban on importing a good	
+Pre-Q Basic	Tariff vs quota for government	Tariff raises revenue; quota doesn't	
+Pre-Q Cloze	Tariff effects: domestic output {{c1::rises}}, consumption {{c2::falls}}, imports {{c3::fall}}, government gains {{c4::revenue}}		
+Pre-Q Basic	Infant industry argument?	Shelter new firms until they can compete	
+Pre-Q Basic	Sunset industry argument?	Avoid sudden mass unemployment as an industry declines	
+Pre-Q Cloze	Arguments for protection: {{c1::infant industries}}, {{c2::sunset industries}}, {{c3::over-specialisation}}, {{c4::trade imbalance}}, {{c5::dumping}}, {{c6::strategic industries}}		6 items
+Pre-Q Cloze	Arguments against protection: {{c1::higher prices and less choice}}, {{c2::protects inefficiency}}, {{c3::dearer imported inputs}}, {{c4::retaliation}}		4 items
+Pre-Q Basic	Free trade agreement (FTA)?	Agreement removing tariffs and easing trade between countries	
+Pre-Q Basic	Customs union?	No internal tariffs plus a common external tariff	
+Pre-Q Basic	Exchange rate?	Value of one currency compared with another	
+Pre-Q Basic	Appreciation?	Currency rises; buys more foreign currency	
+Pre-Q Basic	Depreciation?	Currency falls; buys less foreign currency	
+Pre-Q Basic	Convert home currency to foreign at a given rate?	Multiply by the rate	Rate quoted as 1 home = x foreign
+Pre-Q Basic	Convert foreign currency to home at a given rate?	Divide by the rate	Rate quoted as 1 home = x foreign
+Pre-Q Basic	Floating exchange rate?	Set by demand and supply only	
+Pre-Q Basic	Fixed exchange rate?	Pegged to an anchor currency	
+Pre-Q Basic	Managed exchange rate?	Central bank steers it around a preferred rate	
+Pre-Q Basic	Who demands a currency?	Foreigners buying its goods, services or assets	
+Pre-Q Basic	Who supplies a currency?	Residents buying imports or foreign assets	Opposite of who demands it
+Pre-Q Basic	Demand for a currency rises: diagram?	Demand shifts right; rate rises (appreciation)	
+Pre-Q Basic	More imports bought: currency diagram?	Supply of the currency shifts right; it depreciates	
+Pre-Q Basic	Higher relative interest rates: currency?	Appreciates	
+Pre-Q Basic	Higher relative inflation: currency?	Depreciates	
+Pre-Q Basic	Fixed rate held above equilibrium acts as?	A minimum price; central bank buys the excess supply	Think price floor
+Pre-Q Basic	Floating exchange rate: 2 advantages	Adjusts automatically; no reserves needed	
+Pre-Q Basic	Floating exchange rate: 2 disadvantages	Volatility; imported inflation	
+Pre-Q Basic	Fixed exchange rate: 2 advantages	Certainty for traders; inflation discipline	
+Pre-Q Basic	Fixed exchange rate: 2 disadvantages	Needs large reserves; interest rates tied to the rate	
+Pre-Q Basic	Depreciation: export and import prices?	Exports cheaper abroad; imports dearer at home	
+Pre-Q Basic	Depreciation: effect on inflation?	Rises (imported inflation)	
+Pre-Q Basic	Appreciation: jobs and growth?	Export jobs lost; growth slows	
+Pre-Q Cloze	Why depreciation may not improve the current account: {{c1::inelastic demand}}, {{c2::time lags}}, {{c3::capacity constraints}}, {{c4::dearer imported inputs}}		4 items
+Pre-Q Basic	Depreciation raises export revenue only if?	Export demand is price elastic	
+Pre-Q Basic	Balance of payments (BoP)?	Record of a country's transactions with the rest of the world	
+Pre-Q Cloze	3 accounts of the BoP: {{c1::current}}, {{c2::capital}}, {{c3::financial}}		
+Pre-Q Basic	Visible vs invisible trade	Visible: goods. Invisible: services	
+Pre-Q Cloze	Balance of trade = {{c1::visible exports}} − {{c2::visible imports}}		
+Pre-Q Cloze	Current account = {{c1::goods}} + {{c2::services}} + {{c3::primary income}} + {{c4::secondary income}}		4 balances
+Pre-Q Basic	Primary income?	Net investment income and wages from abroad	
+Pre-Q Basic	Secondary income?	One-way transfers such as aid and remittances	
+Pre-Q Basic	Goods deficit = current account deficit?	No; services and income can offset it	
+Pre-Q Cloze	Causes of a current account deficit: {{c1::uncompetitive exports}}, {{c2::overvalued exchange rate}}, {{c3::strong income growth}}		3 items
+Pre-Q Basic	Current account deficit OK when?	Small and financed by equity investment	
+Pre-Q Basic	Current account deficit a problem when?	Large, persistent and debt-financed	
+Pre-Q Basic	Current account deficit: exchange rate effect?	Currency tends to depreciate	
+Pre-Q Cloze	Fixes for a current account deficit: {{c1::depreciation}}, {{c2::contractionary policy}}, {{c3::protectionism}}, {{c4::supply-side policy}}		4 items
+Pre-Q Basic	Administrative barriers (trade)?	Paperwork, licences and standards that delay and raise import costs	Protection with no explicit tax
+Pre-Q Basic	Revaluation vs devaluation?	Fixed currency deliberately raised vs lowered	Fixed-rate versions of appreciation/depreciation
+Pre-Q Basic	Capital account (BoP)?	Transfers of ownership of fixed assets	Migrants' assets
+Pre-Q Basic	Financial account (BoP)?	Financial investment: FDI, shares, bonds, hot money	
+Pre-Q Basic	Hot money?	Short-term financial flows chasing interest or currency gains	
+Pre-Q Basic	Speculation the currency will rise: effect?	Buyers buy now, so it appreciates	Buy low, sell high
+Pre-Q Basic	Inward FDI: effect on the host currency?	Demand for it rises, so it appreciates	
+Pre-Q Basic	Tariff revenue = ?	Tariff × quantity imported	Shaded rectangle on the diagram

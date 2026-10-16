@@ -1,68 +1,62 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Economics::2 Demand, supply and the market
-Definition of demand	The quantity consumers are willing and able to buy at a range of prices over a period
-Definition of quantity demanded	The amount consumers are willing and able to buy at one particular price
-Definition of market demand	The sum of all individuals' demand for a product at each price
-Meaning of ceteris paribus	All other factors remain the same
-The law of demand	As price rises, quantity demanded falls, ceteris paribus, and vice versa
-Why does quantity demanded rise when price falls?	Consumers are more able to afford it with their limited income, and more willing because it is cheaper
-What does a change in the good's own price cause on a demand diagram?	A movement along the curve — a change in quantity demanded
-What causes the demand curve to shift?	A change in a condition of demand (a non-price factor)
-Meaning of a rightward shift of the demand curve	An increase in demand — more is demanded at each and every price
-Name six conditions of demand	Tastes and fashion, income, price of substitutes, price of complements, population, advertising and events
-Effect of a cut in direct tax on demand for a normal good	Disposable income rises, so demand increases (shifts right)
-Effect of a rise in the price of a substitute	Demand for this good increases, because it is now relatively cheaper
-Effect of a fall in the price of a complement	Demand for this good increases, because more of both are bought together
-Effect of a rise in income on demand for an inferior good	Demand decreases, as consumers switch to better alternatives
-Definition of a normal good	A good whose demand rises as income rises
-Definition of a luxury good	A good whose demand rises more than proportionately as income rises
-Definition of substitutes	Goods that can be used instead of each other, such as Coke and Pepsi
-Definition of complements	Goods used together, such as bread and butter
-Effect of an earthquake on demand for bottled water	Demand increases, as people worry about the safety of tap water
-Why is "a price rise causes a decrease in demand" wrong?	A price rise causes a decrease in quantity demanded, a movement along the curve; a decrease in demand is a leftward shift
-Definition of supply	The quantity producers are willing and able to provide at a range of prices over a period
-Definition of quantity supplied	The amount producers are willing and able to provide at one particular price
-The law of supply	As price rises, quantity supplied rises, ceteris paribus, and vice versa
-Why does quantity supplied rise when price rises?	The product becomes more profitable, so the firm can better cover its costs
-Definition of related goods in supply	Goods that can be made with the same inputs, such as bread rolls and loaves
-Effect on the supply of loaves when the price of bread rolls rises	Supply of loaves decreases, as resources switch to the more profitable rolls
-Difference between price and cost	Price is what the customer pays and the firm receives; cost is what it takes the firm to produce the good
-Name eight conditions of supply	Costs of production, productivity and technology, indirect taxes, subsidies, tariffs, number of firms, good or bad season, price of related goods
-Which condition of supply usually has the greatest impact?	Costs of production
-Effect of a rise in GST on supply	Supply decreases (shifts left), as profitability falls
-Effect of removing a subsidy on supply	Supply decreases (shifts left)
-Effect of a tariff on imported raw materials on supply	Supply decreases, because costs of production rise
-Effect of a bad growing season on supply	Supply decreases (shifts left)
-Effect of new technology on supply	Supply increases (shifts right), because costs fall
-Four external influences on supply	Environmental, legal, political and cultural factors
-Difference between an increase in supply and an increase in quantity supplied	An increase in supply is a rightward shift caused by a condition of supply; an increase in quantity supplied is a movement along the curve caused by a price rise
-How to label a price change on a demand or supply diagram	P1 and Q1 for the original, P2 and Q2 for the new, with dotted lines to the axes and arrows
-Definition of market equilibrium	The price at which quantity demanded equals quantity supplied, so there is no surplus or shortage
-Situation at a price below equilibrium	Excess demand (a shortage): Qd exceeds Qs, so consumers push the price up
-Situation at a price above equilibrium	Excess supply (a surplus): Qs exceeds Qd, so producers cut the price to clear stock
-At $4, Qs is 2000 and Qd is 10 000. What is the market situation?	A shortage of 8000 units, so the price rises
-At $10, Qd is 4000 and Qs is 8000. What is the market situation?	A surplus of 4000 units, so the price falls
-Definition of a market	Anywhere buyers and sellers come together to exchange goods and services
-Does equilibrium mean the outcome is fair?	No — it only means the market clears, not that everyone can afford the good
-Which shifts create a shortage at the original equilibrium price?	An increase in demand or a decrease in supply
-Which shifts create a surplus at the original equilibrium price?	An increase in supply or a decrease in demand
-Effect of an increase in demand on equilibrium price and quantity	Both rise
-Effect of a decrease in demand on equilibrium price and quantity	Both fall
-Effect of an increase in supply on equilibrium price and quantity	Price falls and quantity rises
-Effect of a decrease in supply on equilibrium price and quantity	Price rises and quantity falls
-Effect when demand and supply both increase	Quantity rises; the price change depends on which shift is larger
-Equilibrium when Qd = 100 − 2P and Qs = 20 + 2P	P = 20 and Q = 60
-Consequence of a maximum price set below equilibrium	Excess demand: shortages, queues, rationing and black markets
-Consequence of a minimum price set above equilibrium	Excess supply: surpluses, or unemployment in a labour market
-Five factors a firm considers when setting its price	PED, the type of product, customers' bargaining power, the rest of the marketing mix, brand image
-Cost-plus pricing	Calculating unit cost and adding a fixed percentage mark-up
-Competitor pricing	Setting price around rivals' prices
-Price discrimination	Charging different groups different prices, based on what each will pay
-Contribution pricing	Covering variable cost, then adding a contribution towards fixed costs
-Penetration pricing	A low price to enter the market, raised later
-Price skimming	A high launch price, reduced over time
-Psychological pricing	Prices such as 99c or $199.99 that make the product feel cheaper
-Predatory pricing	Temporarily setting a very low price, even below cost, to force rivals out
-Definition of a price war	Rival firms repeatedly cutting prices to gain market share
+#notetype column:1
+#deck:Economics::4 Demand, supply and the market
+#tags:economics markets
+Pre-Q Basic	Demand?	Quantity consumers are willing and able to buy at a range of prices	Two key words
+Pre-Q Basic	Quantity demanded (Qd)?	Amount consumers buy at one particular price	
+Pre-Q Basic	Market demand?	Sum of every individual's demand at each price	
+Pre-Q Basic	Ceteris paribus?	All other factors stay the same	
+Pre-Q Basic	Law of demand?	Price rises, quantity demanded falls (ceteris paribus)	
+Pre-Q Basic	Why does the demand curve slope down?	At lower prices consumers are more able and willing to buy	
+Pre-Q Basic	Movement along a demand curve is caused by?	A change in the good's own price	
+Pre-Q Basic	Shift of a demand curve is caused by?	A condition of demand (any non-price factor)	
+Pre-Q Basic	Increase in demand?	Curve shifts right: more demanded at every price	
+Pre-Q Basic	Extension vs contraction of demand	Extension: price fall raises Qd. Contraction: price rise cuts Qd	
+Pre-Q Cloze	Conditions of demand: {{c1::tastes}}, {{c2::disposable income}}, {{c3::price of substitutes}}, {{c4::price of complements}}, {{c5::population}}, {{c6::advertising}}, {{c7::expectations}}		7 items
+Pre-Q Basic	Substitute's price rises: demand for the good?	Rises (shifts right)	
+Pre-Q Basic	Complement's price falls: demand for the good?	Rises (shifts right)	Used together
+Pre-Q Basic	Normal good?	Demand rises as income rises	
+Pre-Q Basic	Inferior good?	Demand falls as income rises	Think bus travel
+Pre-Q Basic	Luxury good?	Demand rises more than proportionately with income	
+Pre-Q Basic	Substitutes?	Goods used instead of each other, e.g. tea and coffee	
+Pre-Q Basic	Complements?	Goods used together, e.g. bread and butter	
+Pre-Q Basic	Why is "a price rise decreases demand" wrong?	It cuts quantity demanded (movement), not demand (shift)	Movement vs shift
+Pre-Q Basic	Supply?	Quantity producers are willing and able to sell at a range of prices	
+Pre-Q Basic	Quantity supplied (Qs)?	Amount supplied at one particular price	
+Pre-Q Basic	Market supply?	Sum of all firms' supply in the market	
+Pre-Q Basic	Law of supply?	Price rises, quantity supplied rises (ceteris paribus)	
+Pre-Q Basic	Why does the supply curve slope up?	Higher price makes supplying more profitable	
+Pre-Q Basic	Related goods (supply)?	Goods made with the same inputs	
+Pre-Q Basic	Related good's price rises: supply of this good?	Falls; resources switch to the related good	Think rolls and loaves
+Pre-Q Basic	Price vs cost	Price: what the buyer pays. Cost: what producing takes	
+Pre-Q Cloze	Conditions of supply: {{c1::costs of production}}, {{c2::technology}}, {{c3::indirect taxes}}, {{c4::subsidies}}, {{c5::tariffs on inputs}}, {{c6::number of firms}}, {{c7::seasons}}, {{c8::price of related goods}}		8 items
+Pre-Q Basic	Indirect tax raised: supply?	Decreases (shifts left)	
+Pre-Q Basic	Subsidy given to producers: supply?	Increases (shifts right)	
+Pre-Q Basic	New technology: supply?	Increases (shifts right)	
+Pre-Q Basic	Increase in supply vs increase in quantity supplied	Supply: curve shifts right. Qs: movement from a price rise	
+Pre-Q Basic	How to build market demand from individual demand?	Add each consumer's quantity at every price	Horizontal summation
+Pre-Q Basic	Equilibrium price?	Price where quantity demanded equals quantity supplied	
+Pre-Q Basic	Excess demand (shortage)?	Qd exceeds Qs, at a price below equilibrium	
+Pre-Q Basic	Excess supply (surplus)?	Qs exceeds Qd, at a price above equilibrium	
+Pre-Q Basic	Shortage: how does price adjust?	Price is bid up; Qs rises and Qd falls	
+Pre-Q Basic	Surplus: how does price adjust?	Price falls; Qd rises and Qs falls	
+Pre-Q Basic	Demand increases: equilibrium price and quantity?	Both rise	
+Pre-Q Basic	Demand decreases: equilibrium price and quantity?	Both fall	
+Pre-Q Basic	Supply increases: equilibrium price and quantity?	Price falls; quantity rises	
+Pre-Q Basic	Supply decreases: equilibrium price and quantity?	Price rises; quantity falls	
+Pre-Q Basic	Demand and supply both increase?	Quantity rises; price depends on the bigger shift	One outcome is ambiguous
+Pre-Q Basic	Two steps to explain a demand or supply shift?	Shift one curve, then movement along the other	
+Pre-Q Basic	How to find equilibrium from Qd and Qs equations?	Set Qd = Qs and solve for P; then find Q	Check in both equations
+Pre-Q Cloze	Price-setting factors: {{c1::PED}}, {{c2::type of product}}, {{c3::the customers}}, {{c4::rest of the marketing mix}}, {{c5::brand image}}		5 items
+Pre-Q Basic	Cost-plus pricing?	Unit cost plus a fixed percentage mark-up	
+Pre-Q Basic	Competitor pricing?	Setting price around rivals' prices	
+Pre-Q Basic	Price discrimination?	Different prices for different groups of customers	
+Pre-Q Basic	Contribution pricing?	Cover variable cost, plus a contribution to fixed costs	
+Pre-Q Basic	Penetration pricing?	Low entry price, raised later	
+Pre-Q Basic	Price skimming?	High launch price, lowered over time	Opposite of penetration
+Pre-Q Basic	Psychological pricing?	Prices like 99c that feel cheaper	
+Pre-Q Basic	Predatory pricing?	Very low price (even below cost) to force rivals out	
+Pre-Q Basic	Price war?	Rival firms repeatedly cutting prices to win market share	
+Pre-Q Basic	Demand schedule?	Table of prices and quantities demanded, ceteris paribus	
+Pre-Q Basic	Supply schedule?	Table of prices and quantities supplied	

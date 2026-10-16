@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::27 Climate and global circulation
+#tags:geography climate
+Pre-Q Basic	Insolation?	Incoming solar radiation reaching the Earth's surface	
+Pre-Q Basic	Why does the equator get more insolation?	High Sun concentrates rays through less atmosphere	
+Pre-Q Basic	Albedo?	Share of solar radiation a surface reflects	High for ice and snow
+Pre-Q Cloze	Seasons are caused by the Earth's {{c1::23.5°}} axial tilt		
+Pre-Q Basic	Tri-cellular model?	Global circulation of three cells in each hemisphere	
+Pre-Q Cloze	Circulation cells, equator to pole: {{c1::Hadley}}, {{c2::Ferrel}}, {{c3::Polar}}		3 cells
+Pre-Q Basic	Hadley cell?	Air rises at the equator and sinks at about 30°	
+Pre-Q Basic	Ferrel cell?	Mid-latitude cell (30–60°) with surface westerlies	The middle cell
+Pre-Q Basic	Polar cell?	Air sinks at the poles and rises at about 60°	
+Pre-Q Cloze	Surface pressure: equator {{c1::low}}; 30° {{c2::high}}; 60° {{c3::low}}; poles {{c4::high}}		They alternate
+Pre-Q Basic	ITCZ (Inter-Tropical Convergence Zone)?	Equatorial low where trade winds meet and air rises	
+Pre-Q Cloze	Hadley cell: equatorial air {{c1::rises}}, giving {{c2::convectional rain}}; dry air {{c3::sinks}} at about 30°; it returns as the {{c4::trade winds}}		4 blanks
+Pre-Q Basic	Why are most hot deserts at about 30°?	Sinking air warms, so no cloud forms	
+Pre-Q Basic	Trade winds?	Surface winds from the subtropical highs to the equator	
+Pre-Q Cloze	Trade winds blow from the {{c1::north-east}} in the Northern Hemisphere and the {{c2::south-east}} in the Southern		
+Pre-Q Basic	Westerlies?	Prevailing winds from the subtropical highs towards 60°	
+Pre-Q Basic	Polar easterlies?	Winds blowing outwards from the polar highs	
+Pre-Q Basic	Why do trade winds come from the north-east north of the equator?	Air flows to the equatorial low; Coriolis deflects it right	High to low, then deflection
+Pre-Q Basic	Seasonal shift of pressure belts?	The belts follow the overhead Sun	
+Pre-Q Basic	Jet stream?	Narrow band of strong high-level west–east wind	
+Pre-Q Basic	Warm ocean current: effect on climate?	Warms and moistens the coast (North Atlantic Drift)	
+Pre-Q Basic	Cold ocean current: effect on climate?	Cools air, making it stable and dry (Atacama)	
+Pre-Q Basic	El Niño?	Pacific trade winds weaken; warm water spreads east	Contrast La Niña
+Pre-Q Basic	La Niña?	Pacific trade winds strengthen; warm water pushed west	
+Pre-Q Basic	El Niño: rainfall effects?	Drought in Australia; floods in Peru	Reverse of normal
+Pre-Q Basic	ENSO?	El Niño–Southern Oscillation; recurs every 2–7 years	
+Pre-Q Cloze	Climate factors: {{c1::latitude}}, {{c2::altitude}}, {{c3::distance from the sea}}, {{c4::ocean currents}}, {{c5::prevailing winds}}, {{c6::relief}}		6 factors
+Pre-Q Basic	Altitude: effect on temperature?	Temperature falls with height as air thins	
+Pre-Q Basic	Continentality?	Effect of distance from the sea on temperature range	Think inland vs coast
+Pre-Q Basic	Maritime climate?	Sea-moderated: cool summers, mild winters	Contrast continental
+Pre-Q Basic	Continental climate?	Interior climate with hot summers and very cold winters	
+Pre-Q Basic	Why do coasts have a small temperature range?	Water heats and cools more slowly than land	
+Pre-Q Basic	Aspect?	Direction a slope faces; sun-facing slopes are warmer	
+Pre-Q Basic	Urban heat island?	City warmer than the surrounding countryside	
+Pre-Q Basic	Temperature range?	Highest minus lowest temperature	
+Pre-Q Basic	Mediterranean climate?	Hot dry summers, mild wet winters	
+Pre-Q Basic	Tropical wet-dry (savanna) climate?	Hot all year; wet summer, dry winter	
+Pre-Q Cloze	Climate graph: temperature = {{c1::line}}; rainfall = {{c2::bars}}		
+Pre-Q Cloze	Reading a climate graph: quote {{c1::max and min with months}}; work out the {{c2::annual range}}; {{c3::total rainfall}}; name the {{c4::wettest season}}	Don't go month by month	4 steps
+Pre-Q Basic	Hemisphere from a climate graph?	Warmest in Dec–Feb = Southern; Jun–Aug = Northern	
+Pre-Q Basic	Climate graph with a flat high temperature line and rain every month?	Equatorial (tropical rainforest)	
+Pre-Q Cloze	New Zealand climate: westerlies forced over ranges give a wet {{c1::west}} and a dry {{c2::east}} ({{c3::rain shadow}})		3 blanks
+Pre-Q Basic	New Zealand summer pressure pattern?	Subtropical highs: settled anticyclones	
+Pre-Q Basic	New Zealand winter pressure pattern?	Nearer the Ferrel–Polar boundary: frequent fronts	
+Pre-Q Basic	New Zealand temperature pattern?	Falls from north to south and with altitude	
+Pre-Q Basic	Sunniest parts of New Zealand?	Sheltered north and east	
+Pre-Q Basic	New Zealand weather systems move which way?	West to east, about one high and low a week	

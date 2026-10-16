@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::24 Rivers: flooding, management and fieldwork
+#tags:geography river-flooding
+Pre-Q Basic	Hydrograph?	Graph of river discharge over time at one point	
+Pre-Q Basic	Flood (storm) hydrograph?	Graph of discharge response to one rainfall event	
+Pre-Q Cloze	Lag time = time from {{c1::peak rainfall}} to {{c2::peak discharge}}		Not from the start of the rain
+Pre-Q Basic	Rising limb?	Steep rise in discharge as storm water arrives	
+Pre-Q Basic	Falling (recession) limb?	Discharge returning to normal after the peak	
+Pre-Q Basic	Storm flow (quickflow)?	Extra water from overland flow and throughflow	
+Pre-Q Basic	Bankfull discharge?	Discharge that just fills the channel	
+Pre-Q Basic	Flashy vs subdued hydrograph	Flashy: short lag and high peak. Subdued: long lag and low peak	
+Pre-Q Cloze	Physical causes of a flashy hydrograph: {{c1::steep slopes}}, {{c2::impermeable rock}}, {{c3::saturated soil}}, {{c4::small circular basin}}		4 factors
+Pre-Q Basic	Vegetation: effect on lag time?	Lengthens it through interception and transpiration	
+Pre-Q Cloze	Urbanisation and floods: {{c1::impermeable}} surfaces cut infiltration; {{c2::drains}} speed water to the river; lag gets {{c3::shorter}}, peak {{c4::higher}}		4 blanks
+Pre-Q Basic	Flood?	Discharge exceeds channel capacity and water spills over	
+Pre-Q Cloze	Physical flood causes: {{c1::prolonged rain}}, {{c2::intense storms}}, {{c3::snowmelt}}, {{c4::saturated or frozen ground}}, {{c5::storm surge}}		5 causes
+Pre-Q Cloze	Human flood causes: {{c1::urbanisation}}, {{c2::deforestation}}, {{c3::building on floodplains}}, {{c4::channel straightening}}		4 causes
+Pre-Q Cloze	River opportunities: {{c1::fertile soil}}, {{c2::water supply}}, {{c3::HEP}}, {{c4::transport}}, {{c5::recreation}}		5 uses
+Pre-Q Cloze	River hazards: {{c1::flooding}}, {{c2::bank erosion}}, {{c3::drought}}, {{c4::pollution}}		4 hazards
+Pre-Q Basic	Hard engineering?	Built structures that control rivers or coasts	
+Pre-Q Basic	Soft engineering?	Working with natural processes and managing land use	
+Pre-Q Basic	Dam and reservoir: how it reduces floods?	Stores floodwater and releases it slowly	
+Pre-Q Cloze	Dam drawbacks: {{c1::very expensive}}, {{c2::displace people}}, {{c3::trap sediment}}, {{c4::can fail}}		4 drawbacks
+Pre-Q Basic	Stopbank?	Artificial levée holding floodwater in the channel	
+Pre-Q Basic	Stopbanks: main risk?	Disaster if overtopped or breached	
+Pre-Q Basic	Channel straightening: drawback?	Speeds floodwater to places downstream	
+Pre-Q Basic	Dredging (rivers)?	Deepening the channel to carry more water; must repeat	
+Pre-Q Basic	Flood relief channel?	Diverts excess water round a town	
+Pre-Q Basic	Floodgates and pump stations?	Stop backflow and pump water off low land	
+Pre-Q Basic	Floodplain zoning?	Only low-value uses allowed on the highest-risk land	
+Pre-Q Basic	Afforestation: effect on floods?	More interception and infiltration: longer lag, lower peak	
+Pre-Q Basic	Flood warnings: strength vs weakness	Cheap and save lives; do not stop damage	
+Pre-Q Basic	Managed retreat?	Letting land flood or erode and moving people away	
+Pre-Q Basic	Voluntary buy-out?	Government buys homes on land judged unsafe to live on	
+Pre-Q Cloze	Judging flood schemes: {{c1::cost}}, {{c2::who wins and loses}}, {{c3::environmental effect}}, {{c4::lifespan}}, {{c5::copes with extremes}}, {{c6::moves the problem}}		6 criteria
+Pre-Q Basic	Waikato River: source and length?	Lake Taupō; about 425 km, the country's longest	
+Pre-Q Cloze	Waikato hydro scheme: {{c1::8}} dams with {{c2::9}} power stations		
+Pre-Q Cloze	Waikato opportunities: {{c1::HEP}}, {{c2::city water supply}}, {{c3::irrigation}}, {{c4::power-station cooling}}		4 uses
+Pre-Q Basic	Waikato flood scheme: built after which flood?	The 1958 flood	
+Pre-Q Cloze	Lower Waikato–Waipā scheme: {{c1::stopbanks}}, {{c2::floodgates}}, {{c3::pump stations}}, {{c4::ponding areas}}		4 methods
+Pre-Q Basic	Waikato: main problem besides flooding?	Pollution from farm runoff	
+Pre-Q Basic	Waikato flood scheme: evaluation?	Protects in normal floods but can be overtopped	
+Pre-Q Cloze	Cyclone Gabrielle: {{c1::12–14 February 2023}}; {{c2::11}} deaths	Hawke's Bay and Tairāwhiti worst hit	
+Pre-Q Cloze	Cyclone Gabrielle causes: {{c1::extreme orographic rain}} on {{c2::saturated ground}}; {{c3::forestry slash}} blocked rivers		3 blanks
+Pre-Q Basic	Cyclone Gabrielle: Esk Valley?	Stopbanks overtopped; valley buried in silt	
+Pre-Q Basic	Cyclone Gabrielle: response on the worst land?	Category 3 voluntary buy-outs (managed retreat)	
+Pre-Q Cloze	Bangladesh flood causes: {{c1::monsoon rain}}, {{c2::Himalayan snowmelt}}, {{c3::upstream deforestation}}, {{c4::cyclones and storm surges}}		4 causes
+Pre-Q Basic	Bangladesh: why so flood-prone?	Low, flat Ganges–Brahmaputra–Meghna delta	
+Pre-Q Cloze	Bangladesh flood responses: {{c1::embankments}}, {{c2::flood shelters}}, {{c3::early warnings}}, {{c4::raised homes}}		4 responses
+Pre-Q Basic	Bangladesh: why are flood losses higher than in HICs?	More poor people on floodplains; defences unaffordable	
+Pre-Q Basic	How to measure river velocity?	Time a float over 10 m three times; average	
+Pre-Q Basic	How to measure river depth?	Metre rule at regular intervals across the channel	
+Pre-Q Basic	How to measure river load?	Calipers for size; Powers chart for roundness	
+Pre-Q Cloze	River cross-sectional area = {{c1::width × mean depth}}		
+Pre-Q Basic	River fieldwork hypothesis example?	Channel width increases downstream	
+Pre-Q Cloze	River fieldwork limitations: {{c1::few sites}}, {{c2::one day only}}, {{c3::float snagging the bank}}, {{c4::human error}}		4 limitations

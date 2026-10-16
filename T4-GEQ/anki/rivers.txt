@@ -1,0 +1,76 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::23 Rivers: drainage basins, processes and landforms
+#tags:geography rivers
+Pre-Q Basic	Hydrological cycle?	Continuous circulation of water between oceans, air and land	
+Pre-Q Basic	Global hydrological cycle: open or closed system?	Closed: no water added or lost	
+Pre-Q Basic	Drainage basin: open or closed system?	Open: precipitation in; evapotranspiration and discharge out	
+Pre-Q Cloze	Largest water store: {{c1::oceans}} (about 97%)		
+Pre-Q Basic	Evapotranspiration?	Evaporation plus transpiration from plants	
+Pre-Q Basic	Drainage basin?	Land drained by a river and its tributaries	
+Pre-Q Basic	Watershed?	Ridge of high land dividing two drainage basins	
+Pre-Q Basic	Tributary?	Smaller river that joins a larger one	
+Pre-Q Basic	Confluence?	Point where two rivers join	
+Pre-Q Basic	Estuary?	Tidal river mouth where fresh and salt water mix	
+Pre-Q Cloze	Drainage density = {{c1::total stream length ÷ basin area}}	High on impermeable rock	
+Pre-Q Basic	Interception?	Water caught on leaves before reaching the ground	
+Pre-Q Basic	Infiltration?	Water soaking into the soil	
+Pre-Q Basic	Infiltration capacity?	Maximum rate at which soil can absorb water	
+Pre-Q Basic	Percolation?	Water moving down from the soil into the rock	Contrast infiltration
+Pre-Q Basic	Throughflow?	Water moving sideways through the soil to the channel	
+Pre-Q Basic	Surface runoff (overland flow)?	Water flowing over the ground when rain exceeds infiltration	
+Pre-Q Basic	Baseflow?	Slow groundwater seepage that keeps a river flowing between storms	
+Pre-Q Basic	Aquifer?	Permeable rock that stores groundwater	
+Pre-Q Basic	Water table?	Upper surface of the saturated zone	
+Pre-Q Basic	Discharge?	Volume of water passing a point per second	
+Pre-Q Cloze	Discharge = {{c1::cross-sectional area}} × {{c2::mean velocity}}		Unit: m³/s (cumecs)
+Pre-Q Basic	Hydraulic action (rivers)?	Water force and compressed air in cracks break rock	
+Pre-Q Basic	Abrasion (rivers)?	Load scraping and grinding the bed and banks	
+Pre-Q Basic	Attrition (rivers)?	Load particles collide, becoming smaller and rounder	
+Pre-Q Basic	Corrosion (rivers)?	Weak acids in the water dissolve soluble rock	
+Pre-Q Basic	Cavitation?	Collapsing air bubbles send shock waves against the banks	
+Pre-Q Basic	Vertical vs lateral erosion	Vertical deepens (upper course); lateral widens (lower course)	
+Pre-Q Basic	Base level?	Lowest level a river can erode to (sea level)	
+Pre-Q Cloze	River transport, finest to coarsest: {{c1::solution}}, {{c2::suspension}}, {{c3::saltation}}, {{c4::traction}}		S, S, S, T
+Pre-Q Basic	Saltation (rivers)?	Sand and small pebbles bouncing along the bed	
+Pre-Q Basic	Traction?	Boulders rolled and dragged along the bed	
+Pre-Q Basic	Suspension (rivers)?	Fine clay and silt carried within the flow	
+Pre-Q Basic	Capacity vs competence (rivers)	Capacity: total load carried. Competence: largest particle carried	Easily confused
+Pre-Q Cloze	A river deposits when: {{c1::gradient falls}}, it {{c2::enters a lake or sea}}, water is {{c3::shallow}}, {{c4::discharge drops}}	All mean a loss of energy	4 causes
+Pre-Q Basic	Hjulström curve?	Velocity vs particle size graph for erosion, transport and deposition	
+Pre-Q Basic	Critical erosion velocity?	Velocity needed to pick up a particle	
+Pre-Q Basic	Settling velocity?	Velocity below which a particle is deposited	
+Pre-Q Basic	Easiest particle size to erode (Hjulström)?	Sand	Not clay
+Pre-Q Basic	Why does clay need high velocity to erode?	Cohesive particles lie flat and smooth	
+Pre-Q Cloze	Bradshaw model, increase downstream: {{c1::discharge}}, {{c2::width and depth}}, {{c3::velocity}}, {{c4::load quantity}}		4 items
+Pre-Q Cloze	Bradshaw model, decrease downstream: {{c1::gradient}}, {{c2::particle size}}, {{c3::bed roughness}}		3 items
+Pre-Q Basic	Why does velocity rise downstream despite a gentler gradient?	Deeper, smoother channel means less friction	Think hydraulic radius
+Pre-Q Basic	Schumm model: fine suspended load gives?	Narrow and deep meandering channel	
+Pre-Q Basic	Schumm model: coarse bedload gives?	Wide and shallow braided channel	
+Pre-Q Basic	Braided channel?	River split into many channels round gravel bars	
+Pre-Q Basic	Long profile shape?	Concave: steep at source, gentle at mouth	
+Pre-Q Cloze	Upper course: {{c1::steep}} gradient, {{c2::V-shaped}} valley, {{c3::vertical}} erosion		3 blanks
+Pre-Q Cloze	Lower course: {{c1::gentle}} gradient, wide {{c2::floodplain}}, {{c3::deposition}} dominant		3 blanks
+Pre-Q Cloze	V-shaped valley: river erodes {{c1::vertically}}; {{c2::weathering and mass movement}} loosen the sides; material is {{c3::carried away}}		3 steps
+Pre-Q Basic	Interlocking spurs?	Alternating ridges a river winds between in a V-shaped valley	
+Pre-Q Cloze	Waterfall: {{c1::hard rock over soft}}; soft rock {{c2::undercut}}; {{c3::plunge pool}} scoured; {{c4::overhang collapses}}; fall {{c5::retreats upstream}}, leaving a {{c6::gorge}}		6 steps
+Pre-Q Basic	Plunge pool?	Deep pool at the foot of a waterfall	
+Pre-Q Basic	Gorge?	Steep-sided narrow valley left by a retreating waterfall	
+Pre-Q Basic	Rapids?	Steep turbulent stretch over alternating hard and soft rock	
+Pre-Q Basic	Pothole?	Hollow drilled into the bed by swirling pebbles	
+Pre-Q Basic	Meander?	Sweeping river bend: erosion outside, deposition inside	
+Pre-Q Basic	Thalweg?	Line of fastest flow in a river	
+Pre-Q Cloze	Meander: fastest flow on the {{c1::outer bend}} cuts a {{c2::river cliff}}; slow inner flow builds a {{c3::slip-off slope}}		3 blanks
+Pre-Q Basic	Helicoidal flow?	Corkscrew flow moving sediment from outer to inner bank	
+Pre-Q Basic	Meander cross-section shape?	Asymmetric: deep at the river cliff, shallow at the slip-off slope	
+Pre-Q Cloze	Ox-bow lake: outer bends {{c1::erode towards each other}}; the {{c2::neck narrows}}; a {{c3::flood cuts through}}; {{c4::deposition seals}} the old loop	Dried lake = meander scar	4 steps
+Pre-Q Basic	Ox-bow lake?	Crescent lake left when a meander loop is cut off	
+Pre-Q Basic	Floodplain?	Flat valley floor of alluvium deposited in floods	
+Pre-Q Basic	Levée?	Natural raised bank of coarse sediment along a channel	
+Pre-Q Cloze	Levée formation: flood water leaves the channel and {{c1::slows}}; the {{c2::coarsest sediment}} drops {{c3::beside the channel}}; repeated floods {{c4::build it up}}		4 steps
+Pre-Q Basic	Delta?	Sediment deposit where a river enters standing water	
+Pre-Q Cloze	Delta formation: river {{c1::slows}} at the sea; deposits faster than {{c2::tides remove it}}; {{c3::flocculation}} sinks clay; channel splits into {{c4::distributaries}}		4 steps
+Pre-Q Basic	Flocculation?	Clay particles clumping in salt water and sinking	
+Pre-Q Basic	Distributary?	Channel splitting from the main river on a delta	
+Pre-Q Cloze	Delta shapes: {{c1::arcuate}} (Nile), {{c2::bird's-foot}} (Mississippi), {{c3::cuspate}} (Tiber)		3 shapes

@@ -1,59 +1,65 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Business::6 External influences
-Four government economic objectives	Low and stable inflation, high and stable employment, economic growth, a favourable balance of international trade and payments
-Give an example of conflicting government objectives	Stimulating growth can pull in imports and push up inflation
-Definition of fiscal policy	Government use of spending and taxation
-Definition of monetary policy	Influencing monetary conditions, usually through interest rates
-Effect of lower income tax on a business	Consumers have more disposable income, so demand rises
-Effect of higher indirect tax (VAT/GST)	Higher prices, so demand may fall — especially for elastic goods
-Effect of higher interest rates on borrowing	Repayments on variable-rate loans and overdrafts rise, cutting profit
-Effect of higher interest rates on investment	Expansion becomes less attractive and may be postponed
-Effect of higher interest rates on consumer demand	Credit-financed purchases such as cars and houses fall sharply
-Effect of higher interest rates on the exchange rate	Foreign savers deposit money there, so the currency appreciates — exports dearer, imports cheaper
-Three supply-side policies	Privatisation, training and education, promoting competition (less government control, action against monopolies)
-Five stages of the business cycle	Growth, boom, recession, slump, recovery
-Typical business response in a recession	Cut costs, reduce stock, discount, delay investment
-Typical business response in a boom	Raise prices, expand capacity, recruit — while watching for overtrading
-Which sectors are most sensitive to the business cycle?	Luxury goods, construction and travel
-Which sectors are least sensitive?	Basic food, utilities and discount retail
-Definition of inflation	A sustained increase in the average level of prices in an economy
-Four effects of inflation on a business	Higher input costs, lower real customer purchasing power, wage demands, harder planning and pricing
-Who benefits from inflation?	Borrowers — the real value of existing debt falls
-Two effects of unemployment on a business	Lower total demand, but a larger pool of available workers and weaker wage pressure
-What does SPICED stand for?	Strong Pound (any strong currency), Imports Cheap, Exports Dear
-Effect of a weaker currency on exports	Cheaper to foreign buyers, so export volume tends to rise
-Effect of a weaker currency on imported materials	More expensive in domestic currency, so costs rise
-What determines the net effect of a currency fall?	The invoicing currency, demand elasticity, and the share of imported costs
-Four areas of legal control on business	Employment, consumer protection, health and safety, the environment
-Two consumer protection requirements	Goods must be fit for purpose and as described; advertising must be honest
-Cost of non-compliance with health and safety	Accidents, prosecution, compensation and lost output
-Definition of an externality	A cost or benefit falling on third parties rather than the business
-Definition of sustainability	Meeting our needs without compromising the ability of future generations to meet theirs
-Why can sustainability measures cut costs?	Less waste and less energy used — though investment is needed first
-How do pressure groups influence a business?	Boycotts, protests and publicity campaigns
-What determines a pressure group's influence?	Its size, media attention, and how exposed the brand is
-Does an ethical decision always increase profit?	No — judge the specific case and state what it depends on
-Definition of globalisation	The world becoming increasingly interconnected through increased trade and cultural exchange
-Definition of a multinational company	A business with its headquarters in one country and production or operations in another — exporting alone is not enough
-Three benefits of a multinational to a host country	Jobs and training, tax revenue, technology and skills transfer
-Three drawbacks of a multinational to a host country	Mainly low-skilled jobs, profits taken home (little tax), local firms suffer (also resources depleted)
-Definition of a tariff	A tax on imports
-Definition of a quota	A physical limit on the quantity of a good that may be imported
-Who is harmed by a tariff besides foreign producers?	Domestic firms that use imported materials, and consumers paying higher prices
-Three benefits of free trade	Access to larger markets, economies of scale, cheaper inputs and more consumer choice
-Main risk of free trade for domestic firms	Exposure to stronger foreign competitors
-Four options for a firm facing higher imported input costs	Change suppliers, reduce waste, absorb a lower margin, raise prices
-When is raising prices the worst option?	When customers have many substitutes — demand is elastic
-What inflation rate do most governments aim for?	Low and stable — about 1% to 3% a year
-Definition of unemployment	People willing and able to work who cannot find paid employment
-What is a favourable balance of trade?	Exporting more than importing (or reducing a trade deficit)
-Usual definition of a recession	Two quarters in a row of falling GDP
-Effect of higher corporate tax on a business	Lower profit after tax, less to reinvest, expansion harder
-Social cost formula	Private cost + external cost
-Definition of an external benefit	A positive effect of an activity on an unrelated third party — e.g. bees pollinating nearby crops
-Definition of a pressure group	An organisation aiming to change the behaviour of a business that fails to act responsibly, through publicity and protest
-Four tools of protectionism	Tariffs, quotas, subsidies to domestic producers, embargoes
-Definition of an embargo	A ban on trading certain goods or with a certain country
-Home vs host country	Home: where a multinational has its headquarters; host: where it sets up operations
+#tags:business external
+Pre-Q Basic	Inflation?	Sustained rise in the general price level	
+Pre-Q Basic	Unemployment?	People willing and able to work who cannot find a job	
+Pre-Q Basic	Economic growth?	Rise in a country's total output (GDP)	
+Pre-Q Basic	Balance of trade?	Difference between a country's exports and imports	
+Pre-Q Basic	Recession?	Sustained fall in output: two quarters of falling GDP	
+Pre-Q Basic	Business cycle?	Recurring rise and fall of real GDP over time	
+Pre-Q Basic	Fiscal policy?	Government use of spending and taxation	
+Pre-Q Basic	Monetary policy?	Influencing the economy, usually through interest rates	
+Pre-Q Basic	Supply-side policy?	Improving the efficiency of supply	
+Pre-Q Basic	Exchange rate?	Price of one currency in terms of another	
+Pre-Q Basic	Appreciation (currency)?	Rise in a currency's value against others	
+Pre-Q Basic	Depreciation (currency)?	Fall in a currency's value against others	Not asset depreciation
+Pre-Q Basic	Externality?	Cost or benefit falling on third parties	
+Pre-Q Basic	External cost vs external benefit?	Harm vs gain to an unrelated third party	e.g. pollution vs pollination
+Pre-Q Cloze	Social cost = {{c1::private cost}} + {{c2::external cost}}		
+Pre-Q Cloze	Social benefit = {{c1::private benefit}} + {{c2::external benefit}}		
+Pre-Q Basic	Cost-benefit analysis?	Weighing all private and external costs and benefits	
+Pre-Q Basic	External constraint?	A limit on business activity the firm cannot control	
+Pre-Q Basic	Sustainability?	Meeting our needs without harming future generations' ability to meet theirs	
+Pre-Q Basic	Global warming?	Rise in world temperatures from greenhouse gases	
+Pre-Q Basic	Pressure group?	Organisation pushing firms to act responsibly	Publicity, protests, boycotts
+Pre-Q Basic	Globalisation?	World becoming more interconnected through trade and culture	
+Pre-Q Basic	Multinational company (MNC)?	HQ in one country, operations in another	Exporting alone doesn't count
+Pre-Q Basic	Protectionism?	Restricting imports to shield domestic producers	
+Pre-Q Basic	Tariff?	A tax on imports	
+Pre-Q Basic	Quota (trade)?	Physical limit on the quantity imported	
+Pre-Q Basic	Embargo?	Ban on trading certain goods or with a country	
+Pre-Q Basic	Subsidy (trade)?	Government payment to domestic producers	
+Pre-Q Basic	Free trade?	Trade without barriers such as tariffs	
+Pre-Q Cloze	Government economic objectives: {{c1::low stable inflation}}, {{c2::high employment}}, {{c3::economic growth}}, {{c4::favourable balance of payments}}		4 objectives
+Pre-Q Basic	Why can growth conflict with low inflation?	Growth pulls in imports and pushes up prices	
+Pre-Q Cloze	Supply-side policies: {{c1::privatisation}}, {{c2::training and education}}, {{c3::promoting competition}}		3 policies
+Pre-Q Basic	Higher income tax: effect on business?	Lower disposable income cuts sales, especially of luxuries	
+Pre-Q Basic	Higher corporate tax: effect on business?	Less profit left to reinvest	
+Pre-Q Basic	Higher indirect tax (GST): effect on business?	Higher prices; demand falls for elastic goods	
+Pre-Q Basic	Higher interest rates: effect on borrowers?	Loan and overdraft repayments rise	
+Pre-Q Basic	Higher interest rates: effect on consumer demand?	Credit-bought goods sell less	
+Pre-Q Basic	Higher interest rates: effect on the exchange rate?	Currency appreciates	Foreign savers want the currency
+Pre-Q Basic	Higher interest rates: business response?	Avoid borrowing; use retained profit; delay investment	
+Pre-Q Cloze	Interest for a year = {{c1::amount borrowed}} × {{c2::interest rate}}		
+Pre-Q Cloze	Business cycle: {{c1::growth}}, {{c2::boom}}, {{c3::recession}}, {{c4::slump}}, {{c5::recovery}}		5 stages
+Pre-Q Basic	Business cycle diagram axes?	Real GDP (vertical) against time (horizontal)	
+Pre-Q Basic	Recession: business response?	Cut costs and stock; delay investment	
+Pre-Q Basic	Most cycle-sensitive sectors?	Luxuries, construction and travel	
+Pre-Q Cloze	Inflation's effects on business: {{c1::higher costs}}, {{c2::lower real incomes}}, {{c3::wage demands}}, {{c4::harder planning}}		4 effects
+Pre-Q Basic	Rising unemployment: effect on business?	Lower demand, but easier recruitment	
+Pre-Q Cloze	Strong currency: exports {{c1::dearer}}, imports {{c2::cheaper}}		SPICED
+Pre-Q Basic	Weak currency: effect on an exporter that imports its inputs?	Export sales rise but input costs rise	
+Pre-Q Basic	How to convert a home price into foreign currency?	Multiply by the rate (foreign units per home unit)	Converting back is the opposite
+Pre-Q Cloze	Legal controls on business: {{c1::employment}}, {{c2::consumer protection}}, {{c3::health and safety}}, {{c4::environment}}		4 areas
+Pre-Q Cloze	Sustainable business: {{c1::renewable energy}}, {{c2::recycling}}, {{c3::cleaner methods}}, {{c4::sustainable materials}}		4 ways
+Pre-Q Cloze	Ethical issues: {{c1::child labour}}, {{c2::unfair prices to suppliers}}, {{c3::unsafe conditions}}, {{c4::misleading advertising}}		4 issues
+Pre-Q Basic	Why may ethical choices not raise profit?	Higher costs, and customers may not pay more	
+Pre-Q Basic	Globalisation: opportunity vs threat?	Bigger export markets; foreign competitors at home	
+Pre-Q Cloze	Why become multinational: {{c1::lower costs}}, {{c2::nearer markets}}, {{c3::avoid trade barriers}}, {{c4::spread risk}}		4 reasons
+Pre-Q Basic	MNC: benefit vs drawback to the host country?	Jobs and tax; profits sent home	
+Pre-Q Cloze	Why tariffs and quotas: {{c1::protect jobs}}, {{c2::protect infant industries}}, {{c3::tax revenue}}, {{c4::cut trade deficit}}		4 reasons
+Pre-Q Basic	Protectionism: main argument against?	Protects inefficient firms and risks retaliation	
+Pre-Q Basic	Stakeholder conflict?	Stakeholder groups wanting different, clashing outcomes	Owners vs workers vs community
+Pre-Q Basic	Sustainable development (business)?	Growth without harming the future: renewables, recycling, cleaner methods	

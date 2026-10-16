@@ -1,0 +1,43 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::21 Weathering, mass movement and wind
+#tags:geography weathering
+Pre-Q Basic	Denudation?	Combined wearing down and lowering of the land surface	
+Pre-Q Cloze	Denudation stages: {{c1::weathering}}, {{c2::erosion}}, {{c3::transportation}}, {{c4::deposition}}		4 stages, in order
+Pre-Q Basic	Weathering?	Breakdown of rock in place, without movement	Not erosion
+Pre-Q Basic	Erosion?	Wearing away and removal of material by a moving agent	
+Pre-Q Basic	Transportation?	Movement of eroded material by an agent	
+Pre-Q Basic	Deposition?	Laying down of material when the agent loses energy	
+Pre-Q Basic	Role of weathering in erosion?	Supplies loose material for agents to carry	
+Pre-Q Basic	Mass movement?	Downslope movement of soil and rock under gravity	
+Pre-Q Basic	Physical vs chemical weathering	Physical breaks rock into pieces; chemical changes its minerals	
+Pre-Q Basic	Freeze–thaw weathering?	Water freezes in cracks, expands about 9% and prises rock apart	
+Pre-Q Basic	Where is freeze–thaw most effective?	Where temperatures swing around 0 °C with water	
+Pre-Q Basic	Exfoliation?	Outer layers peel off from repeated heating and cooling	Hot deserts
+Pre-Q Basic	Pressure release?	Rock cracks into sheets when overlying rock is removed	
+Pre-Q Basic	Salt crystallisation?	Growing salt crystals force cracks apart	
+Pre-Q Basic	Biological weathering?	Roots widen cracks; animals burrow; plant acids rot rock	
+Pre-Q Cloze	Carbonation: rain + CO₂ → {{c1::carbonic acid}}, which dissolves calcium carbonate in {{c2::limestone}}		Name the acid and the rock
+Pre-Q Cloze	Hydrolysis: acidic water rots {{c1::feldspar}} in {{c2::granite}} to {{c3::clay}}		Mineral, rock, product
+Pre-Q Basic	Oxidation (weathering)?	Oxygen reacts with iron minerals to form crumbly rust	
+Pre-Q Cloze	Weathering rate factors: {{c1::climate}}, {{c2::rock type}}, {{c3::joints}}, {{c4::vegetation}}, {{c5::time}}	Chemical fastest hot and wet	5 factors
+Pre-Q Basic	Scree?	Angular fragments piled at a cliff base by freeze–thaw	
+Pre-Q Basic	Exfoliation dome?	Rounded granite outcrop shaped by sheets peeling off	
+Pre-Q Basic	Granite tor?	Isolated mass of jointed granite blocks on a hilltop	
+Pre-Q Cloze	Tor formation: {{c1::hydrolysis}} rots granite along {{c2::close joints}} underground; erosion {{c3::strips the clay}}; {{c4::solid blocks}} left standing		4 steps
+Pre-Q Basic	Limestone pavement?	Flat limestone surface of blocks split by widened joints	
+Pre-Q Cloze	Limestone pavement: blocks = {{c1::clints}}; widened joints = {{c2::grikes}}		
+Pre-Q Basic	Swallow hole (sink hole)?	Hole where a stream disappears down a widened joint	
+Pre-Q Basic	How do limestone caves form?	Carbonic acid dissolves joints and bedding planes underground	
+Pre-Q Basic	Stalactite vs stalagmite	Stalactite hangs from the roof; stalagmite grows from the floor	C for ceiling, G for ground
+Pre-Q Basic	Resurgence?	Underground stream re-emerging where it meets impermeable rock	
+Pre-Q Basic	Soil creep?	Very slow downhill soil movement by heave	
+Pre-Q Basic	Slump (rotational slip)?	Saturated material sliding on a curved slip plane	Contrast landslide
+Pre-Q Basic	Landslide?	Rapid slide of rock or soil on a flat slip plane	
+Pre-Q Basic	Mudflow?	Saturated fine material flowing downhill like a liquid	
+Pre-Q Cloze	Mass movement causes: {{c1::steep slopes}}, {{c2::heavy rain}}, {{c3::undercutting}}, {{c4::earthquakes}}, {{c5::deforestation}}	Water adds weight and lubricates	5 causes
+Pre-Q Basic	Deflation?	Wind lifting and removing loose fine material	
+Pre-Q Basic	Wind abrasion?	Blown sand wearing rock, mostly within 1 m of the ground	
+Pre-Q Basic	Desert sand dune shape?	Gentle windward slope, steep leeward slip face	
+Pre-Q Basic	Loess?	Thick, fertile deposits of wind-blown silt	

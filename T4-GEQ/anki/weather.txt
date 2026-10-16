@@ -1,0 +1,86 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::26 Weather
+#tags:geography weather
+Pre-Q Basic	Weather?	State of the atmosphere at a place and time	
+Pre-Q Basic	Climate?	Average weather of a place over at least 30 years	
+Pre-Q Cloze	Elements of weather: {{c1::temperature}}, {{c2::precipitation}}, {{c3::humidity}}, {{c4::wind}}, {{c5::sunshine}}, {{c6::cloud cover}}, {{c7::air pressure}}		7 elements
+Pre-Q Basic	Maximum–minimum thermometer?	Records current, highest and lowest temperatures since reset	
+Pre-Q Basic	Wet-and-dry bulb thermometer (hygrometer)?	Thermometer pair whose difference gives relative humidity	
+Pre-Q Basic	Why does the wet bulb read lower?	Evaporation cools it; bigger gap means drier air	
+Pre-Q Basic	Anemometer?	Rotating cups that measure wind speed	
+Pre-Q Basic	Wind vane?	Shows the direction the wind blows from	
+Pre-Q Basic	Stevenson screen?	White louvred box on legs holding instruments in standard conditions	
+Pre-Q Cloze	Stevenson screen: {{c1::white}} to reflect sun; {{c2::louvred}} for airflow; about {{c3::1.2 m}} above {{c4::grass}}; door faces {{c5::away from the Sun}}		5 features
+Pre-Q Cloze	Average sea-level pressure: about {{c1::1013 mb}}		
+Pre-Q Basic	Oktas?	Eighths of the sky covered by cloud	
+Pre-Q Basic	Absolute humidity?	Mass of water vapour per volume of air (g/m³)	
+Pre-Q Basic	Relative humidity?	Vapour present as a % of the maximum air could hold	Contrast absolute humidity
+Pre-Q Basic	Saturation (air)?	Air holding the most vapour possible at its temperature	
+Pre-Q Basic	Dew point?	Temperature at which air becomes saturated	Think saturation
+Pre-Q Basic	Why does cooling raise relative humidity?	Cold air can hold less vapour	
+Pre-Q Basic	Evaporation?	Liquid water turning to vapour, absorbing energy	
+Pre-Q Basic	Condensation?	Vapour turning to liquid when cooled to dew point	
+Pre-Q Basic	Latent heat?	Heat released on condensation, absorbed on evaporation	Powers storms
+Pre-Q Basic	Condensation nuclei?	Dust, smoke or salt particles that vapour condenses on	
+Pre-Q Basic	Adiabatic cooling?	Rising air expanding and cooling without losing heat	Pressure falls with height
+Pre-Q Basic	Lapse rate?	Rate at which temperature falls with height	
+Pre-Q Cloze	Average lapse rate: about {{c1::6.5 °C per 1000 m}}		
+Pre-Q Basic	Stable air?	Lifted air sinks back; flat cloud or clear skies	Contrast unstable air
+Pre-Q Basic	Unstable air?	Lifted air keeps rising; cumulonimbus and storms	
+Pre-Q Basic	Temperature inversion?	Warm air above cool air, trapping pollution	
+Pre-Q Cloze	Cloud and rain: air {{c1::rises}}; {{c2::expands and cools}}; reaches {{c3::dew point}}; condenses on {{c4::nuclei}}; droplets {{c5::merge}} and fall		5 steps
+Pre-Q Cloze	4 ways air is made to rise: {{c1::convection}}, {{c2::relief}}, {{c3::frontal}}, {{c4::convergence}}		4 ways
+Pre-Q Basic	Cirrus?	High wispy ice cloud; signals a warm front	
+Pre-Q Basic	Stratus?	Low flat grey layer; drizzle	
+Pre-Q Basic	Nimbostratus?	Thick dark low layer; steady prolonged rain	
+Pre-Q Basic	Cumulus?	Separate fluffy heaps; fair or light showers	
+Pre-Q Basic	Cumulonimbus?	Towering anvil cloud; heavy rain, thunder and hail	
+Pre-Q Basic	Precipitation?	Any water falling from the atmosphere	
+Pre-Q Basic	Convectional rainfall?	Rain from air rising off strongly heated ground	
+Pre-Q Cloze	Convectional rain: the Sun {{c1::heats the ground}}; air {{c2::rises in thermals}}; {{c3::cumulonimbus}} form; {{c4::afternoon downpours}}	Equatorial regions	4 steps
+Pre-Q Basic	Relief (orographic) rainfall?	Rain from moist air forced up over mountains	
+Pre-Q Cloze	Relief rain: moist wind forced up the {{c1::windward}} slope and rains; air descends the {{c2::leeward}} side, {{c3::warms and dries}}, leaving a {{c4::rain shadow}}		4 blanks
+Pre-Q Basic	Rain shadow?	Drier leeward side of a mountain barrier	
+Pre-Q Basic	Frontal rainfall?	Rain from warm air forced to rise over colder air	
+Pre-Q Basic	Convergence (air)?	Air streams meeting and being forced upwards	
+Pre-Q Basic	How does hail form?	Updrafts in cumulonimbus carry ice up and down, adding layers	
+Pre-Q Basic	Dew?	Water condensed onto cold surfaces on a clear, calm night	
+Pre-Q Basic	Frost?	Ice formed on surfaces when dew point is below 0 °C	Like dew, but colder
+Pre-Q Basic	Fog?	Cloud at ground level from air cooled to dew point	
+Pre-Q Basic	Why are cloudy nights warmer?	Cloud absorbs and returns long-wave radiation	
+Pre-Q Basic	Frost hollow?	Valley where cold air drains at night	
+Pre-Q Basic	Air pressure?	Weight of air pressing on the Earth's surface	
+Pre-Q Basic	Why does warm air give low pressure?	It expands, becomes less dense and rises	Think density
+Pre-Q Basic	Wind?	Air moving from high to low pressure	
+Pre-Q Basic	Prevailing wind?	Most usual wind direction at a place	
+Pre-Q Basic	Pressure gradient?	Pressure change over distance; steeper means stronger wind	
+Pre-Q Basic	Coriolis effect?	Earth's rotation deflecting moving air	
+Pre-Q Cloze	Coriolis deflects air {{c1::left}} in the Southern Hemisphere, {{c2::right}} in the Northern; {{c3::not at all}} at the equator		3 blanks
+Pre-Q Cloze	Southern Hemisphere: winds blow {{c1::clockwise}} and {{c2::inwards}} round a low; {{c3::anticlockwise}} and {{c4::outwards}} from a high		Northern Hemisphere is reversed
+Pre-Q Cloze	Buys Ballot's law (S. Hemisphere): back to the wind, low pressure on your {{c1::right}}		
+Pre-Q Basic	Winds are named by?	The direction they blow from	
+Pre-Q Basic	Sea breeze?	Daytime wind from sea to land	Land heats faster
+Pre-Q Basic	Land breeze?	Night wind from land to sea	
+Pre-Q Basic	Katabatic wind?	Cold air draining down slopes at night	
+Pre-Q Basic	Föhn wind?	Warm dry wind descending the leeward side of mountains	Canterbury nor'wester
+Pre-Q Basic	Monsoon?	Seasonal wind reversal bringing a wet season	
+Pre-Q Basic	Synoptic chart?	Weather map of a large area at one time	
+Pre-Q Basic	Isobar?	Line joining places of equal pressure	
+Pre-Q Basic	Anticyclone (high)?	High-pressure area of sinking air and settled weather	
+Pre-Q Basic	Depression (low)?	Low-pressure area of rising air, cloud and rain	
+Pre-Q Basic	Ridge (weather)?	Elongated area of high pressure; fine weather	
+Pre-Q Basic	Trough (weather)?	Elongated area of low pressure; cloud and showers	
+Pre-Q Cloze	Front symbols: cold = {{c1::blue triangles}}; warm = {{c2::red semicircles}}		
+Pre-Q Basic	Warm front?	Boundary where warm air replaces cold air	
+Pre-Q Basic	Cold front?	Boundary where cold air replaces warm air	
+Pre-Q Basic	Occluded front?	Where a cold front has caught up with a warm front	Purple symbols
+Pre-Q Basic	Warm sector?	Milder air between a depression's warm and cold fronts	
+Pre-Q Basic	Air mass?	Large body of air with uniform temperature and humidity	
+Pre-Q Cloze	Air masses named: {{c1::tropical}} or {{c2::polar}}; {{c3::maritime}} or {{c4::continental}}		Temperature first, then moisture
+Pre-Q Basic	Front (weather)?	Boundary between two air masses	
+Pre-Q Cloze	Warm front passing: cirrus {{c1::thickens}}; pressure {{c2::falls}}; {{c3::long steady rain}}		3 changes
+Pre-Q Cloze	Cold front passing: {{c1::cumulonimbus}}; {{c2::short heavy showers}}; temperature {{c3::drops}}		3 changes
+Pre-Q Basic	Deepening vs filling low	Deepening: central pressure falling. Filling: pressure rising	
+Pre-Q Basic	Ex-tropical cyclone?	Tropical cyclone moved into mid-latitudes; extreme rain and wind	

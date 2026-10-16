@@ -1,45 +1,51 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:English::1 Paper 1 unfamiliar texts
-Paper 1 format	One hour, 25 marks, one commentary on either an unfamiliar prose-fiction extract or an unfamiliar poem
-Usual wording of the Paper 1 focus question	Comment on how, and with what effects, the author presents X
-What is guaranteed to appear in both Paper 1 texts?	At least one biblical or mythical allusion, to be identified and analysed
-The five Paper 1 criteria	Understanding and interpretation, literary conventions, allusions, organisation and development, expression: 5 marks each
-What earns 5/5 for Paper 1 understanding and interpretation?	Detailed textual knowledge and perceptive understanding of the text's implied meanings
-What earns 5/5 on the Paper 1 allusion criterion?	The allusion perceptively identified and analysed in detail, with sensitive appreciation of its effect
-Tiebreaker when choosing between the prose and the poem	The text whose allusion you can actually name and use
-Three margin questions before any analysis	Who speaks? What is the situation? Where does it change?
-What do the examiner comments on every school model commentary praise?	Recognising a shift in tone or attitude
-Five things to mark on the second read	The allusion, the turn, repeated words and sounds, anything anomalous, the first and last lines
-Signals of a tonal shift	A change in sentence length, tense or person, or register; the first question or imperative; concrete becoming abstract
-Where does a Paper 1 thesis usually come from?	The structural turn: what the text finally claims about the focus noun
-A reliable paragraph order for a commentary	Structure, imagery, diction and sound, allusion, then the close
-How the school's model commentaries open	A broad, arguable claim about the subject, narrowed to the text; the thesis last, after Ultimately or Therefore
-What gains nothing at the start of a commentary?	Defining the audience and purpose of the text
-The four moves of the allusion paragraph	Identify and name it, explain the source, map the parallel, analyse the divergence
-Test before claiming an allusion	Two independent signals in the text, not one
-What to do when an allusion is possible but thin	Hedge it in a clause, then analyse the image on its own terms
-Allusion: a garden, a wall, forbidden ground, fruit	Eden and the Fall: innocence lost, knowledge as transgression, exile
-Allusion: a jar not to be opened, troubles flying out	Pandora: curiosity, blame, released suffering, hope left behind
-Allusion: one forbidden door or room	Bluebeard: curiosity punished, violence hidden behind a husband's wealth
-Allusion: wings, wax, flying too high	Icarus and Daedalus: hubris, the cost of ambition, a father's failed protection
-Allusion: a backward glance that loses her	Orpheus and Eurydice: grief, the fatal look back
-Allusion: stolen fire, endless punishment	Prometheus: defiant gift, suffering for knowledge
-Allusion: two brothers, jealousy, a killing	Cain and Abel: the first violence, the mark of the outcast
-Allusion: a kiss, silver, an intimate betrayal	Judas: treachery bought, betrayal from inside
-Allusion: a rock rolled uphill for ever	Sisyphus: futile, repeated labour
-Allusion: fruit or water always out of reach	Tantalus: desire structurally frustrated
-The allusion in the Destructors exemplar	Light appears as the boys work with the seriousness of creators: Genesis, casting the boys as God
-2024 Paper 1 texts and their allusions	<i>eden</i> by Jim Crace (Eden); <i>Ajar</i> by A. E. Stallings (Pandora, named outright)
-2025 Paper 1 texts and their allusions	<i>Crime and Punishment</i> (Christian faith and suffering); Atwood's <i>Ice Palace</i> (Eden, Bluebeard, Beauty and the Beast)
-The shape of an analytical sentence	Name the device, describe its mechanism, state the effect, state the implied meaning
-Score for naming conventions without analysing them	The 1 to 2 band out of 5 on the conventions criterion
-Effect of enjambment	Momentum, hesitation, or a double reading of the last word before the break
-Effect of a caesura	It interrupts the line, or splits it into two opposed halves
-Where the volta falls in a sonnet	At line nine in a Petrarchan sonnet; at the closing couplet in a Shakespearean one
-Effect of half rhyme	It raises the expectation of a chime and denies it: unease or incompleteness
-Plosives and their effect	p, b, t, d, k, g: abrupt, percussive interruption
-Fricatives and their effect	f, v, th: breathy, continuous, sustained sound
-Effect of sibilance	Hush, whisper, menace, or the noise of air, sand or water in motion
-Fastest route to the writer's attitude	Quote three words from one semantic field and name the domain
+#tags:english unfamiliar-texts
+Pre-Q Basic	Free indirect discourse?	Character's thoughts in the narrator's 3rd-person voice, no "he thought"	Not direct thought: the voices blend
+Pre-Q Basic	Focalisation?	Perspective events are perceived through; may differ from the narrator	
+Pre-Q Basic	Unreliable narrator?	Narrator whose account the reader has reason to doubt	
+Pre-Q Basic	Narrative distance?	How close the narration sits to a character's mind	
+Pre-Q Cloze	Third-person {{c1::limited}} narration builds sympathy and suspense; third-person {{c2::omniscient}} builds authority and irony		One mind vs every mind
+Pre-Q Basic	Speech tag (prose)?	Verb/adverb attached to dialogue: the narrator's verdict on each line	
+Pre-Q Basic	Direct vs reported speech?	Character's exact words vs narrator's summary (mutes the character)	
+Pre-Q Basic	Scene vs summary (prose)?	Moment-by-moment vs compressed; moving into scene signals importance	
+Pre-Q Basic	Narrative ellipsis?	Deliberate gap in action or time that the reader must fill	
+Pre-Q Basic	In medias res?	Opening mid-action, withholding orientation	
+Pre-Q Basic	Plot vs story?	Plot = events as the text arranges them; story = order they happened	
+Pre-Q Basic	Theme vs motif?	Theme = argument the text makes; motif = recurring concrete element	One is abstract, one concrete
+Pre-Q Basic	Symbol?	Concrete thing standing for an abstraction; meaning invested by context	
+Pre-Q Basic	Juxtaposition vs antithesis?	Unlike things placed side by side vs balanced grammatical contrast	
+Pre-Q Basic	Implied vs superficial meaning?	Inferred between the lines vs explicitly stated	
+Pre-Q Cloze	Stanza lengths: {{c1::couplet}} 2, {{c2::tercet}} 3, {{c3::quatrain}} 4, {{c4::cinquain}} 5, {{c5::sestet}} 6, {{c6::octave}} 8		C-T-Q-C-S-O
+Pre-Q Cloze	Fixed forms: sonnet {{c1::14}} lines with a volta; villanelle {{c2::19}} lines with two refrains; ballad in {{c3::quatrains}}		
+Pre-Q Basic	Volta?	Turn in a poem's argument; usually where the thesis comes from	
+Pre-Q Cloze	Volta position: Petrarchan sonnet at {{c1::line 9}}; Shakespearean sonnet at {{c2::the closing couplet}}		Octave + sestet vs 3 quatrains + couplet
+Pre-Q Basic	Free verse?	No regular metre or rhyme; line breaks still do the work	
+Pre-Q Cloze	Metrical feet: iamb {{c1::da-DUM}}, trochee {{c2::DUM-da}}, anapaest {{c3::da-da-DUM}}, dactyl {{c4::DUM-da-da}}, spondee {{c5::DUM-DUM}}		Give the stress pattern
+Pre-Q Basic	Iambic pentameter?	Five iambs per line; the metre closest to speech	
+Pre-Q Basic	Enjambment: effect?	Momentum, or a double reading of the line's last word	
+Pre-Q Basic	End-stopping: effect?	Finality or flatness; the sound of a verdict	
+Pre-Q Basic	Caesura?	Pause inside a line; can split it into opposed halves	
+Pre-Q Basic	Refrain: effect?	Same words mean something different on each return	
+Pre-Q Basic	Simile vs metaphor?	Simile admits the comparison (like/as); metaphor asserts identity	
+Pre-Q Basic	Personification?	Human qualities given to a non-living thing (never to a human)	
+Pre-Q Basic	Pathetic fallacy?	Weather or landscape reflecting human emotion	Not the same as personification
+Pre-Q Basic	Metonymy vs synecdoche?	Associated thing (the crown) vs part for the whole (hands)	"Invisible hands" is which?
+Pre-Q Basic	Oxymoron vs paradox?	Contradiction within one phrase vs seemingly contradictory statement that reveals a truth	
+Pre-Q Basic	Synaesthesia?	One sense described in the terms of another	
+Pre-Q Basic	Connotation vs denotation?	Associations beyond the literal vs dictionary meaning	
+Pre-Q Basic	Register (language)?	Level and variety of language chosen (formal vs colloquial etc.)	
+Pre-Q Basic	Semantic field: how to use?	Quote 3 words from one domain and name it: shows the writer's attitude	
+Pre-Q Cloze	Repetition: {{c1::anaphora}} at the start of lines; {{c2::epistrophe}} at the end; {{c3::epizeuxis}} immediately (<i>fool, fool, fool</i>)		A-E-E
+Pre-Q Cloze	{{c1::Asyndeton}} omits conjunctions to speed a list; {{c2::polysyndeton}} piles them up to slow it		
+Pre-Q Basic	Assonance vs consonance?	Repeated vowel sounds vs repeated consonant sounds anywhere in words	
+Pre-Q Cloze	{{c1::Plosives}} (p, b, t, d, k, g) sound abrupt; {{c2::fricatives}} (f, v, th) sound breathy		Name the consonant class
+Pre-Q Basic	Sibilance: effect?	Hush, whisper or menace; moving air or water	
+Pre-Q Basic	Half rhyme: effect?	Expected chime denied: unease, incompleteness	
+Pre-Q Basic	Tone vs mood?	Tone = the voice's attitude; mood = the feeling of the text's world	Often confused: voice vs world
+Pre-Q Cloze	Tonal shift signals: change in {{c1::sentence length}}; change of {{c2::tense or person}}; a word from a new {{c3::register}}; the first {{c4::question or imperative}}		4 signals
+Pre-Q Cloze	Before analysing, ask: {{c1::who speaks}}? {{c2::what is the situation}}? {{c3::where does it change}}?		
+Pre-Q Cloze	Analytical sentence: name the device → {{c1::describe its mechanism}} → "and the effect is to…" → {{c2::the implied meaning}}		The middle step is the one weak answers skip
+Pre-Q Cloze	Commentary paragraph order: {{c1::structure}} → {{c2::imagery}} → {{c3::diction and sound}} → {{c4::allusion}} → the close		S-I-D-A

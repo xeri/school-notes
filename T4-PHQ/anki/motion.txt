@@ -1,40 +1,38 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Physics::2 Motion
-Definition of speed	The rate of change of distance
-Average speed formula	average speed = total distance / total time
-Difference between speed and velocity	Speed is a scalar; velocity is speed in a stated direction (a vector)
-Definition of acceleration	The rate of change of velocity, \(a=(v-u)/t\)
-What is deceleration?	Negative acceleration — the speed decreases
-What does the gradient of a distance–time graph give?	Speed
-What does the gradient of a speed–time graph give?	Acceleration
-What does the area under a speed–time graph give?	Distance travelled
-Distance–time graph: horizontal line means?	At rest
-Distance–time graph: straight slope means?	Constant speed
-Distance–time graph: curve means?	Changing speed
-Speed–time graph: horizontal line means?	Constant speed, zero acceleration
-Speed–time graph: straight slope means?	Constant acceleration
-Speed–time graph: curve means?	Changing acceleration
-Value of free-fall acceleration near Earth	\(g = 9.81\) m/s²
-What is terminal velocity?	The steady speed reached when drag grows equal in magnitude to weight, so the resultant force is zero
-Why does a falling body's acceleration decrease?	Drag increases with speed, so the resultant force (weight − drag) falls
-Shape of the speed–time graph for a body falling in air	A curve of decreasing gradient flattening to a horizontal line
-Why do a coin and a feather fall together in a vacuum?	No drag acts, so both have acceleration g regardless of mass
-What does s stand for in SUVAT?	Displacement (m)
-What does u stand for in SUVAT?	Initial velocity (m/s)
-What does v stand for in SUVAT?	Final velocity (m/s)
-What does a stand for in SUVAT?	Constant acceleration (m/s²)
-SUVAT equation linking v, u, a, t	\(v = u + at\)
-SUVAT equation linking s, u, a, t	\(s = ut + \tfrac12 at^2\)
-SUVAT equation linking s, u, v, t	\(s = \tfrac12(u+v)t\)
-SUVAT equation with no t	\(v^2 = u^2 + 2as\)
-When does SUVAT reduce to s = ut?	When the acceleration is zero
-What condition must hold for SUVAT to apply?	The acceleration must be constant (or zero)
-Graphical meaning of \(s = ut + \tfrac12at^2\)	The area under a velocity–time graph (rectangle + triangle)
-Graphical meaning of a in \(v = u + at\)	The gradient of the velocity–time graph
-Object starts at 2.0 m/s, accelerates 3.0 m/s² for 4.0 s: final velocity?	\(v = 2.0 + 3.0(4.0) = 14\) m/s
-Object starts at 2.0 m/s, accelerates 3.0 m/s² for 4.0 s: distance?	\(s = 2.0(4.0) + \tfrac12(3.0)(16) = 32\) m
-Stone dropped from 45 m: speed on landing?	\(v^2 = 2(9.81)(45) \Rightarrow v = 30\) m/s
-How do you choose which SUVAT equation to use?	Pick the one that omits the quantity you were not given and do not need
-What must you do before using negative velocities?	Choose and state a positive direction, then keep it
+#tags:physics motion
+Pre-Q Basic	Speed?	Distance travelled per unit time (scalar)	
+Pre-Q Basic	Velocity?	Speed in a stated direction (vector)	
+Pre-Q Basic	Acceleration?	Change in velocity per unit time	
+Pre-Q Basic	Deceleration?	Negative acceleration: speed decreasing	
+Pre-Q Basic	Terminal velocity?	Steady speed when drag equals weight	Resultant force?
+Pre-Q Cloze	Speed: \(v = {{c1::\dfrac{s}{t} }}\), unit {{c2::m/s}}		
+Pre-Q Cloze	Average speed = {{c1::total distance travelled}} ÷ {{c2::total time taken}}	Stops count in the total time	
+Pre-Q Cloze	Acceleration: \(a = {{c1::\dfrac{v-u}{t} }}\), unit {{c2::m/s²}}		
+Pre-Q Basic	Constant speed but changing velocity: example?	Moving in a circle at steady speed	
+Pre-Q Cloze	Distance–time graph: gradient = {{c1::speed}}		
+Pre-Q Cloze	Speed–time graph: gradient = {{c1::acceleration}}; area under line = {{c2::distance travelled}}		
+Pre-Q Cloze	Distance–time graph: horizontal = {{c1::at rest}}; straight slope = {{c2::constant speed}}; getting steeper = {{c3::speeding up}}		
+Pre-Q Cloze	Speed–time graph: horizontal = {{c1::constant speed}}; straight slope = {{c2::constant acceleration}}; curve = {{c3::changing acceleration}}; sloping down = {{c4::deceleration}}		4 shapes
+Pre-Q Basic	Speed at an instant on a curved distance–time graph?	Gradient of the tangent at that point	
+Pre-Q Basic	Why use a large triangle for a gradient?	Reduces reading error	
+Pre-Q Basic	Area under a sloping speed–time section?	Triangle: ½ × base × height	Not a rectangle
+Pre-Q Cloze	Free-fall acceleration near Earth: \(g = {{c1::9.81}}\) {{c2::m/s²}}		
+Pre-Q Cloze	Falling in air: at release acceleration = {{c1::g}}; drag {{c2::rises}} with speed; at terminal velocity resultant = {{c3::zero}}		
+Pre-Q Basic	Why does a falling object's acceleration decrease?	Drag rises with speed, so resultant force falls	
+Pre-Q Basic	Speed–time graph for a fall through air?	Curve of falling gradient, flattening to horizontal	
+Pre-Q Basic	Speed–time graph for a fall in a vacuum?	Straight line of gradient g	No drag
+Pre-Q Basic	Forces on a body at terminal velocity?	Weight and drag, equal and opposite	Not "no forces"
+Pre-Q Basic	Skydiver opens parachute: effect?	Drag &gt; weight: decelerates to a lower terminal velocity	Which way is the resultant?
+Pre-Q Basic	Terminal velocity: liquid vs air	Liquid: lower, reached sooner	
+Pre-Q Cloze	SUVAT: s = {{c1::displacement}}; u = {{c2::initial velocity}}; v = {{c3::final velocity}}; a = {{c4::acceleration}}		
+Pre-Q Basic	Condition for using SUVAT equations?	Constant acceleration	
+Pre-Q Cloze	\(v = {{c1::u + at}}\)		No s
+Pre-Q Cloze	\(s = {{c1::ut + \tfrac12 at^2}}\)		No v
+Pre-Q Cloze	\(s = {{c1::\tfrac12 (u+v)t}}\)		No a
+Pre-Q Cloze	\(v^2 = {{c1::u^2 + 2as}}\)		No t
+Pre-Q Cloze	SUVAT with zero acceleration: \(s = {{c1::ut}}\)		
+Pre-Q Basic	How to choose a SUVAT equation?	Pick the one without the quantity not given or needed	
+Pre-Q Basic	When is average speed = (u + v)/2 valid?	Only for constant acceleration	

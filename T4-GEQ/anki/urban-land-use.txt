@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::06 Urban land use and models (HICs)
+#tags:geography urban-land-use
+Pre-Q Basic	Central business district (CBD)?	Commercial and administrative core with the highest land values and accessibility	
+Pre-Q Basic	Bid-rent theory?	Land value falls from the CBD; the highest bidder takes each site	think accessibility
+Pre-Q Basic	Peak land value intersection (PLVI)?	Most accessible, valuable point; usually a CBD core junction	
+Pre-Q Basic	Burgess model?	HIC city as concentric rings of land use round the CBD	
+Pre-Q Basic	Hoyt model?	HIC city as sectors (wedges) along transport routes from the CBD	
+Pre-Q Basic	Harris–Ullman (multiple nuclei) model?	City growing round several separate nuclei	
+Pre-Q Basic	Core–frame model?	CBD as an intensive core of shops and offices inside a lower-use frame	
+Pre-Q Basic	Zone in transition?	Ring round the CBD: old industry, dense housing and derelict land	
+Pre-Q Basic	Inner city?	Older zone just outside the CBD: 19th-century housing and old industry	
+Pre-Q Basic	Brownfield site?	Previously developed land available for reuse	
+Pre-Q Basic	Vertical zoning?	Different uses on different floors (shops below, offices above)	
+Pre-Q Basic	Functional zoning?	Similar activities grouped into separate districts (financial district)	
+Pre-Q Basic	Invasion (urban)?	A new group or land use moves into an area	
+Pre-Q Basic	Succession (urban)?	Original occupants leave and newcomers take over	
+Pre-Q Basic	Filtering (housing)?	Housing passes down the income scale as it ages	
+Pre-Q Basic	Secondary land-value peaks?	Smaller peaks at suburban centres and main junctions	
+Pre-Q Cloze	Urban land uses: {{c1::commercial}}, {{c2::industrial}}, {{c3::residential}}, {{c4::transport}}, open space		4 gaps
+Pre-Q Basic	19th-century vs modern industry location?	Old: by the CBD on rivers, rail, docks. Modern: city edge near motorways	
+Pre-Q Basic	Why is CBD land the most valuable?	Most accessible: most customers and workers	
+Pre-Q Basic	Why do shops and offices win CBD sites?	They gain most from accessibility, so outbid other uses	think bid-rent slope
+Pre-Q Cloze	Bid-rent order outwards: {{c1::commerce}}, {{c2::industry}}, {{c3::housing}}, {{c4::farming}}		4 items
+Pre-Q Basic	Why are CBD buildings tall?	Land is expensive, so build upwards	
+Pre-Q Basic	Bid-rent theory: limitations?	Assumes a flat city with one centre; ignores planning	
+Pre-Q Cloze	Burgess model: {{c1::1925}}, based on {{c2::Chicago}}		
+Pre-Q Cloze	Burgess zones outwards: CBD, {{c1::zone in transition}}, {{c2::low-income housing}}, {{c3::medium-income housing}}, {{c4::high-income commuter zone}}		4 gaps
+Pre-Q Basic	Burgess model: trend moving outwards?	Buildings newer and less dense; residents wealthier	3 trends
+Pre-Q Basic	Burgess model: why is it dynamic?	Zones expand outwards by invasion and succession	
+Pre-Q Basic	Burgess model: limitations?	One 1920s US city; ignores transport routes and relief	
+Pre-Q Cloze	Hoyt model ({{c1::1939}}): land uses in {{c2::sectors}} along transport routes		
+Pre-Q Basic	Hoyt model: low-income housing where?	Beside the industrial sector	
+Pre-Q Basic	Hoyt model: high-income housing where?	Separate sector on attractive land, away from industry	think views, upwind
+Pre-Q Basic	Hoyt model: main strength?	Includes transport routes; explains industrial corridors	
+Pre-Q Cloze	Multiple nuclei model: {{c1::Harris–Ullman}}, {{c2::1945}}		
+Pre-Q Basic	Multiple nuclei model: 2 principles?	Similar uses cluster; unlike uses repel	
+Pre-Q Basic	Multiple nuclei model: main limitation?	Nuclei differ in every city, so it predicts little	
+Pre-Q Cloze	Best fits: Burgess {{c1::old industrial cities on flat land}}; Hoyt {{c2::cities with rail and river corridors}}; multiple nuclei {{c3::car-based sprawling cities}}		3 items
+Pre-Q Basic	Which urban model fits Auckland best?	Multiple nuclei; harbours block concentric rings	
+Pre-Q Cloze	CBD features: highest {{c1::land values}}, {{c2::tallest buildings}}, most {{c3::accessible}}, few {{c4::residents}}		4 items
+Pre-Q Cloze	CBD core: {{c1::shops}}, {{c2::offices}}, banks. CBD frame: {{c3::car parks}}, {{c4::stations}}, warehouses		core vs frame
+Pre-Q Basic	Zone in transition: typical residents?	Low-income households, students and recent migrants	
+Pre-Q Basic	Why is the zone in transition "in transition"?	Land uses change as the CBD expands and areas regenerate	
+Pre-Q Basic	Zone in transition: main opportunity?	Brownfield sites near the CBD for regeneration	
+Pre-Q Basic	Inner vs outer suburb housing?	Inner: older terraces and villas. Outer: post-1945 detached, lower density	think building age
+Pre-Q Basic	Land-use invasion example?	Offices invading inner-city housing as the CBD grows	
+Pre-Q Basic	Filtering: result for the city's housing pattern?	Oldest, cheapest housing near the centre; newest at the edge	Burgess pattern
+Pre-Q Basic	What reverses filtering?	Gentrification (filtering up)	

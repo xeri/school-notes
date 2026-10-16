@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::43 Manufacturing industry: VW Wolfsburg
+#tags:geography manufacturing
+Pre-Q Basic	Manufacturing (secondary industry)?	Turning raw materials or components into finished products	
+Pre-Q Basic	Heavy industry?	Bulky raw materials and energy make large products (steel)	
+Pre-Q Basic	Light industry?	Small components make small, light products (electronics)	
+Pre-Q Basic	Processing industry?	Changes a raw material (dairy factory, sawmill)	
+Pre-Q Basic	Assembly industry?	Puts together components made elsewhere (car plant)	
+Pre-Q Basic	High-technology industry?	Research-intensive products (computers, pharmaceuticals)	
+Pre-Q Basic	Footloose industry?	Not tied to raw materials or power; free to locate widely	think electricity-powered high-tech
+Pre-Q Basic	Agglomeration?	Related firms clustering to share suppliers, labour and ideas	think Silicon Valley
+Pre-Q Basic	Industrial inertia?	Industry stays after its original location reasons have gone	not the same as agglomeration
+Pre-Q Basic	Industrial estate?	Planned factory area with shared roads and services	
+Pre-Q Basic	Science park?	Landscaped site of high-tech research firms, often near a university	
+Pre-Q Basic	Special economic zone?	Tax breaks and fewer rules to attract foreign manufacturers (Shenzhen)	
+Pre-Q Basic	Just-in-time?	Components delivered exactly when needed; little stock held	think stock levels
+Pre-Q Basic	Thermal pollution?	Warm cooling water discharged into rivers	
+Pre-Q Basic	Company town?	Town dependent on one main employer	
+Pre-Q Basic	Weight-losing industry?	Inputs weigh more than the product, so it locates near raw materials	
+Pre-Q Basic	Acid rain: which gases cause it?	Sulphur dioxide and nitrogen oxides	
+Pre-Q Basic	Why did early industry locate on coalfields?	Coal was bulky and costly to move	think transport cost
+Pre-Q Basic	Why is modern industry more footloose?	Electricity, containers and imported materials; markets and labour matter more	
+Pre-Q Basic	Aluminium smelter: key location factor?	Cheap electricity (e.g. hydro)	
+Pre-Q Basic	When does a factory locate near raw materials?	When inputs are bulky, weight-losing or perishable	think weight loss in processing
+Pre-Q Basic	When does a factory locate near its market?	When the product gains weight, or is fragile or perishable	opposite of weight-losing
+Pre-Q Cloze	Factory location factors: {{c1::raw materials}}, {{c2::energy}}, {{c3::transport}}, {{c4::market}}, {{c5::labour}}, land		5 gaps
+Pre-Q Basic	How can government influence factory location?	Grants and tax breaks; special economic zones	
+Pre-Q Cloze	Shanghai suits steelmaking: huge {{c1::demand}}, a {{c2::port}} for imports, flat {{c3::land}}, the {{c4::Yangtze}}		4 items
+Pre-Q Basic	China's steel industry: change in location since 1950?	From north-east coalfields to the east coast	
+Pre-Q Cloze	Manufacturing inputs: {{c1::raw materials}}, {{c2::components}}, {{c3::energy}}, {{c4::labour}}, capital		4 gaps
+Pre-Q Basic	Manufacturing outputs?	Products, waste and profit	
+Pre-Q Basic	Manufacturing feedback?	Profit reinvested; falling demand cuts output and jobs	
+Pre-Q Cloze	VW Wolfsburg: in {{c1::Lower Saxony}}, on the {{c2::Mittelland Canal}}	Between Hanover and Magdeburg	
+Pre-Q Cloze	VW Wolfsburg founded {{c1::1938}} by the {{c2::Nazi government}} to build the {{c3::Beetle}}	"People's car"	
+Pre-Q Cloze	VW Wolfsburg: the {{c1::Golf}} replaced the Beetle in {{c2::1974}}		
+Pre-Q Cloze	VW Wolfsburg: ~{{c1::70 000}} workers; ~{{c2::490 000}} vehicles (2023)	World's largest single car complex	
+Pre-Q Basic	VW Wolfsburg: political location factor?	State chose the site (1938); Lower Saxony holds 20% of votes	think who chose the site
+Pre-Q Basic	VW Wolfsburg: transport location factor?	Canal, rail and autobahns; central in Europe	
+Pre-Q Basic	VW Wolfsburg: land and market factors?	Huge flat site (~6.5 km²); Germany is the EU's biggest car market	
+Pre-Q Basic	VW Wolfsburg: labour factor?	Skilled workforce; Italian guest workers in the 1960s	
+Pre-Q Cloze	VW Wolfsburg production line: {{c1::press shop}}, {{c2::body shop}}, {{c3::paint shop}}, {{c4::assembly}}, testing	Robots weld in the body shop	4 stages
+Pre-Q Cloze	VW Wolfsburg {{c1::Autostadt}} (2000): delivery centre where buyers collect cars from glass {{c2::car towers}}		
+Pre-Q Cloze	VW Dec 2024 deal: over {{c1::35 000}} German jobs cut by 2030; Wolfsburg lines cut {{c2::four to two}}	No forced redundancies	
+Pre-Q Cloze	VW Golf production moves from Wolfsburg to {{c1::Puebla, Mexico}} from {{c2::2027}}		
+Pre-Q Basic	Why is VW restructuring in Germany?	Chinese electric-car competition; high German labour and energy costs	
+Pre-Q Cloze	VW Dieselgate ({{c1::2015}}): ~{{c2::11 million}} diesel cars cheated emissions tests		
+Pre-Q Basic	VW Wolfsburg: change to on-site power?	Coal to natural gas; CO₂ cut ~60%	
+Pre-Q Basic	VW Wolfsburg: positive impacts?	Well-paid jobs; multiplier effect; exports	
+Pre-Q Basic	VW Wolfsburg: negative impacts?	Company-town dependence; emissions; traffic	
+Pre-Q Cloze	Agglomeration benefits: shared {{c1::suppliers}}, a skilled {{c2::labour pool}}, shared {{c3::infrastructure}}, exchange of {{c4::ideas}}		4 items
+Pre-Q Basic	Agglomeration: drawbacks?	Congestion and dear land; vulnerable if the industry declines	
+Pre-Q Basic	NZ Steel, Glenbrook: raw material?	Ironsand piped from Waikato North Head	
+Pre-Q Basic	Manufacturing: local environmental impacts?	Air, water and noise pollution; waste	
+Pre-Q Basic	Manufacturing: global environmental impacts?	Greenhouse gases; resource depletion	
+Pre-Q Cloze	Reducing industrial pollution: emission {{c1::laws}}, chimney {{c2::scrubbers}}, treated {{c3::waste water}}, switch to {{c4::renewables}}		4 items
+Pre-Q Basic	Manufacturing sustainability trade-off?	Jobs and wealth vs pollution; greener costs more	

@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::44 Tourism: Vietnam
+#tags:geography tourism
+Pre-Q Basic	Tourism?	Travel away from home for leisure or business, staying at least one night	
+Pre-Q Basic	Domestic vs international tourism?	Domestic: within your own country. International: to another country	
+Pre-Q Basic	Mass tourism?	Large numbers on package holidays to resorts	
+Pre-Q Basic	Ecotourism?	Small-scale, nature-based, low-impact tourism benefiting locals and conservation	
+Pre-Q Basic	Cultural (heritage) tourism?	Visiting historic sites, festivals and ways of life	
+Pre-Q Basic	Adventure tourism?	Active, risky activities (bungy, trekking)	
+Pre-Q Basic	Butler model?	Tourist area life cycle: growth, stagnation, then decline or rejuvenation	
+Pre-Q Basic	Carrying capacity (tourism)?	Maximum visitors before environment or experience is damaged	think limits
+Pre-Q Basic	Leakage (tourism)?	Tourist spending lost to foreign-owned airlines and hotels	think foreign ownership
+Pre-Q Basic	Sustainable tourism?	Meets visitor and host needs while protecting environment and culture	
+Pre-Q Basic	Community-based tourism?	Tourism owned and run by locals, keeping income local	
+Pre-Q Cloze	Why tourism grew: rising {{c1::incomes}}, more {{c2::leisure time}}, {{c3::cheap flights}}, {{c4::online booking}}		4 items
+Pre-Q Basic	Natural tourist attractions?	Climate, scenery and wildlife	
+Pre-Q Basic	Cultural tourist attractions?	History, festivals and food	
+Pre-Q Cloze	Tourism infrastructure: {{c1::airports}}, {{c2::accommodation}}, {{c3::water and power}}, {{c4::waste disposal}}		4 items
+Pre-Q Cloze	Butler stages: {{c1::exploration}}, {{c2::involvement}}, {{c3::development}}, {{c4::consolidation}}, {{c5::stagnation}}, then decline or rejuvenation	1980	5 stages
+Pre-Q Basic	Butler model: exploration stage?	A few adventurous visitors; no facilities	stage 1
+Pre-Q Basic	Butler model: involvement stage?	Locals start providing accommodation and services	stage 2
+Pre-Q Basic	Butler model: development stage?	Rapid growth; outside firms build hotels	stage 3
+Pre-Q Basic	Butler model: consolidation stage?	Growth slows; tourism dominates the economy	stage 4
+Pre-Q Basic	Butler model: stagnation stage?	Carrying capacity reached; the image fades	stage 5
+Pre-Q Basic	Butler model: rejuvenation?	New attractions and investment revive numbers	
+Pre-Q Basic	Butler model: limitations?	Places move at different speeds; ignores shocks (pandemics)	
+Pre-Q Cloze	Tourism economic benefits: {{c1::jobs}}, {{c2::foreign currency}}, {{c3::tax revenue}}, {{c4::multiplier effect}}		4 items
+Pre-Q Basic	Tourism: economic problems?	Seasonal low pay; leakage; rising prices	
+Pre-Q Basic	Tourism: social problems?	Commercialised culture; crowding; locals priced out of housing	
+Pre-Q Cloze	Tourism environmental problems: {{c1::footpath erosion}}, {{c2::litter}}, {{c3::wildlife disturbance}}, flight {{c4::emissions}}		4 items
+Pre-Q Cloze	Sustainable tourism strategies: visitor {{c1::caps}}, {{c2::entry fees}}, {{c3::boardwalks}}, {{c4::zoning}}		4 items
+Pre-Q Basic	How do tourism entry fees help sustainability?	Visitors pay for conservation	
+Pre-Q Basic	Why employ and train local people in tourism?	Less leakage: more benefit stays local	
+Pre-Q Cloze	Vietnam international arrivals: ~{{c1::18 million}} (2019); ~{{c2::21 million}} (2025, record)		
+Pre-Q Cloze	Vietnam tourism 2025: ~{{c1::US$38 billion}} revenue, ~{{c2::8–9%}} of GDP		
+Pre-Q Cloze	Vietnam's top tourist markets: {{c1::China}} and {{c2::South Korea}}	Asia supplies ~4/5	
+Pre-Q Cloze	Vietnam: {{c1::Đổi Mới}} reforms from {{c2::1986}} opened the country		
+Pre-Q Cloze	Vietnam tourism grew with {{c1::low cost}}, {{c2::90-day e-visas}} (2023), {{c3::budget airlines}}, nearby {{c4::Asian markets}}		4 items
+Pre-Q Cloze	Vietnam's Hạ Long Bay: ~{{c1::1600}} limestone islands; UNESCO {{c2::1994}}		
+Pre-Q Basic	Vietnam's Hạ Long Bay: problems?	Boat and hotel waste; plastic; coral and mangrove damage	
+Pre-Q Basic	Vietnam's Hạ Long Bay: management?	Boat and route limits; single-use plastic ban (2019)	
+Pre-Q Basic	Vietnam's Hội An: management?	Ticketing funds restoration; pedestrian-only streets	
+Pre-Q Basic	Vietnam's Sa Pa: social impacts?	Minority income; commercialised culture; children sell instead of studying	
+Pre-Q Basic	Vietnam's Sa Pa: management?	Community-based homestays; local guide training	
+Pre-Q Basic	Vietnam's Fansipan cable car (2016): effect?	Cut a two-day trek to about 20 minutes	
+Pre-Q Basic	Vietnam's Sơn Đoòng?	World's largest cave passage: capped, costly ecotourism	
+Pre-Q Basic	Vietnam tourism: negative economic impacts?	Leakage; seasonal low pay; reliance on China and Korea	
+Pre-Q Basic	Vietnam: why is tourism management struggling?	Visitors grow faster than management; industry also pollutes Hạ Long	
+Pre-Q Basic	Queenstown (tourism): main problems?	Unaffordable worker housing; congestion; collapse during COVID-19	
+Pre-Q Basic	Why do countries keep investing in tourism?	Foreign exchange; low-skill jobs; income for remote regions	

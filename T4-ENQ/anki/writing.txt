@@ -1,46 +1,49 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:English::4 Writing and argument
-Which papers are sat in Term 4?	Papers 1, 3 and 4, one hour and 25 marks each; Paper 2 is sat in Term 2
-Weight of each paper in the final Pre-Q English grade	25% each: Paper 2 from Term 2, Papers 1, 3 and 4 from Term 4
-Word target for a one-hour essay	About 650 words. The literature schedule caps essays under 500 words at 12/25
-Marks decided by how you write on Papers 3 and 4	Response to the question, organisation and development, expression: 15 of the 25
-The three parts of every question	The command word, the focus noun, and the stated limits
-What must you do with an and/or question?	Choose deliberately, and say in the thesis which you have chosen
-How to treat a quoted critical comment	Agree, disagree, or agree with qualifications; qualifying scores best
-What does examine the ways demand?	The methods and the effect of each; ways is plural, so at least three
-What does to what extent or how far do you agree demand?	A judgement of degree: largely, because of X, but not in respect of Y
-What is a thesis?	A statement of informed opinion that answers the question and could be argued with
-Where does the thesis go, and how does it open?	The last sentence of the introduction, opened with Ultimately, Thus or Therefore
-Three steps to building a thesis	Write the focus noun, ask what the text finally claims about it, phrase it with an intention verb
-Topic or theme in a thesis?	Theme. A topic is one word, such as race; a theme says what the text claims about race
-The four moves of an introduction	Hook, transition, rationale, thesis
-The hook, in the school's definition	An opening statement introducing a broad, universally applicable idea about a facet of human experience
-What must the transition contain?	The title and the writer, playwright or director, named accurately, narrowing the hook to the text
-What does the rationale avoid?	Listing devices you will analyse, and firstly or secondly
-Extra move in a passage-based introduction	One or two sentences placing the extract in the plot, without retelling it
-The five moves of a body paragraph	Point, evidence, analysis, explanation, link
-The school's P.E.E. ratio	Point and evidence carry 25% of the weight; exploration carries 75%
-Analysis and explanation: the difference	Analysis shows how conventions imply meaning beyond the surface; explanation shows how that proves the point, at theme level
-What the link sentence does	Shows how the paragraph answers the question and develops the thesis, reusing the question's words
-Features and quotations per paragraph	At least two language features from different categories; three to five short quotations
-The colon trick	After a vague abstract word, add a colon and say exactly what you mean
-Three levels every paragraph must pass through	Language, then literary or filmic element such as character or structure, then theme
-The how? failure	Wiring a device straight to a theme without passing through character or structure
-The so what? failure	Stopping the analysis at the character and never reaching the theme
-SICK quotations	Selective, Integrated, Contextualised, with Knowledge of purpose
-Three ways to integrate a quotation	A dialogue tag and comma, a colon after a full clause, or flowing it into your own syntax
-How long should a quotation be?	Four or five words: keep only what would make it meaningless if removed
-The two moves of a conclusion	Summation, then contemporary connect
-Contemporary connect	How the text, and the broad idea it yields, matters to the reader in a moral or philosophical way
-Three rules for conclusions	No new evidence, no sentence repeated verbatim, and write it even if a paragraph is unfinished
-Whose context should you use?	Context contemporary to the writer; anachronistic links to current events are a named fault
-Which tense for the text, and which for history?	Present tense for the text, past tense for historical events
-What to write instead of this quote shows	Name the device and its mechanism, or use a precise verb: conveys, connotes, exposes, intimates
-What is a comma splice?	Two independent clauses joined by only a comma, the commonest expression error
-Register faults to proofread for	Contractions, colloquial you, slang, and abbreviations such as etc. and e.g.
-Who makes a play, a film and a novel?	A playwright, a director and a novelist; a play or film is never a book
-The minutes of a one-hour essay	0–5 choose and annotate; 5–12 plan; 12–52 write; 52–57 conclude; 57–60 proofread
-How many body paragraphs?	Four as the target, three as the minimum
-Why can excellent expression still fail?	Expression cannot reach 5/5 if the material is not relevant to the question
+#tags:english writing
+Pre-Q Basic	Thesis?	One arguable sentence stating an informed position on the question	
+Pre-Q Basic	Topic vs theme?	Topic = one word (race); theme = what the text claims about it	
+Pre-Q Basic	Point sentence?	Paragraph's opening claim: supports the thesis with a reason	
+Pre-Q Basic	Rationale (introduction)?	Brief preview of the sequence of points to come	
+Pre-Q Basic	Hook?	Opening broad, universal idea about human experience	Narrowed to the text in the next sentence
+Pre-Q Basic	Summation?	Thesis restated in the conclusion, now as demonstrated	
+Pre-Q Basic	Contemporary connect?	The text's moral or philosophical relevance to the reader	
+Pre-Q Cloze	SICK quotation: {{c1::Selective}}, {{c2::Integrated}}, {{c3::Contextualised}}, {{c4::Knowledge of purpose}}		S-I-C-K
+Pre-Q Basic	Discourse marker?	Word signalling the logical link between sentences or paragraphs	
+Pre-Q Basic	Concession?	Acknowledging a valid opposing point before answering it	
+Pre-Q Basic	Qualification (argument)?	Narrowing a claim to the conditions where it holds	
+Pre-Q Basic	Author-intention verb?	Verb giving the writer a purpose (exposes / undercuts / satirises)	
+Pre-Q Basic	Integration (quotation)?	Placing the quotation inside your own sentence	
+Pre-Q Basic	Paraphrase vs analysis?	Paraphrase restates; analysis explains why the words were chosen	
+Pre-Q Basic	Comma splice?	Two independent clauses joined by only a comma	
+Pre-Q Basic	Assertion adverb: when a fault?	When "clearly" or "obviously" replaces the argument	
+Pre-Q Basic	Analysis (paragraph move)?	Shows how conventions imply meaning beyond the surface	
+Pre-Q Basic	Explanation (paragraph move)?	How the evidence proves the point, at theme level	
+Pre-Q Cloze	Unpack the question: {{c1::command word}}, {{c2::focus noun}}, {{c3::limits}}		3 parts
+Pre-Q Basic	Question contains "and/or"?	Choose, and say which in the thesis	
+Pre-Q Basic	Question quotes a critic: best response?	Agree with qualification	Better than agreeing or disagreeing outright
+Pre-Q Basic	"Discuss" demands?	A reasoned case acknowledging more than one side, then a position	
+Pre-Q Basic	"Explore" demands?	Follow an idea through the text, including its complications	
+Pre-Q Basic	"Examine the ways" demands?	At least three distinct methods, each with its effect	"Ways" is plural
+Pre-Q Basic	"To what extent" demands?	A judgement of degree; the concession earns the mark	
+Pre-Q Basic	"Comment on how, and with what effects" demands?	The method AND its effect on the reader	
+Pre-Q Cloze	Introduction: {{c1::hook}} → {{c2::transition}} → {{c3::rationale}} → {{c4::thesis}}		H-T-R-T
+Pre-Q Basic	Where does the thesis go?	Last sentence of the introduction, opened by "Ultimately" or "Thus"	
+Pre-Q Basic	Passage-based introduction: extra move?	1–2 sentences placing the extract, without retelling the plot	
+Pre-Q Cloze	Body paragraph: {{c1::point}}, {{c2::evidence}}, {{c3::analysis}}, {{c4::explanation}}, {{c5::link}}		P-E-A-E-L
+Pre-Q Cloze	P.E.E. weighting: point + evidence {{c1::25%}}, exploration {{c2::75%}}		
+Pre-Q Cloze	Paragraph levels: {{c1::language}} → {{c2::literary/filmic element}} → {{c3::theme}}		Middle = character, structure or setting
+Pre-Q Basic	"How?" failure?	Device linked straight to theme, skipping character/structure	
+Pre-Q Basic	"So what?" failure?	Analysis stops at character and never reaches theme	
+Pre-Q Basic	Colon trick (point sentence)?	After a vague word, add a colon and say exactly what you mean	
+Pre-Q Cloze	Three ways to integrate a quotation: {{c1::dialogue tag}}, {{c2::colon}}, {{c3::flow on}}		
+Pre-Q Basic	Ellipsis vs square brackets in a quotation?	Ellipsis = words cut; brackets = words altered	
+Pre-Q Cloze	Conclusion: {{c1::summation}}, then {{c2::contemporary connect}}; never {{c3::new evidence}}		
+Pre-Q Basic	Historical context should be contemporary to?	The writer (a Jacobean audience for a Jacobean play)	Not today's news
+Pre-Q Basic	Tense for the text vs for history?	Present for the text; past for history	
+Pre-Q Cloze	Proofread for: {{c1::comma splices}}, {{c2::contractions}}, {{c3::tense slippage}}, {{c4::misspelt names or titles}}		4 killers
+Pre-Q Basic	Replace "this quote shows" with?	Name the device and describe its mechanism	
+Pre-Q Basic	Target essay length for one hour?	About 650 words; four body paragraphs	
+Pre-Q Basic	Running out of time mid-paragraph?	Stop and write the conclusion	

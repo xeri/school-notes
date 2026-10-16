@@ -1,71 +1,70 @@
 #separator:tab
 #html:true
-#notetype:Basic
-#deck:Economics::3 Elasticity, market failure and market structures
-Definition of price elasticity of demand	The responsiveness of quantity demanded to a change in price
-PED formula	% change in quantity demanded ÷ % change in price
-Formula for a percentage change	(new − original) ÷ original × 100
-PED value showing elastic demand	Greater than 1 (ignoring the minus sign)
-PED value showing inelastic demand	Less than 1 (ignoring the minus sign)
-Meaning of unitary elasticity of demand	PED = 1: price and quantity change by the same percentage, so total spending stays the same
-Meaning of perfectly inelastic demand	PED = 0: quantity does not change at all; a vertical demand curve
-Meaning of perfectly elastic demand	PED is infinite: any price rise makes quantity demanded fall to zero; a horizontal demand curve
-PED when price falls from $5 to $4 and quantity demanded rises from 100 to 110	10% ÷ 20% = 0.5, so inelastic
-PED when price falls from $40 to $30 and quantity demanded rises from 1000 to 1500	50% ÷ 25% = 2, so elastic
-How should a firm with elastic demand change its price to raise revenue?	Lower it — quantity rises by a bigger percentage than price falls
-How should a firm with inelastic demand change its price to raise revenue?	Raise it — quantity falls by a smaller percentage than price rises
-Effect of a price rise on total revenue when demand is elastic	Revenue falls
-Is a rise in revenue the same as a rise in profit?	No — profit also depends on costs
-Seven determinants of PED	Substitutes, necessity, addiction, proportion of income spent, cost of switching, brand loyalty, time
-Effect of addiction on PED	Demand is inelastic, as with cigarettes
-Why is demand for matches price inelastic?	They take a tiny proportion of income, so a price rise is barely felt
-Effect of high switching costs on PED	Demand is less elastic
-Effect of time on PED	Demand becomes more elastic the longer consumers have to find alternatives
-Definition of price elasticity of supply	The responsiveness of quantity supplied to a change in price
-PES formula	% change in quantity supplied ÷ % change in price
-PES when price rises from 100 to 200 cents and quantity supplied rises from 10 000 to 12 000	20% ÷ 100% = 0.2, so inelastic
-PES when price rises 10% and quantity supplied rises 20%	2, so elastic
-Difference between inelastic and perfectly inelastic supply	Inelastic: quantity supplied changes by a smaller % than price (PES below 1); perfectly inelastic: no change at all (PES = 0, vertical curve)
-Effect of time on PES	Supply is fixed at a moment, inelastic in the short run and elastic in the long run
-Effect of unused resources on PES	Plenty of spare resources make supply elastic; near full employment it is inelastic
-Effect of low barriers to entry on PES	Supply is more elastic, as new firms can enter easily
-Four further factors that make supply more elastic	A shorter production period, easier storage, new sources of raw materials, mobile factors of production
-When does an indirect tax raise the most revenue?	When demand is price inelastic
-When does an indirect tax cut consumption the most?	When demand is price elastic
-Effect of an increase in demand when supply is inelastic	Price rises a lot and quantity only a little
-Definition of market failure	When supply and demand fail to allocate resources in the way best for society, causing a loss of welfare
-Difference between complete and partial market failure	Complete: the market supplies nothing at all; partial: it supplies the wrong quantity or at the wrong price
-Six causes of market failure	Public goods, information failure, imperfect market structures, factor immobility, externalities, inequity
-Four sources of information failure	Lack of knowledge, misvaluing the future, believing "it won't happen to me", misleading advertising
-How factor immobility causes market failure	Workers cannot move to where jobs are or lack the skills, causing unemployment and lost efficiency
-Definition of the free-rider problem	People benefit from a public good without paying, so no firm can charge for it and the market provides none
-Definition of an externality	A cost or benefit that falls on a third party outside the transaction
-Definition of an external cost	A harmful side-effect on third parties that the decision-maker does not pay for
-Definition of an external benefit	A positive side-effect enjoyed by third parties
-Formula for social cost	Private cost + external cost
-Formula for social benefit	Private benefit + external benefit
-Example of a negative externality of production	Air pollution from factories (or aircraft noise, fertiliser run-off)
-Example of a negative externality of consumption	Traffic congestion and fumes from car use (or second-hand smoke)
-Example of a positive externality of consumption	Vaccination protects other people (or education creates a better-informed society)
-Why do negative externalities lead to over-production?	Decisions are based on private costs only, so social cost exceeds private cost
-Effect of an indirect tax on the cigarette market diagram	Supply shifts left; price rises and quantity falls
-Two weaknesses of taxing cigarettes	Demand is inelastic, so consumption falls little; the tax is regressive
-Effect of a minimum purchase age on the cigarette market diagram	Demand shifts left; quantity falls
-Three weaknesses of rules and regulations	Black markets develop, people break the rules, enforcement is expensive and slow
-Three weaknesses of education and advertising campaigns	Opportunity cost, they may be ignored, ingrained habits change slowly
-Effect of a subsidy for public transport on the market diagram	Supply shifts right; price falls and quantity rises
-Two weaknesses of subsidies	Opportunity cost of government spending, and firms may become less efficient
-Two problems with free government provision	Free riders benefit without paying tax, and excess demand creates shortages
-Price competition versus non-price competition	Competing on price, against competing on location, convenience, quality, features, after-sales care and advertising
-Four features of perfect competition	Many small firms, identical products, no barriers to entry, firms are price takers
-Features of monopolistic competition	Many smaller firms selling close substitutes, weak barriers to entry, competing on location, service and goodwill as well as price
-Definition of an oligopoly	A market with a few large firms selling close substitutes, with strong barriers to entry
-Definition of a duopoly	An oligopoly with only two firms
-Definition of a monopoly	One seller of a product with no direct substitutes
-Definition of a monopsony	A market with many sellers but only one buyer
-Definition of barriers to entry	Factors that prevent or impede new firms from entering a market
-Four natural barriers to entry	Economies of scale, capital size, history and brand loyalty, legal requirements
-Four artificial barriers to entry	Restricting supplies, predatory pricing, exclusive dealing, full-line forcing
-Definition of X-inefficiency	Wasteful use and management of resources by a firm with no competition
-Three ways a monopoly may benefit consumers	Economies of scale can lower prices, it avoids wasteful duplication, its profits fund innovation
-Three ways a monopoly may harm consumers	It restricts supply to raise prices, offers less choice, and innovates less so quality suffers
+#notetype column:1
+#deck:Economics::5 Elasticity, market failure and market structures
+#tags:economics elasticity-failure
+Pre-Q Basic	Price elasticity of demand (PED)?	Responsiveness of quantity demanded to a change in price	
+Pre-Q Cloze	PED = {{c1::% change in quantity demanded}} ÷ {{c2::% change in price}}		Commonest slip: upside down
+Pre-Q Cloze	% change = ({{c1::new − original}}) ÷ {{c2::original}} × 100		Divide by which value?
+Pre-Q Basic	Elastic demand?	PED > 1: Qd changes by a bigger % than price	
+Pre-Q Basic	Inelastic demand?	PED < 1: Qd changes by a smaller % than price	
+Pre-Q Basic	Unitary elasticity?	PED = 1: same % change; spending unchanged	
+Pre-Q Basic	Perfectly inelastic vs perfectly elastic demand	PED = 0 (vertical) vs PED = ∞ (horizontal)	
+Pre-Q Basic	How to calculate PED from two prices and quantities?	Find each % change from the original; divide Qd change by price change	Ignore the minus sign
+Pre-Q Cloze	Total revenue = {{c1::price}} × {{c2::quantity sold}}		
+Pre-Q Basic	Elastic demand: price rise effect on revenue?	Revenue falls	
+Pre-Q Basic	Inelastic demand: price rise effect on revenue?	Revenue rises	
+Pre-Q Basic	How to show PED and revenue on a diagram?	Same price change on steep and flat curves; compare revenue areas	
+Pre-Q Cloze	Determinants of PED: {{c1::substitutes}}, {{c2::necessity}}, {{c3::addiction or habit}}, {{c4::share of income}}, {{c5::switching cost}}, {{c6::brand loyalty}}, {{c7::time}}		7 items
+Pre-Q Basic	Price elasticity of supply (PES)?	Responsiveness of quantity supplied to a change in price	
+Pre-Q Cloze	PES = {{c1::% change in quantity supplied}} ÷ {{c2::% change in price}}		
+Pre-Q Basic	Inelastic vs perfectly inelastic supply	PES < 1: smaller change. PES = 0: no change	
+Pre-Q Cloze	Straight supply line from the {{c1::price}} axis is elastic; from the {{c2::quantity}} axis inelastic; through the {{c3::origin}} PES = 1		Slope doesn't matter
+Pre-Q Cloze	Determinants of PES: {{c1::time}}, {{c2::spare capacity}}, {{c3::stocks}}, {{c4::production period}}, {{c5::factor mobility}}, {{c6::barriers to entry}}		6 items
+Pre-Q Basic	Indirect tax raises most revenue when demand is?	Inelastic	
+Pre-Q Basic	Indirect tax cuts consumption most when demand is?	Elastic	
+Pre-Q Cloze	Income elasticity of demand (YED) = {{c1::% change in quantity demanded}} ÷ {{c2::% change in income}}	Negative = inferior; above 1 = luxury	Sign matters
+Pre-Q Basic	Market failure?	Market misallocates resources, causing a loss of welfare	
+Pre-Q Basic	Complete vs partial market failure	Complete: nothing supplied. Partial: wrong quantity or price	
+Pre-Q Cloze	Causes of market failure: {{c1::public goods}}, {{c2::information failure}}, {{c3::imperfect market structures}}, {{c4::factor immobility}}, {{c5::externalities}}, {{c6::inequity}}		6 items
+Pre-Q Basic	Information failure?	Consumers misjudge the costs or benefits of a good	
+Pre-Q Basic	Free-rider problem?	Non-payers still benefit, so the market provides none	
+Pre-Q Basic	Externality?	Cost or benefit falling on a third party	
+Pre-Q Basic	External cost?	Harm to third parties the decision maker doesn't pay	
+Pre-Q Cloze	Social cost = {{c1::private cost}} + {{c2::external cost}}		
+Pre-Q Cloze	Social benefit = {{c1::private benefit}} + {{c2::external benefit}}		
+Pre-Q Basic	Why do external costs cause over-production?	Only private costs counted; social cost is higher	
+Pre-Q Basic	Indirect tax?	Tax on spending, collected from the producer	
+Pre-Q Basic	Specific vs ad valorem tax	Specific: fixed amount per unit. Ad valorem: % of price	
+Pre-Q Basic	Indirect tax: diagram effect?	Supply shifts left (up); price rises, quantity falls	Producer's cost
+Pre-Q Basic	Tax incidence?	Who actually bears the tax	
+Pre-Q Basic	Inelastic demand: who bears most of a tax?	Consumers	
+Pre-Q Cloze	Per-unit tax: consumers' share = {{c1::new price − old price}}; tax revenue = tax per unit × {{c2::new quantity}}		Not Q1
+Pre-Q Basic	Subsidy?	Government payment to producers that lowers their costs	
+Pre-Q Basic	Subsidy: diagram effect?	Supply shifts right (down); price falls, quantity rises	
+Pre-Q Cloze	Cost of a subsidy to government = {{c1::subsidy per unit}} × {{c2::new quantity}}		
+Pre-Q Basic	Maximum price (price ceiling)?	Legal upper limit set below equilibrium	
+Pre-Q Basic	Maximum price result?	Shortage: queues and black markets	
+Pre-Q Basic	Minimum price (price floor)?	Legal lower limit set above equilibrium	
+Pre-Q Basic	Minimum price result?	Surplus; in a labour market, unemployment	
+Pre-Q Basic	Regulation such as a minimum buying age: diagram?	Demand shifts left	Changes who can buy
+Pre-Q Basic	Tradable permits?	Pollution cap; firms buy and sell allowances	
+Pre-Q Basic	Tax on a demerit good: 2 weaknesses	Inelastic demand means little effect; regressive	
+Pre-Q Basic	Privatisation?	Transfer of a firm from public to private sector	
+Pre-Q Basic	Nationalisation?	State takes ownership of a private firm	
+Pre-Q Basic	Price vs non-price competition	Competing on price vs on quality, location or service	
+Pre-Q Cloze	Perfect competition: {{c1::many small firms}}, {{c2::identical products}}, {{c3::no barriers to entry}}, {{c4::price takers}}		4 features
+Pre-Q Basic	Monopolistic competition?	Many smaller firms selling differentiated products	
+Pre-Q Basic	Oligopoly?	A few large firms with strong barriers to entry	
+Pre-Q Basic	Monopoly?	One seller of a product with no close substitute	
+Pre-Q Basic	Monopsony?	A market with only one buyer	
+Pre-Q Basic	Barriers to entry?	Factors that stop or impede new firms entering	
+Pre-Q Cloze	Natural barriers to entry: {{c1::economies of scale}}, {{c2::capital size}}, {{c3::history and brand loyalty}}, {{c4::legal requirements}}		4 items
+Pre-Q Cloze	Artificial barriers to entry: {{c1::restricting supplies}}, {{c2::predatory pricing}}, {{c3::exclusive dealing}}, {{c4::full-line forcing}}		4 items
+Pre-Q Cloze	Monopoly benefits: {{c1::economies of scale}}, {{c2::no wasteful duplication}}, {{c3::profits fund innovation}}		
+Pre-Q Cloze	Monopoly harms: {{c1::restricted supply and higher prices}}, {{c2::less choice}}, {{c3::less innovation}}, {{c4::X-inefficiency}}		4 items
+Pre-Q Basic	Duopoly?	Market with only two firms	
+Pre-Q Basic	Price maker?	Firm with power to set its own price	Opposite of price taker
+Pre-Q Basic	Pure monopoly vs dominant firm?	Only one seller vs one firm with monopoly power among others	
+Pre-Q Basic	Complete market failure?	The market does not supply the product at all	Public goods
+Pre-Q Basic	Direct provision (government)?	State supplies a good itself, funded by tax	Schools, parks, roads

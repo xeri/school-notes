@@ -1,0 +1,23 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Business::7 Practice case — exam technique
+#tags:business case-study
+Pre-Q Cloze	Business exam skills: {{c1::knowledge}}, {{c2::application}}, {{c3::analysis}}, {{c4::evaluation}}		K-A-A-E
+Pre-Q Basic	Application (business exam)?	Tying a point to the business in the case, using its facts	Not just its name
+Pre-Q Basic	The "paste test" for application?	If it fits any business unchanged, add a case fact	
+Pre-Q Cloze	Identify-and-explain structure: {{c1::point}} → {{c2::case fact}} → {{c3::consequence}}		k → app → an
+Pre-Q Basic	"Identify" questions: why not list extra points?	Only the first points written are marked	
+Pre-Q Basic	8-mark long answer: case facts per point?	Two	
+Pre-Q Basic	6-mark "Do you think…?" answer needs?	Both sides, then a justified judgement	
+Pre-Q Basic	12-mark "recommend" answer: what reaches the top level?	Discuss every option; say why the others lose	
+Pre-Q Cloze	Writing an evaluation: {{c1::answer directly}}, give the {{c2::deciding case fact}}, say {{c3::why the alternative is worse}}, add {{c4::what it depends on}}		4 steps
+Pre-Q Basic	Why does "it depends" alone fail an evaluation?	No decision is made	
+Pre-Q Cloze	Calculation answer: {{c1::formula}}, {{c2::substitution}}, {{c3::answer with unit}}		3 parts
+Pre-Q Basic	Own figure rule?	A wrong figure carried forward still earns method marks	
+Pre-Q Basic	A ratio needs a figure the case doesn't give?	Say it can't be calculated; don't invent one	
+Pre-Q Basic	Best first objective for a new small business?	Survival	
+Pre-Q Basic	Realistic promotion for a tiny local business?	Local posters or social media, not TV	
+Pre-Q Basic	Realistic research for a new small firm?	Secondary data and a cheap online survey	
+Pre-Q Basic	Profitable small firm wants to expand: best advice?	Grow gradually to avoid diseconomies and cash problems	
+Pre-Q Basic	Describing the current position, e.g. no promotion: does it earn marks?	Yes: accurate description of the case is application	

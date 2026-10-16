@@ -36,6 +36,15 @@ published; the notes here are written from it.
 Decks are plain tab-separated files with Anki's own header lines, so they carry
 their own deck name and note type.
 
+Each line has four columns: note type, then `Front · Back · Hint` for
+**Pre-Q Basic** or `Text · Extra · Hint` for **Pre-Q Cloze**. The hint is
+optional and shows as a tap-to-reveal link on the front, used on the harder
+cards. Both note types need the `Hint` field before a hand import.
+
+Cards follow one rule set: each makes sense shuffled with every other subject,
+holds one fact, leads with key terms, and tests formulas and methods rather
+than worked numbers.
+
 **Import by hand** — Anki → *File → Import*, pick a `.txt`, and the header sets
 the rest. Re-importing an updated file updates the existing notes rather than
 duplicating them.

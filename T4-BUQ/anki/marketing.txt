@@ -1,66 +1,105 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Business::3 Marketing
-Five roles of marketing	Identify customer needs, satisfy them, maintain loyalty, gain information about customers, anticipate changes in their needs
-Definition of market segmentation	Grouping consumers with similar characteristics, preferences and buying habits
-Six bases for segmentation	Income, age, lifestyle, gender, location, socio-economic group
-Two advantages of segmentation	More effective marketing to each segment, and gaps in the market are easier to spot
-Three problems with segmentation	Lack of data, consumer behaviour is hard to predict, segments can be hard to reach
-Niche market: two advantages	Fewer direct rivals and the ability to charge a premium price
-Niche market: main risk	Limited sales and growth, and a firm relying on one product fails if demand for it falls
-Mass market: two advantages	High sales and profits, and marketing economies of scale
-Market share formula	(firm's sales ÷ total market sales) × 100
-Definition of market growth	The percentage increase in the size of the whole market
-Definition of primary research	Collecting new data for the present purpose
-Definition of secondary research	Using data that already exists
-Four primary research methods	Questionnaires and surveys, interviews, focus groups (consumer panels), observation (also test marketing)
-Four secondary research sources	Internal sales records, government statistics, trade journals, competitors' accounts
-Primary research: advantage and drawback	Specific and up to date; slow and expensive
-Secondary research: advantage and drawback	Cheap and quick; may be out of date or collected for a different purpose
-Qualitative vs quantitative data	Qualitative explains why (opinions, motives); quantitative gives measurable numbers
-Why is surveying only current customers biased?	It misses everyone who considered the product and rejected it
-Three types of research bias	Sampling bias, questionnaire bias (badly worded questions), response bias (untruthful answers)
-Core, tangible and augmented product	Core: what it does; tangible: what it is made of and looks like; augmented: extras that add perceived value, such as the brand or after-sales service
-Definition of product differentiation	Making a product distinguishable from rivals'
-Two benefits of branding	Repeat purchase through brand loyalty, and a higher price
-Risk of a strong brand	One scandal damages the whole range
-Four functions of packaging	Protects, eases transport and storage, carries legal information, promotes at point of sale
-Four main stages of the product life cycle	Introduction, growth, maturity, decline (a development stage is sometimes shown first)
-What happens to sales in the growth stage?	They rise fast, and the first profits appear
-Typical marketing in the maturity stage	Defend market share and profits — competitive pricing, reminder promotion, extension strategies
-Five extension strategies	More advertising, a price reduction, adding new features, exploring new markets, new packaging
-Why hold a product portfolio?	A product in decline is balanced by one in growth, spreading risk
-Cost-plus pricing	Add a fixed % mark-up to the unit cost — always covers costs, but ignores market conditions
-Penetration pricing	A low price to enter the market — wins rivals' customers, but they may leave when the price rises
-Price skimming	A high launch price, lowered later; suits a genuinely new or advanced product
-Psychological pricing	Pricing at $199.99 rather than $200 to look like a good deal
-Elastic demand: effect of a price rise on revenue	Total revenue falls
-Inelastic demand: effect of a price rise on revenue	Total revenue rises
-Four features of inelastic demand	Few substitutes, essential product, strong brand, small share of income
-400 bottles at $20 — how many at $18 to match revenue?	8000 ÷ 18 = 444.4, so 445 whole bottles
-Does matching revenue mean matching profit?	No — extra units carry extra variable cost and the promotion itself costs money
-Five sales promotion methods	BOGOF, coupons, free gifts, competitions, loyalty cards
-Purpose of sales promotion vs advertising	Promotion gives a short-term volume boost; advertising informs or persuades over the longer term
-How do you judge whether a campaign was cost-effective?	Compare the extra contribution generated with the cost of the campaign
-Four distribution channels	Direct, via a retailer, via a wholesaler, via an agent
-Advantages of e-commerce as a channel	National or global reach, low overheads, 24-hour selling
-Drawbacks of e-commerce as a channel	Delivery costs, returns, and no personal contact
-Four criteria for choosing a channel	The product, the market, the cost, the degree of control wanted
-What makes a marketing mix coherent?	All four elements support each other and the target segment
-Five reasons to enter a foreign market	Saturated home market, larger customer base, spreading risk, lower costs, extending the product life cycle
-Six risks of entering a foreign market	Different tastes, language and culture, legal differences, distribution, exchange rates, tariffs and quotas
-Five ways to overcome problems entering a foreign market	Local contacts, overseas assembly or sales units, licensing or franchising, a joint venture, merging with or taking over a local firm
-Should a successful domestic mix be copied abroad?	No — it usually needs adapting to the new market
-Definition of marketing	The management process of anticipating, understanding and satisfying customer needs at a profit
-Market-oriented vs product-oriented business	Market-oriented: designs products from market research into customer wants; product-oriented: focuses on products and processes without research
-Definition of a target market	The group of consumers a business designs its products and marketing to appeal to
-Definition of a USP	A feature or benefit that differentiates a product from its competitors
-Difference between invention and innovation	Invention discovers something new; innovation turns it into a product customers will buy
-PED formula	% change in quantity demanded ÷ % change in price
-PED between 0 and 1 vs above 1	0–1: inelastic (essentials such as petrol); above 1: elastic (luxuries)
-Loss leader pricing	Selling below cost to draw customers in to buy other, profitable items
-Above-the-line vs below-the-line promotion	Above: mass media (TV, radio, newspapers); below: no mass media, within the firm's control (sales promotion, sponsorship)
-Informative vs persuasive advertising	Informative gives facts (timetables, menus); persuasive aims to make consumers buy this product rather than a rival's
-What does SWOT stand for?	Strengths and weaknesses (internal), opportunities and threats (external)
-What is a wholesaler?	An intermediary that buys and stores in bulk from producers and sells small quantities to retailers
+#tags:business marketing
+Pre-Q Basic	Marketing?	Anticipating, understanding and satisfying customer needs at a profit	
+Pre-Q Basic	Market?	Wherever buyers and sellers are willing and able to trade	Not a physical place
+Pre-Q Basic	Market orientation?	Basing products on market research into customer wants	
+Pre-Q Basic	Product orientation?	Focusing on products and processes without market research	
+Pre-Q Basic	Market segmentation?	Grouping consumers with similar characteristics and buying habits	
+Pre-Q Basic	Target market?	Consumers a firm designs its products and marketing for	
+Pre-Q Basic	Niche market?	Small, specific part of a larger market	
+Pre-Q Basic	Mass market?	Large market with broad appeal	
+Pre-Q Basic	Market share?	One firm's sales as a % of total market sales	
+Pre-Q Cloze	Market share = ({{c1::firm's sales}} ÷ {{c2::total market sales}}) × 100	Use the same period and basis	
+Pre-Q Cloze	Market growth = ({{c1::change in market size}} ÷ {{c2::original market size}}) × 100		A percentage-change formula
+Pre-Q Basic	Price vs non-price competition?	Cutting prices vs competing on features, image or service	
+Pre-Q Basic	Primary (field) research?	Collecting new data for the present purpose	
+Pre-Q Basic	Secondary (desk) research?	Using data that already exists	
+Pre-Q Basic	Qualitative data?	Opinions and reasons: explains why	
+Pre-Q Basic	Quantitative data?	Numerical data that can be measured and compared	
+Pre-Q Basic	Sample (research)?	Group selected to represent the whole population	
+Pre-Q Basic	Random vs quota sample?	Everyone has an equal chance vs set numbers per segment	
+Pre-Q Basic	Bias (research)?	Flaw in method making results unrepresentative	
+Pre-Q Cloze	Research bias types: {{c1::sampling}}, {{c2::questionnaire}}, {{c3::response}}		3 types
+Pre-Q Cloze	Marketing mix (4Ps): {{c1::product}}, {{c2::price}}, {{c3::promotion}}, {{c4::place}}		
+Pre-Q Cloze	{{c1::Core}} benefits: what the product does		Core / tangible / augmented
+Pre-Q Cloze	{{c1::Tangible}} attributes: what the product is made of and looks like		Core / tangible / augmented
+Pre-Q Cloze	{{c1::Augmented}} benefits: extras such as the brand or after-sales service		Core / tangible / augmented
+Pre-Q Basic	Invention vs innovation?	Discovering something new vs turning it into a saleable product	
+Pre-Q Basic	Unique selling point (USP)?	Feature or benefit that differentiates a product from rivals	
+Pre-Q Basic	Product differentiation?	Making a product distinguishable from rivals'	
+Pre-Q Basic	Branding?	Creating distinctive, lasting perceptions of a product in consumers' minds	
+Pre-Q Basic	Brand image?	How customers perceive the brand	
+Pre-Q Cloze	Product life cycle: {{c1::introduction}}, {{c2::growth}}, {{c3::maturity}}, {{c4::decline}}	Development stage sometimes shown first	4 stages
+Pre-Q Basic	Extension strategy?	Action at maturity or decline to prolong sales	
+Pre-Q Basic	Product portfolio: why have one?	Products in growth balance those in decline, spreading risk	
+Pre-Q Basic	Cost-plus pricing?	Adding a mark-up to unit cost	
+Pre-Q Basic	Competitor pricing?	Basing the price on rivals' prices	
+Pre-Q Basic	Penetration pricing?	Low launch price to build sales and market share	
+Pre-Q Basic	Price skimming?	High launch price, lowered later	
+Pre-Q Basic	Premium pricing?	High price to signal high quality	
+Pre-Q Basic	Psychological pricing?	Price set just below a round number	
+Pre-Q Basic	Loss leader?	Price below cost to draw customers to other items	Not the same as penetration
+Pre-Q Basic	Contribution pricing?	Price set from variable cost, contributing to fixed costs	
+Pre-Q Basic	Price discrimination?	Different prices for different customer groups	Based on PED and incomes
+Pre-Q Basic	Price elasticity of demand (PED)?	Responsiveness of quantity demanded to a price change	
+Pre-Q Cloze	PED = {{c1::% change in quantity demanded}} ÷ {{c2::% change in price}}	Ignore the minus sign	Quantity on top
+Pre-Q Basic	PED value for inelastic demand?	Between zero and one, ignoring the sign	
+Pre-Q Basic	PED value for elastic demand?	Greater than one	
+Pre-Q Cloze	Inelastic demand: a price rise {{c1::increases}} total revenue		
+Pre-Q Cloze	Elastic demand: a price rise {{c1::reduces}} total revenue		
+Pre-Q Cloze	Demand is likely inelastic for {{c1::essentials}}, products with {{c2::few substitutes}} and {{c3::strong brands}}		3 signs
+Pre-Q Cloze	Sales needed to match old revenue after a price cut = {{c1::old revenue}} ÷ {{c2::new price}}	Round up to a whole unit	
+Pre-Q Basic	Why does matching old revenue not match old profit?	Extra units add variable costs	Think contribution
+Pre-Q Basic	Promotion?	Communicating with customers to inform and persuade	Not just advertising
+Pre-Q Basic	Above-the-line vs below-the-line promotion?	Mass media vs methods without mass media	
+Pre-Q Basic	Informative vs persuasive advertising?	Gives facts vs urges buying over rivals	
+Pre-Q Basic	Sales promotion?	Short-term incentive to boost sales, e.g. coupons	
+Pre-Q Basic	How to judge a promotion's cost-effectiveness?	Extra contribution vs campaign cost	
+Pre-Q Basic	Social media promotion: benefit vs limitation?	Cheap two-way reach; complaints are public	
+Pre-Q Basic	Distribution channel?	Route from producer to consumer, including intermediaries	
+Pre-Q Basic	Intermediary?	Middleman between producer and consumer	
+Pre-Q Basic	Wholesaler?	Buys in bulk from producers and sells small amounts to retailers	
+Pre-Q Cloze	Distribution channels: {{c1::direct}}, {{c2::retailer}}, {{c3::wholesaler}}, {{c4::agent}}		4 channels
+Pre-Q Basic	E-commerce?	Buying and selling goods and services online	
+Pre-Q Basic	E-commerce for business: opportunity vs threat?	Global reach; instant price comparison by customers	
+Pre-Q Basic	E-commerce for consumers: benefit vs risk?	Wider choice; can't see or try the product	
+Pre-Q Basic	Marketing strategy?	Plan of marketing objectives and the actions to reach them	
+Pre-Q Basic	Coherent marketing mix?	All 4Ps support each other and the target market	
+Pre-Q Basic	SWOT analysis?	Internal strengths and weaknesses; external opportunities and threats	
+Pre-Q Cloze	Role of marketing: {{c1::identify needs}}, {{c2::satisfy needs}}, {{c3::keep loyalty}}, {{c4::anticipate change}}		4 roles
+Pre-Q Basic	Why build customer relationships?	Keeping customers is cheaper than winning new ones	
+Pre-Q Cloze	Why spending patterns change: {{c1::income}}, {{c2::tastes}}, {{c3::age structure}}, {{c4::technology}}, {{c5::substitutes}}		5 causes
+Pre-Q Cloze	Why markets are more competitive: {{c1::globalisation}}, {{c2::online price comparison}}, {{c3::cheaper entry through technology}}		3 reasons
+Pre-Q Basic	Niche market: main risk?	Vulnerable to a single change in taste	
+Pre-Q Basic	Primary research: advantage vs drawback?	Specific and up to date; slow and expensive	
+Pre-Q Basic	Secondary research: advantage vs drawback?	Cheap and quick; may be out of date	
+Pre-Q Cloze	Primary research methods: {{c1::questionnaires}}, {{c2::interviews}}, {{c3::focus groups}}, {{c4::observation}}		4 methods
+Pre-Q Cloze	Secondary sources: {{c1::sales records}}, {{c2::government statistics}}, {{c3::trade journals}}, {{c4::commercial reports}}		4 sources
+Pre-Q Basic	Online survey: limitation?	Reaches only people online; no follow-up questions	
+Pre-Q Basic	Focus group: benefit vs limitation?	Detailed opinions; small sample and costly	
+Pre-Q Basic	Pie chart vs line graph?	Shares of a whole vs a trend over time	
+Pre-Q Cloze	Judging research reliability: {{c1::sample selection}}, {{c2::sample size}}, {{c3::question wording}}, {{c4::date}}, {{c5::who paid}}		5 checks
+Pre-Q Cloze	Packaging functions: {{c1::protect}}, {{c2::inform}}, {{c3::promote the brand}}, {{c4::convenience}}		4 functions
+Pre-Q Basic	New products: benefit vs limitation?	Fill a market gap; costly, and many fail	
+Pre-Q Basic	Maturity stage: marketing?	Defend share with competitive prices and reminder ads	
+Pre-Q Cloze	Extension strategies: {{c1::more advertising}}, {{c2::price cut}}, {{c3::new features}}, {{c4::new markets}}, {{c5::new packaging}}		5 strategies
+Pre-Q Basic	Price skimming suits?	New, unique or high-tech products	
+Pre-Q Cloze	Consumer protection: goods must be {{c1::fit for purpose}}, {{c2::safe}} and {{c3::as described}}		3 requirements
+Pre-Q Cloze	Why enter foreign markets: {{c1::saturated home market}}, {{c2::more customers}}, {{c3::spread risk}}, {{c4::extend life cycle}}		4 reasons
+Pre-Q Cloze	Foreign market risks: {{c1::different tastes}}, {{c2::language and culture}}, {{c3::different laws}}, {{c4::exchange rates}}, {{c5::tariffs}}		5 risks
+Pre-Q Cloze	Ways to enter a foreign market: {{c1::local partners}}, {{c2::franchising}}, {{c3::joint venture}}, {{c4::takeover}}		4 ways
+Pre-Q Basic	Product-oriented business?	Focuses on its products and processes, without market research	Opposite of market-oriented
+Pre-Q Basic	Market trend?	General direction of change in sales over time	
+Pre-Q Basic	Sampling bias?	Some people less likely to be included in the sample	Who is asked
+Pre-Q Basic	Questionnaire bias?	Misleading or badly worded questions	What is asked
+Pre-Q Basic	Response bias?	People answer untruthfully, e.g. to seem socially acceptable	How people answer
+Pre-Q Basic	Brand loyalty?	Customers repeatedly buying the same brand	Allows a premium price
+Pre-Q Basic	Personal selling: best used for?	Explaining a complex or expensive product	
+Pre-Q Basic	Public relations / sponsorship: purpose?	Build image and goodwill	
+Pre-Q Basic	Direct mail and email promotion: advantage?	Targets known customers cheaply	
+Pre-Q Basic	Marketing budget?	Amount a firm can spend on marketing; limits promotion choice	
+Pre-Q Basic	Channel of distribution?	Every person or firm a product passes through from producer to consumer	
+Pre-Q Basic	Multi-channel distribution?	Using several channels of distribution at once	

@@ -1,0 +1,70 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:English::5 Biblical and mythical allusions
+#tags:english allusions
+Pre-Q Cloze	Allusion paragraph: {{c1::identify}} (quote the signals), {{c2::explain the source}}, {{c3::map the parallel}}, {{c4::analyse the divergence}}		4 moves
+Pre-Q Basic	Most rewarded part of an allusion paragraph?	The divergence: what the writer changes, and its effect	
+Pre-Q Basic	Two-signal test (allusions)?	Name a source only with two independent signals	One apple is just a fruit
+Pre-Q Basic	Allusion with only one signal?	Hedge ("invites a reading through") and analyse the image itself	
+Pre-Q Basic	How to name an allusion's source?	Book and chapter (Luke 7) or author (Ovid), plus one clause	
+Pre-Q Cloze	"Ajar" (Stallings) reworks Pandora: <i>the woes were {{c1::words}}, and the only thing left was {{c2::quiet}}</i>	Silence stays in the jar, not hope	
+Pre-Q Basic	<i>Crime and Punishment</i>: how is Luke 7 reversed?	A man kneels to kiss the "sinner's" foot: Sonia is Christ-like	
+Pre-Q Basic	"Ice Palace" (Atwood): Bluebeard divergence?	Forbidden room is a "Staff Only" door: the economy's hidden violence	
+Pre-Q Basic	<i>The Wild Laughter</i>: Cain and Abel divergence?	Slow, hidden harm; the brother is both victim and aggressor	
+Pre-Q Basic	"The Destructors": Genesis allusion effect?	Boys work "with the seriousness of creators": destruction as creation	
+Pre-Q Basic	Creation (Genesis 1) allusion signifies?	Order made from chaos; a character acting as creator or god	Light from darkness; day by day
+Pre-Q Basic	Eden and the Fall (Genesis 2–3) allusion signifies?	Innocence lost; knowledge as transgression; exile	Walled garden, fruit, tempter
+Pre-Q Basic	Cain and Abel (Genesis 4) allusion signifies?	Jealousy and fratricide; the marked outcast	Two brothers, a killing
+Pre-Q Cloze	Cain to God (Genesis 4): <i>Am I {{c1::my brother's keeper}}?</i>		
+Pre-Q Basic	Noah's Flood allusion signifies?	Cleansing destruction; survival and a fresh start	
+Pre-Q Basic	Tower of Babel allusion signifies?	Hubris; communication breaking down	
+Pre-Q Cloze	Lot's wife looks back at Sodom and becomes {{c1::a pillar of salt}}	Forbidden backward look (cf. Orpheus)	
+Pre-Q Basic	Abraham and Isaac allusion signifies?	Obedience vs love; the old sacrificing the young	Father, son, knife, hill
+Pre-Q Basic	Jacob and Esau allusion signifies?	Twin rivalry; trickery; a stolen inheritance	
+Pre-Q Basic	Joseph and his brothers allusion signifies?	Family betrayal; reversal of fortune; forgiveness	
+Pre-Q Basic	Moses and the Exodus allusion signifies?	Liberation; a long journey; a leader who never arrives	
+Pre-Q Basic	David and Goliath allusion signifies?	The weak defeating the strong	
+Pre-Q Basic	Samson and Delilah allusion signifies?	Strength undone by a lover's betrayal	
+Pre-Q Basic	Job allusion signifies?	Undeserved suffering; faith tested to the limit	
+Pre-Q Basic	Jonah allusion signifies?	Running from duty; swallowed, then reborn	Storm, overboard, great fish
+Pre-Q Basic	Daniel ("the writing on the wall") allusion signifies?	Faith surviving danger; a warning of doom	
+Pre-Q Basic	Prodigal Son (Luke 15) allusion signifies?	Repentance and unearned forgiveness; a return home	
+Pre-Q Basic	Good Samaritan (Luke 10) allusion signifies?	Compassion across social boundaries	
+Pre-Q Basic	Lost sheep allusion signifies?	The worth of each individual; rescue	
+Pre-Q Basic	Loaves and fishes allusion signifies?	Abundance from scarcity; sharing	
+Pre-Q Basic	Woman anointing Christ's feet (Luke 7) allusion signifies?	The outcast nearer to grace than the respectable	A "sinner" kisses feet; a judging host
+Pre-Q Basic	Mary Magdalene allusion signifies?	The reformed outcast; a devoted witness	
+Pre-Q Basic	Lazarus (John 11) allusion signifies?	Revival of someone seemingly dead	
+Pre-Q Basic	Last Supper allusion signifies?	Fellowship hiding betrayal; sacrament	
+Pre-Q Cloze	Judas betrays Christ with a {{c1::kiss}} for {{c2::thirty pieces of silver}}	Betrayal from inside	
+Pre-Q Basic	Pilate washing his hands allusion signifies?	Evading moral responsibility	
+Pre-Q Basic	Crucifixion allusion signifies?	Sacrifice; innocent suffering	Thorns, nails, burden uphill
+Pre-Q Basic	Resurrection allusion signifies?	Rebirth; hope after death	
+Pre-Q Basic	Revelation (the Apocalypse) allusion signifies?	The end of the world; final judgement	
+Pre-Q Basic	Lucifer allusion signifies?	Pride and fall; evil as an outside influence or excuse	Devil on the shoulder
+Pre-Q Basic	Eucharist parody signifies?	A sacred rite twisted into something cruel	<i>Wild Laughter</i>: magnets on the tongue
+Pre-Q Basic	Prometheus allusion signifies?	Defiance; the price of knowledge	Stolen fire, chained to a rock
+Pre-Q Cloze	Pandora's container was a {{c1::jar}}; only {{c2::hope}} remained inside	"Box" is a later mistranslation	
+Pre-Q Basic	Pandora allusion signifies?	Curiosity's cost; released suffering; women blamed	
+Pre-Q Basic	Icarus allusion signifies?	Hubris; ambition ending in a fall	Wings, wax, sun
+Pre-Q Basic	Narcissus and Echo allusion signifies?	Vanity; a voice with nothing of its own	
+Pre-Q Basic	Orpheus and Eurydice allusion signifies?	Grief; the fatal look back; art against death	
+Pre-Q Basic	Sisyphus allusion signifies?	Futile, endless labour	
+Pre-Q Basic	Tantalus allusion signifies?	Desire always just out of reach	
+Pre-Q Basic	Achilles allusion signifies?	A hidden fatal weakness in a strong person	
+Pre-Q Basic	Odysseus and the Sirens allusion signifies?	A seductive voice leading to ruin; self-restraint	
+Pre-Q Basic	Medusa allusion signifies?	A deadly gaze; a woman made monstrous	
+Pre-Q Basic	Midas allusion signifies?	Greed; a wish that destroys	
+Pre-Q Basic	Persephone allusion signifies?	Lost innocence; the seasons; a life split between two worlds	Pomegranate seeds
+Pre-Q Basic	Cupid and Psyche allusion signifies?	Love that depends on not looking; costly curiosity	
+Pre-Q Basic	Trojan Horse allusion signifies?	A deceptive gift; the enemy within	
+Pre-Q Basic	Oedipus allusion signifies?	Inescapable fate; the investigator is the culprit	
+Pre-Q Basic	Cassandra allusion signifies?	The truth nobody believes	
+Pre-Q Basic	Underworld (Hades) allusion signifies?	Death; a crossing of no return	
+Pre-Q Basic	Theseus and the Minotaur allusion signifies?	Being lost; the monster at the centre; guidance out	
+Pre-Q Basic	Pygmalion allusion signifies?	Possessive remaking of a person	
+Pre-Q Cloze	The Fates: {{c1::Clotho}} spins, {{c2::Lachesis}} measures, {{c3::Atropos}} cuts	Determinism; a life measured out	C-L-A
+Pre-Q Basic	Phoenix allusion signifies?	Renewal after destruction	
+Pre-Q Basic	Bluebeard (Perrault) allusion signifies?	Curiosity punished; violence hidden behind wealth	One forbidden door
+Pre-Q Basic	Beauty and the Beast allusion signifies?	Captivity disguised as luxury; love that transforms	

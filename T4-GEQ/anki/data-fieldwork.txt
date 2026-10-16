@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::61 Graphs, statistics and fieldwork
+#tags:geography data-fieldwork
+Pre-Q Basic	Graph for continuous change over time?	Line graph	
+Pre-Q Basic	Graph for comparing separate categories?	Bar graph	
+Pre-Q Basic	Graph for the composition of a total, by place?	Divided bar graph	
+Pre-Q Basic	Graph for three parts totalling 100%?	Triangular graph	
+Pre-Q Basic	Graph for the relationship between two variables?	Scatter graph with best-fit line	
+Pre-Q Basic	Graph for proportions of one whole?	Pie graph	
+Pre-Q Basic	Histogram vs bar graph	Histogram bars touch (continuous data); bar graph bars don't	Do the bars touch?
+Pre-Q Cloze	Pie graph: 1% = {{c1::3.6°}}	Start at 12 o'clock, clockwise, largest first	
+Pre-Q Basic	Dispersion graph?	Plot of individual values showing their spread	
+Pre-Q Basic	Kite diagram?	Graph of species abundance along a transect	
+Pre-Q Basic	Wind rose?	Radial graph of wind by direction; longest arm = prevailing	
+Pre-Q Basic	Correlation?	Statistical relationship between two variables	
+Pre-Q Basic	Positive vs negative correlation	Positive: both rise. Negative: one rises as the other falls	Slope of best-fit line
+Pre-Q Basic	Does correlation prove causation?	No	
+Pre-Q Basic	Choropleth map?	Map shading areas by rate or density	
+Pre-Q Basic	Choropleth map: weakness?	Hides variation within areas; false sharp boundaries	
+Pre-Q Basic	Isoline?	Line joining points of equal value	
+Pre-Q Basic	Flow line?	Map line whose width shows the volume moving	
+Pre-Q Basic	Desire line?	Line from origin to destination; maps a sphere of influence	
+Pre-Q Basic	Proportional symbol?	Symbol whose area is scaled to the quantity	Not diameter
+Pre-Q Cloze	Describing a trend: {{c1::state the pattern}}; {{c2::quote figures with units}}; {{c3::note anomalies}}; {{c4::compare}}		4 steps
+Pre-Q Basic	Anomaly?	Value that does not fit the general pattern	
+Pre-Q Cloze	% change = {{c1::(new − old) ÷ old}} × 100		e.g. 40 000 → 46 000 is 15%
+Pre-Q Basic	Mean?	Sum of the values ÷ number of values	
+Pre-Q Basic	Median?	Middle value when data are ranked	
+Pre-Q Basic	Mode?	Most frequent value	
+Pre-Q Cloze	Range (statistics) = {{c1::maximum − minimum}}		
+Pre-Q Basic	Interquartile range?	Upper minus lower quartile; ignores extremes	
+Pre-Q Basic	How to find the quartiles?	Q1 = median of lower half; Q3 = median of upper half	Rank data first
+Pre-Q Cloze	Enquiry sequence: {{c1::hypothesis}} → site selection → {{c2::sampling}} → collection → presentation → {{c3::analysis}} → conclusion → {{c4::evaluation}}		4 blanks
+Pre-Q Basic	Hypothesis?	Testable statement an enquiry supports or rejects	
+Pre-Q Basic	Null hypothesis?	Statement of no relationship between variables	Contrast hypothesis
+Pre-Q Basic	Random sampling?	Sites chosen by chance; may miss key areas	
+Pre-Q Basic	Systematic sampling?	Sites at regular intervals; may miss features between	
+Pre-Q Basic	Stratified sampling?	Each sub-group sampled in proportion to its share	Needs known sub-groups
+Pre-Q Basic	Primary data?	Data you collect yourself in the field	
+Pre-Q Basic	Secondary data?	Data collected by someone else	
+Pre-Q Basic	Secondary data: strength vs weakness	Covers more area and time; may be outdated	Think census data
+Pre-Q Basic	Transect?	Line along which measurements are taken at intervals	
+Pre-Q Cloze	Volcano transect variables: {{c1::vegetation density}}, {{c2::vegetation height}}, {{c3::slope}}, {{c4::soil depth}}	Rangitoto, jetty to summit	4 variables
+Pre-Q Basic	Urban fieldwork hypothesis example?	Environmental quality improves away from the CBD	
+Pre-Q Basic	Land-use survey?	Recording each building's use along a transect from the CBD	
+Pre-Q Basic	Pedestrian count?	Counting people passing a fixed point for a set time	
+Pre-Q Basic	Environmental quality survey?	Scoring a site on a scale for litter, noise and greenery	
+Pre-Q Basic	Environmental quality survey: weakness?	Subjective scores	
+Pre-Q Basic	How to find a sphere of influence in the field?	Ask shoppers' origins; plot desire lines	
+Pre-Q Cloze	Urban fieldwork limitations: {{c1::time of day}}, {{c2::weather}}, {{c3::subjective scores}}, {{c4::biased sample}}		4 limitations
+Pre-Q Cloze	SDEEL paragraph: {{c1::Statement}}, {{c2::Describe}}, {{c3::Explain}}, {{c4::Example}}, {{c5::Link}}		5 steps
+Pre-Q Basic	Describe vs explain (command words)	Describe: what it is like. Explain: why it happens	Only one needs 'because'
+Pre-Q Basic	Evaluate (command word)?	Weigh both sides, then make a judgement	
+Pre-Q Basic	Essay cap with no examples?	6 out of 10	Out of 10 per essay
+Pre-Q Basic	Developed example?	Place, date and fact used in the argument	Not a tag
+Pre-Q Basic	"Using Fig. 1 only" means?	Evidence must come from the resource only	

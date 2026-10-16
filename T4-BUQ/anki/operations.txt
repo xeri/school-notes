@@ -1,59 +1,79 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:Business::4 Operations management
-Labour productivity formula	Total output in a period ÷ number of employees
-Why does higher productivity lower unit labour cost?	The same wage bill is spread over more units — provided pay and quality are unchanged
-Five ways to raise productivity	Training, performance-related pay, a better working environment, lean production, new technology and automation
-Capital-intensive: two advantages	Low unit cost at volume and consistent quality
-Capital-intensive: two drawbacks	High fixed cost and inflexibility
-Labour-intensive: two advantages	Lower set-up cost and the flexibility to customise
-Definition of job production	One distinct product made at a time to order
-Job production: advantage and drawback	Fully customised at a premium price; high unit cost and slow
-Definition of batch production	A limited number of identical items made at a time; each batch passes through one stage before the next
-Batch production: main drawback	Downtime between batches and stocks of part-finished goods
-Definition of flow production	Continuous mass production of a standardised product along a line
-Flow production: two advantages	Very low unit cost and consistent quality
-Flow production: two drawbacks	Huge capital cost and inflexibility; a breakdown halts everything
-Definition of lean production	Producing with the minimum of wasted resources while maintaining high quality
-Definition of kaizen	Continuous improvement — many small changes suggested by employees
-Definition of just-in-time	Keeping stock to a minimum; materials arrive just in time and goods are made only to order
-Three benefits of JIT	Less capital tied up in stock, lower storage cost, less waste from obsolete stock
-Three risks of JIT	A late delivery halts production, no buffer for a demand surge, loses bulk discounts
-Definition of fixed cost	A cost that does not change with output in the short run
-Three examples of fixed cost	Rent, insurance, salaries
-Definition of variable cost	A cost that changes directly with output
-Three examples of variable cost	Materials, piece-rate wages, power used in production
-Total cost formula	Fixed costs + (variable cost per unit × output)
-Contribution per unit formula	Selling price − variable cost per unit
-Break-even output formula	Fixed costs ÷ contribution per unit
-Profit formula using contribution	(output × contribution per unit) − fixed costs
-Margin of safety formula	Actual output − break-even output
-Output needed for a target profit	(fixed costs + target profit) ÷ contribution per unit
-F = $4800, p = $20, v = $12 — break-even?	Contribution $8, so 4800 ÷ 8 = 600 units
-At 750 units with those figures — profit and margin of safety?	Profit $1200; margin of safety 150 units
-On a break-even chart, where is break-even?	Where the total revenue line crosses the total cost line
-Three assumptions of break-even analysis	Constant unit price and variable cost, fixed costs unchanged across the range, everything produced is sold
-What does break-even analysis ignore?	Capacity limits, demand uncertainty, and bulk discounts that make the lines non-linear
-Definition of quality control	Inspectors checking output at the end of production for faults
-Definition of quality assurance	Checking for faults at each stage of production, preventing defects rather than finding them at the end
-Main weakness of quality control	The waste has already been created, and workers take no responsibility for it
-Definition of total quality management	A philosophy that quality is every employee's responsibility, aiming at zero defects
-Four costs of poor quality	Scrap and rework, warranty claims, lost customers, damaged reputation
-Three costs of improving quality	Training, inspection and monitoring time, better materials
-Which location factor matters most for a retailer?	Proximity to the market — passing trade and customer access
-Which location factor matters most for a bulky-input factory?	Proximity to raw materials, to cut transport cost
-Does the lowest rent give the lowest total cost?	No — cheap premises far from customers add transport cost and lose sales
-Three reasons to locate abroad	Cheaper materials and labour, access to wider markets, avoiding trade barriers
-Three problems of locating abroad	Language and cultural barriers, different service standards, supply-chain problems (also ethics of job losses)
-Difference between production and productivity	Production is the amount produced; productivity is output per unit of input — how efficient the business is
-Revenue productivity of labour formula	Total revenue ÷ number of employees
-Three types of inventory	Raw materials, work in progress, finished goods
-Definition of delivery lead time	The time between placing an order and receiving it — the longer it is, the more buffer stock is needed
-Average cost formula	Total cost ÷ output
-F = $5000, p = $8, v = $3 — break-even?	Contribution $5, so 5000 ÷ 5 = 1000 units
-Definition of a quality circle	A small group of workers meeting regularly to identify and solve production problems
-Definition of optimal location	The site giving the best combination of quantitative and qualitative factors, so the firm can maximise profit
-Two advantages and two disadvantages of multi-site locations	More convenient for customers, cover during industrial action; coordination problems, cannibalism between nearby sites
-Definition of offshoring	Relocating a business process from one country to another — e.g. moving a call centre overseas
-Three ways government influences location	Grants, low-interest loans and tax breaks in areas of high unemployment (and planning laws)
+#tags:business operations
+Pre-Q Basic	Operations management?	Turning inputs into outputs in the most cost-effective way	
+Pre-Q Basic	Production vs productivity?	Amount produced vs output per unit of input	Absolute amount vs efficiency
+Pre-Q Cloze	Labour productivity = {{c1::output in a period}} ÷ {{c2::number of employees}}		
+Pre-Q Cloze	Revenue productivity of labour = {{c1::total revenue}} ÷ {{c2::number of employees}}		
+Pre-Q Cloze	Unit labour cost = {{c1::total labour cost}} ÷ {{c2::units produced}}		
+Pre-Q Basic	Capital-intensive?	High proportion of machinery relative to labour	
+Pre-Q Basic	Labour-intensive?	High proportion of labour relative to machinery	
+Pre-Q Basic	Job production?	One distinct product made at a time, to order	
+Pre-Q Basic	Batch production?	Groups of identical items made before changing task	
+Pre-Q Basic	Flow production?	Continuous mass production of a standardised product	
+Pre-Q Basic	CAD?	Computer-aided design: designing and testing products on screen	
+Pre-Q Basic	CAM?	Computer-aided manufacture: computers control the production machines	
+Pre-Q Cloze	Inventory: {{c1::raw materials}}, {{c2::work in progress}}, {{c3::finished goods}}		3 types
+Pre-Q Basic	Delivery lead time?	Time between placing an order and receiving it	
+Pre-Q Basic	Buffer stock?	Minimum inventory kept for emergencies	
+Pre-Q Basic	Reorder level?	Inventory level at which a new order is placed	
+Pre-Q Basic	Lean production?	Producing with minimum wasted resources at high quality	
+Pre-Q Basic	Kaizen?	Continuous improvement through small changes suggested by staff	
+Pre-Q Basic	Just-in-time (JIT)?	Minimal stock; materials arrive just as they are needed	
+Pre-Q Basic	Fixed cost?	Cost that doesn't change with output in the short run	e.g. rent
+Pre-Q Basic	Variable cost?	Cost that changes directly with output	e.g. materials
+Pre-Q Cloze	Total cost = {{c1::fixed costs}} + ({{c2::variable cost per unit}} × {{c3::output}})		
+Pre-Q Cloze	Average cost = {{c1::total cost}} ÷ {{c2::output}}		
+Pre-Q Cloze	Total revenue = {{c1::price}} × {{c2::quantity sold}}		
+Pre-Q Basic	Contribution?	Selling price per unit minus variable cost per unit	Goes to fixed costs first, then profit
+Pre-Q Basic	Break-even output?	Output at which total revenue equals total cost	
+Pre-Q Cloze	Break-even output = {{c1::fixed costs}} ÷ {{c2::contribution per unit}}		
+Pre-Q Cloze	Profit = ({{c1::output}} × {{c2::contribution per unit}}) − {{c3::fixed costs}}		
+Pre-Q Basic	Margin of safety?	How far actual output exceeds break-even output	
+Pre-Q Cloze	Margin of safety = {{c1::actual output}} − {{c2::break-even output}}		
+Pre-Q Cloze	Margin of safety (%) = ({{c1::actual output − break-even output}} ÷ {{c2::actual output}}) × 100		Divide by actual, not break-even
+Pre-Q Cloze	Output for a target profit = ({{c1::fixed costs}} + {{c2::target profit}}) ÷ {{c3::contribution per unit}}		Target profit acts like an extra fixed cost
+Pre-Q Cloze	Break-even revenue = {{c1::break-even output}} × {{c2::price}}		
+Pre-Q Basic	Break-even chart?	Graph of fixed cost, total cost and revenue against output	
+Pre-Q Basic	Quality?	Meeting or exceeding customer expectations: fit for purpose	
+Pre-Q Basic	Quality control?	Inspecting output at the end of production for faults	
+Pre-Q Basic	Quality assurance?	Checking at every stage of production to prevent defects	Prevention, not inspection
+Pre-Q Basic	Total quality management (TQM)?	Quality is every employee's responsibility, aiming at zero defects	
+Pre-Q Basic	Quality circle?	Small group of workers meeting to solve production problems	
+Pre-Q Basic	Benchmarking?	Comparing performance with the best firms in the industry	
+Pre-Q Basic	Optimal location?	Site with the best mix of quantitative and qualitative factors	
+Pre-Q Basic	Infrastructure?	Supporting facilities such as roads, power and telecoms	
+Pre-Q Basic	Offshoring?	Relocating a business process to another country	
+Pre-Q Basic	Why does higher productivity cut unit labour cost?	The same wage bill is spread over more units	
+Pre-Q Cloze	Raising productivity: {{c1::training}}, {{c2::performance pay}}, {{c3::better environment}}, {{c4::lean production}}, {{c5::automation}}		5 ways
+Pre-Q Basic	Capital-intensive: advantage vs drawback?	Low unit cost at volume; expensive and inflexible	
+Pre-Q Basic	Labour-intensive: advantage vs drawback?	Flexible, low set-up cost; higher unit cost	
+Pre-Q Basic	Job production: advantage vs drawback?	Customised, premium price; high unit cost	
+Pre-Q Basic	Flow production: advantage vs drawback?	Very low unit cost; huge capital cost	
+Pre-Q Basic	How does the production method change as a firm grows?	Job → batch → flow	
+Pre-Q Basic	Production technology: benefit vs limitation?	Lower unit cost; high capital cost	Automation pays only at high volume
+Pre-Q Cloze	Why hold inventory: {{c1::late deliveries}}, {{c2::sudden demand}}, {{c3::bulk discounts}}, {{c4::display}}		4 reasons
+Pre-Q Cloze	Costs of holding inventory: {{c1::storage}}, {{c2::shrinkage}}, {{c3::obsolescence}}, {{c4::tied-up cash}}		4 costs
+Pre-Q Basic	Longer lead time: effect on reorder level?	Reorder level must be higher	
+Pre-Q Cloze	Lean wastes include {{c1::excess inventory}}, {{c2::waiting time}}, {{c3::overproduction}}, {{c4::defects}}		4 of the 7 wastes
+Pre-Q Basic	JIT: main benefit vs risk?	Less cash tied up; a late delivery halts production	
+Pre-Q Basic	Break-even point on a chart?	Where total revenue crosses total cost	
+Pre-Q Basic	How to find break-even in a cost table?	The output where profit is zero	
+Pre-Q Basic	Price rise: effect on break-even?	Revenue line steeper; break-even falls	Only if sales hold up
+Pre-Q Basic	Fixed costs rise: effect on break-even?	Fixed and total cost lines shift up; break-even rises	
+Pre-Q Basic	Variable cost per unit rises: effect on break-even?	Total cost line steeper; break-even rises	
+Pre-Q Cloze	Break-even assumes {{c1::constant price}}, {{c2::constant variable cost per unit}}, {{c3::unchanged fixed costs}}, {{c4::all output sold}}		4 assumptions
+Pre-Q Basic	Stop a product with positive contribution?	Not in the short run: it still covers fixed costs	Think shared overheads
+Pre-Q Cloze	Costs of poor quality: {{c1::scrap and rework}}, {{c2::refunds}}, {{c3::lost customers}}, {{c4::damaged reputation}}		4 costs
+Pre-Q Basic	Service business: key location factor?	Nearness to customers	
+Pre-Q Basic	Manufacturer with bulky inputs: key location factor?	Nearness to raw materials	
+Pre-Q Basic	Why is the lowest rent not always the lowest total cost?	Distance adds transport costs and loses sales	
+Pre-Q Basic	Legal controls on location?	Planning permission and environmental rules	
+Pre-Q Basic	Multi-site cannibalism?	Sites too close take each other's customers	
+Pre-Q Basic	Locating abroad: reason vs problem?	Lower costs; language and cultural barriers	
+Pre-Q Basic	CIM (computer-integrated manufacturing)?	CAD and CAM linked with stock control and ordering in one system	CAD + CAM + more
+Pre-Q Basic	Ancillary firms?	Supporting businesses (distribution, warehousing, specialists) nearby firms can share	
+Pre-Q Basic	Non-optimal location: 2 cost effects?	High fixed site costs; high variable costs	Both kinds of cost rise
+Pre-Q Basic	Maximum inventory level?	The most stock the firm wants to hold	Top line of the inventory chart

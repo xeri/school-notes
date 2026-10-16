@@ -1,0 +1,77 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::08 Urbanisation in LICs and MICs
+#tags:geography urbanisation-lics
+Pre-Q Basic	Over-urbanisation?	Urban population grows faster than urban jobs and infrastructure	
+Pre-Q Basic	Squatter settlement (informal settlement)?	Self-built housing without legal land title or planning permission	
+Pre-Q Basic	Informal economy?	Unregistered, untaxed work (street trading, waste picking)	
+Pre-Q Basic	Formal sector?	Registered, taxed work with contracts and legal protection	
+Pre-Q Basic	Latin American city model?	LIC/MIC city model: rich near the centre, squatters on the edge	
+Pre-Q Basic	Commercial spine?	Boulevard from the CBD lined with offices, shops and élite housing	Latin American model
+Pre-Q Basic	Zone of maturity?	Older, established housing with full services	Latin American model
+Pre-Q Basic	Zone of in-situ accretion?	Modest housing being improved bit by bit; partial services	Latin American model
+Pre-Q Basic	Disamenity sector?	Worst land (steep, flood-prone, polluted), occupied by the poorest	
+Pre-Q Basic	Self-help scheme?	Residents improve their own homes with supplied materials, title or loans	
+Pre-Q Basic	Site-and-service scheme?	Authorities provide serviced plots; residents build their own homes	not the same as self-help
+Pre-Q Basic	In-situ upgrading?	Improving a slum with services and titles without moving residents	
+Pre-Q Basic	Micro-credit?	Small loans to poor people to start or expand a business	
+Pre-Q Basic	RDP housing?	Free basic houses under South Africa's Reconstruction and Development Programme (1994)	
+Pre-Q Basic	New town (counter-magnet)?	Planned town built to divert growth from a large city	
+Pre-Q Cloze	LIC urban growth: {{c1::rural-to-urban migration}} + {{c2::natural increase}}		
+Pre-Q Basic	Why is natural increase high in LIC cities?	Migrants are young adults; urban healthcare lowers deaths	
+Pre-Q Cloze	About {{c1::1 billion}} people live in slums worldwide	UN-Habitat	
+Pre-Q Cloze	LIC rural push factors: {{c1::poverty}}, farm {{c2::mechanisation}}, {{c3::large estates}}, {{c4::drought}}		4 items
+Pre-Q Cloze	LIC urban pull factors: {{c1::jobs}}, {{c2::schools and hospitals}}, the "{{c3::bright lights}}", {{c4::family already there}}		4 items
+Pre-Q Basic	Where do new urban migrants settle?	Marginal land: steep slopes or flood plains	
+Pre-Q Basic	Mumbai's migrants come from?	Rural Maharashtra, Uttar Pradesh and Bihar	
+Pre-Q Basic	Johannesburg's migrants come from?	Limpopo and Eastern Cape; Zimbabwe and Mozambique	
+Pre-Q Cloze	Apartheid's movement controls lifted in {{c1::1986}}: migration to Johannesburg grew		
+Pre-Q Basic	Rio de Janeiro's migrants come from?	Brazil's drought-prone north-east	
+Pre-Q Basic	Rural-to-urban migration: benefits to the city?	Cheap workforce; enterprise in the informal sector	
+Pre-Q Cloze	Rural-to-urban migration costs to the city: {{c1::squatter settlements}}, overloaded {{c2::services}}, {{c3::congestion}}, {{c4::crime}}		4 items
+Pre-Q Basic	Rural-to-urban migration: benefits to rural areas?	Remittances; less pressure on land	
+Pre-Q Basic	Rural-to-urban migration: costs to rural areas?	Young men leave; farm labour shortage; services close	
+Pre-Q Cloze	Latin American city model: {{c1::Griffin and Ford}}, {{c2::1980}}		
+Pre-Q Basic	Latin American city model: where do rich and poor live?	Rich: spine near the centre. Poor: edge squatter settlements	
+Pre-Q Basic	Why is the Latin American model the reverse of Burgess?	Wealth falls outwards; unwanted land is on the edge	compare where the rich live
+Pre-Q Basic	Latin American city model: limitations?	Fits Africa and Asia poorly; central slums and edge gated estates	
+Pre-Q Cloze	Squatter settlement names: {{c1::favelas}} (Brazil), {{c2::bustees}} (India), {{c3::townships}} (South Africa)		3 items
+Pre-Q Cloze	Squatter settlement features: {{c1::scrap materials}}, {{c2::hazardous land}}, no {{c3::piped water or sewerage}}, {{c4::overcrowding}}		4 items
+Pre-Q Basic	Why does lacking land title matter?	No incentive to improve; eviction risk; no address	think incentives
+Pre-Q Basic	Why do favelas grow on hillsides?	Only unclaimed land left; close to jobs	
+Pre-Q Basic	Hillside favelas: problems?	Landslides; too steep for vehicles and pipes	
+Pre-Q Basic	Informal economy: good for workers?	Income without qualifications or capital	
+Pre-Q Basic	Informal economy: bad for workers?	Low, irregular pay; no job security	
+Pre-Q Basic	Informal economy: effect on the country?	Employs millions, but pays no tax	
+Pre-Q Cloze	Building a slum economy: {{c1::micro-credit}}, legal {{c2::land title}}, {{c3::training}}, {{c4::registering businesses}}		4 items
+Pre-Q Basic	Dharavi, Mumbai: location?	Central Mumbai, between railways, beside the Bandra–Kurla Complex	
+Pre-Q Cloze	Dharavi: ~{{c1::2.1–2.4 km²}}; ~{{c2::600 000 to 1 million}} people		
+Pre-Q Cloze	Dharavi grew from the {{c1::1880s}} as {{c2::tanneries}} and potters were moved out		
+Pre-Q Cloze	Dharavi: one toilet per ~{{c1::1440}} people	UN, 2006	
+Pre-Q Cloze	Dharavi industries: {{c1::leather}}, {{c2::pottery}}, {{c3::textiles}}, {{c4::recycling}}		4 items
+Pre-Q Cloze	Dharavi: ~{{c1::5000}} businesses and ~{{c2::15 000}} one-room factories		
+Pre-Q Cloze	Dharavi turnover: ~{{c1::US$500 million to over $1 billion}} a year		
+Pre-Q Cloze	Dharavi redevelopment tender won by the {{c1::Adani Group}} in {{c2::2022}}		
+Pre-Q Cloze	Dharavi: residents from before {{c1::1 January 2000}} get a free ~{{c2::350 sq ft}} flat inside Dharavi	Later arrivals housed outside	
+Pre-Q Basic	Dharavi redevelopment: benefits?	Flats with water and toilets; less fire and flood risk	
+Pre-Q Basic	Dharavi redevelopment: criticisms?	Many moved far from jobs; towers don't suit home workshops	
+Pre-Q Basic	Dharavi: better alternative to redevelopment?	In-situ upgrading with residents (community toilet blocks)	
+Pre-Q Cloze	Diepsloot means "{{c1::deep ditch}}"; ~{{c2::30 km}} north of Johannesburg CBD	Beside rich Dainfern	
+Pre-Q Cloze	Diepsloot began in {{c1::1995}} as a {{c2::transit camp}}		
+Pre-Q Cloze	Diepsloot: ~{{c1::12 km²}}; ~{{c2::138 000}} people (2011)	Far more today	
+Pre-Q Cloze	Diepsloot 2011: {{c1::18%}} piped water inside home; {{c2::61%}} electricity		
+Pre-Q Cloze	Diepsloot housing: {{c1::shacks}}, {{c2::RDP houses}}, rented {{c3::backyard rooms}}		3 items
+Pre-Q Cloze	Diepsloot business barriers: {{c1::crime}}, lack of {{c2::space}}, lack of {{c3::electricity}}	World Bank, 2014	3 items
+Pre-Q Basic	Diepsloot: social issues?	High crime; mob justice and xenophobia	
+Pre-Q Basic	Cosmo City?	Planned mixed-income new town near Diepsloot (2005)	
+Pre-Q Basic	Diepsloot: criticism of edge rehousing?	Repeats the apartheid pattern: poor people far from jobs	
+Pre-Q Basic	Dharavi vs Diepsloot: position in the city?	Dharavi: central, valuable land. Diepsloot: peripheral edge	
+Pre-Q Cloze	Rio favelas: ~{{c1::1.4 million}} people (2010); largest is {{c2::Rocinha}}		
+Pre-Q Basic	Favela-Bairro (1994)?	Rio scheme upgrading favelas in place (drains, water, sewerage)	
+Pre-Q Basic	Rio's Police Pacification Units (2008): outcome?	Violence fell at first; gains faded	
+Pre-Q Basic	Site-and-service scheme: weakness?	Plots far from jobs; charges exclude the poorest	
+Pre-Q Basic	Why is in-situ upgrading often preferred?	Cheaper; keeps communities and livelihoods	
+Pre-Q Cloze	New towns to divert growth: {{c1::Navi Mumbai}}, {{c2::Brasília}}, {{c3::Cosmo City}}		3 items
+Pre-Q Cloze	Rural strategies to slow migration: {{c1::electrification}}, village {{c2::schools and clinics}}, {{c3::land reform}}, {{c4::micro-credit}}		4 items
+Pre-Q Basic	When is relocating a slum justified?	Only from hazardous land, with residents' consent	

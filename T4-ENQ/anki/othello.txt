@@ -1,49 +1,61 @@
 #separator:tab
 #html:true
-#notetype:Basic
+#notetype column:1
 #deck:English::2 Paper 3 Othello
-Paper 3 format	One hour, 25 marks: a general question on the whole play or a passage-based question. Closed book
-Rule for the Paper 3 general question	Do not use any evidence from the printed passage
-First recorded performance of Othello	At court in Whitehall, 1 November 1604, by the King's Men, under James I
-Coleridge's phrase for Iago, set as the 2024 question	<i>the motive-hunting of motiveless malignity</i>
-Iago's stated motives	Passed over for promotion; rumours about Emilia with Othello and Cassio; desire for Desdemona; envy of Cassio's daily beauty
-Venice against Cyprus	Venice is law and order; Cyprus is passion and confusion (Garber). The storm ends the outer war and begins the inner one
-Turning point of Act I	Brabantio's warning that a daughter who deceived her father may deceive her husband
-Turning point of Act II	Cassio's drunken brawl and dismissal, which sends him to Desdemona to plead
-The pivot of the play	III.iii, the temptation scene: Othello transfers his trust from his wife to his ensign
-Turning point of Act IV	Bianca appears with the handkerchief, which Othello takes as proof
-Turning point of Act V	Emilia refuses to obey Iago and exposes him
-Iago's central method	Insinuation: he withholds and hesitates, and Othello supplies the content
-Iago's echo technique (III.iii)	He repeats Othello's words back as questions, so the suspicion seems to start in Othello's head
-Iago's borrowed authority (III.iii)	<i>She did deceive her father, marrying you</i>: Brabantio's warning reused
-Iago's fabricated evidence (III.iii)	Asked for ocular proof, he invents Cassio talking in his sleep about Desdemona
-Iago's staged scene (IV.i)	He hides Othello to overhear Cassio laughing about Bianca, and Othello takes it as about Desdemona
-Othello's language across the play	Assured blank verse, then lines shared with Iago, then fragmented prose in IV.i, then recovered verse at the end
-Iago on himself (I.i)	<i>I am not what I am</i>
-Iago on the birth of his plot (I.iii)	<i>Hell and night / Must bring this monstrous birth to the world's light</i>
-Iago on his own method (II.iii)	<i>When devils will the blackest sins put on, / They do suggest at first with heavenly shows</i>
-Iago on poison and the ear (II.iii)	<i>I'll pour this pestilence into his ear</i>
-Iago's final refusal (V.ii)	<i>Demand me nothing. What you know, you know</i>
-Iago's animal slander to Brabantio (I.i)	<i>an old black ram / Is tupping your white ewe</i>
-Brabantio's warning to Othello (I.iii)	<i>Look to her, Moor, if thou hast eyes to see: / She has deceived her father, and may thee</i>
-Cassio on reputation (II.iii)	<i>Reputation, reputation, reputation! O, I have lost my reputation!</i>
-Iago to Cassio on reputation (II.iii)	<i>Reputation is an idle and most false imposition</i>
-Iago to Othello on reputation (III.iii)	<i>Good name in man and woman, dear my lord, / Is the immediate jewel of their souls</i>
-Iago on jealousy (III.iii)	<i>the green-eyed monster which doth mock / The meat it feeds on</i>
-Iago on flimsy evidence (III.iii)	<i>Trifles light as air / Are to the jealous confirmations strong / As proofs of holy writ</i>
-Othello demands proof (III.iii)	<i>Give me the ocular proof</i>
-Iago's vow as he kneels with Othello (III.iii)	<i>I am your own for ever</i>
-Othello on love and chaos (III.iii)	<i>when I love thee not, / Chaos is come again</i>
-Othello on race (III.iii)	<i>Haply, for I am black</i>
-Othello on his lost career (III.iii)	<i>Othello's occupation's gone!</i>
-Othello's language collapsing (IV.i)	<i>Lie with her? Lie on her?</i> and <i>Goats and monkeys!</i>
-Othello on Desdemona as a book (IV.ii)	<i>Was this fair paper, this most goodly book, / Made to write "whore" upon?</i>
-Othello before the murder (V.ii)	<i>Put out the light, and then put out the light</i>
-Othello's mythical allusion (V.ii)	<i>I know not where is that Promethean heat / That can thy light relume</i>
-Othello's epitaph for himself (V.ii)	<i>one that loved not wisely but too well</i>
-Othello on how he won Desdemona (I.iii)	<i>She loved me for the dangers I had passed, / And I loved her that she did pity them</i>
-Desdemona on the slander (IV.ii)	<i>Am I that name, Iago?</i>
-Desdemona's last words (V.ii)	<i>Nobody. I myself.</i>
-Emilia on men (III.iv)	<i>They are all but stomachs, and we all but food</i>
-Emilia on wives (IV.iii)	<i>Let husbands know / Their wives have sense like them</i>
-Emilia defying Iago (V.ii)	<i>'Tis proper I obey him, but not now</i>
+#tags:english othello
+Pre-Q Basic	Soliloquy vs aside?	Alone on stage, unguarded thought vs brief remark only the audience hears	
+Pre-Q Basic	Stichomythia?	Rapid alternating single lines of dialogue, usually in conflict	
+Pre-Q Basic	Shared line (drama)?	One verse line split between two speakers: intimacy or takeover	
+Pre-Q Basic	Dramatic irony?	Audience knows something a character does not	
+Pre-Q Cloze	Tragedy terms: {{c1::hamartia}} = fatal flaw; {{c2::peripeteia}} = reversal; {{c3::anagnorisis}} = recognition; {{c4::catharsis}} = purging of pity and fear		H-P-A-C
+Pre-Q Cloze	<i>Othello</i> tragic frame: hamartia = {{c1::credulity}}; peripeteia = {{c2::the handkerchief in Bianca's hand}}; anagnorisis = {{c3::<i>O fool, fool, fool!</i>}}		Flaw, reversal, recognition
+Pre-Q Basic	Blank verse vs prose in <i>Othello</i>?	Verse = noble control; prose = low talk or collapse	
+Pre-Q Basic	<i>Othello</i>: genre?	Domestic tragedy: the stakes are a marriage, not a kingdom	
+Pre-Q Basic	<i>Othello</i>: Venice vs Cyprus?	Law and order vs passion and confusion (Garber)	
+Pre-Q Basic	<i>Othello</i>: pivot of the play?	III.iii temptation scene: Othello trusts Iago over his wife	
+Pre-Q Basic	<i>Othello</i>: Act V turning point?	Emilia defies and exposes Iago	
+Pre-Q Cloze	<i>Othello</i>, Iago's stated motives: {{c1::passed over for promotion}}; {{c2::rumour Othello slept with Emilia}}; {{c3::desire for Desdemona}}; {{c4::envy of Cassio}}		4 motives
+Pre-Q Cloze	Coleridge on Iago (<i>Othello</i>): <i>the {{c1::motive-hunting}} of {{c2::motiveless malignity}}</i>		M-M
+Pre-Q Basic	<i>Othello</i>: best response to Coleridge on Iago?	Qualify: motives are real but inadequate, so they keep changing	
+Pre-Q Basic	<i>Othello</i>: Iago's central method?	Insinuation: he hints and Othello fills in the content	
+Pre-Q Basic	<i>Othello</i>: Iago's echo technique (III.iii)?	Repeats Othello's own words back as questions	<i>Honest, my lord?</i>
+Pre-Q Basic	<i>Othello</i>: Iago's fabricated evidence (III.iii)?	Cassio's invented sleep-talk about Desdemona	
+Pre-Q Basic	<i>Othello</i>: Iago's staged scene (IV.i)?	Othello overhears Cassio laughing about Bianca	
+Pre-Q Basic	<i>Othello</i>: effect of Iago's soliloquies?	Audience knows the plan: dread, and silent complicity	
+Pre-Q Cloze	<i>Othello</i>, Othello's language arc: {{c1::assured blank verse}} → {{c2::shared lines with Iago}} → {{c3::broken prose}} (IV.i) → {{c4::recovered verse}} at the end		Index of his collapse
+Pre-Q Basic	<i>Othello</i>: how does animal imagery move?	From Iago (I.i) to Othello (IV.i)	Who is infecting whom?
+Pre-Q Basic	<i>Othello</i>: why poison and ear imagery?	Iago's method is infection through listening	
+Pre-Q Basic	<i>Othello</i>: light/dark symbolism twist?	Inverted: the white Venetian is the devil; the Moor is noble	
+Pre-Q Basic	<i>Othello</i>: handkerchief meaning?	Private love token made public "proof"; meaning invested, not inherent	
+Pre-Q Basic	<i>Othello</i>: most ironised word?	"Honest" (about fifty uses)	
+Pre-Q Basic	<i>Othello</i>: Emilia's arc?	Complicit (takes the handkerchief) to truth-teller who dies for it	
+Pre-Q Basic	<i>Othello</i>: is Desdemona passive?	No: she elopes, argues in the Senate and campaigns for Cassio	
+Pre-Q Basic	<i>Othello</i> general question: structure?	Chronological by act; no evidence from the printed passage	
+Pre-Q Basic	<i>Othello</i> passage question: structure?	Through the extract, with quoted links out to the rest of the play	
+Pre-Q Basic	Tension vs suspense (drama)?	Tension = pressure in the moment; suspense = waiting for an outcome	
+Pre-Q Cloze	<i>Othello</i>, Iago (I.i): <i>I am {{c1::not what I am}}</i>	Inverts God's <i>I am that I am</i>	
+Pre-Q Cloze	<i>Othello</i>, Iago (I.iii): <i>{{c1::Hell and night}} / Must bring this {{c2::monstrous birth}} to the world's light</i>	Devil imagery	
+Pre-Q Cloze	<i>Othello</i>, Iago (II.iii): <i>I'll pour this {{c1::pestilence}} into his {{c2::ear}}</i>	Poison imagery	
+Pre-Q Cloze	<i>Othello</i>, Iago (V.ii): <i>{{c1::Demand me nothing}}: what you know, {{c2::you know}}</i>	Silence as power	
+Pre-Q Cloze	<i>Othello</i>, Iago to Brabantio (I.i): <i>an old {{c1::black ram}} / Is tupping your {{c2::white ewe}}</i>	Animal imagery + racial slander	
+Pre-Q Cloze	<i>Othello</i>, Brabantio (I.iii): <i>Look to her, Moor, if thou hast eyes to see: / She has {{c1::deceived her father}}, and {{c2::may thee}}</i>	Iago reuses it in III.iii	
+Pre-Q Cloze	<i>Othello</i>, Cassio (II.iii): <i>Reputation, reputation, reputation! O, I have lost {{c1::my reputation}}!</i>	Epizeuxis	
+Pre-Q Cloze	<i>Othello</i>, Iago on reputation: to Cassio <i>an {{c1::idle and most false imposition}}</i>; to Othello <i>the {{c2::immediate jewel}} of their souls</i>	Hypocrisy: reputation as a lever	
+Pre-Q Cloze	<i>Othello</i>, Iago (III.iii): <i>the {{c1::green-eyed monster}} which doth mock / The {{c2::meat it feeds on}}</i>	Jealousy is self-consuming	An eater and its food
+Pre-Q Cloze	<i>Othello</i>, Iago (III.iii): <i>{{c1::Trifles light as air}} / Are to the jealous confirmations strong / As {{c2::proofs of holy writ}}</i>		Religious register
+Pre-Q Cloze	<i>Othello</i>, Othello (III.iii): <i>Give me the {{c1::ocular proof}}</i>	Asks for sight, accepts a story	
+Pre-Q Cloze	<i>Othello</i>, Iago kneeling (III.iii): <i>I am {{c1::your own for ever}}</i>	Parody of a marriage vow (Garber)	
+Pre-Q Cloze	<i>Othello</i>, Iago (III.iii): <i>Not {{c1::poppy}}, nor {{c2::mandragora}} … / Shall ever medicine thee to that sweet sleep</i>	Gloating over Othello's pain	Two sleeping drugs
+Pre-Q Cloze	<i>Othello</i>, Othello (III.iii): <i>when I love thee not, / {{c1::Chaos is come again}}</i>		
+Pre-Q Cloze	<i>Othello</i>, Othello (III.iii): <i>{{c1::Haply}}, for I am black</i>	Internalised prejudice	Means "perhaps"
+Pre-Q Cloze	<i>Othello</i>, Othello (III.iii): <i>Othello's {{c1::occupation's gone}}!</i>	Mourns his career first	
+Pre-Q Cloze	<i>Othello</i>, Othello (IV.i): <i>{{c1::Goats and monkeys}}!</i>	Iago's animal imagery taken over	
+Pre-Q Cloze	<i>Othello</i>, Othello (V.ii): <i>Put out {{c1::the light}}, and then put out {{c1::the light}}</i>	Candle, then her life	Same phrase twice
+Pre-Q Cloze	<i>Othello</i>, Othello (V.ii): <i>I know not where is that {{c1::Promethean heat}} / That can thy light {{c2::relume}}</i>	Life cannot be relit	
+Pre-Q Cloze	<i>Othello</i>, Othello (V.ii): <i>one that loved {{c1::not wisely}} but {{c2::too well}}</i>		Two adverbs of how he loved
+Pre-Q Cloze	<i>Othello</i>, Othello (I.iii): <i>She loved me for the {{c1::dangers I had pass'd}}, / And I loved her that she did {{c2::pity them}}</i>		
+Pre-Q Cloze	<i>Othello</i>, Desdemona (IV.ii): <i>Am I {{c1::that name}}, Iago?</i>		
+Pre-Q Cloze	<i>Othello</i>, Desdemona's last words (V.ii): <i>{{c1::Nobody; I myself}}</i>	Submission or love: argue either	
+Pre-Q Cloze	<i>Othello</i>, Emilia (III.iv): <i>They are all but {{c1::stomachs}}, and we all but {{c2::food}}</i>		
+Pre-Q Cloze	<i>Othello</i>, Emilia (V.ii): <i>'Tis proper I obey him, {{c1::but not now}}</i>		
+Pre-Q Cloze	<i>Othello</i>, Emilia (V.ii): <i>Let heaven and men and devils, let them all, / All, all, {{c1::cry shame against me}}, yet {{c2::I'll speak}}</i>	Opposite of Iago's silence	
