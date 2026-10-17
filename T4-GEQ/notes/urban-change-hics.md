@@ -55,6 +55,8 @@ Specification objectives 2.9 and 2.11 (change and problems). The named examples 
 
 Each stage can happen in the same city at the same time, in different groups.
 
+![The four-stage cycle of urban change, and the inner-city cycle of decline broken by regeneration, with London Docklands](geo-urban-change-cycle.svg)
+
 ## Suburbanisation and suburbia
 
 - **Suburbanisation** is the outward growth of the urban area, as housing spreads onto the edge with residents commuting back in.

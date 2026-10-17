@@ -77,6 +77,8 @@ Theme 1, specification 1.3 (rivers and people). Processes and landforms are on [
 | Soft | **Preparation and insurance** | sandbags, raised power points, emergency kits, insurance | reduces losses | cost to households |
 | Soft | **Managed retreat / buy-outs** | people leave the highest-risk land | removes the exposure permanently | costly; politically hard; breaks up communities |
 
+![Six panels: dam and reservoir, stopbanks, channel straightening, floodplain zoning, afforestation, and the effect of management on a hydrograph](geo-flood-defences.svg)
+
 **Hard engineering** = building artificial structures to control the river. **Soft engineering** = working with natural processes and managing land use and people. **Sustainable** schemes are usually soft or a mix.
 
 *Evaluation checklist:* cost; who benefits and who loses (upstream vs downstream); environmental effect; how long it lasts; whether it copes with an extreme event; whether it moves the problem elsewhere.

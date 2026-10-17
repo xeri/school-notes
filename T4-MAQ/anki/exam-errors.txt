@@ -1,0 +1,49 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Mathematics::0 Exam errors and big ideas
+#tags:mathematics exam-errors
+Pre-Q Basic	Maths: default accuracy for a non-exact answer?	3 significant figures, unless the question states another accuracy	
+Pre-Q Basic	Maths: accuracy for an angle in degrees?	1 decimal place, e.g. 48.2°	
+Pre-Q Basic	Maths: accuracy for a money answer?	2 d.p. — $57.60, never $57.6	2025 final Q1(a)
+Pre-Q Basic	Maths: the question asks for 2 s.f. but the front cover says 3 s.f. Which wins?	The accuracy stated in the question	
+Pre-Q Basic	Maths: 4.39923 to 3 s.f.?	4.40 — keep the trailing zero	
+Pre-Q Basic	Maths rounding: when do you round in a multi-step answer?	Only at the final answer — carry the full calculator value (or exact surd) forward	
+Pre-Q Basic	Maths: why write the long calculator value before the rounded answer?	It shows the method and the rounding, e.g. 60.1442… = 60.1°	
+Pre-Q Basic	Maths "show that" (decimal result): what must the last lines show?	The unrounded value, then the printed value, e.g. 15.0079… = 15.0 (1 d.p.)	
+Pre-Q Basic	Maths "show that" (algebra): how must the working end?	On a line matching the printed result exactly, then "as required" — this is the S mark	
+Pre-Q Basic	Maths "show that": you cannot prove the result. What next?	Use the printed result in the later parts anyway	
+Pre-Q Basic	Maths: "solve" a quadratic in a context — how many roots do you write?	Both, then reject the impossible one with a reason	e.g. "a length cannot be negative"
+Pre-Q Basic	Maths: what does \(x^2 = k\) give?	\(x = \pm\sqrt{k}\) — unless the quantity must be positive (a length, an area)	
+Pre-Q Basic	Maths trig equations: how many solutions for \(\cos x = \tfrac{\sqrt3}{2}\), \(0° \leqslant x \leqslant 360°\)?	Two: 30° and 330° — sketch the graph to find every one	
+Pre-Q Basic	Maths: 2 h 48 min in hours?	2.8 h (48 ÷ 60 = 0.8), not 2.48 h	
+Pre-Q Basic	Maths units: cm³ to litres?	Divide by 1000 (1 litre = 1000 cm³)	
+Pre-Q Basic	Maths units: m² to cm²?	Multiply by 10 000 — square the length factor 100	
+Pre-Q Basic	Maths units: km/h to m/s?	Divide by 3.6	
+Pre-Q Basic	Maths graph roots: what accuracy, unless told otherwise?	1 d.p. — other accuracies lost a mark ("Not 1dp")	
+Pre-Q Basic	Maths graphs: what earns the marks for drawing a curve from a table?	Points plotted accurately, one smooth curve, drawn to the end points of the table	
+Pre-Q Basic	Maths graphs: how do you find the line to draw to solve a new equation?	Rearrange so one side is exactly the plotted function; the other side is the line	
+Pre-Q Basic	Maths graphs: a line meets a curve at one point without crossing it. Name it?	A tangent	
+Pre-Q Basic	Maths sketch of a parabola: what three things are marked?	Vertex (labelled), \(y\)-intercept (labelled), correct shape	
+Pre-Q Basic	Maths statistics: midpoint of the whole-number class 0–19?	9.5 — boundaries −0.5 and 19.5	Using 10 lost a mark
+Pre-Q Basic	Maths histograms: what goes on the vertical axis for unequal widths?	Frequency density = frequency ÷ class width	
+Pre-Q Basic	Maths cumulative frequency: where is each point plotted?	At the upper class boundary	
+Pre-Q Basic	Maths inequalities: the answer is "between" two values. What loses a mark?	Giving only one end — write both, e.g. \(-3 \leqslant x \leqslant 3\)	
+Pre-Q Basic	Maths inequalities: when does the sign reverse?	When multiplying or dividing both sides by a negative number	
+Pre-Q Basic	Maths functions: tidy form for \(g^{-1}(x)\) from \(x = 5-2y\)?	\(g^{-1}(x) = \dfrac{5-x}{2}\) — not \(\dfrac{x-5}{-2}\)	
+Pre-Q Basic	Maths variation: first line of working?	The equation with k, e.g. \(y = \dfrac{k}{\sqrt{x+3}}\) — it is an S mark	
+Pre-Q Cloze	Maths calculus: every indefinite integral ends with {{c1::\(+C\)}}		
+Pre-Q Basic	Maths calculus: first step for \(\dfrac{d}{dx}(2x+1)^2\)?	Expand: \(4x^2+4x+1\), then differentiate to \(8x+4\)	
+Pre-Q Basic	Maths calculus: given \(f'(x)\) and one point, how do you find \(f(x)\)?	Integrate, substitute the point into \(f(x)\) to find C, write the full function	
+Pre-Q Basic	Maths tangent at \(x = a\): where do the gradient and the point come from?	Gradient \(f'(a)\); point \((a, f(a))\); then \(y-y_1 = m(x-x_1)\)	
+Pre-Q Basic	Maths geometry reasons: what must every angle step have?	A reason in its formal name, e.g. "opposite angles of a cyclic quadrilateral"	
+Pre-Q Basic	Maths transformations: full description of a rotation?	Rotation + centre + angle + direction (one mark each)	
+Pre-Q Basic	Maths transformations: full description of an enlargement?	Enlargement + centre + scale factor	
+Pre-Q Basic	Maths transformations: order for \(EF(A)\)?	F first, then E	
+Pre-Q Basic	Maths vectors: how to show P, N, R are collinear?	Show \(\overrightarrow{PN} = k\overrightarrow{PR}\), note the shared point P, and state they lie on a straight line	
+Pre-Q Cloze	Maths similar figures: lengths × \(k\), areas × {{c1::\(k^2\)}}, volumes × {{c2::\(k^3\)}}	Mass and capacity scale like volume	
+Pre-Q Basic	Maths big idea: what is the gradient of a speed–time graph, and what is the area under it?	Gradient = acceleration; area = distance	
+Pre-Q Basic	Maths big idea: what does a graph intersection represent?	The solution of "first graph = second graph"	
+Pre-Q Basic	Maths big idea: what do you do before differentiating, solving or reading a gradient?	Rewrite into the standard form (powers of x; \(=0\); \(y = mx+c\))	
+Pre-Q Basic	Maths big idea: how do you undo a 15% increase?	Divide by 1.15	
+Pre-Q Basic	Maths: an earlier part went wrong. Do later parts still score?	Yes — follow-through marks for consistent work with your own value	

@@ -1,5 +1,7 @@
 # Economics — Pre-Q Syllabus
 
+**Start here:** [Study guide](notes/study-guide.md) · [Policy chains](notes/policy-chains.md) · [Exam practice](notes/exam-practice.md)
+
 **Final exam (Term 4) — the school's stated 2026 format.** One **3-hour** exam at the end of Term 4, **100 marks** in total:
 
 | Section | What you do | Weight |
@@ -15,6 +17,8 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Notes | Cards |
 |---|---|---|---|
+| 0a | Government policy chains: which tool, how it works, when it fails | [notes](notes/policy-chains.md) | [deck](anki/policy-chains.txt) |
+| 0b | Exam practice: data response and 20-mark questions | [notes](notes/exam-practice.md) | [deck](anki/policy-chains.txt) |
 | 1 | Scarcity, choice and economic systems | [notes](notes/foundations.md) | [deck](anki/foundations.txt) |
 | 2 | The New Zealand economy | [notes](notes/nz-economy.md) | [deck](anki/nz-economy.txt) |
 | 3 | Money and exchange | [notes](notes/money.md) | [deck](anki/money.txt) |

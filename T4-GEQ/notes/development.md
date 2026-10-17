@@ -1,6 +1,6 @@
 # Development and inequality
 
-Theme 3, specification 3.1. Named examples: New Zealand (HIC) vs Niger (LIC), and regional inequality within New Zealand. Sectors of the economy, the Clark–Fisher model and globalisation are on [Sectors, economic transition and globalisation](../notes/globalisation.md).
+Theme 3, specification 3.1. Named examples: New Zealand (HIC) vs Niger (LIC), with Mali as supporting data in the class Rostow and Frank exercises, and regional inequality within New Zealand. Sectors of the economy, the Clark–Fisher model and globalisation are on [Sectors, economic transition and globalisation](../notes/globalisation.md).
 
 ## What development means
 

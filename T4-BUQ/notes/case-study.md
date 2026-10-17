@@ -1,6 +1,6 @@
 # Practice case: applying answers to a business
 
-> **Revision practice only — not examined.** This case is a class revision exercise for practising application. The exam has its own unseen business and data, so learn the *method* here, not the facts of this business.
+> **Whole-course revision case.** This case is the class revision exercise for practising application, and it may form the basis of long-answer questions — confirm with your teacher. Learn both the *method* and the facts of this business. Missing answers and predicted questions: [CCC extension](ccc-extension.md).
 
 The case follows a small coffee business, the Crooks Coffee Company (CCC), through three years. Each section below gives the facts you would use, the question types the case asks, and how a model answer earns its marks. Mark labels: **[k]** knowledge, **[app]** application, **[an]** analysis or development, **[ev]** evaluation.
 

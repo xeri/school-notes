@@ -1,0 +1,94 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:English::0 Quote bank
+#tags:english quotes
+Pre-Q Basic	Othello quote: Iago's five-word self-description (I.i)?	<i>"I am not what I am"</i><br>Inverted biblical allusion (God's <i>I am that I am</i>). Deception: the whole play in five words	Iago, Act I
+Pre-Q Basic	Othello quote: Iago's false service to Othello (I.i)?	<i>"I follow him to serve my turn upon him"</i><br>Pun on <i>serve</i>: loyalty as a disguise for revenge	serve my turn
+Pre-Q Basic	Othello quote: Iago's racist animal slander to Brabantio (I.i)?	<i>"an old black ram / Is tupping your white ewe"</i><br>Animal imagery + colour contrast: dehumanising and sexual slander before Othello appears	ram / ewe
+Pre-Q Basic	Othello quote: Iago's grievance about promotion (I.i)?	<i>"Preferment goes by letter and affection, / And not by old gradation"</i><br>Antithesis: his worth denied; the first stated motive	Preferment...
+Pre-Q Basic	Othello quote: Othello's calm authority at night (I.ii)?	<i>"Keep up your bright swords, for the dew will rust them"</i><br>Imperative, wry understatement: authority without violence	swords, dew
+Pre-Q Basic	Othello quote: Othello on public identity (I.ii)?	<i>"My parts, my title, and my perfect soul / Shall manifest me rightly"</i><br>Tricolon: confidence in an identity others can see	parts, title, soul
+Pre-Q Basic	Othello quote: Othello on how Desdemona fell in love (I.iii)?	<i>"She loved me for the dangers I had passed, / And I loved her that she did pity them"</i><br>Balanced lines: love built on stories, so vulnerable to a better storyteller	dangers / pity
+Pre-Q Basic	Othello quote: Desdemona on father and husband (I.iii)?	<i>"I do perceive here a divided duty"</i><br>Measured reasoning in open Senate: female agency	divided...
+Pre-Q Basic	Othello quote: Brabantio's parting warning (I.iii)?	<i>"Look to her, Moor, if thou hast eyes to see: / She has deceived her father, and may thee"</i><br>Rhyming couplet: the seed Iago reuses in III.iii	Look to her, Moor
+Pre-Q Basic	Othello quote: Iago names the virtue he will exploit (I.iii)?	<i>"The Moor is of a free and open nature, / That thinks men honest that but seem to be so"</i><br>Soliloquy: Othello's trust is the weapon	free and open
+Pre-Q Basic	Othello quote: Iago's couplet ending Act I (I.iii)?	<i>"Hell and night / Must bring this monstrous birth to the world's light"</i><br>Rhyming couplet; hell and darkness; the plot as a demonic birth	Hell and night
+Pre-Q Basic	Othello quote: Iago on Roderigo as a money supply (I.iii)?	<i>"Thus do I ever make my fool my purse"</i><br>Soliloquy, metaphor: power through money and hope	fool / purse
+Pre-Q Basic	Othello quote: Othello's joy at the reunion in Cyprus (II.i)?	<i>"If it were now to die, / 'Twere now to be most happy"</i><br>Pun on <i>die</i>; dramatic irony: happiness at a peak it cannot hold	If it were now...
+Pre-Q Basic	Othello quote: Iago's aside as Cassio takes Desdemona's hand (II.i)?	<i>"With as little a web as this will I ensnare as great a fly as Cassio"</i><br>Spider metaphor: tiny gestures become traps	web / fly
+Pre-Q Basic	Othello quote: Cassio after losing his post (II.iii)?	<i>"Reputation, reputation, reputation! O, I have lost my reputation!"</i><br>Epizeuxis, prose: reputation as identity	x3
+Pre-Q Basic	Othello quote: Iago on reputation, to Cassio (II.iii)?	<i>"Reputation is an idle and most false imposition"</i><br>Contradicts his <i>"immediate jewel"</i> to Othello (III.iii): reputation is a lever for him	idle...
+Pre-Q Basic	Othello quote: Iago's plan to poison Othello's mind (II.iii)?	<i>"I'll pour this pestilence into his ear"</i><br>Poison imagery: infection through listening	pestilence
+Pre-Q Basic	Othello quote: Iago turns Desdemona's goodness into a trap (II.iii)?	<i>"And out of her own goodness make the net / That shall enmesh them all"</i><br>Net metaphor: virtue as the trap	net
+Pre-Q Basic	Othello quote: Othello's love speech with a warning in it (III.iii)?	<i>"Perdition catch my soul / But I do love thee! And when I love thee not, / Chaos is come again"</i><br>Foreshadowing; allusion to the pre-creation void: love holds his world in order	Excellent wretch...
+Pre-Q Basic	Othello quote: Iago on reputation, to Othello (III.iii)?	<i>"Good name in man and woman, dear my lord, / Is the immediate jewel of their souls"</i><br>Metaphor; hypocrisy against his II.iii line to Cassio	jewel
+Pre-Q Basic	Othello quote: Iago's warning about jealousy (III.iii)?	<i>"O, beware, my lord, of jealousy! / It is the green-eyed monster which doth mock / The meat it feeds on"</i><br>Personification: the warning plants the jealousy; it devours itself	monster
+Pre-Q Basic	Othello quote: Othello's first explanation for betrayal (III.iii)?	<i>"Haply, for I am black"</i><br>Hesitant clause: internalised Venetian prejudice	Haply...
+Pre-Q Basic	Othello quote: Iago on the handkerchief as proof (III.iii)?	<i>"Trifles light as air / Are to the jealous confirmations strong / As proofs of holy writ"</i><br>Simile, religious register: a trifle becomes proof	Trifles
+Pre-Q Basic	Othello quote: Othello mourns his military life (III.iii)?	<i>"Farewell the tranquil mind! Farewell content!"</i> ... <i>"Othello's occupation's gone"</i><br>Anaphora: he grieves career and peace before his wife	Farewell...
+Pre-Q Basic	Othello quote: Othello demands evidence (III.iii)?	<i>"Give me the ocular proof"</i><br>Imperative, legal diction: demands sight, accepts a story	ocular
+Pre-Q Basic	Othello quote: Iago's vow at the kneeling (III.iii)?	<i>"I am your own for ever"</i><br>Parody of a marriage vow (Garber): Iago replaces Desdemona	kneeling
+Pre-Q Basic	Othello quote: Emilia on how men treat women (III.iv)?	<i>"They are all but stomachs, and we all but food"</i><br>Extended appetite metaphor: women consumed, then discarded	stomachs
+Pre-Q Basic	Othello quote: Emilia on jealousy needing no cause (III.iv)?	<i>"They are not ever jealous for the cause, / But jealous for they're jealous"</i><br>Circular repetition: jealousy is self-generating	jealous for...
+Pre-Q Basic	Othello quote: Othello's prose collapse (IV.i)?	<i>"Lie with her? Lie on her? ... Handkerchief—confessions—handkerchief!"</i><br>Prose, fragments, pun on <i>lie</i>: mind and verse break together	Lie with her?
+Pre-Q Basic	Othello quote: Iago gloats over Othello's fit (IV.i)?	<i>"Work on, / My medicine, work!"</i><br>Apostrophe; poison called medicine: pain as proof of power	medicine
+Pre-Q Basic	Othello quote: Lodovico's verdict after Othello strikes Desdemona (IV.i)?	<i>"Is this the noble Moor whom our full Senate / Call all in all sufficient?"</i><br>Rhetorical question: the public measure of his fall	noble Moor
+Pre-Q Basic	Othello quote: Othello's book metaphor for Desdemona (IV.ii)?	<i>"Was this fair paper, this most goodly book, / Made to write 'whore' upon?"</i><br>Metaphor: a woman as a page men write on	fair paper
+Pre-Q Basic	Othello quote: Emilia describes the villain to his face (IV.ii)?	<i>"I will be hanged if some eternal villain, / Some busy and insinuating rogue ... Have not devised this slander"</i><br>Dramatic irony at its height	eternal villain
+Pre-Q Basic	Othello quote: Desdemona's love despite cruelty (IV.ii)?	<i>"Unkindness may do much, / And his unkindness may defeat my life, / But never taint my love"</i><br>Repetition of <i>unkindness</i>; foreshadowing	never taint
+Pre-Q Basic	Othello quote: Emilia on equality in marriage (IV.iii)?	<i>"Let husbands know / Their wives have sense like them"</i><br>Imperative: the play's counter-argument, given to a servant	Let husbands know
+Pre-Q Basic	Othello quote: Iago's envy of Cassio (V.i)?	<i>"He hath a daily beauty in his life / That makes me ugly"</i><br>Antithesis beauty/ugly: the nearest thing to a real motive	daily beauty
+Pre-Q Basic	Othello quote: Othello's ritual opening before the murder (V.ii)?	<i>"It is the cause, it is the cause, my soul"</i><br>Epizeuxis: murder rehearsed as justice	the cause
+Pre-Q Basic	Othello quote: Emilia refuses to obey Iago (V.ii)?	<i>"'Tis proper I obey him, but not now"</i><br>Caesura and the turn on <i>but</i>: the limit of Iago's power	obey
+Pre-Q Basic	Othello quote: Iago's last words (V.ii)?	<i>"Demand me nothing. What you know, you know. / From this time forth I never will speak word"</i><br>Refusal and silence: withholding as his final power	Demand...
+Pre-Q Basic	Othello quote: Othello's epitaph for himself (V.ii)?	<i>"Of one that loved not wisely, but too well"</i><br>Antithesis: self-judgement or self-excuse	wisely
+Pre-Q Basic	Othello quote: the Prometheus allusion (V.ii)?	<i>"I know not where is that Promethean heat / That can thy light relume"</i><br>Mythical allusion: stolen divine fire; a life cannot be relit	Promethean
+Pre-Q Cloze	Othello: Iago (I.ii): By {{c1::Janus}}<br>(the two-faced Roman god)	Mythical allusion: he swears by his own nature	two faces
+Pre-Q Cloze	Othello: Othello (III.iii): I'll {{c1::see}} before I {{c2::doubt}}; when I doubt, {{c3::prove}}	Ironic: he never sees real proof	see / doubt / prove
+Pre-Q Cloze	Othello: Othello (III.iii): Like to the {{c1::Pontic Sea}}, / Whose icy current and {{c2::compulsive course}}	Epic simile: revenge that cannot turn back	sea
+Pre-Q Cloze	Othello: Othello (III.iii): begrimed and {{c1::black}} / As {{c2::mine own face}}	Self-contempt: the outsider has taken in the insult	colour
+Pre-Q Cloze	Othello: Emilia (III.iii): I nothing but to please his {{c1::fantasy}}	Complicity: she gives Iago the handkerchief	whim
+Pre-Q Cloze	Othello: Othello (III.iv): there's {{c1::magic}} in the {{c2::web}} of it	The handkerchief made sacred: love turned into a test	handkerchief
+Pre-Q Cloze	Othello: Bianca (III.iv): 'Tis very good. I must be {{c1::circumstanced}}	A woman accepts love on a man's terms	accept circumstances
+Pre-Q Cloze	Othello: Othello (IV.ii): a {{c1::cistern}} for foul {{c2::toads}} / To knot and gender in	Purity polluted: Othello now thinks in Iago's register	fountain
+Pre-Q Cloze	Othello: Desdemona (IV.ii): I cannot say '{{c1::whore}}.' / It does {{c2::abhor}} me now I speak the word	Pun whore/abhor: language as violence	rhyming pair
+Pre-Q Cloze	Othello: Desdemona (V.ii): Kill me {{c1::tomorrow}}; let me live {{c2::tonight}}!	Pleading as delay: the murder made unbearable	time
+Pre-Q Cloze	Othello: Emilia (V.ii): O gull! O {{c1::dolt}}! / As ignorant as {{c2::dirt}}!	The servant judges the general	insults
+Pre-Q Cloze	Othello: Othello (V.ii): I look down towards his {{c1::feet}}; but that's a {{c2::fable}}	Devil allusion (cloven hooves): evil looks like any man	devil
+Pre-Q Cloze	Othello: Othello (V.ii): of one whose hand, / Like the base {{c1::Judean}}, threw a {{c2::pearl}} away / Richer than all his tribe	The Folio reads Judean; the quarto reads Indian	Folio / quarto
+Pre-Q Basic	TTSS film: director, year and novelist?	Tomas Alfredson (Swedish), 2011; from John le Carré's 1974 novel	
+Pre-Q Basic	TTSS film: cinematographer and composer?	Hoyte van Hoytema; Alberto Iglesias (not Julio Iglesias, who sings <i>La Mer</i>)	H.v.H. / A.I.
+Pre-Q Basic	TTSS film: the five code names?	Tinker = Alleline; Tailor = Haydon; Soldier = Bland; Poorman = Esterhase; Beggarman = Smiley	nursery rhyme
+Pre-Q Basic	TTSS film: who is the mole, and what real spy is he based on?	Bill Haydon (Colin Firth); a Kim Philby figure (Cambridge Five, defected 1963)	Tailor
+Pre-Q Basic	TTSS film: Smiley's first words to Ricki Tarr?	<i>"Hello Ricki."</i><br>Mid-shot of Smiley sensing a visitor in his dark house: watchfulness and calm	Smiley's house
+Pre-Q Basic	TTSS film: how is Tarr lit when we first see him?	Low-key lighting hides his face while Smiley is lit: danger and distrust (school's model essay)	lighting
+Pre-Q Basic	TTSS film: Tarr on who wants him dead?	<i>"your lot"</i> or <i>"their lot"</i>: colloquial; both British and Russians are hunting him, so the audience sympathises	your lot / their lot
+Pre-Q Basic	TTSS film: what Irina tells Tarr she wants?	<i>"I have something to trade… I want a new life in the West."</i><br>Defection, hope, freedom against constraint	trade
+Pre-Q Basic	TTSS film: Tarr on what he is to the Circus?	<i>"I'm one of the scalp-hunters. Someone that you can hand your dirty little jobs to."</i><br>Represents a group: expendable field agents	scalp...
+Pre-Q Basic	TTSS film: why Tarr went against orders?	<i>"I just wanted to bring this one in myself."</i><br>Agency; the search for purpose	bring this one in
+Pre-Q Basic	TTSS film: the shot of Tarr and Irina in Istanbul?	A two-shot of them in a convertible around the Istanbul docks: warmth and freedom against grey London	convertible
+Pre-Q Basic	TTSS film: what happens in the Budapest opening?	Prideaux meets a contact; the waiter sweats; a woman watches from a window; he walks away and is shot. Near-silence, POV on small details	café
+Pre-Q Basic	TTSS film: what is the Circus meeting room like, and what does it mean?	Windowless, lined with orange soundproofing: an institution sealed so it hears only itself, so it cannot find the enemy inside	orange
+Pre-Q Basic	TTSS film: what is sung at the Christmas party?	The Soviet anthem, led by Father Christmas in a Lenin mask: the enemy's song inside British intelligence (diegetic irony)	anthem
+Pre-Q Basic	TTSS film: how is the Christmas party structured?	A recurring flashback in fragments, each return showing more (Smiley seeing Ann; a look between Haydon and Prideaux)	non-linear
+Pre-Q Basic	TTSS film: what Prideaux does with the owl?	It comes down the chimney and panics in the classroom; he kills it with his bare hands. Foreshadows his killing of Haydon	classroom
+Pre-Q Basic	TTSS film: what is unusual about the Karla monologue?	A long take, no score; Smiley speaks partly to an empty chair: the antagonist is an absence	empty chair
+Pre-Q Basic	TTSS film: the song over the closing montage, and its effect?	Julio Iglesias's <i>La Mer</i>: warm, romantic, non-diegetic music over loneliness and death (irony)	French song
+Pre-Q Basic	TTSS film: the final image?	Smiley takes the head chair in the Circus room: circular structure, the game continues	chair
+Pre-Q Basic	TTSS film: how is Guillam's break-up edited?	Elliptically: the conversation itself is not shown; near-silence. The private cost of loyalty	ellipsis
+Pre-Q Basic	TTSS film: Haydon's stated reason for betrayal?	His choice was aesthetic as much as moral, because the West had grown ugly. (Exact wording: check against the film)	aesthetic
+Pre-Q Basic	TTSS film: who never appears on screen?	Karla (never seen); Ann is barely seen	absent
+Pre-Q Basic	TTSS film: the colour palette?	Muted browns, greys and mustard; warmer colour only in memory (the party) and love (Istanbul)	1970s
+Pre-Q Basic	TTSS film: what Smiley's glasses do?	New glasses mark present scenes from flashbacks; theme of seeing clearly	props
+Pre-Q Basic	TTSS film: Smiley's ritual in retirement?	Swimming alone in the Hampstead Heath ponds: solitude, endurance, the anti-Bond	water
+Pre-Q Basic	TTSS film: why is the story told out of order?	The viewer assembles fragments as an intelligence analyst does: structure as subjective perspective	analyst
+Pre-Q Basic	TTSS film: what Haydon says about the affair with Ann?	Karla's idea: Smiley would not be able to see Haydon straight. Smiley: <i>"Up to a point."</i> (check against the film)	blind spot
+Pre-Q Basic	TTSS film: what Smiley says about Karla's weakness?	<i>"He's a fanatic. And the fanatic is always concealing a secret doubt."</i> (check against the film). Reads as a portrait of Smiley himself	fanatic
+Pre-Q Basic	TTSS film: Haydon's last words?	<i>"Just like us, Jim. Best days."</i> (check against the film)	Sarratt
+Pre-Q Basic	TTSS film: what Control calls the mole?	<i>"a rotten apple"</i> (check against the film): proverbial/Eden allusion	fruit
+Pre-Q Cloze	TTSS film: Smiley tells Tarr, "Well I understand how you felt. You wanted to {{c1::do something}}."	Smiley's empathy for the man who acted on love	
+Pre-Q Cloze	TTSS film: Tarr's story turns when "all of a sudden, the {{c1::Russians}} began to {{c2::move}}."	The mole has warned Moscow	
+Pre-Q Cloze	TTSS film: Control tapes the suspects' {{c1::photographs}} onto {{c2::chess pieces}}	Men reduced to pieces in a game	props
+Pre-Q Cloze	TTSS film: Karla kept Smiley's {{c1::lighter}}, a gift from {{c2::Ann}}	Love turned into an operational weakness	1955
+Pre-Q Cloze	TTSS film: Prideaux tells Smiley, "You were {{c1::Beggarman}}." (check against the film)	Even Smiley was a suspect	code name

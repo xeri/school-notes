@@ -1,0 +1,67 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Geography::00 Models, processes and overlaps
+#tags:geography models-overlaps
+Pre-Q Basic	Geography: urbanisation vs urban growth	Urbanisation = rising <b>proportion</b> urban; urban growth = more urban <b>people or area</b>	proportion vs number
+Pre-Q Basic	Geography: urban sprawl vs over-urbanisation	Sprawl = uncontrolled low-density spread onto rural land; over-urbanisation = urban population growing faster than jobs, housing and services	HIC edge vs LIC slums
+Pre-Q Basic	Geography: suburbanisation vs counter-urbanisation	Suburbanisation = moving to the edge of the same city; counter-urbanisation = leaving the city for small towns and villages	same city or not?
+Pre-Q Basic	Geography: re-urbanisation vs gentrification	Re-urbanisation = people moving back into the inner city; gentrification = richer people renovating run-down inner housing and displacing poorer residents	movement vs who replaces whom
+Pre-Q Basic	Geography: rural–urban vs international migration	Rural–urban = countryside to city within a country (urbanisation); international = across a border (Samoa → NZ, Syria)	
+Pre-Q Basic	Geography: dependency ratio vs dependency theory	Dependency ratio = dependants per 100 aged 15–64 (Section B); dependency theory = Frank's core exploiting the periphery (Section C)	B vs C
+Pre-Q Basic	Geography: core–periphery vs core–frame	Core–periphery = rich vs poor countries or regions (C); core–frame = the inner structure of the CBD only (B)	
+Pre-Q Basic	Geography: over-population vs high density	Over-population = too many people for the resources and technology; high density = many people per km² (Singapore is dense, not over-populated)	
+Pre-Q Basic	Geography: weathering vs erosion	Weathering = breakdown of rock in place; erosion = wearing away and removal by a moving agent	movement?
+Pre-Q Basic	Geography: corrosion vs carbonation	Corrosion = erosion by acidic river or sea water dissolving rock; carbonation = weathering of limestone by rainwater carbonic acid	erosion vs weathering
+Pre-Q Basic	Geography: magnitude vs intensity	Magnitude = energy released (Richter, moment magnitude); intensity = effects felt (Mercalli)	
+Pre-Q Basic	Geography: Burgess vs Griffin–Ford, which way does wealth go?	Burgess (HIC): wealth rises outwards; Griffin–Ford (Latin America): wealth falls outwards, squatters on the edge	
+Pre-Q Basic	Geography: does bid-rent theory draw zones?	No: it explains why land uses sort by distance (accessibility, who can pay most); the zone models draw the pattern	
+Pre-Q Basic	Geography: DTM vs Rostow vs Clark–Fisher, what does each plot?	DTM: birth and death rates; Rostow: stages of economic growth; Clark–Fisher: % employed in each sector	stage numbers do not match
+Pre-Q Basic	Geography: Butler vs urbanisation curve, what does each plot?	Butler: tourist numbers at one resort over time (6 stages); urbanisation curve: % of a country urban over time (3 phases)	
+Pre-Q Basic	Geography: river vs coastal hard defences	River: dams, stopbanks, channel straightening, relief channels; coast: sea walls, groynes, rock armour, gabions, revetments	river methods not credited in coastal answers
+Pre-Q Basic	Geography: birth rate and life expectancy in Section B vs Section C	B: explain population change; C: use them as development indicators (what they reveal or hide)	
+Pre-Q Basic	Geography: which section is global warming in?	Section C (development and resources), not A	natural climate is A
+Pre-Q Basic	Geography: which section is rural development to slow migration in?	Section B: a strategy for rapid urban growth in LICs	urbanisation topic
+Pre-Q Basic	Geography: which section are food shortages in?	Section C (farming); over-population as a concept is B	
+Pre-Q Basic	Geography: mitigation vs adaptation	Mitigation = cutting the cause (emissions); adaptation = living with the effects (sea walls, moving)	
+Pre-Q Basic	Geography: HIC vs LIC urban solutions	HIC: green belts / RUB, intensification, regeneration; LIC: site-and-service, in-situ upgrading, self-help, rural development	
+Pre-Q Basic	Hjulström curve: which particle is easiest to erode, and why is clay hard?	Sand (about 0.1–1 mm); clay is cohesive and lies flat, so it needs a higher velocity	log scales
+Pre-Q Basic	Bradshaw model: why does velocity rise downstream when the gradient falls?	Deeper, wider, smoother channel → less friction → less energy lost	
+Pre-Q Basic	Schumm model: bedload vs suspended-load channels	Bedload → wide, shallow, often braided; suspended load → narrow, deep, sinuous	Canterbury rivers
+Pre-Q Basic	Braided channel: 3 steps	Coarse bedload + variable discharge → falling discharge drops gravel bars → flow splits round them into many threads	Waimakariri
+Pre-Q Basic	Washland: what is it?	Floodplain land deliberately allowed to flood to store water and lower the peak downstream	Waikato ponding areas
+Pre-Q Basic	Wave refraction: 3 steps	Waves slow first in shallow water off a headland → crests bend → energy converges on headlands (erosion), diverges in bays (beaches)	
+Pre-Q Basic	Sub-aerial processes: what are they?	Weathering, rain wash and mass movement attacking a cliff from above, out of reach of the waves	
+Pre-Q Basic	Coastal slumping: 3 steps	Rain saturates soft cliff material → heavier, less friction → it rotates down a curved slip plane, leaving a crescent scar	Muriwai 2023
+Pre-Q Basic	Concordant vs discordant coast	Concordant: rock bands parallel to the coast (coves); discordant: bands at right angles (headlands and bays)	
+Pre-Q Basic	Dune succession: the sequence inland	Embryo → yellow (fore) dunes → grey dunes → dune slacks → mature dunes (scrub, forest)	older, more humus inland
+Pre-Q Basic	Benioff zone: what is it?	The sloping band of earthquake foci along a subducting plate, deepening away from the trench	NZ: deepens westward
+Pre-Q Basic	Coriolis effect: which way does it deflect air in the Southern Hemisphere?	To the left (to the right in the Northern Hemisphere); zero at the equator	south-east trades
+Pre-Q Basic	Cycle of urban change: the four stages in order	Urbanisation → suburbanisation → counter-urbanisation → re-urbanisation	
+Pre-Q Basic	Inner-city decline: the downward spiral	Deindustrialisation → job losses → wealthier leave, rates fall → decay → poor image, no investment → more decline	broken by regeneration
+Pre-Q Basic	Multiplier effect: 3 steps	New factory or resort → wages spent locally, suppliers expand → more jobs and taxes (in reverse when it closes)	VW Wolfsburg
+Pre-Q Basic	Cycle of poverty: 3 steps	Low income → poor diet, health and schooling, no savings → low productivity, no investment → low income again	
+Pre-Q Basic	Griffin–Ford: where are the rich and the squatters?	Rich near the CBD and along the commercial spine; squatters on the periphery and on disamenity land	
+Pre-Q Basic	Core–frame model: what is in the frame?	Car parks, stations, warehouses, wholesalers, car showrooms, colleges, government offices	
+Pre-Q Basic	Lee's push–pull model: the four parts	Origin factors, destination factors, intervening obstacles, personal factors	
+Pre-Q Basic	Rostow's five stages	Traditional → preconditions for take-off → take-off → drive to maturity → high mass consumption	
+Pre-Q Basic	Frank's dependency theory: one line	The periphery exports low-value raw materials to the core, which processes them and grows rich at its expense	
+Pre-Q Basic	Clark–Fisher model: one line	As a country develops, employment shifts from primary to secondary to tertiary (and quaternary)	
+Pre-Q Basic	Butler's six stages	Exploration → involvement → development → consolidation → stagnation → decline or rejuvenation	
+Pre-Q Basic	Von Thünen: one line	Intensive, perishable produce near the market; extensive farming further out, as land rent falls and transport cost rises	Pukekohe
+Pre-Q Basic	Christaller: why hexagons?	Hexagons are circle-like market areas that fit together with no gaps or overlaps	
+Pre-Q Basic	Hoyt sector model: one line	Land uses grow outwards in wedges along transport routes; poor housing beside industry, rich housing on attractive land	
+Pre-Q Basic	Harris–Ullman: one line	The city grows round several nuclei; similar uses cluster and unlike uses repel	fits Auckland
+Pre-Q Basic	Invasion and succession: one line	A new group or land use moves in (invasion) and the original occupants leave (succession)	
+Pre-Q Basic	Filtering: one line	Housing passes down the income scale as it ages while wealthier households move out to new suburbs	
+Pre-Q Basic	Site-and-service vs in-situ upgrading	Site-and-service: new serviced plots, residents build; in-situ: improve the existing slum in place	Diepsloot vs Favela-Bairro
+Pre-Q Basic	Earthquake cause: what to write instead of plates bumping	Friction locks the plates → pressure builds → sudden pressure release → seismic waves	examiner report
+Pre-Q Basic	Exam: which case study for the HIC vs LIC development gap?	New Zealand vs Niger (class indicator table); Mali is supporting data for Rostow and Frank	
+Pre-Q Basic	Exam: which case study for flooding in an LIC?	Bangladesh (1998)	
+Pre-Q Basic	Exam: which case study for climate migration?	Kiribati (Pacific Access Category; land bought in Fiji, 2014)	
+Pre-Q Cloze	Hard engineering = {{c1::artificial structures that control the river or sea}}; soft engineering = {{c2::working with natural processes and managing land use}}		
+Pre-Q Cloze	Waterfall formation needs {{c1::hard rock over soft rock}}; the fall {{c2::retreats upstream}}, leaving a {{c3::gorge}}		
+Pre-Q Cloze	A spit forms where {{c1::the coastline changes direction}}; it has a {{c2::recurved}} tip with {{c3::salt marsh}} behind		
+Pre-Q Cloze	Ox-bow lake: a {{c1::flood}} cuts through the {{c2::neck}} of a meander, then {{c3::deposition}} seals the old loop		
+Pre-Q Cloze	Stopbanks hold more water in the channel but {{c1::pass the flood downstream}} and fail badly if {{c2::overtopped}}	Hawke's Bay, 2023	
+Pre-Q Cloze	Groynes trap sediment moving by {{c1::longshore drift}} but {{c2::starve the coast downdrift}}		

@@ -18,6 +18,8 @@ Theme 1, specification 1.6. Coral reefs are not examined. Named examples: Muriwa
 | Effect | deposit material, **build** beaches | remove material, **erode** beaches and cliffs |
 | Typical conditions | calm weather, distant storms | storms, strong local winds |
 
+![Constructive waves: low and flat with strong swash on a gentle beach; destructive waves: high and steep with strong backwash on a steep beach; fetch explained](geo-wave-types.svg)
+
 ## Coastal processes
 
 | Erosion process | Mechanism |
@@ -39,6 +41,8 @@ Sub-aerial processes (weathering and mass movement on the cliff face, rain wash,
 **Deposition** happens where waves lose energy: sheltered bays, behind headlands and islands, where the coastline changes direction, in estuaries, and where constructive waves dominate.
 
 **Wave refraction** — waves slow and bend as they approach an irregular coast: they slow first in the shallow water off a **headland**, so their crests bend and **wave energy converges on the headland** (erosion) and **diverges in the bay** (deposition, beaches).
+
+![Plan view of wave refraction: crests bend round a headland so energy arrows converge on it and spread out in the bays, where beaches form](geo-wave-refraction.svg)
 
 **Sea-level change**
 - **Rise** (end of the ice age, global warming) → **submergent** coast: drowned river valleys (**rias**, e.g. Auckland's Waitematā Harbour), drowned glacial troughs (**fiords**, e.g. Milford Sound).
@@ -86,6 +90,10 @@ Sub-aerial processes (weathering and mass movement on the cliff face, rain wash,
 | energy (wind, tidal, wave) | coastal pollution, sediment build-up blocking harbours |
 
 ## Managing coastal hazards
+
+**Hard engineering** = building artificial structures (walls, groynes, rock armour) that resist the sea. **Soft engineering** = working with natural processes (beaches, dunes, retreat) and managing land use.
+
+![Six coastal defences: sea wall, groynes, rock armour, gabions, beach nourishment, and dune planting and fencing](geo-coastal-defences.svg)
 
 | Method | Type | How it works | Strengths | Weaknesses |
 |---|---|---|---|---|

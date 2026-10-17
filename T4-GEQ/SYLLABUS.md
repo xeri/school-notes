@@ -1,5 +1,7 @@
 # Geography — Pre-Q Syllabus
 
+**Start here:** [Study guide](notes/study-guide.md) · [Models index](notes/models-index.md) · [Overlaps](notes/overlaps.md)
+
 The course is Pre-Q Geography at Auckland Grammar School. It is based almost entirely on **Cambridge IGCSE Geography (0460)**, and the school's own 2025 specification sets out the objectives below.
 
 ## Term 4 examination, 2026 format
@@ -57,10 +59,14 @@ Term 1, Term 2 and Term 4 results together are used for Form 6 placement.
 ## Pages and decks
 
 Reference: [TERMS.md](TERMS.md) glossary · [CASE-STUDIES.md](CASE-STUDIES.md) named examples with facts and figures, by theme
-Flashcards: [anki/](anki/): tab-separated decks, one per page, numbered by theme (01–19 Theme 2, 20–29 Theme 1, 40–49 Theme 3, 60–69 skills). Import with **File → Import** in Anki.
+Flashcards: [anki/](anki/): tab-separated decks, one per page, numbered by theme (00 models, processes and overlaps; 01–19 Theme 2, 20–29 Theme 1, 40–49 Theme 3, 60–69 skills). Import with **File → Import** in Anki.
 
 | Deck | Page | Notes | Cards |
 |---|---|---|---|
+| **Start here** | | | |
+| — | Geography study guide (exam Wed 4 Nov) | [notes](notes/study-guide.md) | — |
+| 00 | Named models, processes and solutions: the index | [notes](notes/models-index.md) | [deck](anki/models-overlaps.txt) |
+| 00 | How the topics overlap, and where to keep them apart | [notes](notes/overlaps.md) | [deck](anki/models-overlaps.txt) |
 | **Theme 1: Natural Environment** | | | |
 | 20 | The geomorphic cycle and plate tectonics | [notes](notes/tectonics.md) | [deck](anki/tectonics.txt) |
 | 21 | Weathering, mass movement and wind | [notes](notes/weathering.md) | [deck](anki/weathering.txt) |

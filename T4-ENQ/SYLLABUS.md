@@ -1,5 +1,7 @@
 # English — Pre-Q Syllabus
 
+**Start here:** [Study guide](notes/study-guide.md) · [Othello quotes](notes/othello-quotes.md) · [Othello scenes](notes/othello-scenes.md) · [Film story](notes/film-story.md) · [Context](notes/context.md)
+
 **Final exam (Term 4):** Papers **1, 3 and 4**. Paper 2 (the studied novel) is sat in Term 2, not Term 4.
 The 2026 details state **one hour and 25 marks for each paper**. The 2025 final (Friday 24 October 2025) used the same three-paper set in a single sitting: three hours, 75 marks, one question from each paper. Its exact structure is set out [below](#the-2025-term-4-paper-exactly). The final Pre-Q grade aggregates Papers 1, 2, 3 and 4 at **25% each**: Paper 2 from the Term 2 exam, and Papers 1, 3 and 4 from Term 4.
 
@@ -21,6 +23,11 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 | 3 | Paper 4 film analysis | [notes](notes/film.md) | [deck](anki/film.txt) |
 | 4 | Writing and argument | [notes](notes/writing.md) | [deck](anki/writing.txt) |
 | 5 | Biblical and mythical allusions (Paper 1) | [notes](notes/allusions.md) | [deck](anki/allusions.txt) |
+| 6 | Study guide: priority order and method | [notes](notes/study-guide.md) | — |
+| 7 | Othello quote bank and essay plans (Paper 3) | [notes](notes/othello-quotes.md) | [deck](anki/quotes.txt) |
+| 8 | Othello key scenes, beat by beat (Paper 3) | [notes](notes/othello-scenes.md) | [deck](anki/quotes.txt) |
+| 9 | Film story, dialogue and plans (Paper 4) | [notes](notes/film-story.md) | [deck](anki/quotes.txt) |
+| 10 | Authors and context (Papers 3 and 4) | [notes](notes/context.md) | — |
 
 Topic 4 is assessed in all three papers, through the organisation and expression criteria on every paper and the response-to-question criterion on Papers 3 and 4.
 

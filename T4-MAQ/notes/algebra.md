@@ -153,6 +153,89 @@ The **discriminant** $b^2-4ac$ tells you the number of roots: positive → two, 
 
 $$x^2 \leqslant 9 \Rightarrow x^2-9 \leqslant 0 \Rightarrow -3 \leqslant x \leqslant 3 \qquad x^2-x-6 > 0 \Rightarrow x < -2 \text{ or } x > 3$$
 
+## Forming quadratics from a context
+
+The 2023, 2024 and 2025 finals each had 11–25 marks of quadratics built from a context. The steps are always the same:
+
+1. **Write the fact in words**, then substitute the expressions.
+2. **Expand and rearrange** to $ax^2+bx+c = 0$ (often a "show that" — see below).
+3. **Solve**, giving both roots.
+4. **Reject** the root that is impossible in the context, **with a reason**.
+5. **Answer the question asked** — usually a length or a time, not $x$ — with units.
+
+| Context | Fact to write | Final |
+|---|---|---|
+| Area of a rectangle or parallelogram | area $=$ base × height | 2023 Q3: $(x+4)(x+3) = 156$; 2024 Q2: $x(x-1.5) = 52$ |
+| Area of a triangle | area $= \tfrac12$ base × height | 2025 Q2: $300 = \tfrac12\cdot6(x+2)\cdot4(x+2)$ |
+| Right-angled triangle | $a^2+b^2 = c^2$ | 2024 Q3(c) |
+| Two parts of a journey | time $= \dfrac{\text{distance}}{\text{speed}}$, times add to the total | 2024 Q8; 2025 Q8 |
+
+*Worked example (2024 Q3(c)) — Pythagoras.* A right-angled triangle has sides $x+1$, $x+3$ and hypotenuse $x+5$.
+
+$$(x+1)^2+(x+3)^2 = (x+5)^2$$
+$$x^2+2x+1+x^2+6x+9 = x^2+10x+25$$
+$$x^2-2x-15 = 0$$
+$$(x-5)(x+3) = 0 \Rightarrow x = 5 \text{ or } x = -3$$
+
+Reject $x = -3$: the side $x+1$ would be $-2$, and a length cannot be negative. So $x = 5$ and the sides are 6, 8 and 10 cm.
+
+*Worked example (2024 Q2) — area.* A shape has base $x$ m and perpendicular height $(x-1.5)$ m, and its area is 52 m².
+
+$$x(x-1.5) = 52 \Rightarrow x^2-1.5x-52 = 0 \Rightarrow 2x^2-3x-104 = 0$$
+$$(x-8)(2x+13) = 0 \Rightarrow x = 8 \text{ or } x = -6.5$$
+
+Reject $-6.5$ (a negative length). The base is 8 m and the height 6.5 m. Doubling to clear the decimal made it easier to factorise.
+
+*Worked example (2024 Q8 equation) — times.* The times $\dfrac{12}{x}$ hours and $\dfrac{26}{x+10}$ hours add to 2 hours 48 minutes. Convert first: 48 min $= 0.8$ h, so the total is 2.8 h.
+
+$$\frac{12}{x}+\frac{26}{x+10} = 2.8$$
+
+Multiply **every** term by the common denominator $x(x+10)$:
+
+$$12(x+10)+26x = 2.8(x^2+10x)$$
+$$38x+120 = 2.8x^2+28x$$
+$$2.8x^2-10x-120 = 0 \Rightarrow 7x^2-25x-300 = 0$$
+$$x = \frac{25\pm\sqrt{25^2-4(7)(-300)}}{2(7)} = \frac{25\pm95}{14} \Rightarrow x = 8.57 \text{ or } x = -5$$
+
+Reject $-5$: a speed cannot be negative. The first part takes $\dfrac{12}{8.571\ldots} = 1.40$ hours (2 d.p.), which is 84 minutes.
+
+*Same method, 2025 Q8.* $\dfrac{12}{x-40}+\dfrac{50}{x} = \dfrac{11}{5}$ gave $11x^2-750x+10\,000 = 0$, so $x = 50$ or $18.18\ldots$. The scheme rejects 18.18 — it makes the speed $x-40$ negative. Then the time is $\dfrac{12}{50-40} = 1.2$ hours (1 hour 12 minutes).
+
+**Mark-losing errors:** mixing hours and minutes (2 h 48 min is 2.8 h, not 2.48 h); multiplying only the fractions, not the right-hand side, by the common denominator; giving only the positive root without showing the other was rejected; stopping at $x = 5$ when the question asks for the sides.
+
+## "Show that" technique
+
+When the answer is printed in the question, every mark is for the working, and the last mark is usually an S mark for reaching the result.
+
+1. Start from the information in the question, **never** from the answer.
+2. Write one step per line: substitute, multiply out, collect.
+3. End on a line that matches the printed result **exactly**, then write "as required" or "shown".
+4. For a decimal result, show the unrounded value first, then round to the printed value.
+5. If you cannot show it, use the printed result in the next parts anyway.
+
+*Worked example (2025 Q2(b)(i)).* A triangle has base $6(x+2)$ m, perpendicular height $4(x+2)$ m and area 300 m². Show that $x^2+4x-21 = 0$.
+
+$$300 = \tfrac12\times6(x+2)\times4(x+2) \qquad \text{(M)}$$
+$$600 = 24(x+2)^2 \qquad \text{(M)}$$
+$$25 = x^2+4x+4$$
+$$x^2+4x-21 = 0 \quad \text{as required} \qquad \text{(S)}$$
+
+Then (b)(ii): $(x+7)(x-3) = 0$, so $x = 3$ or $x = -7$ — the scheme wanted **both**. In (b)(iii), $x = 3$ gives base 30 m and height 20 m.
+
+*Worked example (2022 Q2(c)(i)) — clearing a fraction.* Show that $3x-\dfrac5x = x-1$ gives $2x^2+x-5 = 0$.
+
+$$x\times\left(3x-\frac5x\right) = x\times(x-1) \qquad \text{(multiply)}$$
+$$3x^2-5 = x^2-x \qquad \text{(expand)}$$
+$$2x^2+x-5 = 0 \qquad \text{(simplify)}$$
+
+*Worked example (2025 Q11(a)(i)) — a decimal.* Show that $AC = 15.0$ cm to 1 d.p.
+
+$$\frac{AC}{\sin54°} = \frac{17.2}{\sin68°} \Rightarrow AC = \frac{17.2\sin54°}{\sin68°} = 15.0079\ldots = 15.0 \text{ cm (1 d.p.)}$$
+
+Writing only "$= 15.0$" would not show anything — the unrounded value is the evidence.
+
+**Mark-losing errors:** working backwards from the printed answer; jumping from the substitution straight to the result; rounding before the last line; no final statement.
+
 ## Sequences
 
 **Linear (arithmetic).** Constant first difference $d$:

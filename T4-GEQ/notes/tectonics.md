@@ -79,6 +79,8 @@ The landscape is built, worn down, and its material is recycled — all at the s
 | **Folding** | compression buckles layers of sedimentary rock | **anticline** (upfold), **syncline** (downfold), overfolds, nappes (thrust folds) → fold mountains |
 | **Faulting** | rock breaks under stress and the blocks move along the **fault** | **fault scarp** (steep face), **block mountain / horst** (block pushed up between faults), **rift valley / graben** (block dropped down between faults) |
 
+![Folding into anticlines and synclines under compression, and a normal fault (tension) and a reverse fault (compression)](geo-folding-faulting.svg)
+
 - **Normal fault** — tension pulls rock apart; one block slips down.
 - **Reverse (thrust) fault** — compression pushes one block up over the other.
 - **Tear (strike-slip) fault** — blocks slide sideways (conservative boundaries).

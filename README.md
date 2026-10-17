@@ -4,6 +4,8 @@ Pre-Q syllabuses, revision notes and Anki decks for six subjects.
 
 **📖 Read the notes in the [wiki](https://github.com/xeri/school-notes/wiki)** — that is the reading format. This repository is where the notes are authored.
 
+**Exams start Tue 27 Oct:** [STUDY-PLAN.md](STUDY-PLAN.md) has the exams, priorities, study methods and Anki settings. Each subject's `notes/study-guide.md` is its starting page.
+
 | Subject | Syllabus | Reference |
 |---|---|---|
 | Business | [T4-BUQ/SYLLABUS.md](T4-BUQ/SYLLABUS.md) | [TERMS](T4-BUQ/TERMS.md) · [CALCULATIONS](T4-BUQ/CALCULATIONS.md) |

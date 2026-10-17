@@ -16,6 +16,7 @@ How the Term 4 paper is set and marked, and how to write for the marks. This is 
 - Named examples that earn marks
 - Maps and diagrams in answers
 - Common exam errors
+- Mistakes from the examiner reports
 
 ## The 2026 Term 4 paper
 
@@ -197,3 +198,22 @@ A named example that earns marks has a **place, a date, a scale and at least one
 - Writing an evaluation with no criteria, so the judgement has nothing to rest on.
 - Running out of time on the essays because the short answers were over-written. Keep to the section times.
 - Not stating which essay option you chose.
+
+## Mistakes from the examiner reports
+
+From the Cambridge IGCSE Geography (0460) principal examiner reports for June 2025 and March 2026. Each one cost candidates marks.
+
+| Mistake | Do this instead |
+|---|---|
+| **Naming a country instead of a precise place** ("Japan", or a country when an urban area was asked for) | name the city, region or event, with a date: "Christchurch, 22 February 2011" |
+| **Long, irrelevant introductions** (general background, location detail, impacts in a causes answer) | start with the first creditable point; introductions earn nothing |
+| **Generic case-study development with no place detail** | add the place-specific fact: a named suburb, scheme, figure or date |
+| **Giving impacts when asked for causes** (or causes for consequences, or problems of the wrong place) | underline the key word and the place in the question before writing |
+| **Subjective or vague words**: "deep", "wide", "big", "better"; "services", "pollution", "overcrowding", "resources", "infrastructure" on their own | say which and how much: "steep inner crater walls", "air pollution from vehicle exhaust", "piped water and sewerage" |
+| **Imprecise graph reading or dropped units** (omitting "thousands", misreading the scale or the years) | read to the nearest gridline and copy the axis unit; give exact months or years |
+| **Misreading the key words** (writing about all migration when the question said "work"; human features when it said "natural") | answer only what is asked, for the place asked about |
+| **"Plates bumping into each other"** for an earthquake's cause | friction locks the plates → pressure builds → sudden **pressure release** → **seismic waves** |
+| Writing "erosion" without the process | name it: hydraulic action, abrasion, attrition, solution |
+| A waterfall with **soft rock on top of hard rock** | hard (resistant) rock **over** soft rock |
+| Compass directions not precise enough ("north-east" when a more precise 16-point direction was needed) | use the 16 points; measure bearings with a protractor |
+| Bullet-point lists in extended answers | write linked sentences that develop each idea |

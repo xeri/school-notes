@@ -32,6 +32,8 @@ Every diagram below has a drawn, labelled example embedded in the notes page whe
 | PED — elastic against inelastic, with revenue areas | `econ-ped.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
 | PES — elastic, inelastic, perfectly inelastic, perfectly elastic | `econ-pes.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
 | Negative and positive externalities (MSC/MPC, MSB/MPB) — extension | `econ-externality-negative.svg`, `econ-externality-positive.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
+| Tax correcting a negative externality (MPC → MSC) — extension | `econ-tax-correction.svg` | [Policy chains](notes/policy-chains.md) |
+| Subsidy correcting a positive externality — extension | `econ-subsidy-correction.svg` | [Policy chains](notes/policy-chains.md) |
 | Indirect tax and its incidence | `econ-tax.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
 | Subsidy | `econ-subsidy.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
 | Maximum price | `econ-max-price.svg` | [Elasticity, market failure and market structures](notes/elasticity-failure.md) |
@@ -41,12 +43,13 @@ Every diagram below has a drawn, labelled example embedded in the notes page whe
 | Break-even chart | `econ-break-even.svg` | [Firms, costs and labour markets](notes/firms-labour.md) |
 | Labour market with a minimum wage | `econ-labour-min-wage.svg` | [Firms, costs and labour markets](notes/firms-labour.md) |
 | Economic cycle | `econ-economic-cycle.svg` | [Macroeconomics and policy](notes/macroeconomics.md) |
+| Aggregate demand and aggregate supply — AD shifts right | `econ-ad-as.svg` | [Policy chains](notes/policy-chains.md) |
 | Tariff | `econ-tariff.svg` | [International trade and exchange rates](notes/trade.md) |
 | Exchange rate — appreciation and depreciation through demand shifts | `econ-exchange-rate.svg` | [International trade and exchange rates](notes/trade.md) |
 | Lorenz curve — extension | `econ-lorenz.svg` | [Development, population and poverty](notes/development.md) |
 | Population pyramids | `econ-population-pyramids.svg` | [Development, population and poverty](notes/development.md) |
 
-**Which diagrams the Cambridge IGCSE syllabus requires.** It asks you to draw and interpret: the PPC; demand and supply curves, shifts and movements, equilibrium and disequilibrium; PED and PES curves, including the link between PED and total revenue; maximum and minimum prices (in product, labour and foreign exchange markets), indirect taxes and subsidies; the labour market; how output affects costs (the cost curves); and the foreign exchange market. It states that diagrams are **not** required for market failure itself or for market structures, that aggregate demand and supply are not required, and that population pyramids must be **interpreted** but not drawn. The externality, tariff and Lorenz diagrams here are standard extensions.
+**Which diagrams the Cambridge IGCSE syllabus requires.** It asks you to draw and interpret: the PPC; demand and supply curves, shifts and movements, equilibrium and disequilibrium; PED and PES curves, including the link between PED and total revenue; maximum and minimum prices (in product, labour and foreign exchange markets), indirect taxes and subsidies; the labour market; how output affects costs (the cost curves); and the foreign exchange market. It states that diagrams are **not** required for market failure itself or for market structures, that aggregate demand and supply are not required, and that population pyramids must be **interpreted** but not drawn. The externality, tariff and Lorenz diagrams here are standard extensions. The school's *Macroeconomic Policy* slides do use an AD/AS diagram, so it is included below as an optional way to show fiscal, monetary and supply-side policy.
 
 ## Production possibility curve
 
@@ -215,6 +218,27 @@ $$\text{social cost} = \text{private cost} + \text{external cost} \qquad \text{s
 
 Marks are lost by: drawing $MSC$ below $MPC$ for a negative externality (society's cost is **higher**, so the curve is **above**); shifting only one point rather than drawing a whole second curve; labelling the welfare loss as a rectangle; and forgetting to mark both $Q_1$ **and** $Q^*$ — the diagram's whole point is the gap between them.
 
+## Correcting an externality with a tax or a subsidy (extension)
+
+These combine the externality diagram with the tax and subsidy diagrams, and show **why** the policy is used. Same axes as above: cost / benefit (\$ per unit) against quantity per year. Drawn examples are in [Policy chains](notes/policy-chains.md).
+
+**Tax on a negative externality** (`econ-tax-correction.svg`).
+
+1. Draw $D = MPB = MSB$ sloping down and $S_1 = MPC$ sloping up; mark the market equilibrium $E_1$ at $P_1$, $Q_1$.
+2. Draw a parallel supply curve **above** $S_1$ and label it $S_2 = MPC + \text{tax} = MSC$ — the tax per unit equals the external cost per unit.
+3. Mark a vertical arrow between $S_1$ and $S_2$ labelled "tax = external cost".
+4. Mark the new equilibrium $E_2$ where $S_2$ cuts $D$, at $P^*$ and $Q^*$: price **rises**, output **falls** to the social optimum.
+5. Shade the old welfare-loss triangle (between $MSC$, $D$ and the vertical at $Q_1$) and label it "welfare loss removed".
+
+**Subsidy on a positive externality** (`econ-subsidy-correction.svg`).
+
+1. Draw $S_1 = MPC = MSC$, $D = MPB$, and a parallel $MSB$ **above** $D$ (the gap is the external benefit per unit); mark the market equilibrium $E_1$ at $P_1$, $Q_1$.
+2. Draw a parallel supply curve **below** $S_1$ and label it $S_2 = MPC - \text{subsidy}$, with a vertical arrow labelled "subsidy = external benefit".
+3. Mark the new equilibrium $E_2$ where $S_2$ cuts $D$: price falls to $P_2$, output **rises** to $Q^*$ — the same quantity at which $MSB$ cuts $MSC$. Producers receive $P_3$ (read off $S_1$ at $Q^*$).
+4. Shade and label the welfare-loss triangle that has been removed.
+
+Marks are lost by: shifting **demand** for a tax or subsidy (both act on producers' costs, so **supply** shifts); drawing a shift that does not land the new equilibrium on $Q^*$ when the question says the tax or subsidy equals the external cost; and forgetting that in practice the external cost is hard to measure, so the real tax may over- or under-shoot $Q^*$ — that is the evaluation point (government failure).
+
 ## Indirect tax and its incidence
 
 Draw $D$ and $S_1$ crossing at $E_1$ ($P_1$, $Q_1$). A **specific** (per-unit) tax shifts supply **vertically upwards by the tax** to $S_2$, parallel to $S_1$; an **ad valorem** (percentage) tax shifts it upwards and **pivots** it, so the gap widens as price rises. Label the new equilibrium $E_2$ ($P_2$, $Q_2$). Price rises, quantity falls.
@@ -316,6 +340,21 @@ Draw a **straight upward-sloping dashed line** across the diagram and label it *
 The **vertical** distance from the wave to the trend line is the **output gap**: above the line is a positive (inflationary) gap, below it a negative (deflationary) gap with spare capacity. This is what lets you say whether a demand boost would raise output or just prices.
 
 Marks are lost by: omitting the trend line altogether, which leaves nothing for the cycle to be a cycle *around*; labelling the vertical axis "GDP" without specifying **real** GDP; drawing the wave with no net upward drift, which denies long-run growth; and labelling the stages out of order. If the vertical axis is the **rate** of growth rather than the level of real GDP, say so — on that version a recession is the part of the curve **below zero**, not merely below the trend.
+
+## Aggregate demand and aggregate supply (AD/AS)
+
+Not required by the Cambridge syllabus, but used in the school's *Macroeconomic Policy* slides; it is the quickest way to show what a macro policy does. Drawn example: `econ-ad-as.svg` in [Policy chains](notes/policy-chains.md).
+
+| Axis | Variable | Unit |
+|---|---|---|
+| Vertical | **Price level** | an index (e.g. the CPI) — never "price" |
+| Horizontal | **Real GDP/output** | \$bn at constant prices |
+
+Draw $AD$ sloping **down** and $AS$ sloping **up**; mark $E_1$ with dashed lines to $P_1$ and $Y_1$. For a rise in $C$, $I$, $G$ or $(X - M)$ — a tax cut, more government spending, a lower OCR, a depreciation — draw $AD_2$ parallel and to the **right**, with an arrow, and mark $E_2$, $P_2$, $Y_2$: the price level **and** real output both rise. Contractionary policy shifts AD **left**. Supply-side policy (training, deregulation, infrastructure) shifts **AS right**: output rises and the price level **falls**. A cost shock (oil prices, a depreciation raising import prices) shifts **AS left**: prices rise while output falls — cost-push inflation.
+
+Then evaluate with the slope: where AS is **flat** (spare capacity, recession) an AD shift mainly raises output; where it is **steep** (near full capacity) it mainly raises prices.
+
+Marks are lost by: labelling the axes "price" and "quantity" (it is the **price level** and **real GDP**); shifting AS for a demand-side policy; and showing an AD shift without saying which component of AD changed and why.
 
 ## The foreign exchange market
 

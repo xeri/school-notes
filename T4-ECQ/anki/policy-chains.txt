@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Economics::0 Policy chains and exam practice
+#tags:economics policy-chains
+Pre-Q Basic	Econ: indirect tax on a demerit good — which curve shifts, and which way?	Supply shifts left (up): the tax raises the producer's costs	
+Pre-Q Basic	Econ: indirect tax chain — after supply shifts left?	Price rises (by less than the tax) → quantity demanded contracts → less of the external cost	
+Pre-Q Basic	Econ: why does a tax on cigarettes cut smoking only a little?	Demand is price inelastic (addictive), so quantity falls by a smaller % than price	Think PED
+Pre-Q Basic	Econ: indirect tax — two 'fails because' points besides inelastic demand	Regressive (hits the poor hardest); encourages black markets and smuggling	
+Pre-Q Cloze	Econ: an ideal externality tax equals the {{c1::external cost per unit}}, shifting supply from {{c2::MPC to MSC}}	Output then falls to the social optimum Q*	
+Pre-Q Basic	Econ: subsidy for public transport — chain	Producer costs fall → supply shifts right → fares fall → more passengers → less congestion and pollution	
+Pre-Q Basic	Econ: subsidy — two 'fails because' points	Opportunity cost of government spending; firms may rely on it and become inefficient	
+Pre-Q Basic	Econ: why may a subsidy on a good with inelastic demand not raise consumption much?	Most of the subsidy becomes extra producer revenue, not a lower price and more sales	
+Pre-Q Basic	Maximum price: where is it set, and what does it create?	Below equilibrium → shortage (excess demand, Qd > Qs)	
+Pre-Q Basic	Maximum price: three side effects	Queues and waiting lists; black markets above the ceiling; lower quality and less investment	
+Pre-Q Basic	Minimum price: where is it set, and what does it create?	Above equilibrium → surplus (excess supply, Qs > Qd)	
+Pre-Q Basic	Minimum wage: chain to unemployment	Wage above equilibrium → firms hire fewer (demand contracts) → more want work (supply extends) → excess supply of labour	
+Pre-Q Basic	Minimum wage: when are job losses small?	Demand for labour is inelastic, the wage is only slightly above equilibrium, or productivity rises	
+Pre-Q Basic	Regulation (minimum buying age): which curve shifts?	Demand shifts left — fewer people willing and able to buy at each price	Who can buy, not cost
+Pre-Q Basic	Regulation: three 'fails because' points (school slides)	Black markets; people break rules; enforcement is expensive and slow	
+Pre-Q Basic	Regulation: one advantage over a tax	It works directly, regardless of price elasticity of demand	
+Pre-Q Basic	Tradable permits: how do they cut pollution at lowest cost?	Cap total pollution; firms that can cut cheaply sell spare permits to those that cannot	NZ: Emissions Trading Scheme
+Pre-Q Basic	Direct (state) provision: two 'fails because' points	Free riders; free supply causes excess demand (waiting lists) — plus opportunity cost	
+Pre-Q Basic	Education and advertising campaigns: which curve shifts?	Demand — left for a demerit good, right for a merit good (corrects information failure)	
+Pre-Q Basic	Public good: which policy, and why?	Direct provision funded by tax — free riders mean no firm can charge, so the market supplies none	
+Pre-Q Basic	Monopoly: three policy tools	Competition policy (Commerce Commission); price regulation; nationalisation or removing barriers to entry	
+Pre-Q Basic	Privatisation: main risk	A public monopoly becomes a private monopoly that raises prices; unprofitable services are cut	
+Pre-Q Basic	Government failure?	Government intervention that makes resource allocation worse — it costs more than the market failure it fixes	
+Pre-Q Basic	Government failure: four causes	Imperfect information; unintended consequences; political self-interest and short-termism; enforcement costs	Also time lags, dependency
+Pre-Q Basic	Government failure: example from a maximum price	Rent controls cause housing shortages, black-market rents and poor maintenance	
+Pre-Q Basic	Expansionary fiscal policy: government spending chain	More G → firms hire → incomes rise → more spending (multiplier) → AD right → growth, fewer unemployed	
+Pre-Q Basic	Expansionary fiscal policy: three side effects	Demand-pull inflation near capacity; more imports (current account worse); budget deficit and debt	
+Pre-Q Basic	Company tax cut: effect on AD and AS	More retained profit → more investment → AD right now, AS right later	
+Pre-Q Basic	Higher OCR: chain to inflation	Bank rates rise → borrowing dearer, saving more attractive → C and I fall → AD left → demand-pull inflation falls	
+Pre-Q Basic	Higher OCR: exchange-rate route	Foreign savings flow in → demand for NZ$ rises → NZ$ appreciates → cheaper imports → lower imported inflation	
+Pre-Q Basic	Higher OCR: why does it take a year or more to work in NZ?	Many mortgages are fixed for 1–2 years, so they re-price only when the term ends	
+Pre-Q Basic	Higher OCR: why is it weak against cost-push inflation?	It cuts demand, but cost-push inflation comes from rising costs (oil, imports, drought)	
+Pre-Q Basic	Quantitative easing: chain	Central bank creates money to buy bonds from banks → banks lend more → C and I rise → AD right	
+Pre-Q Basic	Supply-side policy: common end of every chain	AS shifts right → more output at a lower price level (growth with lower inflation)	
+Pre-Q Basic	Education and training (supply-side): chain and main weakness	Skills → higher labour productivity → AS right; slow (years) and costly	
+Pre-Q Basic	Deregulation: chain and main risk	Lower compliance costs → more firms and investment → AS right; weaker protection may raise external costs	
+Pre-Q Basic	AD/AS: what shifts AD right?	Higher C, I, G or (X − M): lower interest rates, tax cuts, more government spending, confidence, depreciation	
+Pre-Q Basic	AD/AS: what shifts AS left?	Cost shocks — higher oil or import prices, wages above productivity, indirect taxes, disasters	
+Pre-Q Basic	AD/AS: effect of AS shifting right on output and the price level	Output rises and the price level falls	
+Pre-Q Basic	AD/AS diagram: axis labels	Vertical: price level; horizontal: real GDP/output	
+Pre-Q Basic	Spare capacity: why does it matter for a rise in AD?	With spare capacity AD mainly raises output; at full capacity it mainly raises prices	
+Pre-Q Basic	Size of the multiplier: why is it smaller in NZ?	Much extra income is spent on imports, so it leaks abroad instead of being re-spent at home	Extension
+Pre-Q Basic	Depreciation of the NZ$: chain to the current account	Exports cheaper abroad, imports dearer at home → more exports, fewer imports → current account improves (if elastic)	
+Pre-Q Basic	Depreciation: three reasons it may not help	Inelastic demand for imports and exports; time lags (fixed contracts); no spare capacity	Plus imported inflation
+Pre-Q Basic	Tariff: effect on domestic producers, consumers and government	Producers sell more at a higher price; consumers pay more and buy less; government gains revenue	
+Pre-Q Basic	Tariff: biggest risk for a small trading economy like NZ	Retaliation — partners tax NZ exports, so export jobs are lost	
+Pre-Q Basic	Quota vs tariff: key difference	A quota limits quantity and raises no government revenue	
+Pre-Q Basic	Conflict: low unemployment vs price stability	Higher incomes → more demand (demand-pull); less spare labour → wage demands → wage–price spiral	
+Pre-Q Basic	Conflict: growth vs balance of payments	Rising incomes → more spending on imports → current account deficit widens	
+Pre-Q Basic	Conflict: growth vs the environment	More output and consumption → more resources and waste → external costs (pollution, habitat loss)	
+Pre-Q Basic	Conflict: growth vs price stability	Demand grows faster than resources → capacity limits → higher prices instead of more output	
+Pre-Q Basic	Econ discuss [8]: what lifts an answer to Level 3 (6–8)?	Both sides developed, plus a judgement naming what the answer depends on	
+Pre-Q Basic	Econ analyse [6]: penalty for listing points?	A list of unexplained points is capped at 3 marks	
+Pre-Q Basic	Econ evaluation: five 'it depends' factors	PED; size of the change; time lags; spare capacity; cause of the problem	Also cost, confidence, enforcement, who gains

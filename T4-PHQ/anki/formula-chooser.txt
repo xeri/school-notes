@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Physics::0 Which formula when
+#tags:physics formula-chooser
+Pre-Q Basic	Physics: question says "starts from rest". Which SUVAT value does that give you?	\(u = 0\)	
+Pre-Q Basic	Physics: question says "comes to rest" or "stops". Which SUVAT value does that give you?	\(v = 0\)	Then a comes out negative
+Pre-Q Basic	Physics: object is "dropped" and "falls freely". What are \(u\) and \(a\)?	\(u = 0\), \(a = g = 9.81\) m/s² (use the value given)	IGCSE uses 9.8
+Pre-Q Basic	Physics: question says "constant velocity" or "terminal velocity". What is the resultant force?	Zero: the forces are balanced and \(a = 0\)	
+Pre-Q Basic	Physics: journey with a stop in the middle, asked for "average speed". Which equation?	average speed = total distance ÷ total time (the stop counts in the time)	
+Pre-Q Basic	Physics: constant acceleration, given \(u\), \(a\) and \(s\) but no time, find \(v\). Which equation?	\(v^2 = u^2 + 2as\) (extension in the 2024 scheme)	Leave out the missing quantity
+Pre-Q Basic	Physics: constant acceleration, given \(u\), \(a\) and \(t\), find the distance. Which equation?	\(s = ut + \tfrac12at^2\)	
+Pre-Q Basic	Physics: what does the area under a speed–time graph give?	Distance travelled	
+Pre-Q Basic	Physics: what does the gradient of a speed–time graph give?	Acceleration	
+Pre-Q Basic	Physics: question gives the resultant force and the mass, asks for acceleration. Which equation?	\(F = ma\)	F = forward − backward forces
+Pre-Q Basic	Physics: "the same object on the Moon". Which quantity changes, and which equation?	Weight changes: \(W = mg\). Mass is unchanged.	
+Pre-Q Basic	Physics: question gives a spring's "extension". Which equation?	\(F = kx\), valid only up to the limit of proportionality	Extension = new length − original length
+Pre-Q Basic	Physics: "beam balanced on a pivot". Which principle?	Principle of moments: sum of clockwise moments = sum of anticlockwise moments, moment \(= F \times d\)	d perpendicular from the pivot
+Pre-Q Basic	Physics: "two trolleys collide and stick together". Which principle?	Conservation of momentum: total \(mv\) before = total \(mv\) after; after is \((m_1 + m_2)v\)	
+Pre-Q Basic	Physics: question gives the impact time and asks for the force during a collision. Which equation?	\(F = \dfrac{mv - mu}{t}\) (impulse \(Ft = \Delta p\))	
+Pre-Q Basic	Physics: "falls from a height, find its speed at the bottom, ignore air resistance". Which equation?	\(mg\Delta h = \tfrac12mv^2\), so \(v = \sqrt{2g\Delta h}\)	Energy conserved
+Pre-Q Basic	Physics: question says "rate" or "per second" about energy. Which equation?	\(P = \dfrac{E}{t}\) (or \(P = \dfrac{W}{t}\))	
+Pre-Q Basic	Physics: question asks for "efficiency". Which equation?	efficiency = useful output ÷ total input × 100%	Never above 100%
+Pre-Q Basic	Physics: "pressure at a depth below the surface of a liquid". Which equation?	\(\Delta p = \rho g \Delta h\), with \(h\) the depth in m	
+Pre-Q Basic	Physics: question gives a force and the area it acts on. Which equation, and what unit for area?	\(p = \dfrac{F}{A}\), with \(A\) in m²	cm² × 10⁻⁴
+Pre-Q Basic	Physics: question says "sealed container is heated". Which equation, and what unit must temperature be in?	\(\dfrac{p}{T}\) = constant (pressure law); \(T\) in kelvin	Add 273
+Pre-Q Basic	Physics: "fixed mass of gas compressed slowly at constant temperature". Which equation?	\(p_1V_1 = p_2V_2\) (Boyle's law)	
+Pre-Q Basic	Physics: gas question where \(p\), \(V\) and \(T\) all change. Which equation?	\(\dfrac{p_1V_1}{T_1} = \dfrac{p_2V_2}{T_2}\), \(T\) in K	
+Pre-Q Basic	Physics: "the water is heated from 20 °C to 60 °C". Which equation?	\(Q = mc\Delta T\)	
+Pre-Q Basic	Physics: "ice melts at 0 °C". Which equation?	\(Q = ml\) (the 2024 scheme writes \(Q = mL\))	No temperature change, so not mcΔT
+Pre-Q Basic	Physics: "a hot block is dropped into cold water; find the final temperature". Which principle?	Energy lost by the hot body = energy gained by the cold body	
+Pre-Q Basic	Physics: echo or sonar question. What distance does the sound travel?	\(2d\), there and back: \(v = \dfrac{2d}{t}\)	
+Pre-Q Basic	Physics: angles of incidence and refraction are given. Which equation?	\(n = \dfrac{\sin i}{\sin r}\), with the angle in air on top	
+Pre-Q Basic	Physics: question mentions the "critical angle". Which equation?	\(n = \dfrac{1}{\sin c}\)	
+Pre-Q Basic	Physics: question gives a current and a time, asks for charge. Which equation?	\(Q = It\)	
+Pre-Q Basic	Physics: "energy transferred per coulomb". Which quantity, and which equation?	p.d.: \(V = \dfrac{W}{Q}\)	e.m.f. if in the source
+Pre-Q Basic	Physics: resistors in parallel. How do you find the combined resistance?	\(\dfrac{1}{R_T} = \dfrac{1}{R_1} + \dfrac{1}{R_2}\), then invert	Smaller than the smallest
+Pre-Q Basic	Physics: "power lost in the transmission cables". Which equation?	\(P = I^2R\)	Find I = P/V first
+Pre-Q Basic	Physics: question asks for the cost of electricity. Which units go into the energy?	kWh = power in kW × time in hours; cost = kWh × price	
+Pre-Q Basic	Physics: "transformer" with numbers of turns. Which equation?	\(\dfrac{V_p}{V_s} = \dfrac{N_p}{N_s}\)	
+Pre-Q Basic	Physics: "100% efficient transformer, find the primary current". Which equation?	\(V_pI_p = V_sI_s\)	Power in = power out
+Pre-Q Basic	Physics: choosing a fuse for an appliance. What are the two steps?	\(I = \dfrac{P}{V}\), then pick the next standard fuse above \(I\)	e.g. 3 A, 5 A, 13 A
+Pre-Q Basic	Physics: potential divider. How is the supply p.d. shared?	In the ratio of the resistances: \(\dfrac{V_1}{V_2} = \dfrac{R_1}{R_2}\)	Bigger R, bigger share
+Pre-Q Basic	Physics: half-life from count rates when a background count is given. What is the first step?	Subtract the background from every reading, then count the halvings	
+Pre-Q Basic	Physics: what can the symbol \(W\) stand for?	Weight (N), work done (J), or the unit watt	Three meanings
+Pre-Q Basic	Physics: what can the symbol \(c\) stand for?	Speed of light, specific heat capacity, or critical angle	Three meanings
+Pre-Q Basic	Physics: in \(R = \dfrac{\rho L}{A}\), what is \(\rho\)?	Resistivity, not density	
+Pre-Q Basic	Physics: \(T\) in a gas law vs \(T\) in \(f = \dfrac{1}{T}\)?	Temperature in K vs period in s	
+Pre-Q Basic	Physics: \(Q\) in \(Q = It\) vs \(Q\) in \(Q = mc\Delta T\)?	Charge (C) vs thermal energy (J)	
+Pre-Q Basic	Physics: \(p\) in \(p = mv\) vs \(p\) in \(p = \dfrac{F}{A}\)?	Momentum (kg m/s) vs pressure (Pa)	
+Pre-Q Cloze	Physics: to convert km/h to m/s, {{c1::divide by 3.6}}	72 km/h = 20 m/s	
+Pre-Q Cloze	Physics: to convert cm² to m², multiply by {{c1::\(10^{-4}\) }}	1 m = 100 cm, so 1 m² = 10⁴ cm²	
+Pre-Q Cloze	Physics: to convert cm³ to m³, multiply by {{c1::\(10^{-6}\) }}	1 m³ = 10⁶ cm³	
+Pre-Q Cloze	Physics: 1 kWh = {{c1::\(3.6\times10^6\) }} J	1000 W × 3600 s	
+Pre-Q Basic	Physics: given current, p.d. and time, find energy. What are the two steps?	\(P = IV\), then \(E = Pt\) (or \(E = IVt\) in one line)	
+Pre-Q Basic	Physics: given force, mass and time from rest, find final speed. What are the two steps?	\(a = \dfrac{F}{m}\), then \(v = u + at\)	
+Pre-Q Basic	Physics: given a mass and its base dimensions, find the pressure on the ground. What are the steps?	\(W = mg\) and \(A = l \times w\) in m², then \(p = \dfrac{F}{A}\)	
+Pre-Q Basic	Physics: given only \(V\) and \(R\), find the power. What two lines do you write?	\(I = \dfrac{V}{R}\), then \(P = IV\)	P = V²/R is not on the course list
+Pre-Q Basic	Physics: two bodies collide and stick; find the kinetic energy lost. What are the steps?	Conservation of momentum gives \(v\); then KE lost = \(\tfrac12mv^2\) before − after	

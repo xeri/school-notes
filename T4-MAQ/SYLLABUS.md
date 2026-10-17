@@ -1,5 +1,7 @@
 # Mathematics — Pre-Q Syllabus
 
+**Start here:** [Study guide](notes/study-guide.md) · [Exam errors](notes/exam-errors.md) · [Big ideas](notes/big-ideas.md)
+
 Pre-Q Advanced follows the **IGCSE Extended Mathematics** objectives (codes E1–E9 below), plus **calculus**, which is taught in Term 3 and examined in the final. Term 4 is the terminal examination covering the whole year.
 
 2026 course outline by term, with the notes for each topic:
@@ -32,6 +34,8 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Codes | Notes | Cards |
 |---|---|---|---|---|
+| 0a | Exam errors: the small mistakes that cost marks | — | [notes](notes/exam-errors.md) | [deck](anki/exam-errors.txt) |
+| 0b | Big ideas: how the whole course fits together | — | [notes](notes/big-ideas.md) | [deck](anki/exam-errors.txt) |
 | 1 | Number | E1 | [notes](notes/number.md) | [deck](anki/number.txt) |
 | 2 | Algebra | E2.1–2.8, 2.12 | [notes](notes/algebra.md) | [deck](anki/algebra.txt) |
 | 3 | Coordinate geometry and graphs | E2.6, E2.9–2.11, E5 | [notes](notes/graphs.md) | [deck](anki/graphs.txt) |

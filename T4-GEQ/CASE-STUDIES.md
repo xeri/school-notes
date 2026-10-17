@@ -346,19 +346,27 @@ The seven-level table is on the page.
 
 ## Theme 3: Development and the use of resources
 
-### Inequality between an HIC and an LIC — New Zealand and Mali (class data)
+### Inequality between an HIC and an LIC — New Zealand and Niger (class data)
 
 *Page:* [Development and inequality](notes/development.md)
 
-| Indicator | New Zealand | Mali |
-|---|---|---|
-| GDP per capita | US\$52 180 | US\$950 |
-| Literacy rate | 99% | 35.5% |
-| Doctors per 100 000 people | 360 | 15 |
-| Employed in the primary sector | 5.8% | 65% |
-| Main exports | dairy, meat, timber, tourism services | cotton, gold, livestock |
+The school's development lesson compares New Zealand with **Niger** in its indicator table (with the UK, Brazil and Indonesia), so Niger is the LIC to learn. It also doubles as the Theme 2 high-natural-increase country. **Mali** appears only in the lesson's Rostow and Frank exercises; use it as supporting data for those models.
 
-Explain the gap with **SEEP**: Mali is landlocked in the Sahel, with drought and desertification (environmental); it exports low-value raw materials and imports petroleum and machinery — Frank's periphery (economic); low literacy, rapid population growth and poor health (social); and conflict and coups since 2012 (political). New Zealand also exports primary produce but processes it and has high incomes, education and services. **Niger**, the main LIC on the development page, works equally well: a landlocked Sahel country with an HDI of about 0.41–0.46 (low, near the bottom of the world ranking) against New Zealand's 0.938; life expectancy about 62 against 82; fertility about 6 children per woman; adult literacy roughly a third to two-fifths; a military coup in 2023.
+| Indicator (class data) | New Zealand | Niger |
+|---|---|---|
+| GDP per capita (PPP) | US\$53 000 | US\$1 700 |
+| HDI | 0.938 (very high) | 0.459 (low) |
+| Happy Planet Index | 41.5 | 29.1 |
+| Gender Equality Index | 0.835 | 0.354 |
+| Political freedom | 99/100, free | 33/100, not free |
+| Corruption Perceptions Index | 81/100 | 31/100 |
+| Environmental Performance Index | 83.0 | 28.5 |
+| Life expectancy | about 82 | about 62 |
+| Fertility | about 1.6–1.7 | about 6 children per woman |
+
+Explain the gap with **SEEP**: Niger is landlocked in the Sahel and mostly desert, with drought and desertification (environmental); it depends on uranium and farm exports and has high transport costs (economic); very rapid population growth, low literacy, especially of girls, and poor health care (social); and instability, with a military coup in 2023 (political). New Zealand has a stable democracy, high education, a diversified, processed export economy and good infrastructure.
+
+**Supporting class data — Mali** (Rostow and Frank exercises): GDP per capita US\$950 against New Zealand's US\$52 180; literacy 35.5% against 99%; 15 doctors per 100 000 against 360; 65% employed in the primary sector against 5.8%; exports cotton, gold and livestock and imports petroleum and machinery — Frank's periphery, and Rostow's traditional or pre-take-off stage.
 
 ### Regional inequality within New Zealand
 

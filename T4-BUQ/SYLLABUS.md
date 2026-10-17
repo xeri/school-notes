@@ -1,5 +1,7 @@
 # Business Studies — Pre-Q Syllabus
 
+**Start here:** [Study guide](notes/study-guide.md) · [Term 3 decisions](notes/t3-decisions.md) · [CCC extension](notes/ccc-extension.md) · [Business vs Economics](notes/econ-overlap.md)
+
 **Final exam (Term 4):** 3 hours, **120 marks** total.
 
 - **3 compulsory short-answer questions**, 20 marks each — 50% of the paper. Each is made up of 2-, 4- and 6-mark parts.
@@ -20,7 +22,11 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 | 4 | Operations management | [notes](notes/operations.md) | [deck](anki/operations.txt) |
 | 5 | Financial information and decisions | [notes](notes/finance.md) | [deck](anki/finance.txt) |
 | 6 | External influences on business activity | [notes](notes/external.md) | [deck](anki/external.txt) |
-| P | Practice case: applying answers to a business (revision practice, not examined) | [notes](notes/case-study.md) | [deck](anki/case-study.txt) |
+| P | Practice case: applying answers to a business (CCC whole-course revision case) | [notes](notes/case-study.md) | [deck](anki/case-study.txt) |
+| G | Study guide: exam timing and priority order | [notes](notes/study-guide.md) | — |
+| D | Term 3 decisions: answer chains and 12-mark models | [notes](notes/t3-decisions.md) | [deck](anki/t3-decisions.txt) |
+| C | CCC case: missing answers and predicted questions | [notes](notes/ccc-extension.md) | [deck](anki/t3-decisions.txt) |
+| E | Business vs Economics: shared topics, different answers | [notes](notes/econ-overlap.md) | [deck](anki/t3-decisions.txt) |
 
 ---
 

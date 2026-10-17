@@ -1,5 +1,7 @@
 # Physics — Pre-Q Syllabus
 
+**Start here:** [Study guide](notes/study-guide.md) · [Which formula when](notes/formula-chooser.md) · [Units and rearranging](notes/units-and-rearranging.md)
+
 **Final exam (Term 4):** 3 hours, no formula sheet.
 Paper 1 — 1 hour, 40 multiple-choice questions, 1 mark each, answer grid. Paper 2 cannot be started until the hour has elapsed.
 Paper 2 — 2 hours, 10 short-answer sections of 15 marks. Q1–8 theory, Q9–10 practical skills. Full marks need the equation, the substitution, and a final answer with a unit and appropriate significant figures.
@@ -13,6 +15,9 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Notes | Cards |
 |---|---|---|---|
+| — | Study guide: exam format, answer format, priority order | [notes](notes/study-guide.md) | — |
+| — | Which formula when | [notes](notes/formula-chooser.md) | [deck](anki/formula-chooser.txt) |
+| — | Units, symbols and rearranging | [notes](notes/units-and-rearranging.md) | [deck](anki/formula-chooser.txt) |
 | 1 | Measurement, units and vectors | [notes](notes/measurement.md) | [deck](anki/measurement.txt) |
 | 2 | Motion | [notes](notes/motion.md) | [deck](anki/motion.txt) |
 | 3 | Forces and momentum | [notes](notes/forces.md) | [deck](anki/forces.txt) |

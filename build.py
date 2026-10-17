@@ -76,14 +76,22 @@ def rewrite_links(text, code, subject):
     """turn in-repo relative links into wiki page links and repo blob links."""
     # notes/<stem>.md  ->  Physics-Waves
     text = re.sub(
-        r"\]\((?:\.\./)?notes/([A-Za-z0-9_-]+)\.md\)",
-        lambda m: f"]({page_name(subject, m.group(1))})",
+        r"\]\((?:\.\./)?notes/([A-Za-z0-9_-]+)\.md(#[^)]*)?\)",
+        lambda m: f"]({page_name(subject, m.group(1))}{m.group(2) or ''})",
+        text,
+    )
+    # bare sibling links inside notes/: (finance.md) or (finance.md#ratios)
+    notes_dir = subject_dir(code) / "notes"
+    text = re.sub(
+        r"\]\(([a-z0-9][a-z0-9-]*)\.md(#[^)]*)?\)",
+        lambda m: f"]({page_name(subject, m.group(1))}{m.group(2) or ''})"
+        if (notes_dir / f"{m.group(1)}.md").exists() else m.group(0),
         text,
     )
     # FORMULAS.md / TERMS.md / ...  ->  Physics-Formulas
     text = re.sub(
-        r"\]\((?:\.\./)?([A-Z][A-Z-]*)\.md\)",
-        lambda m: f"]({page_name(subject, m.group(1).lower())})",
+        r"\]\((?:\.\./)?([A-Z][A-Z-]*)\.md(#[^)]*)?\)",
+        lambda m: f"]({page_name(subject, m.group(1).lower())}{m.group(2) or ''})",
         text,
     )
     # anki/<stem>.txt and anki/ -> the deck file in the repo, not a wiki page
@@ -102,13 +110,18 @@ def build_wiki():
             f.unlink()
     WIKI.mkdir(exist_ok=True)
 
-    sidebar = ["### Subjects", ""]
+    sidebar = ["**[Study plan](Study-Plan)**", "", "### Subjects", ""]
+    plan = ROOT / "STUDY-PLAN.md"
+    if plan.exists():
+        write_page("Study-Plan", plan.read_text(encoding="utf-8"))
     home = [
         "# School study notes",
         "",
         "Pre-Q syllabuses and revision notes for six subjects. Each subject has one",
         "syllabus page listing every assessed objective, a notes page per topic, and",
         "an Anki deck per topic for the rote learning.",
+        "",
+        "**Start with the [study plan](Study-Plan)**: exams, priorities, study methods and Anki settings.",
         "",
         "| Subject | Syllabus | Topics | Flashcards |",
         "|---|---|---|---|",
@@ -180,8 +193,60 @@ def note_title(path, fallback):
     return fallback.replace("-", " ").capitalize()
 
 
+def github_math(text):
+    """protect LaTeX from GitHub's markdown pass.
+
+    GitHub applies markdown escapes before handing $...$ to MathJax, so \\$ and
+    \\% inside math are eaten (\\% becomes a TeX comment) and the delimiters
+    pair up wrongly. $`...`$ and ```math blocks pass their contents raw.
+    """
+    out, fenced = [], False
+    for line in text.split("\n"):
+        if line.lstrip().startswith("```"):
+            fenced = not fenced
+            out.append(line)
+            continue
+        m = re.fullmatch(r"(\s*)\$\$(.+?)\$\$\s*", line)
+        if fenced:
+            out.append(line)
+        elif m:
+            out += [f"{m.group(1)}```math", f"{m.group(1)}{m.group(2).strip()}", f"{m.group(1)}```"]
+        else:
+            out.append(inline_math(line))
+    return "\n".join(out)
+
+
+def inline_math(line):
+    """rewrite $...$ as $`...`$, skipping code spans and escaped \\$ outside math."""
+    res, i = [], 0
+    while i < len(line):
+        c = line[i]
+        if c == "\\" and i + 1 < len(line):
+            res.append(line[i:i + 2])
+            i += 2
+        elif c == "`":
+            j = line.find("`", i + 1)
+            j = len(line) - 1 if j < 0 else j
+            res.append(line[i:j + 1])
+            i = j + 1
+        elif c == "$":
+            j = i + 1
+            while j < len(line) and line[j] != "$":
+                j += 2 if line[j] == "\\" else 1
+            if j >= len(line) or j == i + 1:
+                res.append(c)
+                i += 1
+            else:
+                res.append(f"$`{line[i + 1:j]}`$")
+                i = j + 1
+        else:
+            res.append(c)
+            i += 1
+    return "".join(res)
+
+
 def write_page(name, text):
-    (WIKI / f"{name}.md").write_text(text, encoding="utf-8")
+    (WIKI / f"{name}.md").write_text(github_math(text), encoding="utf-8")
 
 
 def push_wiki():

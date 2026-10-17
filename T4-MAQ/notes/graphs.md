@@ -96,6 +96,42 @@ To solve $f(x) = g(x)$, draw both and read the $x$-coordinates of the intersecti
 
 To solve $x^2 - 3x = 2$ from a drawn graph of $y = x^2-3x$, draw $y = 2$ and read off both roots. Give answers to the accuracy your scale supports — usually 1 d.p.
 
+## Rearranging to find the line to draw
+
+Every final from 2022 to 2025 ended a graph question with a straight line drawn on a curve (6 marks; 10 in 2022 Q10(d)). In 2023–2025 you had to find the line yourself: you have drawn a curve, and you are asked to solve a **different** equation by drawing a straight line.
+
+**Method.**
+
+1. Write the curve you have drawn: $y = f(x)$.
+2. Take the new equation and add or subtract terms on **both sides** until one side is **exactly** $f(x)$.
+3. The other side is the line: draw $y = (\text{other side})$ with a ruler, using its gradient and $y$-intercept.
+4. Read the $x$-coordinate of **every** intersection to 1 d.p. — a cubic and a line usually cross three times.
+
+*Worked example (2023 Q4(d)).* The curve $y = x^3-4x^2+4x+1$ is drawn. By drawing a suitable straight line, solve $x^3-4x^2+2x = 0$.
+
+$$x^3-4x^2+2x = 0$$
+$$x^3-4x^2+2x+2x+1 = 0+2x+1 \qquad \text{(add } 2x+1 \text{ to both sides)}$$
+$$x^3-4x^2+4x+1 = 2x+1$$
+
+The left side is the curve, so draw $y = 2x+1$ (gradient 2, $y$-intercept 1). It crosses the curve at $x = 0$, $x = 0.6$ and $x = 3.4$. The scheme accepted ±0.1 for each.
+
+*Check.* $x^3-4x^2+2x = x(x^2-4x+2)$, so the exact roots are $0$ and $2\pm\sqrt2 = 0.59,\ 3.41$ ✓
+
+The other years worked the same way:
+
+| Final | Curve drawn | Equation to solve | Line to draw | Roots read |
+|---|---|---|---|---|
+| 2024 Q4(d) | $y = 2x^3-4x^2+3$ | $2x^3-4x^2-x+2 = 0$ | $y = x+1$ | $-0.7,\ 0.7,\ 2$ |
+| 2025 Q4(d) | $y = 2x^3-6x^2+3$ | $2x^3-6x^2+x+1 = 0$ | $y = 2-x$ | $-0.3,\ 0.6,\ 2.8$ |
+
+In 2025, adding $2-x$ to both sides gives $2x^3-6x^2+3 = 2-x$. The answer marks were "Not 1dp = 2A" — roots given to any other accuracy lost a mark.
+
+**Working backwards (2022 Q10(d)).** Sometimes the line is given and you must find the equation it solves. The curve was $y = \tfrac13x^3+\tfrac13x^2-\tfrac23x$ and the line $2y-x-2 = 0$, i.e. $y = \tfrac12x+1$. Set them equal and multiply by 6:
+
+$$\tfrac12x+1 = \tfrac13x^3+\tfrac13x^2-\tfrac23x \;\Rightarrow\; 3x+6 = 2x^3+2x^2-4x \;\Rightarrow\; 2x^3+2x^2-7x-6 = 0$$
+
+**Mark-losing errors:** moving terms to one side only, so the "line" still contains $x^3$ or $x^2$; drawing the line from one point instead of checking two or three; reading only one or two of the three intersections; giving roots as whole numbers or to 2 d.p. when 1 d.p. is asked.
+
 ## Gradient of a curve
 
 The gradient changes along a curve, so you estimate it at a point by drawing a **tangent**:

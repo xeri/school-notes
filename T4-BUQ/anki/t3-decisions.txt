@@ -1,0 +1,55 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck:Business::0 Term 3 decisions and case practice
+#tags:business t3-decisions
+Pre-Q Basic	Business: the 7 criteria for choosing a source of finance?	Purpose, amount, how quickly it is needed, cost, control, risk (gearing), legal form and size	PACT + risk, speed, size
+Pre-Q Basic	Business: which term of finance for a non-current asset?	Long-term finance (loan, leasing, equity) — never an overdraft	Match term to purpose
+Pre-Q Basic	Business: main drawback of taking a partner or selling shares for finance?	Profit and control are shared	Equity
+Pre-Q Basic	Business: main drawback of a bank loan for a small firm?	Interest and repayments drain cash; collateral may be needed	
+Pre-Q Basic	Business: finance a sole trader can never use?	A share issue	No shares
+Pre-Q Cloze	Business: highly geared = more than about {{c1::60%}} of capital employed is {{c2::debt}}	School slides	
+Pre-Q Basic	Business: first step before fixing a cash-flow problem?	Find the cause (seasonal, one-off payment, slow debtors, too much stock, overtrading, rising costs)	
+Pre-Q Basic	Business: a two-month seasonal cash gap — best finance?	A short-term overdraft, repaid when receipts recover	Temporary vs persistent
+Pre-Q Basic	Business: negative net cash flow every month — best fix?	A structural change: cut costs, raise price, reduce stock or long-term finance	Not just an overdraft
+Pre-Q Cloze	Business: improving cash flow means bringing cash in {{c1::sooner}} or paying it out {{c2::later}}		
+Pre-Q Basic	Business: the cost of delaying payments to suppliers?	Lost discounts and strained supplier relations	
+Pre-Q Basic	Business: GPM of 40% means?	40c of gross profit for every 1 dollar of sales	
+Pre-Q Basic	Business: GPM high but OPM much lower — what does it show?	Expenses (overheads) are high	Gap = expenses ÷ revenue
+Pre-Q Basic	Business: ROCE is good when it is…?	Higher than the bank's interest rate	Otherwise leave the money in the bank
+Pre-Q Cloze	Business: school's ideal range for both liquidity ratios is {{c1::1:1}} to {{c2::1.5:1}}		
+Pre-Q Basic	Business: acid test far below current ratio — meaning?	The firm relies on selling inventory to pay short-term debts	Cut stock (JIT) or chase receivables
+Pre-Q Basic	Business: current ratio below 1:1 — risk?	Insolvency: cannot pay short-term debts	
+Pre-Q Basic	Business: current ratio far too high — problem?	Idle cash or stock that could be earning a return	
+Pre-Q Basic	Business: the key limitation of a single ratio?	It needs comparing over time or with similar firms	
+Pre-Q Basic	Business: which ratios does a lender making a short-term loan focus on?	Liquidity: current and acid-test ratios	
+Pre-Q Cloze	Business: quality control checks at the {{c1::end}}; quality assurance at {{c2::every stage}}; TQM by {{c3::every employee}}		
+Pre-Q Basic	Business: quality method for a food producer or premium brand?	Quality assurance — faults prevented at each stage	
+Pre-Q Basic	Business: why is TQM hard with casual part-time staff?	It needs every employee's commitment and training	High labour turnover
+Pre-Q Basic	Business: the top location factors for a café or shop?	Customers and foot traffic, parking, visibility, rent, nearby businesses	
+Pre-Q Basic	Business: the top location factors for a manufacturer?	Materials and transport links, site cost and size, labour, grants, room to expand	
+Pre-Q Basic	Business: why is the lowest rent not always the best site?	Transport costs and lost sales can outweigh the rent saving	Total cost
+Pre-Q Basic	Business: a higher rent at a new site does what to break-even?	Raises it — fixed costs rise	
+Pre-Q Basic	Business: four effects of an interest-rate rise on a firm?	Dearer loans and overdrafts; investment postponed; credit-bought demand falls; currency appreciates	
+Pre-Q Basic	Business: which firms are hit hardest by an interest-rate rise?	Highly geared firms, big overdrafts, sellers of credit-bought or luxury goods, exporters	
+Pre-Q Cloze	Business: SPICED — Strong currency, {{c1::Imports Cheap}}, {{c2::Exports Dear}}		
+Pre-Q Basic	Business: NZ dollar falls — effect on a firm importing its materials?	Inputs cost more in NZ dollars, so costs rise	
+Pre-Q Basic	Business: NZ dollar rises — two choices for an exporter?	Raise the foreign price (lose sales if elastic) or hold it (lower margin)	
+Pre-Q Basic	Business: exchange-rate response depends on?	PED abroad, share of imported inputs, how long the change lasts, size of margin	
+Pre-Q Basic	Business: three effects of a recession on a firm?	Falling sales (especially luxuries), falling profit, cost-cutting and redundancies	
+Pre-Q Basic	Business: one opportunity a recession gives a cash-rich firm?	Cheaper premises and easier recruitment, so it can invest ahead of recovery	
+Pre-Q Basic	Business: policy chain in a Business answer?	Tool → the firm's costs or demand → the firm's response	Not → AD → objective
+Pre-Q Basic	Business: under which policy do the school slides teach tariffs and quotas?	Fiscal policy	
+Pre-Q Basic	Business: entering a foreign market, lowest to highest risk?	Export via an agent → licence/franchise → joint venture → set up abroad (multinational)	
+Pre-Q Basic	Business: does exporting make a firm multinational?	No — it needs operations in another country	
+Pre-Q Basic	Business: three effects of inflation on a firm?	Costs and wage demands rise; customers' real incomes fall; harder to plan and price	
+Pre-Q Basic	Business: inflation raising costs — when can the firm pass it on in price?	When demand is inelastic or the brand is strong	
+Pre-Q Cloze	Business 12-mark frame: discuss {{c1::every option}}, recommend one, say {{c2::why the others lose}}, add {{c3::what it depends on}}		
+Pre-Q Basic	Business: what lifts a 12-mark answer from Level 2 to Level 3?	At least two developed explanations plus a justified decision	
+Pre-Q Basic	Business: government objectives in Business vs Economics?	Business 4; Economics 6 (adds redistribution and the environment)	
+Pre-Q Basic	Business: is profit a measure of business size?	No — it measures performance	Econ example tables profit
+Pre-Q Basic	Business: objective for a brand-new micro firm — profit maximisation?	No — survival (or satisficing)	CCC mark scheme
+Pre-Q Basic	Business: economies of scale make which cost fall?	Average (unit) cost — not total cost	
+Pre-Q Basic	Business: PED in Business vs Economics?	Business uses its meaning for pricing; Economics calculates it	
+Pre-Q Basic	Business: exchange rates in Business vs Economics?	Business: exporter/importer prices and margins; Economics: forex diagram and balance of payments	
+Pre-Q Basic	Business: externalities — what does Business add to Economics?	Cost-benefit analysis of a decision	
