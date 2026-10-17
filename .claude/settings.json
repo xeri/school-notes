@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": ["mcp__study"]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run --quiet --frozen --project tools/studymcp studymcp brief --hook",
+            "timeout": 20,
+            "statusMessage": "Loading study brief"
+          }
+        ]
+      }
+    ]
+  }
+}

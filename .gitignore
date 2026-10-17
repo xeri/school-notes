@@ -4,3 +4,6 @@ wiki/
 .wiki-clone/
 __pycache__/
 *.pyc
+.claude/settings.local.json
+tools/studymcp/.venv/
+.pytest_cache/

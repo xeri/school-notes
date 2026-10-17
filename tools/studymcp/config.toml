@@ -1,0 +1,85 @@
+# studymcp settings. Edit and reconnect the server (/mcp) to apply.
+# Exam dates are not here: they are read from STUDY-PLAN.md.
+
+# Subject folders are "<term>-<CODE>", e.g. T4-ECQ. Change this for a new term.
+term = "T4"
+
+# weight: how much the planner protects the subject (STUDY-PLAN "Priority across subjects").
+# aliases: words that mean the subject in tool calls and /study commands.
+[subjects.MAQ]
+name = "Mathematics"
+aliases = ["maths", "math", "mathematics", "ma"]
+weight = 1.0
+
+[subjects.ECQ]
+name = "Economics"
+aliases = ["economics", "econ", "eco", "ec"]
+weight = 1.15
+
+[subjects.ENQ]
+name = "English"
+aliases = ["english", "eng", "en", "othello"]
+weight = 1.0
+
+[subjects.BUQ]
+name = "Business"
+aliases = ["business", "business studies", "bus", "bs", "bu"]
+weight = 1.0
+
+[subjects.GEQ]
+name = "Geography"
+aliases = ["geography", "geo", "geog", "ge"]
+weight = 1.15
+
+[subjects.PHQ]
+name = "Physics"
+aliases = ["physics", "phys", "phy", "ph"]
+weight = 0.85
+
+# Extra topic aliases, "CODE:words" = "note stem". Most topics resolve without these.
+[topic_aliases]
+"ECQ:ped" = "elasticity-failure"
+"ECQ:elasticity" = "elasticity-failure"
+"ECQ:market failure" = "elasticity-failure"
+"ECQ:externalities" = "elasticity-failure"
+"ECQ:supply and demand" = "markets"
+"ECQ:demand and supply" = "markets"
+"ECQ:fiscal policy" = "macroeconomics"
+"ECQ:monetary policy" = "macroeconomics"
+"ECQ:exchange rates" = "trade"
+"ENQ:quotes" = "othello-quotes"
+"MAQ:differentiation" = "calculus"
+"MAQ:integration" = "calculus"
+"MAQ:probability" = "statistics"
+
+# Adaptive drill. S = stability in days: how long until recall falls to 90%.
+[drill]
+target_recall = 0.90          # resurface an item once predicted recall drops below this
+target_recall_exam = 0.95     # within exam_window_days of that subject's exam
+exam_window_days = 2
+first_ok_days = 1.0           # S after the first correct answer
+first_shaky_days = 0.25
+miss_minutes = 10             # a miss comes back after about this long
+ok_growth = 2.5               # S multiplier on a correct answer...
+difficulty_bonus = 1.0        # ...times (1 + bonus * (target - R)) when recall was already fading
+shaky_growth = 1.3
+miss_factor = 0.2             # S multiplier on a miss
+leech_lapses = 3              # misses before an item is flagged as a leech
+new_share = 0.3               # at most this share of a batch is unseen items
+
+# Planner (plan / next).
+[plan]
+urgency_days = 7              # urgency = k / (k + days_left)
+rank_step = 0.15              # importance = 1 / (1 + step * (rank - 1))
+tier_importance = [0.8, 0.5, 0.3]
+unknown_mastery = 0.2
+error_bump = 0.1              # need += this per error in the last 7 days...
+error_bump_max = 0.3          # ...up to this
+practised_today = 0.5         # multiplier when the topic was practised today
+consolidate_days = 2          # at or inside this many days: consolidate only
+
+# Output caps (characters) so tool results stay small.
+[caps]
+read = 6000
+topic = 8000
+snippet_tokens = 24

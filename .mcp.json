@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "study": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--quiet", "--frozen", "--project", "tools/studymcp", "studymcp", "serve"],
+      "env": { "PYTHONUTF8": "1" }
+    }
+  }
+}

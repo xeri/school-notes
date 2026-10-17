@@ -42,13 +42,16 @@ Six exams between Tuesday 27 October and Wednesday 4 November. This page doesn't
 | The last day before an exam | Consolidate only: that subject's errors or traps page, the pre-exam Anki pass, sleep. Learn nothing new. |
 
 **With Claude:**
-- `/study next` says what to work on next, based on exam proximity, priority and your error log.
+- `/study next` says what to work on next, based on exam proximity, priority, mastery and your error log.
+- `/study explain PED` explains a concept from the notes and links it to how the exam asks it.
+- `/study need geo coasts` lists what the exam needs for a topic: definitions, diagrams, formulas, traps, typical questions.
 - `/study blurt economics policy chains` marks a blurt against the notes.
 - `/study quiz maths calculus` sets exam-style questions and marks them.
 - `/study paper maths` sets a past-paper question and marks it.
+- `/study drill econ` runs an adaptive flashcard drill (no Anki needed): misses come back within minutes, and each card returns just before you would forget it.
 - `/study cards Economics` runs an Anki review.
 
-Mistakes go into a personal error log that the quizzes reuse.
+Mistakes go into a personal error log; drills and quizzes bring them back.
 
 ## Anki
 

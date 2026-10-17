@@ -66,6 +66,17 @@ created and kept in sync without leaving the editor:
 Anki has to stay open; the server only reaches the collection while the app is
 running.
 
+## Study with Claude
+
+[`tools/studymcp`](tools/studymcp/README.md) is a local MCP server that Claude Code starts
+from `.mcp.json`. It indexes the notes, decks, syllabi and the local school material, links
+every topic to its exam objectives, priority and traps, and keeps a private study record in
+`local/progress/`. The `/study` skill runs the sessions: `next`, `explain`, `need`, `blurt`,
+`quiz`, `paper`, `drill`, `cards` and `errors` (see [STUDY-PLAN.md](STUDY-PLAN.md)).
+
+One-time setup: install [uv](https://docs.astral.sh/uv/), run
+`uv sync --project tools/studymcp`, then approve the `study` server when Claude Code asks.
+
 ## Build
 
 ```bash
