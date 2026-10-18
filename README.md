@@ -71,8 +71,9 @@ running.
 [`tools/studymcp`](tools/studymcp/README.md) is a local MCP server that Claude Code starts
 from `.mcp.json`. It indexes the notes, decks, syllabi and the local school material, links
 every topic to its exam objectives, priority and traps, and keeps a private study record in
-`local/progress/`. The `/study` skill runs the sessions: `next`, `explain`, `need`, `blurt`,
-`quiz`, `paper`, `drill`, `cards` and `errors` (see [STUDY-PLAN.md](STUDY-PLAN.md)).
+`local/progress/`. The `/study` skill runs the sessions: one command, then plain talk. A quick
+true/false sweep wakes a topic up, then tasks climb from fixing errors to explaining from memory
+(see [STUDY-PLAN.md](STUDY-PLAN.md)).
 
 One-time setup: install [uv](https://docs.astral.sh/uv/), run
 `uv sync --project tools/studymcp`, then approve the `study` server when Claude Code asks.

@@ -1,8 +1,10 @@
 """Study state: an append-only event log plus the human-readable error logs.
 
 local/progress/events.jsonl   one JSON object per line:
-    {"t": iso, "ev": "attempt", "subject", "topic", "mode", "score", "out_of"}
-    {"t": iso, "ev": "review",  "subject", "topic", "item", "grade"}   grade: ok | shaky | miss
+    {"t": iso, "ev": "attempt", "subject", "topic", "mode", "score", "out_of", "level"?}
+    {"t": iso, "ev": "review",  "subject", "topic", "item", "grade", "level"?}
+        grade: ok | shaky | slip | miss; level: 1-5, how hard the task was
+        item: a card (ECQ/markets~ab12), an idea (ECQ/markets#conditions-of-demand) or an error (ERR/...)
     {"t": iso, "ev": "error",   "subject", "topic", "item"}             a mark lost (also in the md log)
 local/progress/<CODE>-errors.md   "- YYYY-MM-DD · topic · [type] what · fix · source"
 
@@ -137,28 +139,35 @@ class State:
 
     def memories(self, at=None):
         """item id -> drill.Memory, from reviews plus logged errors."""
-        p = self.cfg.drill
+        p = self.cfg.memory
         stream = []
         logged = set()
         for e in self.events:
             if e.get("ev") == "review" and e.get("item"):
-                stream.append((parse_time(e["t"]), e["item"], e.get("grade", "ok")))
+                stream.append((parse_time(e["t"]), e["item"], e.get("grade", "ok"), e.get("level")))
             elif e.get("ev") == "error" and e.get("item"):
-                stream.append((parse_time(e["t"]), e["item"], "miss"))
+                stream.append((parse_time(e["t"]), e["item"], "miss", None))
                 logged.add(e["item"])
         for err in self.errors:
             if err.id not in logged:  # typed into the md log by hand
-                stream.append((datetime.fromisoformat(err.date).astimezone(), err.id, "miss"))
+                stream.append((datetime.fromisoformat(err.date).astimezone(), err.id, "miss", None))
         stream.sort(key=lambda x: x[0])
         mems = {}
-        for t, item, grade in stream:
+        for t, item, grade, level in stream:
             if at and t > at:
                 break
-            mems[item] = drill.update(mems.get(item), grade, t, p)
+            mems[item] = drill.update(mems.get(item), grade, t, p, level=level)
         return mems
 
     def attempts(self, code=None):
         return [e for e in self.events if e.get("ev") == "attempt" and (not code or e.get("subject") == code)]
+
+    def last_topic(self, code):
+        """(stem, time) of the most recent attempt or review in this subject, or (None, None)."""
+        for e in reversed(self.events):
+            if e.get("ev") in ("attempt", "review") and e.get("subject") == code and e.get("topic"):
+                return e["topic"], parse_time(e["t"])
+        return None, None
 
     def topic_scores(self):
         """(code, stem) -> {"m": ewma or None, "n": attempts, "last": datetime}"""
@@ -172,7 +181,8 @@ class State:
             rec["last"] = t if rec["last"] is None or t > rec["last"] else rec["last"]
             if e["ev"] == "attempt" and e.get("out_of"):
                 f = max(0.0, min(1.0, float(e.get("score") or 0) / float(e["out_of"])))
-                alpha = 0.5 if e.get("mode") != "drill" else 0.25
+                lvl = e.get("level")
+                alpha = (0.25 if lvl <= 2 else 0.5) if lvl else (0.25 if e.get("mode") == "drill" else 0.5)
                 rec["m"] = f if rec["m"] is None else rec["m"] + alpha * (f - rec["m"])
                 rec["n"] += 1
         return out

@@ -26,7 +26,8 @@ Placements that catch people out:
 | Flood, coastal and tectonic hazards | A | including their management and the people affected |
 | Remittances, informal sector | B and C | B: impacts of migration and slums; C: development and inequality |
 | Bangladesh | A and B | A: delta flooding; B: high density, fertility decline |
-| Niger | B and C | B: high natural increase; C: the LIC in the development gap |
+| The Gambia | B (and C) | B: high natural increase; C: an LIC whose young population and emigration slow development |
+| Niger | C | C: the LIC in the development gap (class indicator table) |
 | Map skills, graphs, fieldwork | A, B and C | tested inside every section |
 
 ## (b) Legitimate essay links
@@ -36,7 +37,7 @@ These links show understanding across themes and lift an essay. Use one or two; 
 | Link | Chain | Use it in |
 |---|---|---|
 | Farm mechanisation → urbanisation | mechanisation (Clark–Fisher: primary jobs fall) → rural unemployment pushes people out → rural–urban migration → the steep middle of the urbanisation curve | B: history of urbanisation; C: economic transition |
-| DTM stage ↔ development level | as income, education and urban living rise, birth rates fall: Niger stage 2, India 3, NZ 4, Japan 5 | B: population change; C: why indicators move together |
+| DTM stage ↔ development level | as income, education and urban living rise, birth rates fall: The Gambia late stage 2, India 3, NZ 4, Japan 5 | B: population change; C: why indicators move together |
 | Remittances and the informal sector | migrants' remittances fund school fees and housing at home; slum dwellers work informally; both are invisible or partial in GDP | B: impacts of migration, slums; C: limits of GDP |
 | Urbanisation → flashy hydrographs | roofs and roads → less infiltration, more runoff, drains → short lag, high peak | A: flooding causes (Auckland, 27 January 2023) |
 | Slums on hazardous land → landslides | migrants can only build on steep or flood-prone land → heavy rain → landslides and floods | B: squatter-settlement problems (Rio, 2010); A: mass movement |
@@ -92,7 +93,7 @@ From [CASE-STUDIES.md](../CASE-STUDIES.md).
 | tropical rainforest and deforestation | the Amazon | — |
 | hot desert, desertification | the Sahara and the Sahel | — |
 | climate variation | New Zealand's climate | — |
-| high natural increase / youthful population | Niger | Bangladesh (fertility fall) |
+| high natural increase / youthful population | The Gambia | Bangladesh (fertility fall) |
 | anti-natalist policy | China's one-child policy | — |
 | ageing or declining population | Japan | Italy, Germany, Greece, China since 2022 |
 | international migration | Samoa → New Zealand | Germany (2015–16) |
@@ -106,7 +107,7 @@ From [CASE-STUDIES.md](../CASE-STUDIES.md).
 | development gap between an HIC and an LIC | New Zealand vs Niger | Mali (class Rostow and Frank data) |
 | regional inequality | Northland and Gisborne vs Auckland and Wellington | — |
 | a TNC / globalisation | Fonterra | the Volkswagen Group |
-| farming system and sustainability | a Waikato dairy farm | Canterbury irrigation |
+| farming system and sustainability (primary sector) | NZ dairy farming (Waikato) | Canterbury irrigation |
 | food shortage | Somalia 2011 | the Sahel |
 | manufacturing location, system, impacts | VW Wolfsburg | NZ Steel, Glenbrook |
 | tourism growth, impacts, management | Vietnam (Hạ Long Bay, Hội An, Sa Pa) | Queenstown |

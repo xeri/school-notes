@@ -165,7 +165,7 @@ The pages are grouped by the specification's own theme numbers: **Theme 1 is the
 
 **2.4 Population issues and policies** ([Population structure and policies](notes/population-structure.md))
 - Describe and evaluate population policies aimed at high rates of natural increase and at ageing populations.
-- *Named examples:* a country with a high rate of natural increase (Niger, with Bangladesh and China's one-child policy); a country with an ageing population (Japan, with Italy and Germany).
+- *Named examples:* a country with a high rate of natural increase (The Gambia, with Bangladesh and China's one-child policy); a country with an ageing population (Japan, with Italy and Germany).
 
 **2.5 Reasons for migration** ([Migration](notes/migration.md))
 - Explain and give reasons for international migration, distinguishing voluntary, forced and economic movement.

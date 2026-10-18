@@ -303,25 +303,37 @@ class Index:
 
     # -------------------------------------------------------------- topics
 
-    def resolve_topic(self, code, text):
-        """('stem', [alternatives]) for free text within a subject; (None, alts) if unsure."""
-        info = self.graph.get(code)
-        if not info or not text:
-            return None, []
-        t = norm_words(text.split("#")[0].split("/")[-1].replace("-", " "))
-        stems = list(info.topics)
-        for s in stems:
-            if t == s.replace("-", " "):
-                return s, []
-        if (code, t) in self.cfg.topic_aliases:
-            return self.cfg.topic_aliases[(code, t)], []
+    def _topic_names(self, info):
         names = {}
         for s, top in info.topics.items():
             names[norm_words(top.title)] = s
             for r in top.rows:
                 names[norm_words(re.sub(r"^\S+\s+", "", r))] = s
-        if t in names:
-            return names[t], []
+        return names
+
+    def exact_topic(self, code, text):
+        """stem when the text names a topic exactly (stem, alias, title or syllabus row), else None."""
+        info = self.graph.get(code)
+        if not info or not text:
+            return None
+        t = norm_words(text.split("#")[0].split("/")[-1].replace("-", " "))
+        for s in info.topics:
+            if t == s.replace("-", " "):
+                return s
+        if (code, t) in self.cfg.topic_aliases:
+            return self.cfg.topic_aliases[(code, t)]
+        return self._topic_names(info).get(t)
+
+    def resolve_topic(self, code, text):
+        """('stem', [alternatives]) for free text within a subject; (None, alts) if unsure."""
+        info = self.graph.get(code)
+        if not info or not text:
+            return None, []
+        exact = self.exact_topic(code, text)
+        if exact:
+            return exact, []
+        t = norm_words(text.split("#")[0].split("/")[-1].replace("-", " "))
+        names = self._topic_names(info)
         close = difflib.get_close_matches(t, list(names), n=3, cutoff=0.78)
         if close:
             return names[close[0]], [names[c] for c in close[1:] if names[c] != names[close[0]]]
@@ -344,7 +356,11 @@ class Index:
         if code:
             stem, alts = self.resolve_topic(code, rest) if rest.strip() else (None, [])
             return code, stem, alts
-        hits = self.search(text, None, ("notes", "terms", "ref"), limit=10, grouped=False)
+        exact = [(c, self.exact_topic(c, text)) for c in self.graph]
+        exact = [(c, s) for c, s in exact if s]
+        if exact:  # a topic name or alias ("ped" -> ECQ elasticity) beats full-text votes
+            return exact[0][0], exact[0][1], [f"{c}/{s}" for c, s in exact[1:]]
+        hits =self.search(text, None, ("notes", "terms", "ref"), limit=10, grouped=False)
         hits = [h for h in hits if h[0]["stem"] != "study-guide"]
         if not hits:
             return None, None, []

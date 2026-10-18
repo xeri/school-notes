@@ -2,7 +2,7 @@
 
 Every slot the syllabus or the school's topic pages require is filled below with an example the course materials point to. Where your teacher used a different example in class, learn that one too — but these are accurate, dated and ready to use. Figures marked *approximate* are rounded values that vary between sources; quote them as "about". Never invent a figure in the exam: if you cannot remember the number, use the comparison instead.
 
-Entries are grouped by the specification's three themes, and each one links to the notes page that uses it. The **2026 school case studies** are Dharavi and Diepsloot (slums), the Volkswagen factory at Wolfsburg (manufacturing) and Vietnam (tourism); New Zealand examples such as Glenbrook and Queenstown are kept as supporting material.
+Entries are grouped by the specification's three themes, and each one links to the notes page that uses it. The **2026 school case studies** are Dharavi and Diepsloot (slums), the Volkswagen factory at Wolfsburg (manufacturing) and Vietnam (tourism); New Zealand examples such as Glenbrook and Queenstown are kept as supporting material. The three sectors of the economy each have one full case study, in order: **New Zealand dairy farming (primary)**, **VW Wolfsburg (secondary)** and **Vietnam tourism (tertiary)**.
 
 **It is very unlikely that a whole question will be about one case study.** You will be asked to *refer to named examples to support your answer*, and essays are capped at **6 out of 10 without examples**. Levels 3 and 4 need *developed* examples — a place, a date and a fact that does work in the argument — not tags such as "as seen in Waikato".
 
@@ -126,17 +126,36 @@ Entries are grouped by the specification's three themes, and each one links to t
 
 ## Theme 2: Population and Settlement
 
-### Country with a high rate of natural increase: Niger (and Bangladesh for contrast)
+### Country with a high rate of natural increase: The Gambia (and Bangladesh for contrast)
 
 *Page:* [Population structure and policies](notes/population-structure.md)
 
-- **Niger:**
-  - the world's highest fertility, about 6 children per woman;
-  - about half the population is under 15;
-  - the population is growing by over 3% a year;
-  - most girls are married before 18, and contraceptive use is low.
-- **Issues:** not enough school places or teachers; too few jobs for each new generation; food insecurity in a drought-prone Sahel country; pressure on water and health services; a very high young dependency ratio.
-- **Attempts:** national population policies promoting family planning and girls' education. They have had limited effect, because early marriage, rural poverty and cultural and religious expectations keep fertility high.
+- **Where:** West Africa; the smallest country on mainland Africa (about 11 300 km²), a narrow strip either side of the Gambia River, surrounded by Senegal except for a short Atlantic coast. Capital Banjul.
+- **Figures** (*approximate*):
+  - about 2.4 million people at the 2024 census, up from about 1.9 million in 2013 — growth of roughly 2.5% a year, so the population doubles in under 30 years;
+  - fertility about 4.5 children per woman, down from about 6 in the 1990s;
+  - about 4 in 10 people are under 15; the median age is under 20;
+  - over 200 people per km², one of the highest densities in Africa.
+- **DTM stage:** late stage 2, moving into stage 3. The death rate has fallen (vaccination, clean water, clinics) while the birth rate is only starting to fall, so the gap — the natural increase — is wide.
+- **Causes of high natural increase:**
+  - children are farm labour and **old-age security** in a country with no pensions for most people;
+  - **early marriage**: child marriage was banned in 2016, but many girls in rural areas still marry before 18, which lengthens their child-bearing years;
+  - low use of modern contraception (under 1 in 5 married women, *approximate*) — limited supply in rural clinics, and religious and cultural expectations of large families (polygamy is common);
+  - girls leave school early, so they marry and have children younger;
+  - falling infant and child mortality: more babies survive, but families have not yet adjusted their size.
+- **Issues — and why each is a problem:**
+  - **Schools:** each year's group of children is bigger than the last, so classrooms are overcrowded and many schools run double shifts; quality falls and the next workforce is less skilled.
+  - **Jobs:** the economy (groundnuts, fishing, tourism, small trade) cannot create jobs as fast as young people reach working age → youth unemployment and underemployment → frustration, and a reason to leave.
+  - **Emigration — the "back way":** thousands of young Gambians have risked the Sahara and Mediterranean route to Europe; many die on the way. The country loses its young, active workers, though **remittances** (about a fifth of GDP, *approximate*) support families left behind.
+  - **Urban growth:** most people now live in and around Greater Banjul (Serekunda, Brikama), which sprawls onto farmland → informal housing, flooding, poor sanitation and waste problems.
+  - **Food:** the country imports most of its rice, so a growing population increases dependence on world food prices.
+  - **Health and dependency:** a very young dependency ratio — few workers support many children — and high maternal mortality strain a small health budget.
+  - **Population momentum:** so many girls are about to reach child-bearing age that the population will keep growing for decades even if fertility falls.
+- **Attempts:**
+  - a national population policy (since the 1990s) promoting family planning through health centres and community health workers, with support from the UN Population Fund;
+  - school fees removed in stages in the 2010s, and campaigns to keep girls in school;
+  - laws banning child marriage (2016) and female genital mutilation (2015) — Parliament rejected an attempt to overturn the FGM ban in 2024.
+- **Evaluation:** fertility has fallen — the policies and rising education are working slowly — but it is still about double replacement level. Laws are hard to enforce in rural areas where custom is strong, and momentum guarantees decades more growth. Lasting change depends on girls' education, women's jobs and better survival of children, not just on supplying contraception.
 - **Bangladesh, the contrast:** fertility fell from over six children per woman in the 1970s to about two by the 2020s. This came through door-to-door family-planning workers, free contraception, girls' education and women's jobs in the garment industry. Policy worked where it went together with development.
 
 ### Anti-natalist policy: China's one-child policy
@@ -262,85 +281,68 @@ The seven-level table is on the page.
 
 *Page:* [Urbanisation in LICs and MICs](notes/urbanisation-lics.md)
 
-- **Location:** central Mumbai, India's financial capital. It lies between the Western and Central railway lines, beside the Mithi River and Mahim Creek, and next to the Bandra–Kurla Complex business district. It is some of the most valuable land in the city.
-- **Origins:**
-  - a Koli fishing village on mangrove swamp;
-  - the slum grew from the **1880s** under British rule, as tanneries, Kumbhar potters from Gujarat and migrant workers were moved out of the city centre;
-  - by 1947 it was India's largest slum.
-- **Migration flow:** from rural Maharashtra and poorer states such as Uttar Pradesh and Bihar. Push: drought, debt, small farms. Pull: jobs in Mumbai's port, industry, services and film industry.
-- **Size:** about **2.1–2.4 km²**; population estimates of **600 000 to 1 million** (no reliable census), so densities of several hundred thousand per km².
-- **Conditions:**
-  - a 2006 UN estimate of **one toilet per about 1440 people**;
-  - water from shared standpipes for a few hours a day;
-  - open drains into Mahim Creek;
-  - flooding (2005) and fires (2013);
-  - TB, typhoid and respiratory disease;
-  - families in single rooms of about 10 m², often above or below a workshop.
-- **Economy:**
-  - a large, productive **informal economy**: leather and tanning, pottery (Kumbharwada), textiles and garments, embroidery, food, and recycling of plastics, metal and paper;
-  - about **5000 businesses and 15 000 single-room factories** (2010 estimate);
-  - turnover estimates from **US\$500 million to over US\$1 billion a year**;
-  - goods are exported worldwide.
-- **Community:** many religions and regions; strong networks; women's savings groups (Mahila Milan) working with the NGO SPARC on community toilet blocks. The "Dharavi model" of tracing and isolation limited COVID-19 in 2020.
-- **Redevelopment:**
-  - Slum rehabilitation from 1995: free flats paid for by developers, who get extra flats to sell.
-  - **2004:** the Dharavi Redevelopment Project (Mukesh Mehta's plan) to rehouse about 57 000 families in towers, estimated at ₹5000 crore. Repeated failed or cancelled tenders followed; a 2019 award to SecLink was cancelled in 2020.
-  - **2022:** the **Adani Group** won with a ₹5069 crore bid. The government approved it in **July 2023**, and the High Court upheld it in December 2024. The project is run by Navbharat Mega Developers, a joint venture with the Maharashtra government, and plans to rehabilitate about 650 000 people.
-  - **Eligibility:** ground-floor residents from before **1 January 2000** get a free flat of about 350 sq ft (32 m²) **in Dharavi**; residents from 2000–2011 get low-cost homes **outside** Dharavi; later residents are offered rental housing outside.
+Learn the **ideas**: where it is, why it grew, what goes wrong, what has been tried and whether it works. One or two anchor facts are enough to make the example "developed".
+
+- **Location — the key idea:** a **central** slum. It sits on swampy, once-unwanted land between railway lines in the middle of Mumbai, next to a modern business district, so it is now some of the most valuable land in the city. That is why developers want it.
+- **Why it grew:** Mumbai is India's richest city, so it pulls migrants from poor rural states (push: drought, debt, tiny farms; pull: jobs, wages, hope). Formal housing is far too expensive, so newcomers built wherever they could. Dirty industries (tanning, pottery) pushed out of the old centre settled there too. It has grown for over a century and is one of Asia's largest slums.
+- **Anchor fact:** perhaps up to **a million people on about 2 km²**, one of the densest places on Earth (estimates vary; there is no reliable census).
+- **Problems — and why they matter:**
+  - **Overcrowding:** families live in one small room, often above or below a workshop → disease spreads fast, no privacy, no space to study.
+  - **Sanitation and water:** shared toilets and standpipes, open drains → water-borne disease (diarrhoea, typhoid) and hours lost queuing, which falls mostly on women and children.
+  - **Hazards:** low, flood-prone land, flammable materials and tangled wiring → floods and fires, and narrow lanes block fire engines and ambulances.
+  - **Pollution:** tanning, recycling and burning waste → polluted air and creek, respiratory illness.
+  - **No legal title:** residents can be evicted, so they hesitate to invest in better homes, and they struggle to get loans or services.
+- **Strengths — why it is not only a problem:**
+  - a huge **informal economy** (leather, pottery, garments, food and recycling) that employs most residents and sells across India and abroad;
+  - strong, mixed communities and self-help groups, such as women's savings groups working with NGOs to build community toilet blocks;
+  - homes double as workplaces, so people live next to their income.
+- **Solutions tried:**
+  - **Slum rehabilitation:** developers build free flats for residents and pay for it by selling extra flats on the freed land.
+  - **Large-scale redevelopment:** repeated plans since 2004 to clear the area and rehouse people in tower blocks; the current scheme is led by the **Adani Group** (tender won 2022). Only long-term residents qualify for a free flat inside Dharavi; later arrivals are offered housing outside it.
+  - **Community-led upgrading:** NGOs and residents improving toilets, water and lanes in place.
 - **Evaluation:**
-  - *For:* modern flats with water and toilets; less fire and flood risk; schools and roads.
-  - *Against:* many residents will be moved far from jobs; towers destroy home-based workshops and the informal economy; the developer profits from prime land; residents protested from 2023.
-  - *Judgement:* success should be measured by how many original residents and businesses stay. Community-led sanitation upgrades have been cheaper and better targeted.
+  - *For redevelopment:* safe flats with water and toilets; less fire and flood risk; schools and roads.
+  - *Against:* many residents do not qualify and are moved far from their jobs; tower blocks do not suit home workshops, so the informal economy can be destroyed; the developer profits most from prime land; residents have protested.
+  - *Judgement:* success should be measured by how many original residents and businesses stay. In-situ upgrading with residents is cheaper and keeps livelihoods.
 
 ### LIC/MIC squatter settlement (school case study 2): Diepsloot, Johannesburg, South Africa
 
 *Page:* [Urbanisation in LICs and MICs](notes/urbanisation-lics.md)
 
-- **Location:** the northern edge of the City of Johannesburg (Region A), Gauteng, about 30 km north of the CBD, between Johannesburg and Pretoria, beside the Jukskei River. It is next to wealthy gated estates such as Dainfern and close to Fourways, a sharp contrast of rich and poor.
-- **Name:** Afrikaans for "deep ditch".
-- **Origins:**
-  - **1995:** a **transit camp** for people removed from the Zevenfontein informal settlement;
-  - **2001:** about 5000 families moved from the flood-prone banks of the Jukskei River in Alexandra (the Alexandra Renewal Project);
-  - "temporary" residents stayed, and new migrants keep arriving.
-- **Migration flow:** from rural provinces (Limpopo, the Eastern Cape, KwaZulu-Natal) and from Zimbabwe, Mozambique and Malawi. Push: rural poverty and unemployment, the legacy of the apartheid homelands. Pull: Gauteng's jobs in mining, finance and industry. Apartheid's controls on movement ended in 1986.
-- **Size:** about **12 km²**; **138 329** people at the 2011 census (about 11 500 per km²). Estimates since range from about 200 000 to over 350 000.
-- **Housing:** about half live in shacks (*mkhukhu*) of corrugated iron, wood and plastic, often about 3 × 2 m. There are about 4900 government **RDP houses** and many rented backyard rooms.
-- **Services (2011 census):**
-  - only **18%** of households had piped water inside the home;
-  - **61%** had electricity;
-  - many shared communal taps and chemical or pit toilets;
-  - several extensions lack tarred roads, drainage and street lights, and flood in summer storms;
-  - paraffin stoves cause fires.
-- **Economy:** high unemployment (a World Bank study in 2014 found joblessness a defining feature; roughly a third to a half of working-age adults). An informal economy of spaza shops, taverns, hair salons, car washes, street food and recycling. Entrepreneurs' top barriers: **crime, lack of space and lack of electricity** (World Bank, 2014).
-- **Social issues:** one of Johannesburg's highest crime rates; few police; vigilante "mob justice"; tension with foreign migrants. In **April 2022** a Zimbabwean man, Elvis Nyathi, was killed by a mob during anti-migrant protests linked to Operation Dudula.
-- **Responses:**
-  - RDP housing (from 1994) and the People's Housing Process in Diepsloot West (a subsidy plus residents' own labour);
-  - serviced stands with water and sanitation (site-and-service);
-  - **Cosmo City** (from 2005), a nearby planned mixed-income new town that took the remaining Zevenfontein residents;
-  - NGO projects: food gardens, youth programmes, recycling co-operatives, small-business support.
+- **Location — the key idea:** a **peripheral** slum on the northern edge of Johannesburg, far from the city centre, right beside wealthy gated estates: a sharp picture of inequality.
+- **Why it grew:** it began in **1995** as a "temporary" transit camp for people moved from other informal settlements and flood-prone riverbanks. The temporary residents stayed, and migrants kept arriving from poor rural provinces and neighbouring countries (Zimbabwe, Mozambique, Malawi), pulled by Gauteng's jobs. Apartheid had kept Black South Africans out of the cities; when those controls ended, migration grew far faster than housing.
+- **Anchor fact:** from a camp to a township of a few hundred thousand people in about 30 years.
+- **Problems — and why they matter:**
+  - **Housing:** many live in self-built shacks of corrugated iron and wood → cold, crowded, and easily burned by paraffin stoves.
+  - **Services:** many homes lack piped water, a flush toilet or a legal power connection → disease, illegal wiring and fires; unpaved roads flood in summer storms.
+  - **Jobs:** high unemployment, and the edge location means long, expensive journeys to work → poverty is hard to escape.
+  - **Crime and policing:** few police → high crime and "mob justice"; tension with foreign migrants has led to xenophobic violence.
+  - **Health and social issues:** HIV, teenage pregnancy and substance abuse.
+- **Strengths:** a busy informal economy of small shops (spaza shops), taverns, salons and street food; community and NGO projects such as food gardens and youth programmes.
+- **Solutions tried:**
+  - **RDP houses**, free basic government homes (since 1994);
+  - **site-and-service** plots with water and toilets on which residents build;
+  - **self-help** housing, where residents add their own labour to a subsidy;
+  - a planned mixed-income **new town** nearby (Cosmo City) for some residents;
+  - NGO projects for jobs, recycling and small businesses.
 - **Evaluation:**
-  - RDP houses have given many families a formal home, but supply has never caught up with arrivals, so shacks keep spreading.
-  - Locating poor people on the urban edge, far from jobs, repeats the apartheid pattern.
-  - Services are patchy, and crime and xenophobia deter investment.
-  - *Judgement:* upgrading in place (tenure, water, sanitation, lighting, policing) and local job creation would do more than relocation.
+  - Government houses have given many families a proper home, but supply never catches up with new arrivals, so shacks keep spreading.
+  - Housing poor people on the city edge, far from jobs, repeats the apartheid pattern.
+  - Services are improving but patchy, and crime and xenophobia scare off investment.
+  - *Judgement:* upgrading in place (secure tenure, water, sanitation, lighting, policing) plus local jobs would help more than moving people.
+
+**Dharavi vs Diepsloot, the comparison examiners reward:** central vs peripheral; old vs new; a productive economy vs high unemployment; the threat of redevelopment vs a backlog of services and crime; developer-led towers vs state houses and serviced plots.
 
 ### Supporting LIC/MIC example: Rio de Janeiro's favelas, Brazil
 
 *Page:* [Urbanisation in LICs and MICs](notes/urbanisation-lics.md)
 
-- **Growth:** a metropolitan area of over 12 million (*approximate*), fed by rural-to-urban migration, especially from Brazil's poor, drought-prone **north-east**, where land is concentrated in large estates and farming is mechanising, and by natural increase among young migrants.
-- **Favelas:**
-  - about 1.4 million people, more than a fifth of the city's population, lived in favelas at the 2010 census; **Rocinha** is the largest;
-  - they occupy steep hillsides (land nobody else wanted, close to jobs in the centre and the wealthy southern beach suburbs) and flood-prone ground;
-  - problems: landslide risk, poor sanitation, illegal power connections, drug-gang violence, overcrowding;
-  - strengths: strong communities and informal businesses.
-- **Strategies:**
-  - clearance and relocation to the periphery (unpopular, far from jobs);
-  - the **Favela-Bairro** upgrading programme from **1994** (paved paths, drains, water, sewerage, crèches, keeping people in place);
-  - police Pacification Units from 2008;
-  - the federal **Minha Casa Minha Vida** housing programme (2009);
-  - regularised electricity connections.
-- **Evaluation:** upgrading in place has been more successful and cheaper than clearance. Pacification reduced violence at first but did not last.
+- **Why they grew:** migrants from Brazil's poor, drought-prone north-east, where land is held in large estates and farming is mechanising, plus natural increase among young migrants.
+- **Where:** on **steep hillsides** close to the centre and the rich beach suburbs (land too steep for developers but close to jobs) and on flood-prone land. More than a fifth of the city's people live in favelas; **Rocinha** is the largest.
+- **Problems:** landslides after heavy rain; steep, narrow alleys that vehicles, pipes and sewers cannot reach; poor sanitation; illegal power connections; drug-gang violence and violent police raids.
+- **Strengths:** strong communities and many informal businesses.
+- **Solutions:** clearance to distant estates (unpopular, far from jobs) → **Favela-Bairro** upgrading in place from 1994 (paved paths, drains, water, sewerage, crèches) → police "pacification" units from 2008 → legalising electricity.
+- **Evaluation:** upgrading in place has been cheaper and more popular than clearance. Pacification reduced violence at first but did not last.
 
 ---
 
@@ -350,7 +352,7 @@ The seven-level table is on the page.
 
 *Page:* [Development and inequality](notes/development.md)
 
-The school's development lesson compares New Zealand with **Niger** in its indicator table (with the UK, Brazil and Indonesia), so Niger is the LIC to learn. It also doubles as the Theme 2 high-natural-increase country. **Mali** appears only in the lesson's Rostow and Frank exercises; use it as supporting data for those models.
+The school's development lesson compares New Zealand with **Niger** in its indicator table (with the UK, Brazil and Indonesia), so Niger is the LIC to learn here. (The Theme 2 high-natural-increase country is **The Gambia**, above.) **Mali** appears only in the lesson's Rostow and Frank exercises; use it as supporting data for those models.
 
 | Indicator (class data) | New Zealand | Niger |
 |---|---|---|
@@ -386,17 +388,6 @@ Explain the gap with **SEEP**: Niger is landlocked in the Sahel and mostly deser
 - **Ownership and scale:** owned by about 9000 farming families; collects roughly four-fifths of New Zealand's milk; in 2025 agreed to sell its consumer brands business (Anchor, Mainland) to Lactalis.
 - **Evaluation:** brings export earnings, rural jobs and a market for farmers; but ties the New Zealand economy to world dairy prices, and its expansion of dairy has been linked to river pollution and emissions.
 
-### Primary sector — a New Zealand dairy farm
-
-*Page:* [Farming and food shortages](notes/farming.md)
-
-- **National scale (2023/24 season):** about **4.7 million** dairy cows, an average herd of about **445**, and about **400 kg of milksolids per cow**. The Waikato is the largest region, with about 1.1 million cows in about 3000 herds; Taranaki, Southland and irrigated Canterbury follow (*approximate*). The farmgate milk price reached a record NZ\$10.16 per kg of milksolids in 2024/25.
-- **Value:** dairy contributes about NZ\$10.2 billion of direct value to the economy and roughly one in every three dollars New Zealand earns from goods exports (industry figures quoted in school essays).
-- **Location factors:** mild, moist climate with year-round grass growth; reliable rain or irrigation; flat to rolling land; fertile soils; a processing plant within tanker range, because milk is collected daily; ports for export.
-- **System:** inputs (land, grass, water, cows, labour, fertiliser, supplementary feed, machinery, capital) → processes (rotational grazing, twice-daily milking, spring calving, breeding, feeding in winter) → outputs (milk, calves, cull cows; effluent, nitrate, methane) → feedback (milk price decides next season's stocking and fertiliser).
-- **Environmental effects:** nitrate leaching into groundwater and rivers; effluent; irrigation drawing down Canterbury rivers and aquifers; pugging; methane and nitrous oxide — agriculture produces about half of New Zealand's emissions.
-- **Sustainability measures:** riparian fencing and planting, effluent ponds, nutrient budgets, lower stocking rates, wintering barns, retiring steep land.
-
 ### Food shortage — Somalia 2011 and the Sahel
 
 *Page:* [Farming and food shortages](notes/farming.md)
@@ -404,6 +395,79 @@ Explain the gap with **SEEP**: Niger is landlocked in the Sahel and mostly deser
 - **Somalia, 2011:** two failed rainy seasons (2010–11) in the Horn of Africa's worst drought for decades; high world food prices; civil war, with armed groups blocking aid. The resulting famine killed about **260 000 people**, half of them children under five. International aid arrived late — the famine had been forecast months ahead.
 - **The Sahel:** chronic food insecurity from recurring drought, desertification, rapid population growth and conflict.
 - **Solutions to evaluate:** emergency food aid (saves lives, but late and can undercut local farmers); drought-resistant crops and water harvesting; early-warning systems acted upon in time; peace and access; land restoration such as the Great Green Wall.
+
+### Primary sector — New Zealand dairy farming
+
+*Page:* [Farming and food shortages](notes/farming.md)
+
+The primary-sector case study, learned in the same depth as Wolfsburg (secondary) and Vietnam (tertiary). It also fills farming as a system, farm location factors, intensive farming, environmental impacts of farming and "is dairy farming sustainable?".
+
+**Scale and trend**
+- About **4.7 million** dairy cows (2023/24), an average herd of about **445**, producing about **400 kg of milksolids per cow** a season.
+- Cow numbers roughly **doubled from about 2.4 million in 1990 to a peak of about 5 million in the mid-2010s** as sheep farms were converted to dairy, then began falling slowly (*approximate*).
+- **Where:** the **Waikato** is the heartland (about 1.1 million cows); **Taranaki**; and, since the 1990s, a big expansion into **Southland** and irrigated **Canterbury**.
+- **Value:** NZ's largest goods export, about **one dollar in three** of goods export earnings; the farmgate price reached a record **NZ\$10.16 per kg of milksolids in 2024/25**, but fell as low as about NZ\$3.90 in 2015/16, so incomes swing widely.
+
+**Why dairy farms are where they are**
+- **Physical:**
+  - mild, moist temperate climate with few frosts → **grass grows almost all year**, so cows graze outdoors and need little housing or bought feed, keeping costs low;
+  - reliable, well-spread rainfall (about 1100–1300 mm in the Waikato), or **irrigation** from rivers and aquifers on the dry Canterbury Plains;
+  - flat to gently rolling land, safe for heavy cows and easy for machinery;
+  - fertile, free-draining **volcanic soils** in the Waikato and on the Taranaki ring plain; alluvial soils in Canterbury.
+- **Human:**
+  - **processing plants within tanker range**, because milk is perishable and collected every day (Fonterra's Te Rapa near Hamilton, Edendale in Southland) — the reason dairy clusters in a few regions;
+  - good rural roads and export ports;
+  - **Fonterra**, a farmer-owned co-operative that by law must accept milk from any farmer who wants to supply it, so farmers always have a buyer;
+  - technology: rotary milking sheds, herd testing, artificial insemination and breeding (LIC), farm software;
+  - capital and bank loans (land is very expensive), and **sharemilking**, a route from worker to farm owner;
+  - government: no farm subsidies since the 1980s reforms, so farms must be efficient; the 1990s boom in irrigation schemes opened Canterbury.
+
+**The farm as a system**
+- **Inputs:** physical — land, grass, rain or irrigation water, soil, sunshine; human — cows, labour (owner, sharemilker, farm workers, many of them migrants), fertiliser (especially nitrogen), supplementary feed (silage, maize, palm kernel), electricity, fuel, machinery, the milking shed, vet and advisory services, capital.
+- **Processes:**
+  - **rotational grazing** — cows move to a fresh paddock each day or half-day so the grass regrows;
+  - milking **twice a day** in a rotary or herringbone shed; milk chilled in a vat until the tanker comes;
+  - a **seasonal cycle** timed so that peak grass growth matches peak milk demand:
+    - *winter (June–July):* cows dried off and fed on crops or silage;
+    - *spring (July–September):* calving;
+    - *late spring (October–December):* the "spring flush" of grass and milk, and mating by artificial insemination;
+    - *summer:* irrigation where available, extra feed in dry spells;
+    - *autumn (April–May):* cows dried off;
+  - making silage, applying fertiliser, spreading effluent, maintaining fences and races.
+- **Outputs:** products — milk (paid by kg of milksolids), surplus calves and cull cows for meat; waste — effluent, nitrate and phosphate, sediment, methane and nitrous oxide; money — the milk cheque.
+- **Feedback:** the milk price sets next season's decisions. A high price → more cows, more fertiliser and feed, perhaps a new shed or irrigation; a low price → fewer inputs, debt and sometimes farm sales.
+
+**Intensive pastoral farming — and how it has intensified**
+- Dairy is **intensive**: high inputs of capital and labour per hectare give high output per hectare.
+- It is mostly **pasture-based** (grass grazed in the paddock), the low-cost system that makes NZ milk competitive worldwide.
+- Since the 1990s farms have **intensified**:
+  - more cows per hectare;
+  - more nitrogen fertiliser to grow more grass;
+  - more irrigation;
+  - more imported feed — palm kernel from South-East Asia is linked to rainforest clearance.
+- Intensification raised output and profit, but it is also the main reason the environmental pressure rose.
+
+**Effects — why dairy farming is controversial**
+- **Economic (positive):** export earnings that pay for the country's imports; jobs on farms and in processing, transport, vets, machinery and banking; service towns kept alive (Morrinsville, Te Awamutu); the multiplier effect through rural economies.
+- **Economic (negative):** dependence on one product and on world prices (and on China), so a price fall hits the whole economy; high farm debt; land prices too high for young farmers.
+- **Social:** reliance on migrant workers; long hours and isolation (farmer stress and mental health); farm amalgamation means fewer, larger farms; tension between farmers and the urban public over "dirty dairying".
+- **Environmental (the main problem), as causal chains:**
+  - **Nitrate:** a cow's urine patch holds far more nitrogen than grass can use, and fertiliser adds more → nitrate leaches through the soil into groundwater and streams → **eutrophication** (algal blooms, low oxygen, fish deaths) in rivers and lakes; nitrate in drinking-water wells in Canterbury is a health concern.
+  - **Effluent and E. coli:** dung washed off sheds, races and paddocks → bacteria in rivers → many lowland rivers become unsafe for swimming.
+  - **Sediment and phosphate:** cows trampling stream banks and **pugging** wet paddocks → soil washes into waterways → muddy rivers and smothered stream life; winter grazing of crops on bare, wet ground makes this worse.
+  - **Water takes:** irrigation draws down Canterbury's rivers and aquifers → lower flows for ecosystems, other farmers and towns.
+  - **Climate:** methane from cows' digestion and nitrous oxide from urine and fertiliser → agriculture produces about **half of NZ's greenhouse emissions**, and dairy is the biggest single part.
+  - **Biodiversity:** wetlands drained and native bush cleared for pasture.
+
+**Management — and how well it has worked**
+- **Voluntary industry action:** after Fish & Game's "Dirty Dairying" campaign (2002), the Dairying and Clean Streams Accord (2003) and the Sustainable Dairying: Water Accord (2013) committed farmers to **fence stock out of waterways**, build bridges and culverts at crossings and manage effluent. Most large waterways on dairy farms are now fenced.
+- **On-farm practices:** riparian fencing and planting; effluent ponds and spreading only when the soil can absorb it; **nutrient budgets** and precision fertiliser; lower stocking rates; stand-off pads and wintering barns; retiring steep or wet land; better feed and breeding to cut emissions.
+- **Regulation:** regional councils set limits on nitrogen loss and water takes (a nitrogen cap and trading scheme around Lake Taupō; nutrient limits in Canterbury); national freshwater rules on stock exclusion and winter grazing. Pricing of farm greenhouse emissions has been proposed and repeatedly delayed.
+- **Market pressure:** overseas buyers want low-carbon, "sustainable" milk, so Fonterra pays farmers incentives for good environmental practice.
+- **Evaluation:**
+  - Fencing and effluent rules have reduced direct pollution, but nitrate leaching from urine patches is hard to stop without **fewer cows per hectare**, and nitrate already in groundwater can take decades to reach rivers.
+  - Emissions are barely falling.
+  - *Long-term sustainability:* economically strong but exposed to price swings; environmentally sustainable only if stocking rates match what each catchment's water can cope with. The slow fall in cow numbers since the mid-2010s suggests the industry is moving that way, but the pace depends on enforced rules, not voluntary action.
 
 ### Manufacturing factory (2026 school case study) — Volkswagen, Wolfsburg, Germany
 
@@ -436,11 +500,43 @@ Explain the gap with **SEEP**: Niger is landlocked in the Sahel and mostly deser
 - **Growth:** international arrivals about **18 million in 2019** (pre-pandemic record) → collapse in 2020–2021 (borders closed) → reopened March 2022 (about 3.7 million) → about 17.6 million in 2024 → about **21 million in 2025**, a new record up about 20% (Vietnam National Authority of Tourism reports 21.2 million). Target: 25 million in 2026.
 - **Value:** 2025 tourism revenue about VND 1 quadrillion (roughly **US\$38 billion**), about **8–9% of GDP** (*approximate*, Vietnam News).
 - **Source markets (2025):** China (about 5.3 million), South Korea (about 4.3 million), then Taiwan, the USA and Japan; Asia supplies about four-fifths.
-- **Why it grew:** Đổi Mới reforms (from 1986); natural attractions (karst seascapes, caves, mountains, beaches, rice terraces); cultural attractions (ancient towns, imperial cities, food, war history); low cost and safety; 90-day e-visas for all nationalities from August 2023 and visa-free entry for many countries; budget airlines and new airports; closeness to the huge Chinese and Korean markets; marketing and films (*Kong: Skull Island*, 2017).
+- **Why it grew (causes):**
+  - *Political change:* the **Đổi Mới** reforms (from 1986) opened a closed, war-damaged communist economy to foreign investment and visitors → hotels, airlines and tour firms could be set up → tourism became a government priority.
+  - *Natural attractions:* limestone karst seascapes (Hạ Long), huge caves (Phong Nha), mountains and rice terraces (Sa Pa), long tropical beaches, the Mekong Delta.
+  - *Cultural attractions:* ancient towns (Hội An), imperial cities (Huế), temples, food, minority cultures and war history; several UNESCO World Heritage sites act as "brands" that attract visitors.
+  - *Cost and safety:* cheap food, hotels and transport, and a reputation for political stability and personal safety → attractive to backpackers and families alike.
+  - *Access:* budget airlines (VietJet) and new airports cut fares; Vietnam is a few hours' flight from China, South Korea and Japan, whose rising middle classes now travel abroad; 90-day e-visas for all nationalities (August 2023) and visa-free entry for many countries removed a barrier.
+  - *Marketing and media:* government campaigns, social media and films (*Kong: Skull Island*, 2017, shot at Hạ Long and Tràng An).
+  - *Recovery after COVID-19:* pent-up demand from Asia once borders reopened in 2022 drove record numbers by 2025.
 - **Key areas:** **Hạ Long Bay** (about 1600 limestone islands; UNESCO 1994, extended to Cát Bà 2023); **Hội An** (old trading port; UNESCO 1999; entry tickets; regular floods); **Sa Pa** (rice terraces, Hmong and Red Dao villages; Fansipan, 3143 m, cable car since 2016); **Phong Nha–Kẻ Bàng** (UNESCO 2003; Sơn Đoòng, the world's largest cave passage, strictly limited tours); **Huế** (Imperial City, UNESCO 1993); **Tràng An** (UNESCO 2014); **Phú Quốc** (island resorts).
-- **Impacts:** economic — millions of jobs, foreign currency, income for poor rural and minority areas, but leakage to foreign-owned firms, seasonal low-paid work and dependence on Chinese and Korean visitors; social — revival of crafts, but commercialised minority culture and child street-sellers in Sa Pa and overcrowding in Hội An; environmental — waste, wastewater and plastic around Hạ Long Bay (made worse by nearby coal mining and industry), hillside hotel building and landslide risk in Sa Pa, forest cleared for Phú Quốc resorts, flight emissions.
+- **Effects — and why each one matters:**
+  - **Economic, positive:**
+    - *millions of jobs* in hotels, restaurants, guiding, transport and crafts, many needing little training → work for rural people, women and ethnic minorities with few other options;
+    - *foreign currency* → helps pay for imports and development;
+    - the *multiplier effect* → farmers, builders and craft-makers sell to the tourist trade;
+    - *infrastructure* (airports, roads, power, water) that residents use too.
+  - **Economic, negative:**
+    - *Leakage:* much of the spending goes to foreign-owned hotels, airlines and tour companies, or to a few big Vietnamese conglomerates (Sun Group built the Fansipan cable car) → little of the money reaches local families, so tourism does less to reduce poverty than the headline figures suggest.
+    - *Low-paid, seasonal, insecure work* → no income in the off-season, and no safety net when visitors stop coming. When borders shut in 2020–2021, arrivals fell to almost nothing and huge numbers of tourism workers lost their income overnight.
+    - *Dependence on a few markets:* China and South Korea supply nearly half of visitors → a political dispute, economic slowdown or new pandemic in those countries hits Vietnam directly.
+    - *Rising land, rent and food prices* in resort areas → locals priced out; farming and fishing families in resort areas such as Phú Quốc have lost land to resort projects.
+  - **Social and cultural:**
+    - *Benefits:* income for minority families through homestays; revival of crafts such as Hội An lanterns and Sa Pa textiles; better services.
+    - *Commercialisation of culture* in Sa Pa: Hmong and Red Dao traditions are performed and sold to tourists ("staged authenticity") → culture becomes a product and its meaning is lost.
+    - *Child street-sellers* in Sa Pa sell souvenirs instead of attending school → they miss education, which keeps them in poverty (the cycle of poverty).
+    - *Overcrowding:* Hội An's narrow streets are packed at peak times → residents move out and the old town turns into shops and cafés for visitors — a "museum town" losing the community that made it attractive.
+    - Traditional ways of life change faster than communities choose, and resentment can build towards visitors.
+  - **Environmental:**
+    - *Hạ Long Bay:* waste, sewage and fuel from hundreds of tour boats, hotels and the growing city of Hạ Long, plus plastic litter → poorer water quality, algae and damaged coral and mangroves → fewer fish for local fishing families, and a dirtier bay that is less attractive to the visitors it depends on. Nearby coal mining, a port and land reclamation add to the pollution, so tourism is not the only cause.
+    - *Sa Pa:* hotels built on steep hillsides and terraces → forest and terraces lost, slopes destabilised → **landslide** risk in heavy monsoon and typhoon rain (Typhoon Yagi in September 2024 caused deadly floods and landslides in Lào Cai province, where Sa Pa is); the rice-terrace landscape that tourists come to see is being built over; water supply is strained.
+    - *Phú Quốc:* forest cleared and coral reefs damaged for resorts → lost habitat; dry-season water shortages as hotels compete with residents.
+    - *Coasts:* beach resorts built close to the sea face erosion (the beach at Cửa Đại near Hội An has been badly eroded).
+    - *Climate:* emissions from long-haul and regional flights add to global warming, which in turn threatens Vietnam's low-lying coasts and the Mekong Delta.
+  - **The big idea:** unmanaged tourism can **destroy the attractions it depends on** — dirtier water at Hạ Long, a built-over Sa Pa, a crowded Hội An — pushing a destination towards Butler's stagnation and decline.
+- **Who gains and who loses:** large firms, national government revenue and well-placed hotel and homestay owners gain most; fishing families, poorer residents priced out, minority children kept out of school and future generations who inherit a damaged environment lose most.
 - **Management:** limits on licensed tour boats and routes and a ban on single-use plastic on Hạ Long tour boats and sites (from 1 September 2019); Hội An ticketing (from 1995, reintroduced 2022, tightened for tour groups 2024) funding restoration, and pedestrian streets; caps and licensed guides for Sơn Đoòng (high-value ecotourism); community-based homestays in Sa Pa; a national "green tourism" strategy to 2030.
 - **Evaluation:** numbers keep breaking records, so pressure is rising faster than management; caps and tickets work best at small sites; Hạ Long's pollution is not only from tourism.
+- **On Butler's model:** different parts of Vietnam sit at different stages. Hạ Long Bay is near **consolidation or stagnation** (carrying capacity under strain); Sa Pa and Phú Quốc are in rapid **development** (outside firms, fast building); Sơn Đoòng is deliberately held near **involvement** by strict caps.
 
 ### Supporting NZ tourism example — Queenstown
 

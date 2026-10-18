@@ -1,6 +1,6 @@
 # Population structure and policies
 
-Specification objectives 2.3 and 2.4. The case studies are China, Niger, Japan and Italy, with Bangladesh and Germany for contrast. Their dated facts are in [CASE-STUDIES.md](../CASE-STUDIES.md).
+Specification objectives 2.3 and 2.4. The case studies are China, The Gambia, Japan and Italy, with Bangladesh and Germany for contrast. Their dated facts are in [CASE-STUDIES.md](../CASE-STUDIES.md).
 
 ## Contents
 
@@ -41,11 +41,11 @@ Read in a fixed order: **shape → base → apex → sides → bulges and notche
 
 ## Pyramid shapes and the DTM
 
-![Four population pyramid shapes linked to DTM stages: Niger, India, New Zealand and Japan](geo-pyramid-shapes.svg)
+![Four population pyramid shapes linked to DTM stages: The Gambia, India, New Zealand and Japan](geo-pyramid-shapes.svg)
 
 | Shape | DTM stage | Birth and death rates | Typical country |
 |---|---|---|---|
-| Wide base, narrow concave triangle | 2 | high BR, high but falling DR, short life expectancy | Niger |
+| Wide base, narrow concave triangle | 2 | high BR, high but falling DR, short life expectancy | The Gambia |
 | Wide base but narrowing at the bottom, straighter sides | 3 | falling BR, low DR | India, Bangladesh |
 | Column (beehive), roughly equal bars to old age | 4 | low BR and DR, long life expectancy | New Zealand, the UK |
 | Narrow base and wide top (inverted, or "coffin" shaped) | 5 | BR below DR, very old population | Japan, Italy |
@@ -63,7 +63,7 @@ $$\text{dependency ratio} = \frac{(0\text{–}14) + (65+)}{15\text{–}64}\times
 **Worked example.** 3 200 000 young, 1 100 000 elderly and 5 500 000 of working age:
 $(3\,200\,000 + 1\,100\,000)\div5\,500\,000\times100 = 78$ dependants per 100 people of working age.
 
-- In LICs most dependants are **young** (Niger's ratio is over 100).
+- In LICs most dependants are **young** (The Gambia's ratio is about 80, almost all children).
 - In HICs a growing share are **elderly** (Japan's ratio is about 70, mostly old).
 - **Limitations.** Many 15–19-year-olds in HICs are still in education, many over-65s still work, and many children in LICs work. The ratio is therefore only an approximation of who supports whom.
 
@@ -105,7 +105,7 @@ $(3\,200\,000 + 1\,100\,000)\div5\,500\,000\times100 = 78$ dependants per 100 pe
 | Example | Situation | Policy | Evaluation |
 |---|---|---|---|
 | **China** (anti-natalist) | rapid growth after 1950 | **one-child policy** 1979/80–2015, with fines, permits and rewards; two children from 2016, three from 2021 | births were cut sharply, by hundreds of millions on most estimates, but the side effects forced the reversal: a male-biased sex ratio, a rapidly ageing population, the "4-2-1" family and a shrinking workforce. The population began to fall in 2022, and pro-natalist incentives have barely raised births |
-| **Niger** (youthful) | the world's highest fertility, about 6 children per woman; about half the population under 15 | family planning and girls' education promoted, but uptake is low | early marriage, rural poverty and religious and cultural norms keep fertility high: policy without development has little effect |
+| **The Gambia** (youthful) | fertility about 4.5 children per woman; about 4 in 10 people under 15; growth about 2.5% a year; youth unemployment and "back way" emigration to Europe | a national population policy promoting family planning; school fees removed; child marriage banned (2016) | fertility is falling slowly, but early marriage, rural poverty, low contraceptive use and religious and cultural norms keep it high, and laws are hard to enforce in rural areas: policy works only as fast as development, especially girls' education |
 | **Bangladesh** (anti-natalist success) | over 6 children per woman in the 1970s | door-to-door family-planning workers, free contraception, girls' schooling, women's jobs in the garment industry | fertility fell to about 2. It is one of the clearest successes, because policy went together with rising education and jobs for women |
 | **Japan** (ageing) | about 29% aged 65 or over; fertility about 1.2 | childcare and parental-leave support, a higher retirement age, robots in care, a new visa for foreign workers (2019) | births have kept falling; immigration is limited by cultural reluctance, so the workforce keeps shrinking |
 | **Italy** (ageing) | fertility about 1.2; about a quarter aged 65 or over; births at a record low | baby bonuses, tax credits for children, a single universal child allowance (2022) | small payments have not changed decisions shaped by youth unemployment, expensive housing and little childcare; immigration fills some labour gaps |

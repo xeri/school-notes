@@ -111,10 +111,10 @@ Wednesday 4 November, 9 am. Three hours, 130 marks.
 | ☐ | Settlement and services | B | 2 | [notes](../notes/settlement-services.md) | [05](../anki/settlement-services.txt) |
 | ☐ | Global warming | C | 2 | [notes](../notes/global-warming.md) | [46](../anki/global-warming.txt) |
 | ☐ | Energy | C | 2 | [notes](../notes/energy.md) | [45](../anki/energy.txt) |
+| ☐ | Farming: NZ dairy (primary) and food shortages | C | 2 | [notes](../notes/farming.md) | [42](../anki/farming.txt) |
 | ☐ | Manufacturing (VW Wolfsburg) | C | 2 | [notes](../notes/manufacturing.md) | [43](../anki/manufacturing.txt) |
 | ☐ | Tourism (Vietnam) | C | 2 | [notes](../notes/tourism.md) | [44](../anki/tourism.txt) |
 | ☐ | Ecosystems | A | 3 | [notes](../notes/ecosystems.md) | practise |
-| ☐ | Farming and food shortages | C | 3 | [notes](../notes/farming.md) | practise |
 | ☐ | Water and environmental risks | C | 3 | [notes](../notes/environmental-risks.md) | practise |
 | ☐ | Population density | B | 3 | [notes](../notes/population-density.md) | practise |
 | ☐ | Map skills | A–C | 3 | [notes](../notes/map-skills.md) | practise |

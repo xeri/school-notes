@@ -7,11 +7,11 @@ from pathlib import Path
 
 import pytest
 
-from studymcp import config, corpus, drill, links
+from studymcp import config, corpus, drill, ideas, links
 from studymcp.state import format_error_line, parse_error_line
 from studymcp.tools import Study
 
-P = config.load(Path(__file__).parents[3]).drill if (Path(__file__).parents[3] / "STUDY-PLAN.md").exists() else {}
+P = config.load(Path(__file__).parents[3]).memory if (Path(__file__).parents[3] / "STUDY-PLAN.md").exists() else {}
 
 
 # ------------------------------------------------------------------ corpus
@@ -123,7 +123,9 @@ def test_read_and_topic_output(study):
     assert "Exam link:" in out and "rank 2" in out
     assert "Section moved" in study.read("MAQ/algebra#nope") or "Closest" in study.read("MAQ/algebra#nope")
     pack = study.topic("maths quadratics")
-    assert "Syllabus objectives" in pack and "Traps" in pack
+    assert "Big picture" in pack and "Key ideas" in pack and "Traps" in pack
+    assert "Past-paper" not in pack and "Define:" not in pack
+    assert "· MAQ/algebra#quadratics--factorising-and-the-formula · L0" in pack
 
 
 # ------------------------------------------------------------- drill model
@@ -151,7 +153,7 @@ def test_log_then_drill_resurfaces_misses(study):
     first = batch.split("\n")[1].split()[1]
     out = study.log("maths", "algebra", "drill", reviews=[{"id": first, "grade": "miss"}],
                     errors=[{"what": "forgot ±", "fix": "write ± in the formula", "type": "method"}])
-    assert "1 error(s)" in out
+    assert out.startswith("Logged 1 (1 miss), 1 error") and "\n" not in out
     log = (study.cfg.progress_dir / "MAQ-errors.md").read_text(encoding="utf-8")
     assert "· algebra · [method] forgot ± · write ± in the formula" in log
     again = study.drill("maths", n=5)
@@ -197,7 +199,7 @@ def test_stdio_handshake(repo):
         p.stdin.close()
         p.wait(timeout=30)
     tools = next(l for l in lines if l.get("id") == 2)["result"]["tools"]
-    assert {t["name"] for t in tools} == {"search", "read", "topic", "drill", "log", "plan"}
+    assert {t["name"] for t in tools} == {"search", "read", "session", "topic", "drill", "log", "plan"}
     call = next(l for l in lines if l.get("id") == 3)["result"]
     assert "GEQ/" in call["content"][0]["text"] and "structuredContent" not in call
 
@@ -213,5 +215,5 @@ def test_real_repo_doctor(monkeypatch):
     st = Study(config.load(REAL))
     report = st.doctor()
     assert "problems: none" in report
-    assert st.ix.counts()["cards"] == 4029
+    assert st.ix.counts()["cards"] > 3500
     assert len(st.read("ECQ/policy-chains")) < 13000

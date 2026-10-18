@@ -146,86 +146,72 @@ The **informal economy (informal sector)** is unregistered, untaxed and unregula
 
 ## Case study: Dharavi, Mumbai (India)
 
-| Aspect | Facts |
-|---|---|
-| **Location** | central Mumbai, between the Western and Central (Harbour) railway lines, beside the Mithi River and Mahim Creek, next to the **Bandra–Kurla Complex** financial district. Prime land in one of the world's most expensive cities |
-| **Origins** | a Koli fishing village on mangrove swamp. A slum grew from the **1880s** under British rule as tanneries, potters (the Kumbhar community from Gujarat) and migrant workers were pushed out of the city centre. By 1947 it was India's largest slum |
-| **Area** | about **2.1–2.4 km²** (estimates vary); the redevelopment project covers about 259 ha |
-| **Population** | estimates range from about **600 000 to 1 million** (no reliable census). It is one of the densest places on Earth, at several hundred thousand per km² |
-| **Conditions** | a 2006 UN estimate gave **one toilet per about 1440 people**; water from shared standpipes for a few hours a day; open drains into Mahim Creek; flooding (2005); fires (2013); TB, typhoid and asthma common. Homes are often a single room of about 10 m² shared by a family, with a workshop above or below |
-| **Economy** | a huge **informal economy**: leather and tanning, pottery (Kumbharwada), textiles and garments, embroidery, food (papad, snacks), and **recycling** (plastics, metals, cardboard; the "13th Compound"). Roughly **5000 businesses and 15 000 single-room factories** (2010 estimate). Annual turnover estimates range from **US\$500 million to over US\$1 billion**. Goods are exported worldwide |
-| **Community** | Hindus, Muslims and Christians from across India; strong social networks; residents' and women's savings groups (Mahila Milan, SPARC) |
-| **COVID-19 (2020)** | first case in April 2020; the "Dharavi model" of screening, tracing and isolation ("chasing the virus") kept cases lower than feared |
+Learn the **ideas**: where it is, why it grew, what goes wrong, what has been tried and whether it works. One or two anchor facts are enough to make the example "developed".
 
-**Redevelopment schemes.**
-- **1980s–90s:** the slum upgrading programme and the Slum Rehabilitation Authority (1995) gave free flats to eligible slum dwellers. Developers paid, in exchange for permission to build extra flats for sale.
-- **2004:** the **Dharavi Redevelopment Project**, based on Mukesh Mehta's plan: rehouse about 57 000 families in high-rise blocks and sell the rest of the land. It was estimated at ₹5000 crore (about US\$520 million). Tenders failed or were cancelled several times; a tender won by SecLink in 2019 was cancelled in 2020.
-- **2022:** the **Adani Group** won the tender with a ₹5069 crore bid; the state government formally approved it in **July 2023**. The project is run by Navbharat Mega Developers, a joint venture of Adani and the Maharashtra government. The High Court upheld the tender in December 2024. It plans to rehabilitate about 650 000 people over about seven years.
-- **Eligibility tiers.** Residents of ground-floor homes from before **1 January 2000** get a free flat of about 350 sq ft (about 32 m²) **inside Dharavi**. Those from 2000–2011 get a low-cost home **outside Dharavi** (for about ₹2.5 lakh). Later residents and upper-floor occupants are offered rental housing **outside Dharavi**.
-
-**Evaluation.**
-
-| For redevelopment | Against |
-|---|---|
-| proper flats with water, toilets and electricity; better health | many residents fail the eligibility rules and must move far out, away from jobs and community |
-| fire and flood risk reduced; roads and schools built | tower blocks do not suit home-based workshops; the informal economy that supports the community may be destroyed |
-| land used efficiently in an expensive city | the developer profits from prime land; residents were little consulted; protests from 2023 |
-| | vertical living breaks social networks; maintenance charges are unaffordable |
-
-**Verdict.** In-situ upgrading with resident participation (sanitation blocks built by SPARC and Mahila Milan, workshop space kept) is cheaper and keeps livelihoods. Large-scale redevelopment improves housing quality but risks displacing the poorest. Success should be judged by how many original residents and businesses stay.
+- **Location — the key idea:** a **central** slum. It sits on swampy, once-unwanted land between railway lines in the middle of Mumbai, next to a modern business district, so it is now some of the most valuable land in the city. That is why developers want it.
+- **Why it grew:** Mumbai is India's richest city, so it pulls migrants from poor rural states (push: drought, debt, tiny farms; pull: jobs, wages, hope). Formal housing is far too expensive, so newcomers built wherever they could. Dirty industries (tanning, pottery) pushed out of the old centre settled there too. It has grown for over a century and is one of Asia's largest slums.
+- **Anchor fact:** perhaps up to **a million people on about 2 km²**, one of the densest places on Earth (estimates vary; there is no reliable census).
+- **Problems — and why they matter:**
+  - **Overcrowding:** families live in one small room, often above or below a workshop → disease spreads fast, no privacy, no space to study.
+  - **Sanitation and water:** shared toilets and standpipes, open drains → water-borne disease (diarrhoea, typhoid) and hours lost queuing, which falls mostly on women and children.
+  - **Hazards:** low, flood-prone land, flammable materials and tangled wiring → floods and fires, and narrow lanes block fire engines and ambulances.
+  - **Pollution:** tanning, recycling and burning waste → polluted air and creek, respiratory illness.
+  - **No legal title:** residents can be evicted, so they hesitate to invest in better homes, and they struggle to get loans or services.
+- **Strengths — why it is not only a problem:**
+  - a huge **informal economy** (leather, pottery, garments, food and recycling) that employs most residents and sells across India and abroad;
+  - strong, mixed communities and self-help groups, such as women's savings groups working with NGOs to build community toilet blocks;
+  - homes double as workplaces, so people live next to their income.
+- **Solutions tried:**
+  - **Slum rehabilitation:** developers build free flats for residents and pay for it by selling extra flats on the freed land.
+  - **Large-scale redevelopment:** repeated plans since 2004 to clear the area and rehouse people in tower blocks; the current scheme is led by the **Adani Group** (tender won 2022). Only long-term residents qualify for a free flat inside Dharavi; later arrivals are offered housing outside it.
+  - **Community-led upgrading:** NGOs and residents improving toilets, water and lanes in place.
+- **Evaluation:**
+  - *For redevelopment:* safe flats with water and toilets; less fire and flood risk; schools and roads.
+  - *Against:* many residents do not qualify and are moved far from their jobs; tower blocks do not suit home workshops, so the informal economy can be destroyed; the developer profits most from prime land; residents have protested.
+  - *Judgement:* success should be measured by how many original residents and businesses stay. In-situ upgrading with residents is cheaper and keeps livelihoods.
 
 ## Case study: Diepsloot, Johannesburg (South Africa)
 
-| Aspect | Facts |
-|---|---|
-| **Location** | on the northern edge of the City of Johannesburg (Region A), about 30 km north of the CBD, between Johannesburg and Pretoria in Gauteng; beside the Jukskei River. Close to wealthy gated estates such as **Dainfern** and to Fourways: a stark contrast between rich and poor |
-| **Name** | Afrikaans for "deep ditch" |
-| **Origins** | set up in **1995** as a **transit camp** for people removed from the Zevenfontein informal settlement. In **2001** about 5000 families were moved there from the flood-prone banks of the Jukskei River in Alexandra. Many "temporary" residents stayed permanently, and new migrants kept arriving |
-| **Area** | about **12 km²** |
-| **Population** | **138 329** at the 2011 census (about 11 500 per km²); estimates since range from about 200 000 to over 350 000 |
-| **Housing** | about half in shacks (*mkhukhu*) of corrugated iron, wood and plastic, often about 3 × 2 m; about 4900 government **RDP** (Reconstruction and Development Programme) houses; brick backyard rooms rented out by landowners |
-| **Services (2011 census)** | only **18%** of households had piped water inside the dwelling; **61%** had electricity; many shared communal taps and chemical or pit toilets. Several extensions have no tarred roads, drainage or street lights, and flood in summer storms. Paraffin stoves cause fires |
-| **Economy** | high unemployment (World Bank, 2014: roughly a third to a half of working-age adults without work); a lively informal economy of spaza shops, taverns, hair salons, car washes, street food and recycling. The barriers named by entrepreneurs were **crime, lack of space and lack of electricity** (World Bank study, 2014) |
-| **Social issues** | among the highest crime rates in Johannesburg; few police; **vigilante "mob justice"**; tension between South Africans and foreign migrants. In **April 2022** the Zimbabwean Elvis Nyathi was killed by a mob during anti-migrant protests linked to Operation Dudula. Also teenage pregnancy, substance abuse and HIV |
-
-**Responses.**
-- **RDP housing** (since 1994): free basic houses on serviced plots for qualifying households, but with long waiting lists and small, poor-quality homes. The **People's Housing Process** is used in Diepsloot West: a state subsidy plus residents' own contribution and labour.
-- **Serviced stands.** Plots with water and sanitation allocated as a **site-and-service** approach.
-- **Cosmo City** (from 2005), a planned mixed-income new town a few kilometres away, took remaining Zevenfontein residents, mixing subsidised, bonded (mortgage) and rental homes with services.
-- NGO and community projects: food gardens, youth programmes, recycling co-operatives, and support for small businesses.
-
-**Evaluation.**
-- RDP housing has given hundreds of thousands of South Africans a formal home. But in Diepsloot supply has never caught up with arrivals, so shacks keep spreading.
-- Building on the urban edge, far from jobs, repeats the **apartheid pattern** of poor people on the periphery with long, costly commutes.
-- Services are improving but are patchy.
-- Crime and xenophobia undermine investment.
-- Cosmo City shows that a planned mixed-income settlement can work, but it housed only a fraction of those in need.
-- **Verdict.** Upgrading in place (tenure, water, sanitation, lighting, policing) and creating jobs locally would do more than relocation.
+- **Location — the key idea:** a **peripheral** slum on the northern edge of Johannesburg, far from the city centre, right beside wealthy gated estates: a sharp picture of inequality.
+- **Why it grew:** it began in **1995** as a "temporary" transit camp for people moved from other informal settlements and flood-prone riverbanks. The temporary residents stayed, and migrants kept arriving from poor rural provinces and neighbouring countries (Zimbabwe, Mozambique, Malawi), pulled by Gauteng's jobs. Apartheid had kept Black South Africans out of the cities; when those controls ended, migration grew far faster than housing.
+- **Anchor fact:** from a camp to a township of a few hundred thousand people in about 30 years.
+- **Problems — and why they matter:**
+  - **Housing:** many live in self-built shacks of corrugated iron and wood → cold, crowded, and easily burned by paraffin stoves.
+  - **Services:** many homes lack piped water, a flush toilet or a legal power connection → disease, illegal wiring and fires; unpaved roads flood in summer storms.
+  - **Jobs:** high unemployment, and the edge location means long, expensive journeys to work → poverty is hard to escape.
+  - **Crime and policing:** few police → high crime and "mob justice"; tension with foreign migrants has led to xenophobic violence.
+  - **Health and social issues:** HIV, teenage pregnancy and substance abuse.
+- **Strengths:** a busy informal economy of small shops (spaza shops), taverns, salons and street food; community and NGO projects such as food gardens and youth programmes.
+- **Solutions tried:**
+  - **RDP houses**, free basic government homes (since 1994);
+  - **site-and-service** plots with water and toilets on which residents build;
+  - **self-help** housing, where residents add their own labour to a subsidy;
+  - a planned mixed-income **new town** nearby (Cosmo City) for some residents;
+  - NGO projects for jobs, recycling and small businesses.
+- **Evaluation:**
+  - Government houses have given many families a proper home, but supply never catches up with new arrivals, so shacks keep spreading.
+  - Housing poor people on the city edge, far from jobs, repeats the apartheid pattern.
+  - Services are improving but patchy, and crime and xenophobia scare off investment.
+  - *Judgement:* upgrading in place (secure tenure, water, sanitation, lighting, policing) plus local jobs would help more than moving people.
 
 **Comparing the two slums.**
 
 | | Dharavi | Diepsloot |
 |---|---|---|
 | Position in the city | central, on very valuable land | peripheral, on the urban edge |
-| Age | about 140 years old | about 30 years old (1995) |
+| Age | over a century old | about 30 years old |
 | Economy | a huge productive informal economy, with exports | mainly small retail and services; high unemployment |
 | Main threat | redevelopment and displacement | crime, service backlog, continued growth |
-| Policy | developer-led in-situ high-rise redevelopment | state RDP houses, site-and-service, a nearby new town |
+| Policy | developer-led high-rise redevelopment | state houses, site-and-service, a nearby new town |
 
 ## Supporting example: Rio de Janeiro's favelas (2026 homework)
 
-- **About 1.4 million** people, over a fifth of the city's population, lived in roughly 1000 favelas at the 2010 census. **Rocinha** is the largest, with about 70 000 people (official counts; local estimates are higher).
-- Favelas cover steep hillsides between the CBD and the rich beach suburbs (Copacabana, Ipanema) and flood-prone land in the north. The land is limited by the mountains and the coast.
-- **Strategies:**
-  - 1960s–70s **clearance** to distant housing estates (Cidade de Deus): unpopular, because it was far from jobs.
-  - **Favela-Bairro** from **1994** (funded with the Inter-American Development Bank): paved alleys, drains, water, sewerage, crèches, sports areas and land titles, keeping residents in place.
-  - **Police Pacification Units (UPPs)** from **2008**, before the 2014 World Cup and 2016 Olympics: violence fell at first, but the gains faded.
-  - **Morar Carioca** (2010).
-  - The federal **Minha Casa Minha Vida** housing programme (2009).
-  - Regularising **electricity** connections, so people pay but get a safer supply.
-  - A cable car in Complexo do Alemão (2011–2016).
-- **COVID-19 (2020).** Crowding, shared water and informal work made distancing impossible. Residents organised their own aid and information.
-- **Evaluation.** Upgrading in place has been cheaper and more popular than clearance. Pacification was not sustained. Legal electricity brought safety but also bills.
+- **Why they grew:** migrants from Brazil's poor, drought-prone north-east, where land is held in large estates and farming is mechanising, plus natural increase among young migrants.
+- **Where:** on **steep hillsides** close to the centre and the rich beach suburbs (land too steep for developers but close to jobs) and on flood-prone land. More than a fifth of the city's people live in favelas; **Rocinha** is the largest.
+- **Problems:** landslides after heavy rain; steep, narrow alleys that vehicles, pipes and sewers cannot reach; poor sanitation; illegal power connections; drug-gang violence and violent police raids.
+- **Strengths:** strong communities and many informal businesses.
+- **Solutions:** clearance to distant estates (unpopular, far from jobs) → **Favela-Bairro** upgrading in place from 1994 (paved paths, drains, water, sewerage, crèches) → police "pacification" units from 2008 → legalising electricity.
+- **Evaluation:** upgrading in place has been cheaper and more popular than clearance. Pacification reduced violence at first but did not last.
 
 ## Strategies to reduce the impacts of rapid urban growth
 
@@ -257,4 +243,5 @@ The **informal economy (informal sector)** is unregistered, untaxed and unregula
 - Calling all slum dwellers unemployed. Most work in the informal economy.
 - Describing squatter settlements without their **location** in the city (the specification wants their relative location).
 - Treating Dharavi as only a problem. Its economy and community are also strengths.
-- Naming a strategy without a place, a date and an evaluation.
+- Naming a strategy without a place and an evaluation.
+- Reciting statistics about a slum instead of explaining its problems, why they matter and how well the solutions work.

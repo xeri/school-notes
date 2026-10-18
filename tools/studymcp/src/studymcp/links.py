@@ -216,11 +216,11 @@ def _objectives(body, sec_default, code_stems, info, sec_no):
     def close():
         if not block_items:
             return
-        linked = [s for _, _, stems in block_items for s in stems]
+        linked = list(dict.fromkeys(s for _, _, stems in block_items for s in stems))
         for code, txt, stems in block_items:
-            for s in stems or linked or block_default or sec_default:
+            for s in dict.fromkeys(stems or linked or block_default or sec_default):
                 t = info.topics.get(s)
-                if t is not None and len(t.objectives) < 40:
+                if t is not None and len(t.objectives) < 40 and (code, txt) not in t.objectives:
                     t.objectives.append((code, txt))
 
     for line in body.split("\n"):

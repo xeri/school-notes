@@ -46,28 +46,29 @@ Pre-Q Basic	Informal economy: bad for workers?	Low, irregular pay; no job securi
 Pre-Q Basic	Informal economy: effect on the country?	Employs millions, but pays no tax	
 Pre-Q Cloze	Building a slum economy: {{c1::micro-credit}}, legal {{c2::land title}}, {{c3::training}}, {{c4::registering businesses}}		4 items
 Pre-Q Basic	Dharavi, Mumbai: location?	Central Mumbai, between railways, beside the Bandra–Kurla Complex	
-Pre-Q Cloze	Dharavi: ~{{c1::2.1–2.4 km²}}; ~{{c2::600 000 to 1 million}} people		
-Pre-Q Cloze	Dharavi grew from the {{c1::1880s}} as {{c2::tanneries}} and potters were moved out		
-Pre-Q Cloze	Dharavi: one toilet per ~{{c1::1440}} people	UN, 2006	
+Pre-Q Basic	Dharavi: why does its central location matter?	Valuable land beside a business district, so developers want it	think land value
+Pre-Q Cloze	Dharavi: up to {{c1::a million}} people on about {{c2::2 km²}}	Estimates vary; no reliable census	
+Pre-Q Basic	Dharavi: why does shared sanitation matter?	Water-borne disease spreads; hours lost queuing, mostly by women and children	
+Pre-Q Basic	Dharavi: why are fire and flood so dangerous?	Flammable homes, tangled wiring, low land; lanes block fire engines	
+Pre-Q Basic	Dharavi: strengths?	Huge informal economy; strong community and self-help groups	
+Pre-Q Cloze	Dharavi grew as {{c1::migrants}} arrived and {{c2::tanneries}} and potters were moved out of the centre	Over a century old	
 Pre-Q Cloze	Dharavi industries: {{c1::leather}}, {{c2::pottery}}, {{c3::textiles}}, {{c4::recycling}}		4 items
-Pre-Q Cloze	Dharavi: ~{{c1::5000}} businesses and ~{{c2::15 000}} one-room factories		
-Pre-Q Cloze	Dharavi turnover: ~{{c1::US$500 million to over $1 billion}} a year		
 Pre-Q Cloze	Dharavi redevelopment tender won by the {{c1::Adani Group}} in {{c2::2022}}		
-Pre-Q Cloze	Dharavi: residents from before {{c1::1 January 2000}} get a free ~{{c2::350 sq ft}} flat inside Dharavi	Later arrivals housed outside	
 Pre-Q Basic	Dharavi redevelopment: benefits?	Flats with water and toilets; less fire and flood risk	
+Pre-Q Basic	Dharavi redevelopment: who gets a free flat inside Dharavi?	Only long-term residents; later arrivals are housed outside	
 Pre-Q Basic	Dharavi redevelopment: criticisms?	Many moved far from jobs; towers don't suit home workshops	
 Pre-Q Basic	Dharavi: better alternative to redevelopment?	In-situ upgrading with residents (community toilet blocks)	
 Pre-Q Cloze	Diepsloot means "{{c1::deep ditch}}"; ~{{c2::30 km}} north of Johannesburg CBD	Beside rich Dainfern	
 Pre-Q Cloze	Diepsloot began in {{c1::1995}} as a {{c2::transit camp}}		
-Pre-Q Cloze	Diepsloot: ~{{c1::12 km²}}; ~{{c2::138 000}} people (2011)	Far more today	
-Pre-Q Cloze	Diepsloot 2011: {{c1::18%}} piped water inside home; {{c2::61%}} electricity		
+Pre-Q Basic	Diepsloot: why does its edge location matter?	Far from jobs: long, costly commutes keep people poor	peripheral slum
+Pre-Q Cloze	Diepsloot problems: {{c1::shacks}}, missing {{c2::water, toilets and power}}, {{c3::unemployment}}, {{c4::crime}}		4 items
+Pre-Q Basic	Diepsloot: why do shacks keep spreading despite RDP houses?	Housing supply never catches up with new arrivals	
 Pre-Q Cloze	Diepsloot housing: {{c1::shacks}}, {{c2::RDP houses}}, rented {{c3::backyard rooms}}		3 items
-Pre-Q Cloze	Diepsloot business barriers: {{c1::crime}}, lack of {{c2::space}}, lack of {{c3::electricity}}	World Bank, 2014	3 items
 Pre-Q Basic	Diepsloot: social issues?	High crime; mob justice and xenophobia	
 Pre-Q Basic	Cosmo City?	Planned mixed-income new town near Diepsloot (2005)	
 Pre-Q Basic	Diepsloot: criticism of edge rehousing?	Repeats the apartheid pattern: poor people far from jobs	
 Pre-Q Basic	Dharavi vs Diepsloot: position in the city?	Dharavi: central, valuable land. Diepsloot: peripheral edge	
-Pre-Q Cloze	Rio favelas: ~{{c1::1.4 million}} people (2010); largest is {{c2::Rocinha}}		
+Pre-Q Cloze	Rio's largest favela: {{c1::Rocinha}}	Over a fifth of Rio's people live in favelas	
 Pre-Q Basic	Favela-Bairro (1994)?	Rio scheme upgrading favelas in place (drains, water, sewerage)	
 Pre-Q Basic	Rio's Police Pacification Units (2008): outcome?	Violence fell at first; gains faded	
 Pre-Q Basic	Site-and-service scheme: weakness?	Plots far from jobs; charges exclude the poorest	

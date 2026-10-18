@@ -42,11 +42,23 @@ Pre-Q Basic	Von Thünen: limitations?	Land varies; refrigeration and modern tran
 Pre-Q Basic	Von Thünen: effect of a navigable river?	Rings stretch along it (cheaper transport)	
 Pre-Q Cloze	NZ dairy regions: {{c1::Waikato}} (largest), {{c2::Taranaki}}, {{c3::Southland}}, irrigated {{c4::Canterbury}}		4 items
 Pre-Q Cloze	NZ dairy: ~{{c1::4.7 million}} cows; average herd ~{{c2::445}}	2023/24	
+Pre-Q Cloze	NZ dairy cows: ~{{c1::2.4 million}} (1990) to a peak of ~{{c2::5 million}} (mid-2010s)	Sheep farms converted; now slowly falling	
+Pre-Q Basic	NZ dairy: why does year-round grass growth matter?	Cows graze outdoors; little housing or bought feed, so low costs	
 Pre-Q Basic	NZ dairy farm: physical location factors?	Mild climate so grass grows almost all year; reliable rain	
 Pre-Q Basic	Why are dairy farms near a processing plant?	Milk is perishable and collected daily by tanker	
 Pre-Q Cloze	NZ dairy cows are milked {{c1::twice a day}} and calve in {{c2::spring}}		
+Pre-Q Basic	Rotational grazing?	Moving cows to a fresh paddock each day so the grass regrows	
+Pre-Q Cloze	NZ dairy year: calving {{c1::spring}}; mating {{c2::late spring}}; dried off {{c3::autumn}}		3 items
+Pre-Q Cloze	NZ dairy intensification: more {{c1::cows per hectare}}, {{c2::nitrogen fertiliser}}, {{c3::irrigation}}, {{c4::imported feed}}		4 items
+Pre-Q Basic	Palm kernel dairy feed: problem?	Imported from South-East Asia; linked to rainforest clearance	
+Pre-Q Cloze	NZ milk price: ~NZ${{c1::3.90}} (2015/16) to record NZ${{c2::10.16}} (2024/25) per kg milksolids	Incomes swing widely	
+Pre-Q Basic	NZ dairy: economic risks?	Dependence on world prices and China; high farm debt	
 Pre-Q Cloze	Dairy earns ~{{c1::one in three}} dollars of NZ goods exports		
 Pre-Q Basic	Dairy water pollution sources?	Nitrate (fertiliser, urine); phosphate and E. coli (effluent)	
+Pre-Q Basic	Dairy urine patch: why does nitrate leach?	More nitrogen than grass can use; it drains to groundwater and streams	
+Pre-Q Basic	Dairy greenhouse gases?	Methane from digestion; nitrous oxide from urine and fertiliser	
+Pre-Q Basic	Dairying and Clean Streams Accord (2003)?	Industry deal to fence stock out of waterways and manage effluent	
+Pre-Q Basic	NZ dairy: why is stream fencing not enough?	Nitrate still leaches from urine patches; needs fewer cows per hectare	
 Pre-Q Basic	Farming greenhouse gases?	Methane (cattle) and nitrous oxide (fertiliser, urine)	
 Pre-Q Cloze	Agriculture produces ~{{c1::half}} of NZ's greenhouse emissions		
 Pre-Q Basic	Irrigation: environmental impacts?	Draws down rivers and aquifers; salinisation	

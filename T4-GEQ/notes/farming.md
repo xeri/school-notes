@@ -1,6 +1,6 @@
 # Farming and food shortages
 
-Theme 3, specification 3.3 (primary industry). Named examples: a New Zealand dairy farm (the Waikato) and food shortages in Somalia (2011) and the Sahel.
+Theme 3, specification 3.3 (primary industry). Named examples: **New Zealand dairy farming** (the primary-sector case study, before VW Wolfsburg for secondary and Vietnam for tertiary) and food shortages in Somalia (2011) and the Sahel.
 
 ## Types of farming
 
@@ -60,19 +60,76 @@ Theme 3, specification 3.3 (primary industry). Named examples: a New Zealand dai
 | a navigable river or road stretches the rings (cheaper transport) | modern transport, refrigeration and containerisation let perishable produce travel far (NZ lamb and butter to Europe) |
 | | ignores government policy, subsidies, global markets and farmers' choices; forestry now usually on poor land, not ring 2 |
 
-## Named example: a New Zealand dairy farm
+## Named example: New Zealand dairy farming (the primary-sector case study)
 
-| | Details |
-|---|---|
-| Where | dairying is concentrated in the **Waikato** (the largest region: about 1.1 million cows and about 3000 herds), **Taranaki**, **Southland** and, with irrigation, **Canterbury** |
-| Scale (2023/24) | about **4.7 million dairy cows**; average herd about **445 cows**; about **400 kg of milksolids per cow** per season; about 20.5 billion litres of milk |
-| Physical location factors | mild temperate climate, so **grass grows almost all year** (cows graze outdoors); reliable rainfall (about 1100–1300 mm in Waikato) or irrigation (Canterbury); flat to rolling land; fertile volcanic or alluvial soils |
-| Human location factors | a nearby processing plant (milk is perishable and is collected daily by tanker — Fonterra's Te Rapa near Hamilton); good roads; ports for export (Tauranga); farmer knowledge; access to capital |
-| Inputs | land, grass, cows, labour (owner, sharemilker, workers), fertiliser, supplementary feed (silage, maize, palm kernel), electricity, water, machinery, a milking shed, vet services |
-| Processes | rotational grazing of paddocks; milking **twice a day** in a rotary or herringbone shed; calving in spring (July–September); artificial insemination and breeding; making silage; spreading effluent; drying cows off in late autumn |
-| Outputs | milk (sold as milksolids, collected daily by tanker), calves and cull cows (meat); waste: effluent, nitrate, methane |
-| Feedback | the milk price (record NZ\$10.16 per kg of milksolids in 2024/25) decides spending next season; profit reinvested in irrigation, herd improvement, a new shed |
-| Importance | dairy is NZ's largest goods export — about one dollar in every three earned from goods exports; about NZ\$10 billion of direct value to the economy |
+Learn this in the same depth as [VW Wolfsburg](../notes/manufacturing.md) (secondary) and [Vietnam](../notes/tourism.md) (tertiary). It also fills farming as a system, farm location factors, intensive farming, environmental impacts of farming and "is dairy farming sustainable?".
+
+### Scale and trend
+- About **4.7 million** dairy cows (2023/24), an average herd of about **445**, producing about **400 kg of milksolids per cow** a season.
+- Cow numbers roughly **doubled from about 2.4 million in 1990 to a peak of about 5 million in the mid-2010s** as sheep farms were converted to dairy, then began falling slowly (*approximate*).
+- **Where:** the **Waikato** is the heartland (about 1.1 million cows); **Taranaki**; and, since the 1990s, a big expansion into **Southland** and irrigated **Canterbury**.
+- **Value:** NZ's largest goods export, about **one dollar in three** of goods export earnings; the farmgate price reached a record **NZ\$10.16 per kg of milksolids in 2024/25**, but fell as low as about NZ\$3.90 in 2015/16, so incomes swing widely.
+
+### Why dairy farms are where they are
+- **Physical:**
+  - mild, moist temperate climate with few frosts → **grass grows almost all year**, so cows graze outdoors and need little housing or bought feed, keeping costs low;
+  - reliable, well-spread rainfall (about 1100–1300 mm in the Waikato), or **irrigation** from rivers and aquifers on the dry Canterbury Plains;
+  - flat to gently rolling land, safe for heavy cows and easy for machinery;
+  - fertile, free-draining **volcanic soils** in the Waikato and on the Taranaki ring plain; alluvial soils in Canterbury.
+- **Human:**
+  - **processing plants within tanker range**, because milk is perishable and collected every day (Fonterra's Te Rapa near Hamilton, Edendale in Southland) — the reason dairy clusters in a few regions;
+  - good rural roads and export ports;
+  - **Fonterra**, a farmer-owned co-operative that by law must accept milk from any farmer who wants to supply it, so farmers always have a buyer;
+  - technology: rotary milking sheds, herd testing, artificial insemination and breeding (LIC), farm software;
+  - capital and bank loans (land is very expensive), and **sharemilking**, a route from worker to farm owner;
+  - government: no farm subsidies since the 1980s reforms, so farms must be efficient; the 1990s boom in irrigation schemes opened Canterbury.
+
+### The farm as a system
+- **Inputs:** physical — land, grass, rain or irrigation water, soil, sunshine; human — cows, labour (owner, sharemilker, farm workers, many of them migrants), fertiliser (especially nitrogen), supplementary feed (silage, maize, palm kernel), electricity, fuel, machinery, the milking shed, vet and advisory services, capital.
+- **Processes:**
+  - **rotational grazing** — cows move to a fresh paddock each day or half-day so the grass regrows;
+  - milking **twice a day** in a rotary or herringbone shed; milk chilled in a vat until the tanker comes;
+  - a **seasonal cycle** timed so that peak grass growth matches peak milk demand:
+    - *winter (June–July):* cows dried off and fed on crops or silage;
+    - *spring (July–September):* calving;
+    - *late spring (October–December):* the "spring flush" of grass and milk, and mating by artificial insemination;
+    - *summer:* irrigation where available, extra feed in dry spells;
+    - *autumn (April–May):* cows dried off;
+  - making silage, applying fertiliser, spreading effluent, maintaining fences and races.
+- **Outputs:** products — milk (paid by kg of milksolids), surplus calves and cull cows for meat; waste — effluent, nitrate and phosphate, sediment, methane and nitrous oxide; money — the milk cheque.
+- **Feedback:** the milk price sets next season's decisions. A high price → more cows, more fertiliser and feed, perhaps a new shed or irrigation; a low price → fewer inputs, debt and sometimes farm sales.
+
+### Intensive pastoral farming — and how it has intensified
+- Dairy is **intensive**: high inputs of capital and labour per hectare give high output per hectare.
+- It is mostly **pasture-based** (grass grazed in the paddock), the low-cost system that makes NZ milk competitive worldwide.
+- Since the 1990s farms have **intensified**:
+  - more cows per hectare;
+  - more nitrogen fertiliser to grow more grass;
+  - more irrigation;
+  - more imported feed — palm kernel from South-East Asia is linked to rainforest clearance.
+- Intensification raised output and profit, but it is also the main reason the environmental pressure rose.
+
+### Effects — why dairy farming is controversial
+- **Economic (positive):** export earnings that pay for the country's imports; jobs on farms and in processing, transport, vets, machinery and banking; service towns kept alive (Morrinsville, Te Awamutu); the multiplier effect through rural economies.
+- **Economic (negative):** dependence on one product and on world prices (and on China), so a price fall hits the whole economy; high farm debt; land prices too high for young farmers.
+- **Social:** reliance on migrant workers; long hours and isolation (farmer stress and mental health); farm amalgamation means fewer, larger farms; tension between farmers and the urban public over "dirty dairying".
+- **Environmental (the main problem), as causal chains:**
+  - **Nitrate:** a cow's urine patch holds far more nitrogen than grass can use, and fertiliser adds more → nitrate leaches through the soil into groundwater and streams → **eutrophication** (algal blooms, low oxygen, fish deaths) in rivers and lakes; nitrate in drinking-water wells in Canterbury is a health concern.
+  - **Effluent and E. coli:** dung washed off sheds, races and paddocks → bacteria in rivers → many lowland rivers become unsafe for swimming.
+  - **Sediment and phosphate:** cows trampling stream banks and **pugging** wet paddocks → soil washes into waterways → muddy rivers and smothered stream life; winter grazing of crops on bare, wet ground makes this worse.
+  - **Water takes:** irrigation draws down Canterbury's rivers and aquifers → lower flows for ecosystems, other farmers and towns.
+  - **Climate:** methane from cows' digestion and nitrous oxide from urine and fertiliser → agriculture produces about **half of NZ's greenhouse emissions**, and dairy is the biggest single part.
+  - **Biodiversity:** wetlands drained and native bush cleared for pasture.
+
+### Management — and how well it has worked
+- **Voluntary industry action:** after Fish & Game's "Dirty Dairying" campaign (2002), the Dairying and Clean Streams Accord (2003) and the Sustainable Dairying: Water Accord (2013) committed farmers to **fence stock out of waterways**, build bridges and culverts at crossings and manage effluent. Most large waterways on dairy farms are now fenced.
+- **On-farm practices:** riparian fencing and planting; effluent ponds and spreading only when the soil can absorb it; **nutrient budgets** and precision fertiliser; lower stocking rates; stand-off pads and wintering barns; retiring steep or wet land; better feed and breeding to cut emissions.
+- **Regulation:** regional councils set limits on nitrogen loss and water takes (a nitrogen cap and trading scheme around Lake Taupō; nutrient limits in Canterbury); national freshwater rules on stock exclusion and winter grazing. Pricing of farm greenhouse emissions has been proposed and repeatedly delayed.
+- **Market pressure:** overseas buyers want low-carbon, "sustainable" milk, so Fonterra pays farmers incentives for good environmental practice.
+- **Evaluation:**
+  - Fencing and effluent rules have reduced direct pollution, but nitrate leaching from urine patches is hard to stop without **fewer cows per hectare**, and nitrate already in groundwater can take decades to reach rivers.
+  - Emissions are barely falling.
+  - *Long-term sustainability:* economically strong but exposed to price swings; environmentally sustainable only if stocking rates match what each catchment's water can cope with. The slow fall in cow numbers since the mid-2010s suggests the industry is moving that way, but the pace depends on enforced rules, not voluntary action.
 
 ## Environmental impacts of farming
 

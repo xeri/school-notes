@@ -6,8 +6,9 @@ Pre-Q revision notes for six subjects, authored here and published to the GitHub
 
 - The `study` MCP server (`tools/studymcp`) indexes the notes, reference sheets, syllabi, Anki decks and the school material in `local/extracted`, and keeps the study state.
 - For any question about subject content, ground the answer in `search` / `read` and cite the ids; the notes outrank general knowledge. Use `topic` to link an answer back to the exam.
-- Study sessions run through the `/study` skill (next, explain, need, blurt, quiz, paper, drill, cards, errors).
-- Study state lives in `local/progress/` (gitignored): `events.jsonl` and `<CODE>-errors.md`. Never copy it into a tracked file.
+- Study sessions run through the `/study` skill: one command (`/study [subject] [topic]`), then plain talk. `session` gives a sweep (quick true/false over a topic, level 1) or ideas to deepen at levels 2–5. Every answer is logged with its level.
+- Study state lives in `local/progress/` (gitignored): `events.jsonl`, `<CODE>-errors.md` and `carryover/<CODE>.md` (where the next session starts). Never copy it into a tracked file.
+- The prep bank (`local/bank/`, gitignored) holds Claude-written gists and true/false statements per topic. `studymcp bank` shows stale topics; `.claude/skills/study/prep.md` rebuilds one.
 
 ## Authoring
 

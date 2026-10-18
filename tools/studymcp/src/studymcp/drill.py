@@ -6,7 +6,14 @@ An item comes back once recall drops below the target, i.e. just before it
 would be forgotten. A miss shrinks S to minutes, so it resurfaces quickly;
 a correct answer grows S, more so when recall had already faded (the
 spacing effect) and hardly at all when it was asked again too soon.
-All numbers come from [drill] in config.toml.
+
+Each item also has a level, 0 to 5: how hard a task the student can do on
+it (1 spot it, 2 fix it, 3 build it, 4 explain it, 5 from memory). An answer
+at level r moves it: ok -> at least r, shaky -> max(level, r) - 1 (a doubtful
+answer drops it by one at most), miss -> at most r - 1, slip -> unchanged.
+Level 1 is the sweep (fast true/false); deeper tasks start at 2. Easy tasks
+grow S less (credit per level), so a true/false counts for less than a blurt.
+Numbers come from [drill] and [levels] in config.toml.
 """
 
 import math
@@ -24,6 +31,8 @@ class Memory:
     lapses: int = 0
     last_grade: str = ""
     streak: int = 0         # correct answers in a row
+    level: int = 0          # highest level answered solidly (0 = never)
+    last_level: int = 0     # level of the latest answer (1 = a sweep)
 
 
 def elapsed_days(mem, at):
@@ -39,29 +48,75 @@ def due_after(mem, target):
     return mem.S * math.log(target) / math.log(0.9)
 
 
-def update(mem, grade, at, p, target=None):
+def credit(level, p):
+    """how much an answer at this level counts towards S growth (1.0 when unknown)."""
+    cr = p.get("credit") or []
+    if not level or not cr:
+        return 1.0
+    return cr[min(int(level), len(cr)) - 1]
+
+
+def new_level(old, grade, r):
+    if not r:  # no level given (older events): small steps
+        return max(old, 1) if grade == "ok" else max(0, old - 1) if grade == "miss" else old
+    r = max(1, min(int(r), 5))
+    if grade == "ok":
+        return max(old, r)
+    if grade == "shaky":
+        return max(old, r) - 1
+    if grade == "miss":
+        return min(old, r - 1)
+    return old  # slip: a careless error, not a gap
+
+
+def update(mem, grade, at, p, target=None, level=None):
+    """p holds [drill] plus the [levels] credit list. grade: ok | shaky | slip | miss."""
     target = target or p.get("target_recall", 0.9)
     miss_days = p.get("miss_minutes", 10) / 1440
+    k = credit(level, p)
+    lv = int(level or 0)
     if mem is None:
-        S = {"ok": p.get("first_ok_days", 1.0), "shaky": p.get("first_shaky_days", 0.25)}.get(grade, miss_days)
-        return Memory(S, at, 1, 1 if grade == "miss" else 0, grade, 1 if grade == "ok" else 0)
+        S = {"ok": p.get("first_ok_days", 1.0) * k, "shaky": p.get("first_shaky_days", 0.25) * k,
+             "slip": p.get("first_shaky_days", 0.25) * k}.get(grade, miss_days)
+        return Memory(S, at, 1, 1 if grade == "miss" else 0, grade, 1 if grade == "ok" else 0,
+                      new_level(0, grade, level), lv)
     R = recall(mem, at)
     t = elapsed_days(mem, at)
+    lvl = new_level(mem.level, grade, level)
     if grade == "miss":
         S = max(miss_days, mem.S * p.get("miss_factor", 0.2))
-        return replace(mem, S=S, last=at, reps=mem.reps + 1, lapses=mem.lapses + 1, last_grade=grade, streak=0)
-    if grade == "shaky":
+        return replace(mem, S=S, last=at, reps=mem.reps + 1, lapses=mem.lapses + 1, last_grade=grade,
+                       streak=0, level=lvl, last_level=lv)
+    if grade in ("shaky", "slip"):
         growth = p.get("shaky_growth", 1.3)
-        factor = 1 + (growth - 1) * min(1.0, (1 - R) / (1 - target))
+        factor = 1 + (growth - 1) * min(1.0, (1 - R) / (1 - target)) * k
         S = max(mem.S * factor, t * 0.5)
-        return replace(mem, S=S, last=at, reps=mem.reps + 1, last_grade=grade, streak=0)
+        return replace(mem, S=S, last=at, reps=mem.reps + 1, last_grade=grade, streak=0, level=lvl, last_level=lv)
     growth = p.get("ok_growth", 2.5)
     if R >= target:   # asked again before it was due: little new evidence
         factor = 1 + (growth - 1) * (1 - R) / (1 - target)
     else:             # recalled although it was fading: big boost
         factor = growth * (1 + p.get("difficulty_bonus", 1.0) * (target - R))
-    S = max(mem.S * factor, t * 1.2)
-    return replace(mem, S=S, last=at, reps=mem.reps + 1, last_grade=grade, streak=mem.streak + 1)
+    factor = 1 + (factor - 1) * k
+    S = max(mem.S * factor, t * 1.2 * k)
+    return replace(mem, S=S, last=at, reps=mem.reps + 1, last_grade=grade, streak=mem.streak + 1, level=lvl,
+                   last_level=lv)
+
+
+def next_level(mem, at, target, days_to_exam=None, p=None, floor=1, cap=5):
+    """the level of the next task on this item: one above its level, one lower if fading,
+    at least `floor` for seen items (2 in sessions: level 1 is the sweep), at least 3 for
+    seen items in the last days before the exam (less support), and at most `cap`."""
+    p = p or {}
+    if mem is None:
+        return min(1, cap)
+    nxt = mem.level + 1
+    if mem.last_grade != "miss" and recall(mem, at) < target:
+        nxt -= 1
+    nxt = max(floor, 1, min(nxt, 5))
+    if days_to_exam is not None and 0 <= days_to_exam <= p.get("exam_floor_days", 3):
+        nxt = max(nxt, 3)
+    return min(nxt, cap)
 
 
 def ago(mem, at):
@@ -72,7 +127,7 @@ def ago(mem, at):
 def describe(mem, at):
     if mem is None:
         return "new"
-    return f"recall {recall(mem, at):.0%}, last {mem.last_grade} {ago(mem, at)} ago, missed {mem.lapses}×"
+    return f"level {mem.level}, recall {recall(mem, at):.0%}, last {mem.last_grade} {ago(mem, at)} ago, missed {mem.lapses}×"
 
 
 def select(items, mems, at, n, focus, importance, target_for, p):

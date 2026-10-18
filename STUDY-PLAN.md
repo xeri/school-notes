@@ -42,16 +42,11 @@ Six exams between Tuesday 27 October and Wednesday 4 November. This page doesn't
 | The last day before an exam | Consolidate only: that subject's errors or traps page, the pre-exam Anki pass, sleep. Learn nothing new. |
 
 **With Claude:**
-- `/study next` says what to work on next, based on exam proximity, priority, mastery and your error log.
-- `/study explain PED` explains a concept from the notes and links it to how the exam asks it.
-- `/study need geo coasts` lists what the exam needs for a topic: definitions, diagrams, formulas, traps, typical questions.
-- `/study blurt economics policy chains` marks a blurt against the notes.
-- `/study quiz maths calculus` sets exam-style questions and marks them.
-- `/study paper maths` sets a past-paper question and marks it.
-- `/study drill econ` runs an adaptive flashcard drill (no Anki needed): misses come back within minutes, and each card returns just before you would forget it.
-- `/study cards Economics` runs an Anki review.
-
-Mistakes go into a personal error log; drills and quizzes bring them back.
+- **Starting.** `/study` picks the subject and topic that matter most right now. `/study econ` or `/study econ ped` starts where you say. After that, just talk: "too easy", "hint", "warm up", "skip", "explain", "done". A new chat picks up where the last one stopped.
+- **Sweeps and levels.** A new or rusty topic starts with a sweep: quick true/false, five at a time, answered like `T F left T T? F ear`, with the word or two that makes each F true. Then it goes deeper on what the sweep showed: fix it, build it, explain it, then from memory. The day before an exam, the sweep covers the whole subject.
+- **Answering.** Guess rather than "idk", and add `?` to a guess so it comes back. Say when you're sure, and say what works ("examples first"): it's remembered. When an idea clicks, say it back in your own words. Ask for a "hint" before "explain".
+- **Near the exam.** Two days out: no new ideas, only mixed questions on what you've seen. The day before: a sweep of the whole subject, then only its misses. The morning of: one short sweep, nothing new.
+- **Mistakes.** When you slip, the gap gets pinpointed and rebuilt from a nearby idea. Each idea comes back just before you would forget it, and your own past mistakes reappear as planted errors to fix.
 
 ## Anki
 

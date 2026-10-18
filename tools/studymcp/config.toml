@@ -67,6 +67,36 @@ miss_factor = 0.2             # S multiplier on a miss
 leech_lapses = 3              # misses before an item is flagged as a leech
 new_share = 0.3               # at most this share of a batch is unseen items
 
+# Levels: how hard a task on an idea is. 1 spot it, 2 fix it, 3 build it, 4 explain it, 5 from memory.
+# Right answers raise an idea's level, misses lower it; the next task is one level up.
+[levels]
+credit = [0.5, 0.7, 0.85, 1.0, 1.0]   # how much a right answer at level 1..5 grows the memory
+exam_floor_days = 3                   # this close to the exam, seen ideas start at level 3 (less support)
+mcq_share = 0.15                      # share of level-1 quick-fire cards asked as multiple choice...
+mcq_share_subjects = { ECQ = 0.3, PHQ = 0.3 }   # ...more where the exam has an MCQ paper
+cap_subjects = { PHQ = 3 }            # highest suggested level (Physics: recognition and formulas)
+
+# Study sessions (the session tool). A sweep is the fast level-1 true/false pass.
+[session]
+candidates = 8        # ideas per brief
+interleave = 3        # of those, mixed in from other topics (one from a paired subject)
+solid_level = 3       # an idea at this level and not fading counts as solid
+statements = 2        # bank statements shown per idea when deepening
+fallback_excerpt = 250   # notes characters per idea when the topic has no bank entry yet
+idea_max_chars = 6000 # a longer `##` section with `###` parts becomes one idea per part
+sweep_after_days = 5  # a topic untouched this long starts with a sweep
+sweep_target = 15     # statements in a topic sweep: one per idea, extra ones for the weightiest...
+sweep_per_idea = 3    # ...up to this many per idea
+sweep_max = 25        # ideas in a whole-subject sweep (the day before the exam), or in one topic sweep
+pairs = { ECQ = ["BUQ", "GEQ"], BUQ = ["ECQ"], GEQ = ["ECQ"], MAQ = ["PHQ"], PHQ = ["MAQ"] }
+
+# The rolling note per subject in local/progress/carryover/, rewritten after every log.
+[carryover]
+max_chars = 800
+session_gap_hours = 2   # a gap this long starts a new study session
+retest_sessions = 3     # a missed idea drops off the retest line after this many sessions untouched
+works = 3               # "what works" notes kept
+
 # Planner (plan / next).
 [plan]
 urgency_days = 7              # urgency = k / (k + days_left)
@@ -77,9 +107,12 @@ error_bump = 0.1              # need += this per error in the last 7 days...
 error_bump_max = 0.3          # ...up to this
 practised_today = 0.5         # multiplier when the topic was practised today
 consolidate_days = 2          # at or inside this many days: consolidate only
+mastery_weights = { ideas = 0.5, attempts = 0.3, cards = 0.2 }
 
 # Output caps (characters) so tool results stay small.
 [caps]
 read = 6000
 topic = 8000
+session = 3000        # a deepen brief (the carryover is added on the first one)
+sweep = 4500          # a sweep brief: it feeds about three messages
 snippet_tokens = 24

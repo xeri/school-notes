@@ -10,6 +10,8 @@ Pre-Q Basic	Ecotourism?	Small-scale, nature-based, low-impact tourism benefiting
 Pre-Q Basic	Cultural (heritage) tourism?	Visiting historic sites, festivals and ways of life	
 Pre-Q Basic	Adventure tourism?	Active, risky activities (bungy, trekking)	
 Pre-Q Basic	Butler model?	Tourist area life cycle: growth, stagnation, then decline or rejuvenation	
+Pre-Q Basic	Butler model: big idea?	Unmanaged tourism destroys the qualities that first attracted visitors	
+Pre-Q Basic	Butler model: when should management start?	Involvement and development stages, before the damage is done	
 Pre-Q Basic	Carrying capacity (tourism)?	Maximum visitors before environment or experience is damaged	think limits
 Pre-Q Basic	Leakage (tourism)?	Tourist spending lost to foreign-owned airlines and hotels	think foreign ownership
 Pre-Q Basic	Sustainable tourism?	Meets visitor and host needs while protecting environment and culture	
@@ -22,10 +24,14 @@ Pre-Q Cloze	Butler stages: {{c1::exploration}}, {{c2::involvement}}, {{c3::devel
 Pre-Q Basic	Butler model: exploration stage?	A few adventurous visitors; no facilities	stage 1
 Pre-Q Basic	Butler model: involvement stage?	Locals start providing accommodation and services	stage 2
 Pre-Q Basic	Butler model: development stage?	Rapid growth; outside firms build hotels	stage 3
+Pre-Q Basic	Butler model: development-stage problems?	Leakage; building on sensitive land; rising prices; local control lost	stage 3
 Pre-Q Basic	Butler model: consolidation stage?	Growth slows; tourism dominates the economy	stage 4
 Pre-Q Basic	Butler model: stagnation stage?	Carrying capacity reached; the image fades	stage 5
+Pre-Q Basic	Butler model: responses at stagnation?	Visitor caps, permits, entry fees, restoration, rebranding	stage 5
 Pre-Q Basic	Butler model: rejuvenation?	New attractions and investment revive numbers	
 Pre-Q Basic	Butler model: limitations?	Places move at different speeds; ignores shocks (pandemics)	
+Pre-Q Basic	Carrying capacity (tourism): fixed number?	No: management raises it; neglect lowers it	
+Pre-Q Cloze	Vietnam on Butler: Hạ Long {{c1::consolidation or stagnation}}; Sa Pa {{c2::development}}; Sơn Đoòng held at {{c3::involvement}}		3 items
 Pre-Q Cloze	Tourism economic benefits: {{c1::jobs}}, {{c2::foreign currency}}, {{c3::tax revenue}}, {{c4::multiplier effect}}		4 items
 Pre-Q Basic	Tourism: economic problems?	Seasonal low pay; leakage; rising prices	
 Pre-Q Basic	Tourism: social problems?	Commercialised culture; crowding; locals priced out of housing	
@@ -38,6 +44,7 @@ Pre-Q Cloze	Vietnam tourism 2025: ~{{c1::US$38 billion}} revenue, ~{{c2::8–9%}
 Pre-Q Cloze	Vietnam's top tourist markets: {{c1::China}} and {{c2::South Korea}}	Asia supplies ~4/5	
 Pre-Q Cloze	Vietnam: {{c1::Đổi Mới}} reforms from {{c2::1986}} opened the country		
 Pre-Q Cloze	Vietnam tourism grew with {{c1::low cost}}, {{c2::90-day e-visas}} (2023), {{c3::budget airlines}}, nearby {{c4::Asian markets}}		4 items
+Pre-Q Basic	Vietnam: why so many Chinese and Korean visitors?	A few hours' flight; rising middle classes; easy visas	
 Pre-Q Cloze	Vietnam's Hạ Long Bay: ~{{c1::1600}} limestone islands; UNESCO {{c2::1994}}		
 Pre-Q Basic	Vietnam's Hạ Long Bay: problems?	Boat and hotel waste; plastic; coral and mangrove damage	
 Pre-Q Basic	Vietnam's Hạ Long Bay: management?	Boat and route limits; single-use plastic ban (2019)	
@@ -47,6 +54,14 @@ Pre-Q Basic	Vietnam's Sa Pa: management?	Community-based homestays; local guide 
 Pre-Q Basic	Vietnam's Fansipan cable car (2016): effect?	Cut a two-day trek to about 20 minutes	
 Pre-Q Basic	Vietnam's Sơn Đoòng?	World's largest cave passage: capped, costly ecotourism	
 Pre-Q Basic	Vietnam tourism: negative economic impacts?	Leakage; seasonal low pay; reliance on China and Korea	
+Pre-Q Basic	Vietnam tourism leakage: why bad?	Spending goes to foreign firms and big conglomerates; little reaches local families	
+Pre-Q Basic	Vietnam: why did COVID-19 hurt tourism workers so badly?	Low-paid, insecure jobs with no safety net; arrivals fell to almost nothing	
+Pre-Q Basic	Vietnam: why is relying on China and Korea risky?	A dispute, slowdown or pandemic there hits Vietnam directly	
+Pre-Q Basic	Vietnam's Hạ Long Bay: why does pollution matter?	Fewer fish for fishers; a dirtier bay deters the visitors it depends on	
+Pre-Q Basic	Vietnam's Sa Pa: effect of hillside hotel building?	Forest and terraces lost; landslides in heavy rain; the attraction built over	
+Pre-Q Basic	Vietnam's Sa Pa child street-sellers: long-term effect?	They miss school, so stay trapped in the cycle of poverty	
+Pre-Q Basic	Vietnam's Hội An: effect of overcrowding?	Residents move out; the old town becomes shops (a museum town)	
+Pre-Q Basic	Vietnam tourism: big idea of its negative impacts?	Unmanaged tourism destroys the attractions it depends on	
 Pre-Q Basic	Vietnam: why is tourism management struggling?	Visitors grow faster than management; industry also pollutes Hạ Long	
 Pre-Q Basic	Queenstown (tourism): main problems?	Unaffordable worker housing; congestion; collapse during COVID-19	
 Pre-Q Basic	Why do countries keep investing in tourism?	Foreign exchange; low-skill jobs; income for remote regions	

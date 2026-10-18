@@ -37,17 +37,22 @@ Theme 3, specification 3.5 (tertiary industry). The school's 2026 case study is 
 
 ![Butler's model: number of tourists against time through exploration, involvement, development, consolidation and stagnation, then rejuvenation, stabilisation or decline, with the carrying-capacity range shaded](geo-butler.svg)
 
-| Stage | What happens |
-|---|---|
-| 1 **Exploration** | a few adventurous visitors; no tourist facilities; little impact |
-| 2 **Involvement** | locals start providing accommodation and services; numbers grow |
-| 3 **Development** | rapid growth; outside companies build hotels; heavy marketing; local control falls |
-| 4 **Consolidation** | growth slows; tourism dominates the economy; some local resentment |
-| 5 **Stagnation** | **carrying capacity** reached; environmental and social problems; the destination's image fades |
-| 6 **Decline or rejuvenation** | visitors go elsewhere and facilities close — or new attractions, investment and marketing revive it |
+**The big idea:** a tourist destination grows, matures and then either declines or reinvents itself — like a product life cycle. Tourism tends to **destroy the qualities that attracted visitors in the first place** (peace, scenery, local character), unless it is managed. The model is a way of thinking about **what problems to expect next and when to act**, not a set of numbers.
 
-- **Carrying capacity** = the maximum number of visitors an area can take before its environment or visitor experience is damaged.
-- **Strengths:** simple; fits many resorts; warns planners. **Limitations:** not all places pass through every stage or at the same speed; it is hard to tell which stage a place is in until afterwards; ignores external shocks (COVID-19, disasters, politics).
+| Stage | What happens | Typical problems | What managers can do |
+|---|---|---|---|
+| 1 **Exploration** | a few adventurous visitors find the place; no tourist facilities; visitors use local services and mix with locals | almost none — but no income either | decide early what kind of tourism is wanted; protect fragile sites before growth starts |
+| 2 **Involvement** | locals see an opportunity and open guesthouses, cafés and tours; numbers grow; a tourist season appears | early pressure on water and waste; seasonal work | support locally owned businesses and training so income stays local; plan infrastructure ahead |
+| 3 **Development** | rapid growth; outside companies and investors build large hotels; heavy marketing; package tours; **local control falls** | leakage of profits; building on sensitive land; rising land and house prices; culture commercialised; crowding | zoning and planning rules; limits on building height and density; environmental impact assessments; keep some ownership local |
+| 4 **Consolidation** | growth slows; tourism dominates the local economy; facilities begin to age | dependence on one industry; resentment of visitors; congestion | diversify the economy; spread visitors in time and space; reinvest tourist taxes in services |
+| 5 **Stagnation** | **carrying capacity** reached or passed; the place is no longer fashionable; the environment and visitor experience are damaged | pollution, overcrowding, a run-down image, falling prices and quality | visitor caps, permits and entry fees; clean-up and restoration; rebranding |
+| 6a **Decline** | visitors go elsewhere; hotels close or become housing | job losses spread through the multiplier effect; empty buildings | retrain workers; find new industries |
+| 6b **Rejuvenation** | new attractions, investment or markets revive numbers (new types of tourism, events, marketing to new countries) | the cycle can begin again | invest in new, more sustainable products (ecotourism, cultural tourism, conferences) |
+
+- **Carrying capacity** = the maximum number of visitors an area can take before its environment, its community or the visitor experience is damaged. It is not one fixed number: it can be raised by management (boardwalks, sewage treatment, booking systems) or lowered by neglect.
+- **Why the model is useful:** it warns planners that unmanaged growth leads to stagnation, so management should start in stages 2–3, before the damage is done; it helps explain the problems a place has now; it can be applied to any resort.
+- **Limitations:** not every place passes through every stage, or at the same speed; it is hard to tell which stage a place is in until afterwards; different parts of one country can be at different stages; it ignores **external shocks** such as pandemics, disasters, terrorism and exchange rates, which can collapse numbers at any stage (COVID-19 in 2020); planned resorts can jump straight to the development stage.
+- **How to use it in an answer:** name the stage, give the evidence from the place for that stage, then say what is likely to happen next and how management could change the outcome. Vietnam: Hạ Long Bay is near consolidation or stagnation; Sa Pa and Phú Quốc are in rapid development; Sơn Đoòng cave is held near involvement by strict caps.
 
 ## Impacts of tourism
 
@@ -89,14 +94,14 @@ Theme 3, specification 3.5 (tertiary industry). The school's 2026 case study is 
 - **Revenue (2025):** total tourism revenue about VND 1 quadrillion (roughly **US\$38 billion**), about **8–9% of GDP**.
 - **Target:** 25 million international visitors in 2026.
 
-**Why tourism has grown in Vietnam:**
-- **Đổi Mới** economic reforms (from 1986) opened the country to foreign investment and visitors.
-- **Natural attractions:** limestone karst seascapes, caves, mountains, beaches, rice terraces, the Mekong Delta.
-- **Cultural attractions:** ancient towns, imperial cities, temples, war history, food.
-- **Low cost** for visitors; seen as **safe** and politically stable.
-- **Easier visas:** 90-day e-visas for all nationalities from August 2023, and visa-free entry for many countries.
-- **Budget airlines** (VietJet) and new and expanded airports; closeness to the huge Chinese and Korean markets.
-- **Government strategy** and marketing; social media and films (the 2017 film *Kong: Skull Island* was shot at Ha Long and Tràng An).
+**Why tourism has grown in Vietnam (causes):**
+- *Political change:* the **Đổi Mới** reforms (from 1986) opened a closed, war-damaged communist economy to foreign investment and visitors → hotels, airlines and tour firms could be set up → tourism became a government priority.
+- *Natural attractions:* limestone karst seascapes (Hạ Long), huge caves (Phong Nha), mountains and rice terraces (Sa Pa), long tropical beaches, the Mekong Delta.
+- *Cultural attractions:* ancient towns (Hội An), imperial cities (Huế), temples, food, minority cultures and war history; several UNESCO World Heritage sites act as "brands" that attract visitors.
+- *Cost and safety:* cheap food, hotels and transport, and a reputation for political stability and personal safety → attractive to backpackers and families alike.
+- *Access:* budget airlines (VietJet) and new airports cut fares; Vietnam is a few hours' flight from China, South Korea and Japan, whose rising middle classes now travel abroad; 90-day e-visas for all nationalities (August 2023) and visa-free entry for many countries removed a barrier.
+- *Marketing and media:* government campaigns, social media and films (*Kong: Skull Island*, 2017, shot at Hạ Long and Tràng An).
+- *Recovery after COVID-19:* pent-up demand from Asia once borders reopened in 2022 drove record numbers by 2025.
 
 ### Key areas
 
@@ -111,13 +116,41 @@ Theme 3, specification 3.5 (tertiary industry). The school's 2026 case study is 
 | **Phú Quốc** (island, south) | beach resorts, casinos, cable car | visa-free special zone; rapid resort construction |
 | Hà Nội, Hồ Chí Minh City, Đà Nẵng, Mekong Delta | Old Quarter, war history (Củ Chi tunnels), beaches and the Golden Bridge, floating markets | cities and resorts |
 
-### Impacts in Vietnam
+### Impacts in Vietnam — and why they matter
 
-| | Positive | Negative |
-|---|---|---|
-| **Economic** | millions of jobs (hotels, restaurants, guides, transport, crafts); foreign currency; income for poor rural regions (homestays in Sa Pa); multiplier effect; investment in airports and roads | **leakage** to foreign-owned resorts, airlines and tour firms; low-paid, seasonal work; dependence on China and Korea; collapse during COVID-19; rising land prices |
-| **Social / cultural** | income for ethnic minority families; revival of crafts (Hội An lanterns, Sa Pa textiles); cultural exchange | commercialisation of minority culture in Sa Pa; children selling souvenirs instead of attending school; overcrowding of Hội An's narrow streets; locals displaced by resort development; noise |
-| **Environmental** | entry fees fund conservation; protected status for Hạ Long and Phong Nha | **Hạ Long Bay:** waste and wastewater from tour boats, hotels and the growing city, plastic litter, damage to coral and mangroves (plus nearby coal mining and industry); **Sa Pa:** hillside hotel construction, landslides, pressure on water supply; **Phú Quốc:** forest cleared for resorts; air travel emissions |
+**Economic, positive**
+
+- *millions of jobs* in hotels, restaurants, guiding, transport and crafts, many needing little training → work for rural people, women and ethnic minorities with few other options;
+- *foreign currency* → helps pay for imports and development;
+- the *multiplier effect* → farmers, builders and craft-makers sell to the tourist trade;
+- *infrastructure* (airports, roads, power, water) that residents use too.
+
+**Economic, negative**
+
+- *Leakage:* much of the spending goes to foreign-owned hotels, airlines and tour companies, or to a few big Vietnamese conglomerates (Sun Group built the Fansipan cable car) → little of the money reaches local families, so tourism does less to reduce poverty than the headline figures suggest.
+- *Low-paid, seasonal, insecure work* → no income in the off-season, and no safety net when visitors stop coming. When borders shut in 2020–2021, arrivals fell to almost nothing and huge numbers of tourism workers lost their income overnight.
+- *Dependence on a few markets:* China and South Korea supply nearly half of visitors → a political dispute, economic slowdown or new pandemic in those countries hits Vietnam directly.
+- *Rising land, rent and food prices* in resort areas → locals priced out; farming and fishing families in resort areas such as Phú Quốc have lost land to resort projects.
+
+**Social and cultural**
+
+- *Benefits:* income for minority families through homestays; revival of crafts such as Hội An lanterns and Sa Pa textiles; better services.
+- *Commercialisation of culture* in Sa Pa: Hmong and Red Dao traditions are performed and sold to tourists ("staged authenticity") → culture becomes a product and its meaning is lost.
+- *Child street-sellers* in Sa Pa sell souvenirs instead of attending school → they miss education, which keeps them in poverty (the cycle of poverty).
+- *Overcrowding:* Hội An's narrow streets are packed at peak times → residents move out and the old town turns into shops and cafés for visitors — a "museum town" losing the community that made it attractive.
+- Traditional ways of life change faster than communities choose, and resentment can build towards visitors.
+
+**Environmental**
+
+- *Hạ Long Bay:* waste, sewage and fuel from hundreds of tour boats, hotels and the growing city of Hạ Long, plus plastic litter → poorer water quality, algae and damaged coral and mangroves → fewer fish for local fishing families, and a dirtier bay that is less attractive to the visitors it depends on. Nearby coal mining, a port and land reclamation add to the pollution, so tourism is not the only cause.
+- *Sa Pa:* hotels built on steep hillsides and terraces → forest and terraces lost, slopes destabilised → **landslide** risk in heavy monsoon and typhoon rain (Typhoon Yagi in September 2024 caused deadly floods and landslides in Lào Cai province, where Sa Pa is); the rice-terrace landscape that tourists come to see is being built over; water supply is strained.
+- *Phú Quốc:* forest cleared and coral reefs damaged for resorts → lost habitat; dry-season water shortages as hotels compete with residents.
+- *Coasts:* beach resorts built close to the sea face erosion (the beach at Cửa Đại near Hội An has been badly eroded).
+- *Climate:* emissions from long-haul and regional flights add to global warming, which in turn threatens Vietnam's low-lying coasts and the Mekong Delta.
+
+**The big idea:** unmanaged tourism can **destroy the attractions it depends on** — dirtier water at Hạ Long, a built-over Sa Pa, a crowded Hội An — pushing a destination towards Butler's stagnation and decline.
+
+**Who gains and who loses:** large firms, national government revenue and well-placed hotel and homestay owners gain most; fishing families, poorer residents priced out, minority children kept out of school and future generations who inherit a damaged environment lose most.
 
 ### Management
 
@@ -143,3 +176,4 @@ It earns foreign exchange; it employs many people with little training; it sprea
 - Butler stages named without what happens in each.
 - Sustainable tourism methods without how they reduce the impact.
 - Vietnam facts without places, dates or figures.
+- Naming an impact ("pollution in Hạ Long Bay") without the chain of why it is bad and for whom.

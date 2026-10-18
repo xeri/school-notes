@@ -42,6 +42,14 @@ class Config:
     drill: dict = field(default_factory=dict)
     plan: dict = field(default_factory=dict)
     caps: dict = field(default_factory=dict)
+    levels: dict = field(default_factory=dict)
+    session: dict = field(default_factory=dict)
+    carryover: dict = field(default_factory=dict)
+
+    @property
+    def memory(self):
+        """parameters for drill.update: [drill] plus the [levels] credit and exam floor."""
+        return {**self.drill, **self.levels}
 
     def subject_dir(self, code):
         return self.root / f"{self.term}-{code}"
@@ -50,6 +58,11 @@ class Config:
     def progress_dir(self):
         env = os.environ.get("STUDY_PROGRESS")
         return Path(env) if env else self.root / "local" / "progress"
+
+    @property
+    def bank_dir(self):
+        env = os.environ.get("STUDY_BANK")
+        return Path(env) if env else self.root / "local" / "bank"
 
     @property
     def extracted_dir(self):
@@ -97,6 +110,9 @@ def load(root=None):
         drill=data.get("drill", {}),
         plan=data.get("plan", {}),
         caps=data.get("caps", {}),
+        levels=data.get("levels", {}),
+        session=data.get("session", {}),
+        carryover=data.get("carryover", {}),
     )
 
 

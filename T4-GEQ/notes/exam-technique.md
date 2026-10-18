@@ -172,7 +172,7 @@ A conclusion that merely repeats both sides scores little; one that takes a posi
 ## Named examples that earn marks
 
 A named example that earns marks has a **place, a date, a scale and at least one specific fact or figure used in an argument**.
-- *Developed:* "Dharavi, Mumbai: perhaps 600 000 to 1 million people on about 2 km², with about one toilet per 1440 people in 2006, which is why water-borne disease is common and why sanitation has been the first priority of upgrading."
+- *Developed:* "In Dharavi, Mumbai, up to a million people are packed into about 2 km² and share toilets and standpipes beside open drains, which is why water-borne disease spreads so quickly and why community toilet blocks were the first priority of upgrading."
 - *A tag:* "Dharavi is a slum."
 
 ## Maps and diagrams in answers
