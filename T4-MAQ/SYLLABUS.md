@@ -34,15 +34,20 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Codes | Notes | Cards |
 |---|---|---|---|---|
+| **Start here** | | | | |
+| — | Study guide: exam timing and priority order | — | [notes](notes/study-guide.md) | — |
 | 0a | Exam errors: the small mistakes that cost marks | — | [notes](notes/exam-errors.md) | [deck](anki/exam-errors.txt) |
 | 0b | Big ideas: how the whole course fits together | — | [notes](notes/big-ideas.md) | [deck](anki/exam-errors.txt) |
+| **Number and algebra** | | | | |
 | 1 | Number | E1 | [notes](notes/number.md) | [deck](anki/number.txt) |
 | 2 | Algebra | E2.1–2.8, 2.12 | [notes](notes/algebra.md) | [deck](anki/algebra.txt) |
 | 3 | Coordinate geometry and graphs | E2.6, E2.9–2.11, E5 | [notes](notes/graphs.md) | [deck](anki/graphs.txt) |
+| **Geometry and measurement** | | | | |
 | 4 | Geometry | E3 | [notes](notes/geometry.md) | [deck](anki/geometry.txt) |
 | 5 | Trigonometry | E6 | [notes](notes/trigonometry.md) | [deck](anki/trigonometry.txt) |
 | 6 | Mensuration (Measurement) | E4 | [notes](notes/mensuration.md) | [deck](anki/mensuration.txt) |
 | 7 | Vectors, transformations and matrices | E7 | [notes](notes/vectors-matrices.md) | [deck](anki/vectors-matrices.txt) |
+| **Statistics and calculus** | | | | |
 | 8 | Statistics and probability | E8, E9 | [notes](notes/statistics.md) | [deck](anki/statistics.txt) |
 | 9 | Calculus | — (see section 9) | [notes](notes/calculus.md) | [deck](anki/calculus.txt) |
 

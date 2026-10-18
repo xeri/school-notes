@@ -16,17 +16,20 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Unit | Notes | Cards |
 |---|---|---|---|
+| **Start here** | | | |
+| G | Study guide: exam timing and priority order | [notes](notes/study-guide.md) | — |
+| D | Term 3 decisions: answer chains and 12-mark models | [notes](notes/t3-decisions.md) | [deck](anki/t3-decisions.txt) |
+| C | CCC case: missing answers and predicted questions | [notes](notes/ccc-extension.md) | [deck](anki/t3-decisions.txt) |
+| E | Business vs Economics: shared topics, different answers | [notes](notes/econ-overlap.md) | [deck](anki/t3-decisions.txt) |
+| **Units** | | | |
 | 1 | Understanding business activity | [notes](notes/activity.md) | [deck](anki/activity.txt) |
 | 2 | People in business | [notes](notes/people.md) | [deck](anki/people.txt) |
 | 3 | Marketing | [notes](notes/marketing.md) | [deck](anki/marketing.txt) |
 | 4 | Operations management | [notes](notes/operations.md) | [deck](anki/operations.txt) |
 | 5 | Financial information and decisions | [notes](notes/finance.md) | [deck](anki/finance.txt) |
 | 6 | External influences on business activity | [notes](notes/external.md) | [deck](anki/external.txt) |
+| **Practice** | | | |
 | P | Practice case: applying answers to a business (CCC whole-course revision case) | [notes](notes/case-study.md) | [deck](anki/case-study.txt) |
-| G | Study guide: exam timing and priority order | [notes](notes/study-guide.md) | — |
-| D | Term 3 decisions: answer chains and 12-mark models | [notes](notes/t3-decisions.md) | [deck](anki/t3-decisions.txt) |
-| C | CCC case: missing answers and predicted questions | [notes](notes/ccc-extension.md) | [deck](anki/t3-decisions.txt) |
-| E | Business vs Economics: shared topics, different answers | [notes](notes/econ-overlap.md) | [deck](anki/t3-decisions.txt) |
 
 ---
 

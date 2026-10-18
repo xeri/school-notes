@@ -17,14 +17,19 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Notes | Cards |
 |---|---|---|---|
+| **Start here** | | | |
+| — | Study guide: exam timing and priority order | [notes](notes/study-guide.md) | — |
 | 0a | Government policy chains: which tool, how it works, when it fails | [notes](notes/policy-chains.md) | [deck](anki/policy-chains.txt) |
 | 0b | Exam practice: data response and 20-mark questions | [notes](notes/exam-practice.md) | [deck](anki/policy-chains.txt) |
+| **Foundations** | | | |
 | 1 | Scarcity, choice and economic systems | [notes](notes/foundations.md) | [deck](anki/foundations.txt) |
 | 2 | The New Zealand economy | [notes](notes/nz-economy.md) | [deck](anki/nz-economy.txt) |
 | 3 | Money and exchange | [notes](notes/money.md) | [deck](anki/money.txt) |
+| **Markets and firms** | | | |
 | 4 | Demand, supply and the market | [notes](notes/markets.md) | [deck](anki/markets.txt) |
 | 5 | Elasticity, market failure and market structures | [notes](notes/elasticity-failure.md) | [deck](anki/elasticity-failure.txt) |
 | 6 | Firms, costs and labour markets | [notes](notes/firms-labour.md) | [deck](anki/firms-labour.txt) |
+| **Macroeconomics and the world** | | | |
 | 7 | Macroeconomics and policy | [notes](notes/macroeconomics.md) | [deck](anki/macroeconomics.txt) |
 | 8 | International trade and exchange rates | [notes](notes/trade.md) | [deck](anki/trade.txt) |
 | 9 | Development, population and poverty | [notes](notes/development.md) | [deck](anki/development.txt) |

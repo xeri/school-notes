@@ -68,30 +68,37 @@ Flashcards: [anki/](anki/): tab-separated decks, one per page, numbered by theme
 | 00 | Named models, processes and solutions: the index | [notes](notes/models-index.md) | [deck](anki/models-overlaps.txt) |
 | 00 | How the topics overlap, and where to keep them apart | [notes](notes/overlaps.md) | [deck](anki/models-overlaps.txt) |
 | **Theme 1: Natural Environment** | | | |
+| *Landforms and processes* | | | |
 | 20 | The geomorphic cycle and plate tectonics | [notes](notes/tectonics.md) | [deck](anki/tectonics.txt) |
 | 21 | Weathering, mass movement and wind | [notes](notes/weathering.md) | [deck](anki/weathering.txt) |
 | 22 | Glaciation | [notes](notes/glaciation.md) | [deck](anki/glaciation.txt) |
 | 23 | Rivers: drainage basins, processes and landforms | [notes](notes/rivers.md) | [deck](anki/rivers.txt) |
 | 24 | Rivers: flooding, management and fieldwork | [notes](notes/river-flooding.md) | [deck](anki/river-flooding.txt) |
 | 25 | Coasts | [notes](notes/coasts.md) | [deck](anki/coasts.txt) |
+| *Weather and climate* | | | |
 | 26 | Weather | [notes](notes/weather.md) | [deck](anki/weather.txt) |
 | 27 | Climate and global circulation | [notes](notes/climate.md) | [deck](anki/climate.txt) |
+| *Ecosystems* | | | |
 | 28 | Ecosystems: tropical rainforest and hot desert | [notes](notes/ecosystems.md) | [deck](anki/ecosystems.txt) |
 | **Theme 2: Population and Settlement** | | | |
+| *Population* | | | |
 | 01 | Population growth and change | [notes](notes/population-growth.md) | [deck](anki/population-growth.txt) |
 | 02 | Population structure and policies | [notes](notes/population-structure.md) | [deck](anki/population-structure.txt) |
 | 03 | Migration | [notes](notes/migration.md) | [deck](anki/migration.txt) |
 | 04 | Population density and distribution | [notes](notes/population-density.md) | [deck](anki/population-density.txt) |
+| *Settlement and urban areas* | | | |
 | 05 | Settlement and service provision | [notes](notes/settlement-services.md) | [deck](anki/settlement-services.txt) |
 | 06 | Urban land use and models (HICs) | [notes](notes/urban-land-use.md) | [deck](anki/urban-land-use.txt) |
 | 07 | Urban change and issues in HICs | [notes](notes/urban-change-hics.md) | [deck](anki/urban-change-hics.txt) |
 | 08 | Urbanisation in LICs and MICs | [notes](notes/urbanisation-lics.md) | [deck](anki/urbanisation-lics.txt) |
 | **Theme 3: Development and the use of resources** | | | |
+| *Development and the economy* | | | |
 | 40 | Development and inequality | [notes](notes/development.md) | [deck](anki/development.txt) |
 | 41 | Sectors, economic transition and globalisation | [notes](notes/globalisation.md) | [deck](anki/globalisation.txt) |
 | 42 | Farming and food shortages | [notes](notes/farming.md) | [deck](anki/farming.txt) |
 | 43 | Manufacturing industry: VW Wolfsburg | [notes](notes/manufacturing.md) | [deck](anki/manufacturing.txt) |
 | 44 | Tourism: Vietnam | [notes](notes/tourism.md) | [deck](anki/tourism.txt) |
+| *Resources and the environment* | | | |
 | 45 | Energy resources | [notes](notes/energy.md) | [deck](anki/energy.txt) |
 | 46 | Global warming and climate change | [notes](notes/global-warming.md) | [deck](anki/global-warming.txt) |
 | 47 | Water and the environmental risks of development | [notes](notes/environmental-risks.md) | [deck](anki/environmental-risks.txt) |

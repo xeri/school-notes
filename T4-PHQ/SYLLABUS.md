@@ -15,17 +15,22 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Notes | Cards |
 |---|---|---|---|
+| **Start here** | | | |
 | — | Study guide: exam format, answer format, priority order | [notes](notes/study-guide.md) | — |
 | — | Which formula when | [notes](notes/formula-chooser.md) | [deck](anki/formula-chooser.txt) |
 | — | Units, symbols and rearranging | [notes](notes/units-and-rearranging.md) | [deck](anki/formula-chooser.txt) |
+| **Mechanics** | | | |
 | 1 | Measurement, units and vectors | [notes](notes/measurement.md) | [deck](anki/measurement.txt) |
 | 2 | Motion | [notes](notes/motion.md) | [deck](anki/motion.txt) |
 | 3 | Forces and momentum | [notes](notes/forces.md) | [deck](anki/forces.txt) |
 | 4 | Density, energy and pressure | [notes](notes/energy-pressure.md) | [deck](anki/energy-pressure.txt) |
+| **Thermal physics and waves** | | | |
 | 5 | Thermal physics | [notes](notes/thermal.md) | [deck](anki/thermal.txt) |
 | 6 | Waves, light and sound | [notes](notes/waves.md) | [deck](anki/waves.txt) |
+| **Electricity, atoms and space** | | | |
 | 7 | Electricity and magnetism | [notes](notes/electricity.md) | [deck](anki/electricity.txt) |
 | 8 | Atomic physics and space | [notes](notes/atomic-space.md) | [deck](anki/atomic-space.txt), [space deck](anki/space.txt) |
+| **Skills** | | | |
 | 9 | Practical skills | [notes](notes/practical.md) | [deck](anki/practical.txt) |
 
 ---

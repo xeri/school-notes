@@ -62,6 +62,64 @@ def reading_order(code):
     return [s for s in order if (d / "notes" / f"{s}.md").exists()]
 
 
+def sidebar_groups(code):
+    """[(group, subgroup, stem)] from the SYLLABUS.md index table.
+
+    A row whose first cell is **bold** and has no notes link starts a group;
+    an *italic* one starts a subgroup inside it.
+    """
+    syllabus = subject_dir(code) / "SYLLABUS.md"
+    out, group, sub, seen, in_index = [], None, None, set(), False
+    if not syllabus.exists():
+        return out
+    for line in syllabus.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("|"):
+            in_index = False
+            continue
+        if "Notes" in line and "Cards" in line:
+            in_index = True
+        if not in_index:
+            continue
+        first = line.strip("|").split("|")[0].strip()
+        stems = re.findall(r"notes/([A-Za-z0-9_-]+)\.md", line)
+        if not stems:
+            if re.fullmatch(r"\*\*[^*]+\*\*", first):
+                group, sub = first.strip("*"), None
+            elif re.fullmatch(r"\*[^*]+\*", first):
+                sub = first.strip("*")
+            continue
+        for s in stems:
+            if s not in seen:
+                seen.add(s)
+                out.append((group, sub, s))
+    return out
+
+
+def sidebar_entries(code, subject, topics, refs):
+    """nested markdown list for one subject: groups, subgroups, then pages."""
+    d = subject_dir(code)
+    grouped = {s: (g, sub) for g, sub, s in sidebar_groups(code)}
+    # ungrouped pages first, then the table's groups in order
+    rows = [(None, None, s) for s in topics if grouped.get(s, (None, None))[0] is None]
+    rows += [(g, sub, s) for g, sub, s in sidebar_groups(code) if g and s in topics]
+    lines, cur_g, cur_sub = [], None, None
+    for g, sub, stem in rows:
+        if g != cur_g:
+            lines.append(f"- **{g}**")
+            cur_g, cur_sub = g, None
+        if sub != cur_sub:
+            lines.append(f"  - *{sub}*")
+            cur_sub = sub
+        indent = "  " * ((g is not None) + (sub is not None))
+        title = note_title(d / "notes" / f"{stem}.md", stem)
+        lines.append(f"{indent}- [{title}]({page_name(subject, stem)})")
+    if refs:
+        lines.append("- **Reference**")
+        for ref in refs:
+            lines.append(f"  - [{ref.stem.replace('-', ' ').capitalize()}]({page_name(subject, ref.stem.lower())})")
+    return lines
+
+
 def reference_files(code):
     """subject-specific reference files at the subject root, excluding SYLLABUS."""
     d = subject_dir(code)
@@ -142,11 +200,7 @@ def build_wiki():
 
         sidebar.append(f"**[{subject}]({syl_page})**")
         sidebar.append("")
-        for stem in topics:
-            title = note_title(d / "notes" / f"{stem}.md", stem)
-            sidebar.append(f"- [{title}]({page_name(subject, stem)})")
-        for ref in refs:
-            sidebar.append(f"- [{ref.stem.title()}]({page_name(subject, ref.stem.lower())})")
+        sidebar += sidebar_entries(code, subject, topics, refs)
         sidebar.append("")
 
         # syllabus page

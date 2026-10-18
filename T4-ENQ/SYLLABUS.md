@@ -18,16 +18,21 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 | # | Topic | Notes | Cards |
 |---|---|---|---|
-| 1 | Paper 1 unfamiliar texts | [notes](notes/unfamiliar-texts.md) | [deck](anki/unfamiliar-texts.txt) |
-| 2 | Paper 3 Othello | [notes](notes/othello.md) | [deck](anki/othello.txt) |
-| 3 | Paper 4 film analysis | [notes](notes/film.md) | [deck](anki/film.txt) |
-| 4 | Writing and argument | [notes](notes/writing.md) | [deck](anki/writing.txt) |
-| 5 | Biblical and mythical allusions (Paper 1) | [notes](notes/allusions.md) | [deck](anki/allusions.txt) |
+| **Start here** | | | |
 | 6 | Study guide: priority order and method | [notes](notes/study-guide.md) | — |
+| **Paper 1: unfamiliar texts** | | | |
+| 1 | Paper 1 unfamiliar texts | [notes](notes/unfamiliar-texts.md) | [deck](anki/unfamiliar-texts.txt) |
+| 5 | Biblical and mythical allusions (Paper 1) | [notes](notes/allusions.md) | [deck](anki/allusions.txt) |
+| **Paper 3: Othello** | | | |
+| 2 | Paper 3 Othello | [notes](notes/othello.md) | [deck](anki/othello.txt) |
 | 7 | Othello quote bank and essay plans (Paper 3) | [notes](notes/othello-quotes.md) | [deck](anki/quotes.txt) |
 | 8 | Othello key scenes, beat by beat (Paper 3) | [notes](notes/othello-scenes.md) | [deck](anki/quotes.txt) |
+| **Paper 4: film** | | | |
+| 3 | Paper 4 film analysis | [notes](notes/film.md) | [deck](anki/film.txt) |
 | 9 | Film story, dialogue and plans (Paper 4) | [notes](notes/film-story.md) | [deck](anki/quotes.txt) |
+| **All papers** | | | |
 | 10 | Authors and context (Papers 3 and 4) | [notes](notes/context.md) | — |
+| 4 | Writing and argument | [notes](notes/writing.md) | [deck](anki/writing.txt) |
 
 Topic 4 is assessed in all three papers, through the organisation and expression criteria on every paper and the response-to-question criterion on Papers 3 and 4.
 
