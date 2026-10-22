@@ -224,6 +224,8 @@ A **maximum price** (price ceiling) is a legal upper limit, set **below** equili
 | Who gains | buyers who still get the good, at a lower price | producers who still sell, at a higher price |
 | Side effects | queues, waiting lists, rationing, **black markets** at prices above the ceiling, less investment and lower quality | unsold stock that may have to be bought, stored or destroyed; wasted resources; in a labour market, **unemployment** |
 
+**This loses marks:** a price control only has an effect on the "wrong" side of equilibrium. A maximum price set **above** equilibrium, or a minimum price set **below** it, changes **nothing**, because the market price already obeys the law. Only a ceiling below equilibrium or a floor above it creates a shortage or a surplus. Multiple-choice questions test both this and the quantity actually traded ($Q_s$ under a maximum price, $Q_d$ under a minimum price).
+
 The same tool appears in two other markets, as the Cambridge syllabus specifies:
 
 - **Labour market** — a **national minimum wage** is a minimum price for labour; set above the equilibrium wage it creates an excess supply of labour (unemployment). See [Firms, costs and labour markets](../notes/firms-labour.md).

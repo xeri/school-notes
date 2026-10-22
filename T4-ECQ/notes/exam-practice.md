@@ -1,6 +1,6 @@
 # Exam practice: data response and 20-mark questions
 
-One worked data-response question and two full structured questions, each with its mark allocation and a model answer. Try each part yourself first — cover the answer, write, then compare. The mark allocations follow the style of the Cambridge IGCSE 0455 Paper 2 mark schemes (2025 and 2026), which the school's exam is modelled on; the chains behind every answer are in [Policy chains](../notes/policy-chains.md).
+This page covers Paper 2: one worked data-response question (Section B) and two full structured questions (Section C), each with its mark allocation and a model answer. Paper 1, the 30 multiple-choice questions, has its own timed paper in [MCQ practice](../notes/mcq-practice.md). Try each part yourself first: cover the answer, write, then compare. At exam pace each 20-mark question takes about 32 minutes. The mark allocations follow the style of the Cambridge IGCSE 0455 Paper 2 mark schemes (2025 and 2026), which the school's exam is modelled on; the chains behind every answer are in [Policy chains](../notes/policy-chains.md).
 
 **How the marks work** (from the 0455 mark schemes):
 
@@ -150,7 +150,7 @@ Overall, a government should rarely impose tariffs. They can be justified for a 
 
 ## How to choose 3 of the 6 structured questions
 
-Use the reading time. For each question, look **past** the easy (a) and (b) parts.
+Use the first 5 minutes of Paper 2. Paper 1 is collected before you see Section C, so the choice happens here. For each question, look **past** the easy (a) and (b) parts.
 
 - [ ] **Read the (c) and (d) parts first** — they carry 14 of the 20 marks.
 - [ ] **Can I write the (c) chain?** Say it in your head: at least five linked steps, ending in the effect the question asks about.
@@ -159,6 +159,7 @@ Use the reading time. For each question, look **past** the easy (a) and (b) part
 - [ ] **Do I know what the answer depends on** (PED, time lags, spare capacity, cause, cost) for a real conclusion?
 - [ ] **Is the context one I can use** — a country, firm or market I can refer to in every paragraph?
 - [ ] **Avoid** a question just because its (a) definition is easy, or because the topic sounds familiar but the (d) is on an angle you have not practised.
-- [ ] **Decide once, then commit.** Do your strongest question first to bank marks, and keep to about 36 minutes each.
+- [ ] **Decide once, then commit.** After Section B, do your strongest Section C question first to bank marks, and keep to about 32 minutes each: (a) 3, (b) 6, (c) 10, (d) 13.
+- [ ] **Number and label as you go.** Write the question number and each part letter in the answer booklet's margin.
 
 More chains to practise from: [Policy chains](../notes/policy-chains.md). Practice questions at the end of [Elasticity, market failure and market structures](../notes/elasticity-failure.md), [Macroeconomics and policy](../notes/macroeconomics.md) and [International trade and exchange rates](../notes/trade.md).

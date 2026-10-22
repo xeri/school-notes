@@ -27,9 +27,9 @@ The fastest wins, with a trap: definitions sweep quickly and feel like progress,
 
 Hard ideas are where these methods work best. It overlaps heavily with Business: an idea learned in one is half-learned in the other, so link them.
 - **Right means:** a full chain ("because … which leads to … so …"); the right curve shifting the right way; movement and shift kept apart; a judgement that says what it depends on.
-- **Works well:** chains, what-ifs and the gap loop; sweeps (direct practice for the 20 MCQ); "which way does it shift?" sweeps and quick sketch-and-label (check the "Marks are lost by" lines in `ECQ/DIAGRAMS`).
+- **Works well:** chains, what-ifs and the gap loop; sweeps and quick multiple choice (direct practice for the 30-question MCQ paper; `ECQ/mcq-practice` is a timed one and lists the traps); "which way does it shift?" sweeps and quick sketch-and-label (check the "Marks are lost by" lines in `ECQ/DIAGRAMS`).
 - **Errors to plant:** the wrong curve shifting; movement vs shift; elastic vs inelastic; cause and effect swapped; a missing link; a one-sided judgement.
-- **Exam:** 3 hours: 20 MCQ, data response, then 3 of 6 structured questions.
+- **Exam:** two papers, 110 marks: Paper 1 is 30 MCQ in 45 minutes, then Paper 2 (2h15) is a compulsory 20-mark data response and 3 of 6 structured questions (20 each).
 
 ## English (ENQ)
 

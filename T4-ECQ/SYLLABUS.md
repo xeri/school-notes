@@ -1,16 +1,18 @@
 # Economics — Pre-Q Syllabus
 
-**Start here:** [Study guide](notes/study-guide.md) · [Policy chains](notes/policy-chains.md) · [Exam practice](notes/exam-practice.md)
+**Start here:** [Study guide](notes/study-guide.md) · [Policy chains](notes/policy-chains.md) · [Exam practice](notes/exam-practice.md) · [MCQ practice](notes/mcq-practice.md)
 
-**Final exam (Term 4) — the school's stated 2026 format.** One **3-hour** exam at the end of Term 4, **100 marks** in total:
+**Final exam (Term 4), as announced by the department in October 2026.** **Two papers**, timetabled together but **sat separately**, **110 marks** in total:
 
-| Section | What you do | Weight |
-|---|---|---|
-| **Multiple choice** | answer **20** multiple-choice questions | 20% |
-| **Data response** | answer **one compulsory** question that requires you to interpret and analyse **previously unseen data** about a **real economic situation** | 20% |
-| **Structured questions** | answer **three** optional questions worth **20 marks each**, chosen from **six** | 60% |
+| Paper | Section | What you do | Marks | Time | Share |
+|---|---|---|---|---|---|
+| **Paper 1** | **A — Multiple choice** | **30** multiple-choice questions, answered on the **grid** provided — write your **name and student ID** on the grid | 30 | **45 minutes**, sat first, then handed in | 27% |
+| **Paper 2** | **B — Data response** | **one compulsory** question that requires you to interpret and analyse **previously unseen data** about a **real economic situation** | 20 | **2 hours 15 minutes** for Sections B and C together | 18% |
+| | **C — Structured questions** | answer **three** of **six** questions, **20 marks each** | 60 | | 55% |
 
-This is the format on the school's course page; confirm any late changes with the department. The course is modelled closely on **Cambridge IGCSE Economics (0455)**, whose Paper 1 is multiple choice and whose Paper 2 has one compulsory data question and a choice of 20-mark structured questions — so IGCSE past papers are the best practice material.
+Paper 1 is collected before Paper 2 starts, so time saved on the multiple choice cannot be spent on the written answers, and the Section C questions cannot be chosen while you do the multiple choice. Paper 2 is written in the **answer booklet**: **number each question** you answer and **label its parts** clearly — (a), (b), (c) and so on.
+
+This replaces the format on the school's course page (one 3-hour paper, 100 marks, 20 multiple-choice questions). The course is modelled closely on **Cambridge IGCSE Economics (0455)**. Paper 1 has exactly the shape of 0455 Paper 1 — 30 questions in 45 minutes — so any 0455 Paper 1 is a full timed mock. Paper 2 is as long as 0455 Paper 2 (2 hours 15 minutes) with fewer marks: the data question is worth 20 rather than 30, and the three structured questions are chosen from six rather than four.
 
 Reference: [DIAGRAMS.md](DIAGRAMS.md) — every diagram you can be asked to draw, and how to label it.
 Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Import** in Anki.
@@ -21,6 +23,7 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 | — | Study guide: exam timing and priority order | [notes](notes/study-guide.md) | — |
 | 0a | Government policy chains: which tool, how it works, when it fails | [notes](notes/policy-chains.md) | [deck](anki/policy-chains.txt) |
 | 0b | Exam practice: data response and 20-mark questions | [notes](notes/exam-practice.md) | [deck](anki/policy-chains.txt) |
+| 0c | Multiple-choice practice: a timed 30-question Paper 1 | [notes](notes/mcq-practice.md) | [deck](anki/policy-chains.txt) |
 | **Foundations** | | | |
 | 1 | Scarcity, choice and economic systems | [notes](notes/foundations.md) | [deck](anki/foundations.txt) |
 | 2 | The New Zealand economy | [notes](notes/nz-economy.md) | [deck](anki/nz-economy.txt) |
@@ -53,25 +56,42 @@ Flashcards: [anki/](anki/) — tab-separated decks, import with **File → Impor
 
 ### Timing
 
-The paper is 180 minutes for 100 marks — about **1.8 minutes a mark**. A workable plan:
+The two papers are timed separately, so each has its own plan.
+
+**Paper 1: 45 minutes for 30 questions, which is 1.5 minutes a question.**
+
+| Pass | Time | What you do |
+|---|---|---|
+| First pass | about 30 minutes | answer every question you can in about a minute; mark the doubtful ones on the question paper and keep moving |
+| Second pass | about 10 minutes | the marked questions: sketch the diagram, write the formula, eliminate |
+| Grid check | the last 5 minutes | name and student ID on the grid; one answer in every row; each row matches its question number |
+
+Spare minutes cannot be carried into Paper 2, so spend them all on checking.
+
+**Paper 2: 135 minutes for 80 marks, about 1.7 minutes a mark.** Each of the four 20-mark questions gets about **32 minutes**.
 
 | Part | Marks | Time |
 |---|---|---|
-| Read the data question and choose your three structured questions | — | 10 minutes |
-| Multiple choice | 20 | 20–25 minutes (about a minute each; bank the spare time) |
-| Data response | 20 | about 36 minutes |
-| Three structured questions | 3 × 20 | about **36 minutes each** — 108 minutes |
-| Check | — | whatever is left |
+| Read all six Section C questions and choose three | — | 5 minutes |
+| Section B: data response | 20 | about 32 minutes |
+| Section C: three structured questions | 3 × 20 | about **32 minutes each**, 96 minutes in all |
+| Check | — | the 2 minutes left |
 
-Choose structured questions on the strength of the **(c) and (d)** parts, which carry 14 of the 20 marks — not on the easy (a) definition.
+When a question's 32 minutes are up, move on: the first marks of the next question come more cheaply than the last marks of this one. A sensible order is Section B first, while you are fresh for the unseen source, then your strongest Section C question.
+
+Choose structured questions on the strength of the **(c) and (d)** parts, which usually carry 14 of the 20 marks — not on the easy (a) definition.
 
 ### Multiple choice
+
+Paper 1 is worth 30 marks, more than the data response. It is also where marks are quickest to gain, because each question tests one idea and the same traps keep coming back. Practise with the timed [MCQ practice paper](notes/mcq-practice.md); its "This loses marks" list collects the traps.
 
 - **Cover the options and answer first.** Work out the answer from the stem, then find it — this stops a plausible distractor pulling you in.
 - **Read every word of the stem.** Watch for *not*, *least*, *most likely*, *always*, and for whether a question is about a **shift** or a **movement along** a curve, **demand** or **quantity demanded**, **nominal** or **real**, **total** or **average**.
 - **Eliminate.** Two options are usually clearly wrong; decide between the last two by the exact wording.
 - **Sketch the diagram** in the margin for any question about price, quantity, taxes, exchange rates or costs — it takes ten seconds and settles most of them.
 - **Do the arithmetic.** Calculation questions (PED, percentage changes, CPI, real GDP, costs, exchange-rate conversions) are common; write the formula and check the answer is sensible.
+- **Keep to 1.5 minutes.** If a question is still unclear after two minutes, put down your best guess, mark it, and come back to it on the second pass.
+- **Mind the grid.** Write your name and student ID first. If you skip a question, skip its row too: one slip moves every later answer into the wrong row. Make any changed answer unmistakable.
 - **Never leave a blank** — there is no penalty for a wrong answer unless the paper says otherwise. Mark doubtful questions and return to them.
 
 ### Data response
@@ -86,7 +106,7 @@ The question gives you **unseen source material** — text plus tables or graphs
 | Analyse — often with a diagram | *analyse*, *draw* | 4–5 | a full causal chain; a correctly labelled diagram |
 | Discuss | *discuss* | 5–6 | both sides, developed, and a judgement |
 
-The Pre-Q data question is worth 20 marks, so expect a shorter version of the same ladder.
+The Pre-Q data question is **Section B** of Paper 2: compulsory, worth 20 marks rather than 0455's 30, so expect a shorter version of the same ladder. Allow about 32 minutes, including reading the source.
 
 **Method.**
 
@@ -102,16 +122,18 @@ The Pre-Q data question is worth 20 marks, so expect a shorter version of the sa
 
 ### Structured (20-mark) questions
 
-Each optional question opens with a short **stimulus** (a few lines of context) and has **four parts**. In Cambridge IGCSE 0455 the pattern is typically:
+**Section C** of Paper 2: answer **three** of the six. Each question opens with a short **stimulus** (a few lines of context) and has **four parts**. In Cambridge IGCSE 0455 the pattern is typically:
 
 | Part | Typical command | Marks | What a full-mark answer needs | Time |
 |---|---|---|---|---|
-| **(a)** | *identify*, *define*, *state* | 2 | a precise definition or two correct points — no essay | 2–3 minutes |
+| **(a)** | *identify*, *define*, *state* | 2 | a precise definition or two correct points — no essay | 3 minutes |
 | **(b)** | *explain* | 4 | two points, each **stated and explained** (point + reason), or one point developed with an example | 6 minutes |
-| **(c)** | *analyse* | 6 | a developed causal chain — each link explained — usually with a **labelled diagram**, applied to the stimulus | 10–11 minutes |
-| **(d)** | *discuss* | 8 | **both sides**, each developed, and an **evaluative conclusion** | 15–16 minutes |
+| **(c)** | *analyse* | 6 | a developed causal chain — each link explained — usually with a **labelled diagram**, applied to the stimulus | 10 minutes |
+| **(d)** | *discuss* | 8 | **both sides**, each developed, and an **evaluative conclusion** | 13 minutes |
 
-Treat the marks as a guide to length: roughly one developed sentence per mark.
+Treat the marks as a guide to length: roughly one developed sentence per mark. The 32 minutes leave no room to write more than the marks need.
+
+**Number and label.** Write the question number, and each part letter — (a), (b), (c), (d) — in the margin of the answer booklet, as the instructions require. An unlabelled answer can be marked against the wrong part.
 
 **Command words** (Cambridge definitions):
 

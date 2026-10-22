@@ -57,3 +57,30 @@ Pre-Q Basic	Conflict: growth vs price stability	Demand grows faster than resourc
 Pre-Q Basic	Econ discuss [8]: what lifts an answer to Level 3 (6–8)?	Both sides developed, plus a judgement naming what the answer depends on	
 Pre-Q Basic	Econ analyse [6]: penalty for listing points?	A list of unexplained points is capped at 3 marks	
 Pre-Q Basic	Econ evaluation: five 'it depends' factors	PED; size of the change; time lags; spare capacity; cause of the problem	Also cost, confidence, enforcement, who gains
+Pre-Q Cloze	Econ exam: {{c1::110}} marks in two papers — Paper 1 MCQ {{c2::30}}, Paper 2 data response {{c3::20}} and structured {{c4::3 × 20}}		
+Pre-Q Basic	Econ Paper 1: how many questions, how long, and what then?	30 multiple-choice questions in 45 minutes, then the grid is handed in	
+Pre-Q Basic	Econ Paper 2: length and sections?	2 h 15 min: Section B data response (compulsory, 20) + Section C three of six structured (20 each)	
+Pre-Q Basic	Econ Paper 1: time per question?	1.5 minutes; spare time cannot be moved into Paper 2	45 ÷ 30
+Pre-Q Basic	Econ Paper 2: time per 20-mark question?	About 32 minutes, after 5 minutes choosing the Section C questions	
+Pre-Q Basic	Econ Section C: how to choose 3 of the 6?	On the (c) analyse and (d) discuss parts — usually 14 of the 20 marks	
+Pre-Q Basic	Econ answer booklet: two presentation rules?	Number each question; label its parts (a), (b), (c)…	
+Pre-Q Basic	Econ MCQ grid: the slip that costs a run of marks?	Skipping a question but not its row, so every later answer is in the wrong row	
+Pre-Q Basic	Econ MCQ: first move, before reading the options?	Answer from the stem, then find your answer among the options	Stops a distractor pulling you in
+Pre-Q Basic	Econ MCQ: words to circle in the stem	NOT, LEAST, MOST LIKELY, ALWAYS — and shift or movement, nominal or real	
+Pre-Q Basic	Opportunity cost when several options are rejected?	Only the next best one, not the sum of everything rejected	
+Pre-Q Basic	Maximum price below equilibrium: quantity actually traded?	Qs, the smaller amount; the shortage is Qd − Qs	Sellers decide how much is sold
+Pre-Q Basic	Minimum price above equilibrium: quantity actually traded?	Qd, unless the government buys the surplus	
+Pre-Q Basic	Maximum price set above equilibrium: effect?	None — the market price already obeys it	A ceiling bites only below equilibrium
+Pre-Q Basic	Indirect tax: does the price rise by the whole tax?	No — by less; producers bear the rest	
+Pre-Q Basic	Percentage point change vs percentage change	Points: new rate − old rate. Per cent: (new − old) ÷ old × 100	
+Pre-Q Basic	CPI index points vs the inflation rate	Inflation = point change ÷ old index × 100; the two match only from 100	
+Pre-Q Basic	Progressive, proportional or regressive: what is the test?	The proportion of income taken in tax, never the dollar amount	
+Pre-Q Basic	Output and workforce rise by the same %: labour productivity?	Unchanged — production rose, output per worker did not	
+Pre-Q Basic	Nominal GDP rises at the same rate as prices: real GDP?	Unchanged — the whole rise is inflation	
+Pre-Q Basic	Minimum wage: how to find the unemployment it creates?	Labour supplied − labour demanded at the minimum wage (not the fall in employment)	
+Pre-Q Basic	Unemployment rate: three wrong denominators	Population, working-age population, number employed — divide by the labour force	
+Pre-Q Basic	New motorway cuts a firm's delivery costs: which economy of scale?	External (shared infrastructure), not internal	
+Pre-Q Basic	Country worse at producing everything: can it gain from trade?	Yes — it still has a comparative advantage where its opportunity cost is lower	
+Pre-Q Basic	Dividends paid to foreign shareholders: which part of the current account?	Primary income (a debit)	
+Pre-Q Basic	Foreign tourists' spending in NZ: which part of the current account?	Services — an invisible export	
+Pre-Q Basic	NZ price of an import rises, its foreign price unchanged: NZ$?	Has depreciated	

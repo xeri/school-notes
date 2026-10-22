@@ -7,7 +7,7 @@ Six exams between Tuesday 27 October and Wednesday 4 November. This page doesn't
 | Exam | Date | Format | Start here |
 |---|---|---|---|
 | Mathematics | Tue 27 Oct, morning | one 3h paper, 180 marks | [Maths study guide](Mathematics-Study-Guide) |
-| Economics | Tue 27 Oct, afternoon | 3h: 20 MCQ, data response, 3 of 6 structured | [Economics study guide](Economics-Study-Guide) |
+| Economics | Tue 27 Oct, afternoon | 2 papers, 110 marks: 30 MCQ in 45 min, then 2h15 for data response + 3 of 6 structured | [Economics study guide](Economics-Study-Guide) |
 | English | Wed 28 Oct, morning | Papers 1, 3 and 4, 25 marks each | [English study guide](English-Study-Guide) |
 | Business Studies | Fri 30 Oct, morning | 3h, 120 marks, no choice | [Business study guide](Business-Study-Guide) |
 | Physics | Tue 3 Nov, morning | 40 MCQ, then 10 × 15-mark sections, no formula sheet | [Physics study guide](Physics-Study-Guide) |
@@ -24,7 +24,7 @@ Six exams between Tuesday 27 October and Wednesday 4 November. This page doesn't
 | Subject | Read first | Then |
 |---|---|---|
 | Maths | [Exam errors](Mathematics-Exam-Errors) → [Big ideas](Mathematics-Big-Ideas) | the highest-mark question types listed in the study guide, each by past-paper practice |
-| Economics | [Policy chains](Economics-Policy-Chains) | elasticity and market failure, macro, trade → [Exam practice](Economics-Exam-Practice) |
+| Economics | [Policy chains](Economics-Policy-Chains) | elasticity and market failure, macro, trade → [Exam practice](Economics-Exam-Practice) and the timed [MCQ paper](Economics-Mcq-Practice) |
 | English | [Othello quotes](English-Othello-Quotes) → [Othello scenes](English-Othello-Scenes) | [Film story](English-Film-Story) → [Context](English-Context) → Paper 1 allusions |
 | Business | [Term 3 decisions](Business-T3-Decisions) | calculation drills → [CCC extension](Business-Ccc-Extension) → [Business vs Economics](Business-Econ-Overlap) |
 | Geography | [Models index](Geography-Models-Index) → [Overlaps](Geography-Overlaps) | Theme A processes (coasts, rivers, tectonics) → urban → development → essay plans |
@@ -86,4 +86,5 @@ Every note is tagged `tier::1`, `tier::2` or `tier::3`. In every subject the tie
 
 ## Exam checklist
 - Pens, pencil, ruler, protractor, approved calculator, eraser, and plain paper for Geography cross-sections.
+- Your student ID: the Economics multiple-choice grid asks for it.
 - The night before: no new material.
