@@ -16,6 +16,7 @@ Pre-Q revision notes for six subjects, authored here and published to the GitHub
 - Notes: one `# Title`, sections at `##`/`###`; definitions as `**Term** = …` in notes or `**Term** — …` in TERMS.md; traps under a "This loses marks" heading or a `**This loses marks:**` paragraph. Editing a heading changes its section id.
 - Anki decks: tab-separated, Anki header lines, four columns (note type, Front/Text, Back/Extra, Hint).
 - `local/` (school material, toolchain, progress) is gitignored and must stay unpublished.
+- Accent colour: electro purple `#c800ff` (`ACCENT` in `build.py`) for the README badges and stats card, PDF headings, the occlusion preview and Anki cloze styling. Diagram colours are data encodings, not the accent: leave them.
 
 ## Commands
 

@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "pdf" / "occlusion"
 TYPST = ROOT / "local" / "toolchain" / "typst-x86_64-pc-windows-msvc" / "typst.exe"
 NS = "{http://www.w3.org/2000/svg}"
+ACCENT = "#c800ff"  # the project accent, as in build.py
 
 NUMERIC = re.compile(r"^[\s\d.,%$°−\-+×/()]*$")
 
@@ -171,7 +172,7 @@ def preview(svg_path, W, H, boxes):
     """pdf/occlusion/<name>-masks.png: the diagram with every mask drawn on, to check alignment."""
     rects = "".join(
         f'<rect x="{l * W:.1f}" y="{t * H:.1f}" width="{w * W:.1f}" height="{h * H:.1f}" '
-        f'fill="#ffd34d" fill-opacity="0.75" stroke="#c0392b" stroke-width="1.5"/>'
+        f'fill="{ACCENT}" fill-opacity="0.35" stroke="{ACCENT}" stroke-width="1.5"/>'
         for _, l, t, w, h in boxes
     )
     src = svg_path.read_text(encoding="utf-8")

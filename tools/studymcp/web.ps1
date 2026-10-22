@@ -8,7 +8,7 @@ $server = Start-Process uv -ArgumentList "run", "--quiet", "--frozen", "--projec
 try {
     while (-not (Test-Path "$root/local/mcp-token")) { Start-Sleep -Milliseconds 200 }
     $token = (Get-Content "$root/local/mcp-token").Trim()
-    Write-Host "`nConnector URL: https://$domain/$token/mcp`n" -ForegroundColor Green
+    Write-Host "`nConnector URL: https://$domain/$token/mcp`n" -ForegroundColor Magenta
     ngrok http 8765 --url "https://$domain" --log stderr --log-level warn
 } finally {
     Stop-Process -Id $server.Id -ErrorAction SilentlyContinue

@@ -34,6 +34,7 @@ SUBJECTS = {
 }
 
 REPO = "https://github.com/xeri/school-notes"
+ACCENT = "#c800ff"  # electro purple: README badges and stats card, PDF headings
 
 
 # --------------------------------------------------------------------------- #
@@ -391,6 +392,7 @@ def build_pdf(codes):
             "-V", "papersize=a4",
             "-V", "fontsize=10pt",
             "--metadata", f"title={SUBJECTS[code]} — Pre-Q",
+            "-V", f'header-includes=#show heading: set text(fill: rgb("{ACCENT}"))',
         ]
         r = subprocess.run(cmd, env=env, cwd=merged.parent)
         merged.unlink()
@@ -414,12 +416,12 @@ def strip_repo_links(text):
 README = ROOT / "README.md"
 STATS_DIR = ROOT / ".github" / "readme"
 WORD = re.compile(r"[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*")
-BADGE_COLOR = "2a78d6"
+BADGE_COLOR = ACCENT.lstrip("#")
 
 # the same tokens stepped for each GitHub theme; the README swaps them with <picture>
 CARD_THEMES = {
-    "light": {"surface": "#fcfcfb", "border": "#e4e3df", "text": "#0b0b0b", "muted": "#52514e", "accent": "#2a78d6"},
-    "dark": {"surface": "#1a1a19", "border": "#383835", "text": "#f0efec", "muted": "#c3c2b7", "accent": "#3987e5"},
+    "light": {"surface": "#fcfcfb", "border": "#e4e3df", "text": "#0b0b0b", "muted": "#52514e", "accent": ACCENT},
+    "dark": {"surface": "#1a1a19", "border": "#383835", "text": "#f0efec", "muted": "#c3c2b7", "accent": ACCENT},
 }
 
 
