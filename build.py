@@ -5,12 +5,14 @@
     python build.py push-wiki       regenerate, then push wiki/ to the GitHub wiki
     python build.py pdf             build pdf/<SUBJECT>.pdf for every subject
     python build.py pdf PHQ MAQ     build only those subjects
+    python build.py stats           refresh the README badges, stats card and subject table
 
 Each subject folder holds SYLLABUS.md, notes/*.md, anki/*.txt and optional
 reference files. Reading order comes from the links in SYLLABUS.md, so the
 syllabus is the single place that defines sequence.
 """
 
+import html
 import os
 import re
 import shutil
@@ -406,6 +408,148 @@ def strip_repo_links(text):
 
 
 # --------------------------------------------------------------------------- #
+# README stats
+# --------------------------------------------------------------------------- #
+
+README = ROOT / "README.md"
+STATS_DIR = ROOT / ".github" / "readme"
+WORD = re.compile(r"[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*")
+BADGE_COLOR = "2a78d6"
+
+# the same tokens stepped for each GitHub theme; the README swaps them with <picture>
+CARD_THEMES = {
+    "light": {"surface": "#fcfcfb", "border": "#e4e3df", "text": "#0b0b0b", "muted": "#52514e", "accent": "#2a78d6"},
+    "dark": {"surface": "#1a1a19", "border": "#383835", "text": "#f0efec", "muted": "#c3c2b7", "accent": "#3987e5"},
+}
+
+
+def subject_stats(code):
+    """counts for one subject: notes pages, reference sheets, decks, Anki notes, cards, diagrams, words."""
+    d = subject_dir(code)
+    topics, refs = reading_order(code), reference_files(code)
+    decks = sorted((d / "anki").glob("*.txt"))
+    notes = cards = 0
+    for deck in decks:
+        for line in deck.read_text(encoding="utf-8").splitlines():
+            if not line.strip() or line.startswith("#"):
+                continue
+            kind, text = (line.split("\t") + [""])[:2]
+            notes += 1
+            # a cloze note makes one card per cloze number
+            cards += len(set(re.findall(r"\{\{c(\d+)::", text))) if kind.endswith("Cloze") else 1
+    pages = [d / "SYLLABUS.md", *refs, *(d / "notes" / f"{s}.md" for s in topics)]
+    return {
+        "pages": len(topics),
+        "refs": len(refs),
+        "decks": len(decks),
+        "notes": notes,
+        "cards": cards,
+        "diagrams": len(list((d / "notes").glob("*.svg"))),
+        "words": sum(len(WORD.findall(p.read_text(encoding="utf-8"))) for p in pages),
+    }
+
+
+def compact(n):
+    """1,284 · 12.9K · 307K"""
+    if n < 10_000:
+        return f"{n:,}"
+    return f"{n / 1000:.1f}K" if n < 100_000 else f"{round(n / 1000)}K"
+
+
+def badge(label, value, logo=None, link=None):
+    """a static shields.io badge in markdown."""
+    q = lambda s: s.replace("-", "--").replace("_", "__").replace(" ", "%20").replace(",", "%2C")
+    url = f"https://img.shields.io/badge/{q(label)}-{q(value)}-{BADGE_COLOR}?style=for-the-badge"
+    if logo:
+        url += f"&logo={logo}&logoColor=white"
+    img = f"![{label}: {value}]({url})"
+    return f"[{img}]({link})" if link else img
+
+
+def stats_card(tiles, c):
+    """a 3 × 2 grid of stat tiles (label, value, note) as SVG, in one theme's colours."""
+    cols, gap, tw, th = 3, 12, 284, 112
+    w, h = cols * tw + (cols - 1) * gap, 2 * th + gap
+    font = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    summary = "; ".join(f"{label} {value}" for label, value, _ in tiles)
+    out = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
+        f'role="img" font-family="{font}">',
+        f"<title>{html.escape(summary)}</title>",
+    ]
+    for i, (label, value, note) in enumerate(tiles):
+        x, y = (i % cols) * (tw + gap), (i // cols) * (th + gap)
+        out += [
+            f'<rect x="{x + 0.5}" y="{y + 0.5}" width="{tw - 1}" height="{th - 1}" rx="12" '
+            f'fill="{c["surface"]}" stroke="{c["border"]}"/>',
+            f'<rect x="{x + 20}" y="{y + 18}" width="24" height="4" rx="2" fill="{c["accent"]}"/>',
+            f'<text x="{x + 20}" y="{y + 42}" font-size="14" fill="{c["muted"]}">{html.escape(label)}</text>',
+            f'<text x="{x + 20}" y="{y + 80}" font-size="32" font-weight="600" fill="{c["text"]}">'
+            f"{html.escape(value)}</text>",
+            f'<text x="{x + 20}" y="{y + 100}" font-size="13" fill="{c["muted"]}">{html.escape(note)}</text>',
+        ]
+    return "\n".join(out + ["</svg>"]) + "\n"
+
+
+def write_stats():
+    """refresh the generated README blocks and the stats card from the subject folders."""
+    per = {code: subject_stats(code) for code in SUBJECTS if (subject_dir(code) / "SYLLABUS.md").exists()}
+    tot = {k: sum(s[k] for s in per.values()) for k in next(iter(per.values()))}
+    wiki_pages = tot["pages"] + tot["refs"] + len(per) + 1  # + each syllabus and the study plan
+
+    tiles = [
+        ("Subjects", str(len(per)), "Term 4 Pre-Q exams"),
+        ("Notes pages", f"{tot['pages']:,}", f"plus {tot['refs']} reference sheets"),
+        ("Words", compact(tot["words"]), "of notes, syllabi and references"),
+        ("Flashcards", f"{tot['cards']:,}", f"from {tot['notes']:,} Anki notes"),
+        ("Anki decks", f"{tot['decks']:,}", "tab-separated, ready to import"),
+        ("Diagrams", f"{tot['diagrams']:,}", "labelled SVGs"),
+    ]
+    STATS_DIR.mkdir(parents=True, exist_ok=True)
+    for theme, colors in CARD_THEMES.items():
+        (STATS_DIR / f"stats-{theme}.svg").write_text(stats_card(tiles, colors), encoding="utf-8")
+
+    rel = STATS_DIR.relative_to(ROOT).as_posix()
+    alt = "; ".join(f"{label}: {value} ({note})" for label, value, note in tiles)
+    top = "\n".join([
+        badge("subjects", str(len(per))),
+        badge("notes pages", f"{tot['pages']:,}", "markdown", f"{REPO}/wiki"),
+        badge("words", compact(tot["words"])),
+        badge("flashcards", f"{tot['cards']:,}", "anki"),
+        badge("anki decks", f"{tot['decks']:,}", "anki"),
+        badge("diagrams", f"{tot['diagrams']:,}"),
+        badge("wiki pages", f"{wiki_pages:,}", "github", f"{REPO}/wiki"),
+        "",
+        "<picture>",
+        f'  <source media="(prefers-color-scheme: dark)" srcset="{rel}/stats-dark.svg">',
+        f'  <img alt="{html.escape(alt)}" src="{rel}/stats-light.svg" width="100%">',
+        "</picture>",
+    ])
+
+    rows = [
+        "| Subject | Syllabus | Reference | Notes pages | Flashcards | Diagrams | Words |",
+        "|---|---|---|---:|---:|---:|---:|",
+    ]
+    for code, s in per.items():
+        d = subject_dir(code).relative_to(ROOT).as_posix()
+        refs = " · ".join(f"[{r.stem}]({d}/{r.name})" for r in reference_files(code))
+        rows.append(f"| {SUBJECTS[code]} | [{d}/SYLLABUS.md]({d}/SYLLABUS.md) | {refs} | "
+                    f"{s['pages']} | {s['cards']:,} | {s['diagrams']} | {s['words']:,} |")
+    rows.append(f"| **Total** | | | **{tot['pages']}** | **{tot['cards']:,}** | "
+                f"**{tot['diagrams']}** | **{tot['words']:,}** |")
+
+    text = README.read_text(encoding="utf-8")
+    for name, block in (("stats", top), ("subjects", "\n".join(rows))):
+        pattern = re.compile(rf"(<!-- {name}:begin[^>]*-->\n).*?(<!-- {name}:end -->)", re.S)
+        if not pattern.search(text):
+            sys.exit(f"README.md needs <!-- {name}:begin --> and <!-- {name}:end --> markers")
+        text = pattern.sub(lambda m: m.group(1) + block + "\n" + m.group(2), text)
+    README.write_text(text, encoding="utf-8")
+    print(f"stats: {tot['pages']} pages, {tot['cards']:,} cards in {tot['decks']} decks, "
+          f"{tot['diagrams']} diagrams, {tot['words']:,} words -> README.md, {rel}/")
+
+
+# --------------------------------------------------------------------------- #
 
 def main():
     args = sys.argv[1:] or ["wiki"]
@@ -416,6 +560,8 @@ def main():
         push_wiki()
     elif cmd == "pdf":
         build_pdf(rest or list(SUBJECTS))
+    elif cmd == "stats":
+        write_stats()
     else:
         sys.exit(__doc__)
 

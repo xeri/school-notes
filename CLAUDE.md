@@ -19,6 +19,6 @@ Pre-Q revision notes for six subjects, authored here and published to the GitHub
 
 ## Commands
 
-- `python build.py wiki | push-wiki | pdf [CODES]` builds the wiki and PDFs.
+- `python build.py wiki | push-wiki | pdf [CODES]` builds the wiki and PDFs. `python build.py stats` refreshes the README counts after adding notes, decks or diagrams.
 - `uv run --project tools/studymcp studymcp doctor` checks parsing and links after big edits; `... pytest` runs the server tests.
 - Edits to notes reach the server on the next tool call. After changing server code or `tools/studymcp/config.toml`, reconnect it with `/mcp`.
