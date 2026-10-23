@@ -15,6 +15,10 @@ Pre-Q syllabuses, revision notes and Anki decks for six subjects.
 | Mathematics | [T4-MAQ/SYLLABUS.md](T4-MAQ/SYLLABUS.md) | [FORMULAS](T4-MAQ/FORMULAS.md) |
 | Physics | [T4-PHQ/SYLLABUS.md](T4-PHQ/SYLLABUS.md) | [FORMULAS](T4-PHQ/FORMULAS.md) |
 
+## Cambridge AS & A Level (2027–2028)
+
+Next year's notes are in [`cambridge/`](cambridge/README.md): one folder per subject for the whole AS and A Level syllabus, a skeleton for every AS topic, and a guide to how AS and A Level work. They aren't in the wiki, the PDFs or `/study` yet. That happens after the Pre-Q exams, when this term's folders are archived.
+
 ## Layout
 
 ```

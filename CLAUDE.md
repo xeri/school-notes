@@ -17,6 +17,16 @@ Pre-Q revision notes for six subjects, authored here and published to the GitHub
 - Anki decks: tab-separated, Anki header lines, four columns (note type, Front/Text, Back/Extra, Hint).
 - `local/` (school material, toolchain, progress) is gitignored and must stay unpublished.
 
+## Cambridge AS & A Level (2027–28)
+
+- `cambridge/` holds next year's course: `maths`, `economics`, `business`, `geography`, `english-language`, `english-literature`, each one folder for the whole AS + A Level syllabus. `cambridge/README.md` is the context for how AS and A Level work and for the folder's conventions; `cambridge/PLAN.md` has the exams.
+- Same note conventions as above, plus:
+  - Files are named after the syllabus (`economics/notes/02-price-system.md`, `maths/notes/p1-quadratics.md`).
+  - A topic starts as a skeleton: its first line is `*Status: skeleton…*`, then one `##` per syllabus subtopic. Deleting that line makes it live.
+  - *(to verify)* marks facts not yet checked against the official syllabus; never put it in a heading.
+  - Decks use `#deck:Cambridge::<Subject>::…` and the note types Cambridge Basic / Cambridge Cloze.
+- The study server, `build.py` and `/study` don't read `cambridge/` yet (they're wired up after the Pre-Q exams). Until then, answer from the files directly.
+
 ## Commands
 
 - `python build.py wiki | push-wiki | pdf [CODES]` builds the wiki and PDFs.
