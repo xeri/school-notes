@@ -33,6 +33,10 @@ Pre-Q syllabuses, revision notes and Anki decks for six subjects.
 | **Total** | | | **89** | **6,005** | **146** | **306,828** |
 <!-- subjects:end -->
 
+## Cambridge AS & A Level (2027–2028)
+
+Next year's notes are in [`cambridge/`](cambridge/README.md): one folder per subject for the whole AS and A Level syllabus, a skeleton for every AS topic, and a guide to how AS and A Level work. They aren't in the wiki, the PDFs or `/study` yet. That happens after the Pre-Q exams, when this term's folders are archived.
+
 ## Layout
 
 ```

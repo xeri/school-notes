@@ -18,6 +18,15 @@ Pre-Q revision notes for six subjects, authored here and published to the GitHub
 - `local/` (school material, toolchain, progress) is gitignored and must stay unpublished.
 - Accent colour: electro purple `#c800ff` (`ACCENT` in `build.py`) for the README badges and stats card, PDF headings, the occlusion preview and Anki cloze styling. Diagram colours are data encodings, not the accent: leave them.
 
+## Cambridge AS & A Level (2027–28)
+
+- `cambridge/` holds next year's course: `maths`, `economics`, `business`, `geography`, `english-language`, `english-literature`, each one folder for the whole AS + A Level syllabus. `cambridge/README.md` is the context for how AS and A Level work and for the folder's conventions; `cambridge/PLAN.md` has the exams.
+- Each subject folder's `README.md` is its hub: papers, topics with rank and progress, exam technique. Topic files sit beside it, named after the syllabus (`economics/02-price-system.md`, `maths/p1-quadratics.md`). Each opens with what the syllabus asks and what it builds on from Pre-Q. Definitions and traps follow the note conventions above, plus:
+  - A topic starts as a skeleton: its first line is `*Status: skeleton…*`, then one `##` per syllabus subtopic. Deleting that line makes it live.
+  - *(to verify)* marks facts not yet checked against the official syllabus; never put it in a heading.
+  - Decks use `#deck:Cambridge::<Subject>::…` and the note types Cambridge Basic / Cambridge Cloze.
+- The study server, `build.py` and `/study` don't read `cambridge/` yet (they're wired up after the Pre-Q exams). Until then, answer from the files directly.
+
 ## Commands
 
 - `python build.py wiki | push-wiki | pdf [CODES]` builds the wiki and PDFs. `python build.py stats` refreshes the README counts after adding notes, decks or diagrams.
