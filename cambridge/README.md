@@ -1,37 +1,40 @@
 # Cambridge AS & A Level (2027–2028)
 
-Notes for Cambridge International AS Level in 2027 and, for any subject you continue, the A Level in 2028. Each subject starts at its syllabus page. [PLAN.md](PLAN.md) has the exams and the year at a glance.
+Notes for Cambridge International AS Level in 2027 and, for any subject you continue, the A Level in 2028. Open a subject folder and its README is the hub. [PLAN.md](PLAN.md) has the exams and the year at a glance.
 
 | Subject | Syllabus | AS papers (Oct/Nov 2027) | A Level adds (Oct/Nov 2028) |
 |---|---|---|---|
-| [Mathematics](maths/SYLLABUS.md) | 9709 | 1 Pure Mathematics 1 · 5 Probability & Statistics 1 | 3 Pure Mathematics 3, and 4 Mechanics or 6 Probability & Statistics 2 |
-| [Economics](economics/SYLLABUS.md) | 9708 | 1 Multiple choice · 2 Data response and essays | 3 Multiple choice · 4 Data response and essays |
-| [Business](business/SYLLABUS.md) | 9609 | 1 Business Concepts 1 · 2 Business Concepts 2 | 3 Business Decision-Making · 4 Business Strategy |
-| [Geography](geography/SYLLABUS.md) | 9696 | 1 Physical Geography · 2 Human Geography | 3 Global Environments · 4 Global Themes |
-| [English Language](english-language/SYLLABUS.md) | 9093 | 1 Reading · 2 Writing | 3 and 4 *(to verify)* |
-| [English Literature](english-literature/SYLLABUS.md) | 9695 | 1 Drama and Poetry · 2 Prose and Unseen | 3 and 4 *(to verify)* |
+| [Mathematics](maths/) | 9709 | 1 Pure Mathematics 1 · 5 Probability & Statistics 1 | 3 Pure Mathematics 3, and 4 Mechanics or 6 Probability & Statistics 2 |
+| [Economics](economics/) | 9708 | 1 Multiple choice · 2 Data response and essays | 3 Multiple choice · 4 Data response and essays |
+| [Business](business/) | 9609 | 1 Business Concepts 1 · 2 Business Concepts 2 | 3 Business Decision-Making · 4 Business Strategy |
+| [Geography](geography/) | 9696 | 1 Physical Geography · 2 Human Geography | 3 Global Environments · 4 Global Themes |
+| [English Language](english-language/) | 9093 | 1 Reading · 2 Writing | 3 and 4 *(to verify)* |
+| [English Literature](english-literature/) | 9695 | 1 Drama and Poetry · 2 Prose and Unseen | 3 and 4 *(to verify)* |
 
 Only one English will be sat. Delete the other folder once you know which.
 
 ## How this folder works
 
-- **One folder per subject, for the whole syllabus.** The AS topics are here now; the A Level topics go in the same folder in 2028. They are already listed in each syllabus page, marked 2028.
-- **Files are named the way the syllabus numbers them:**
-  - Economics and Business use the topic number, because their A Level topics repeat the AS titles: `economics/notes/02-price-system.md` now, `07-…` to `11-…` in 2028.
+```
+economics/
+  README.md              the hub: papers · topics with priority and progress · exam technique · how to study
+  01-basic-ideas.md …    one file per topic, named the way the syllabus numbers it
+  diagrams.md            the subject's reference sheet
+  anki/                  decks, added with the first cards
+```
+
+- **One folder per subject, for the whole syllabus.** The AS topics are here now. The A Level topics are listed in each README and get their own files in 2028.
+- **File names follow the syllabus:**
+  - Economics and Business use the topic number, because their A Level topics repeat the AS titles: `02-price-system.md` now, `07-…` to `11-…` in 2028.
   - Maths and English use the paper: `p1-quadratics.md`, `s1-normal-distribution.md`, `p2-prose.md`.
   - Geography uses the topic name: `rivers.md`, `urban.md`.
-- **Each subject has:**
-  - `SYLLABUS.md`: the papers, every topic, and the checklist of what is examined;
-  - `notes/study-guide.md`: the priority order and a progress checklist;
-  - `notes/exam-technique.md`: how each paper works and how marks are given;
-  - one note per topic;
-  - one reference sheet.
-- **Skeletons.** Every AS topic note starts as a skeleton. Its headings follow the syllabus, and its first line says *Status: skeleton*.
+- **Each topic file is self-contained.** It says what the syllabus asks, what it builds on from Pre-Q and what's new, then has one section per subtopic.
+- **Skeletons.** Every AS topic starts as a skeleton: its headings follow the syllabus, and its first line says *Status: skeleton*.
 - **Writing up a topic once it's taught:**
   1. Fill in the sections. Definitions go in as `**Term** = …`, traps under "This loses marks".
   2. Delete the status line.
   3. Start the topic's deck (below).
-  4. Tick it in the study guide's checklist.
+  4. Tick it in the subject README.
 - **(to verify)** marks a fact not yet checked against the official syllabus PDF, which wasn't available when this was written. Clear the marks once you have it. Check a note's headings against it before you start revising that topic: the study tools use headings as ids.
 - **Not wired into the tools yet.** `/study`, the wiki and the PDFs still cover Pre-Q only. This folder gets connected after the Pre-Q exams, when the Term 4 folders are archived.
 
@@ -56,11 +59,11 @@ What changes in every subject:
 - **Maths wants exact algebra.** Exact answers, "show that" questions, full working, and 3 significant figures unless told otherwise.
 - **More independent reading.** The textbook, past papers and examiner reports matter as much as class notes.
 
-What carries over from Pre-Q in each subject is in the **From IGCSE** table on its syllabus page.
+What carries over from Pre-Q is named at the top of each topic file, with links to the Pre-Q notes.
 
 ## How marks are given
 
-- **Assessment objectives.** Every syllabus weights knowledge and understanding, application and analysis, and evaluation (Maths: knowledge and application). The exact objectives and weightings are on each syllabus page *(to verify)*.
+- **Assessment objectives.** Every syllabus weights knowledge and understanding, application and analysis, and evaluation (Maths: knowledge and application). The exact objectives and weightings are in each syllabus *(to verify)*.
 - **Levels marking.** Extended answers are marked in levels. The level comes from the answer's best overall quality, such as developed analysis with a supported judgement; the mark within the level comes from how fully it does that.
 - **Command words** (the usual meanings; each syllabus has its own list, so check it):
 
@@ -98,7 +101,7 @@ What carries over from Pre-Q in each subject is in the **From IGCSE** table on i
 
 - **Topic notes.** `# Title`, then one `##` per syllabus subtopic with its number (`## 2.2 Price elasticity…`), then `## This loses marks` and `## Practice`. Never put *(to verify)* in a heading.
 - **Diagrams** are SVGs beside the notes, named `<subject>-<what>.svg` (e.g. `economics-ped.svg`) so they never clash with the Pre-Q diagrams.
-- **Decks.** A topic's deck is `anki/<same name as the note>.txt`, started with its first cards, and linked from the Cards column of the syllabus page. It starts with these five lines:
+- **Decks.** A topic's deck is `anki/<same name as the topic file>.txt` in the subject folder, started with its first cards. It starts with these five lines:
 
   ```
   #separator:tab
@@ -117,5 +120,5 @@ What carries over from Pre-Q in each subject is in the **From IGCSE** table on i
 - **After the Pre-Q exams:** archive the Term 4 folders and connect this one to `/study`, the wiki and the PDF build.
 - **Late 2027, for each subject you continue:**
   - check the syllabus still applies (Maths 9709 has a new syllabus for exams from 2028);
-  - add the A Level topic notes (the rows marked 2028 on each syllabus page);
+  - add the A Level topic files (listed under A Level in each subject README);
   - add the A Level papers to the plan.

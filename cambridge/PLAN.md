@@ -1,6 +1,6 @@
 # Cambridge AS 2027: exams, priorities and the year
 
-The plan for the AS year. How AS works is in [README.md](README.md); each subject starts at its syllabus page.
+The plan for the AS year. How AS works is in [README.md](README.md); each subject starts at its README.
 
 ## The exams
 
@@ -8,18 +8,18 @@ All AS papers are in the **October/November 2027** series. Fill in each date whe
 
 | Exam | Paper | Date | Format | Start here |
 |---|---|---|---|---|
-| Mathematics | Paper 1 Pure Mathematics 1 | TBC | 1 h 50, 75 marks, 60% of AS | [Maths](maths/SYLLABUS.md) |
-| Mathematics | Paper 5 Probability & Statistics 1 | TBC | 1 h 15 *(to verify)*, 50 marks, 40% | [Maths](maths/SYLLABUS.md) |
-| Economics | Paper 1 Multiple choice | TBC | 1 h, 30 questions, 30 marks, 33% | [Economics](economics/SYLLABUS.md) |
-| Economics | Paper 2 Data response and essays | TBC | 2 h, 60 marks, 67% | [Economics](economics/SYLLABUS.md) |
-| Business | Paper 1 Business Concepts 1 | TBC | 1 h 15, 40 marks, 40% | [Business](business/SYLLABUS.md) |
-| Business | Paper 2 Business Concepts 2 | TBC | 1 h 30, 60 marks, 60% | [Business](business/SYLLABUS.md) |
-| Geography | Paper 1 Physical Geography | TBC | 1 h 30, 60 marks, 50% | [Geography](geography/SYLLABUS.md) |
-| Geography | Paper 2 Human Geography | TBC | 1 h 30, 60 marks, 50% | [Geography](geography/SYLLABUS.md) |
-| English Language | Paper 1 Reading | TBC | 2 h 15, 50 marks, 50% | [English Language](english-language/SYLLABUS.md) |
-| English Language | Paper 2 Writing | TBC | 2 h, 50 marks, 50% | [English Language](english-language/SYLLABUS.md) |
-| English Literature | Paper 1 Drama and Poetry | TBC | *(to verify)* | [English Literature](english-literature/SYLLABUS.md) |
-| English Literature | Paper 2 Prose and Unseen | TBC | *(to verify)* | [English Literature](english-literature/SYLLABUS.md) |
+| Mathematics | Paper 1 Pure Mathematics 1 | TBC | 1 h 50, 75 marks, 60% of AS | [Maths](maths/) |
+| Mathematics | Paper 5 Probability & Statistics 1 | TBC | 1 h 15 *(to verify)*, 50 marks, 40% | [Maths](maths/) |
+| Economics | Paper 1 Multiple choice | TBC | 1 h, 30 questions, 30 marks, 33% | [Economics](economics/) |
+| Economics | Paper 2 Data response and essays | TBC | 2 h, 60 marks, 67% | [Economics](economics/) |
+| Business | Paper 1 Business Concepts 1 | TBC | 1 h 15, 40 marks, 40% | [Business](business/) |
+| Business | Paper 2 Business Concepts 2 | TBC | 1 h 30, 60 marks, 60% | [Business](business/) |
+| Geography | Paper 1 Physical Geography | TBC | 1 h 30, 60 marks, 50% | [Geography](geography/) |
+| Geography | Paper 2 Human Geography | TBC | 1 h 30, 60 marks, 50% | [Geography](geography/) |
+| English Language | Paper 1 Reading | TBC | 2 h 15, 50 marks, 50% | [English Language](english-language/) |
+| English Language | Paper 2 Writing | TBC | 2 h, 50 marks, 50% | [English Language](english-language/) |
+| English Literature | Paper 1 Drama and Poetry | TBC | *(to verify)* | [English Literature](english-literature/) |
+| English Literature | Paper 2 Prose and Unseen | TBC | *(to verify)* | [English Literature](english-literature/) |
 
 Only one English is sat; delete the other's rows when you know. The November 2026 series ran from about 28 September to 13 November, so **AS papers can start before Term 4**. Results come in mid-January 2028.
 
@@ -27,7 +27,7 @@ Only one English is sat; delete the other's rows when you know. The November 202
 
 | When | What |
 |---|---|
-| Nov 2026 – Jan 2027 | Pre-Q exams, then a break. Optional: read [README.md](README.md), skim each syllabus page, and find out which English and which Maths second paper you'll take. |
+| Nov 2026 – Jan 2027 | Pre-Q exams, then a break. Optional: read [README.md](README.md), skim each subject README, and find out which English and which Maths second paper you'll take. |
 | Term 1 (Feb–Apr) | Write up each topic **within a week of it being taught**, and start its deck. A short weekly review of every written topic. |
 | Term 2 (May–Jul) | Same rhythm. Past-paper questions on each topic as soon as it's written; put what the examiner reports say into "This loses marks". |
 | Term 3 (Jul–Sep) | Finish new content by about August. Full timed papers, marked against the mark schemes; log every lost mark by type and redo the question two days later. |
@@ -59,10 +59,10 @@ The Pre-Q methods carry over unchanged ([STUDY-PLAN.md](../STUDY-PLAN.md#how-to-
 ## Open decisions
 
 - **English:** Language (9093) or Literature (9695)? Delete the other folder and its rows above.
-- **Maths second paper:** Probability & Statistics 1 (Paper 5) is scaffolded. If your class takes Mechanics (Paper 4) or Pure Mathematics 2 (Paper 2) instead, swap the `s1-` notes for that paper's topics, which are listed on the [maths syllabus page](maths/SYLLABUS.md). Paper 2 doesn't count towards an A Level.
+- **Maths second paper:** Probability & Statistics 1 (Paper 5) is scaffolded. If your class takes Mechanics (Paper 4) or Pure Mathematics 2 (Paper 2) instead, swap the `s1-` notes for that paper's topics, which are listed in the [maths README](maths/). Paper 2 doesn't count towards an A Level.
 
 ## A Level (2028)
 
 For each subject you continue:
 - the A Level papers are sat in November 2028, and your AS result carries forward;
-- in late 2027, check the syllabus still applies (Maths 9709 changes for 2028), add the A Level topic notes (the rows marked 2028 on each syllabus page), and add the A Level papers to this plan.
+- in late 2027, check the syllabus still applies (Maths 9709 changes for 2028), add the A Level topic notes (listed in each subject README), and add the A Level papers to this plan.

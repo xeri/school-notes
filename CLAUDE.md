@@ -20,8 +20,7 @@ Pre-Q revision notes for six subjects, authored here and published to the GitHub
 ## Cambridge AS & A Level (2027–28)
 
 - `cambridge/` holds next year's course: `maths`, `economics`, `business`, `geography`, `english-language`, `english-literature`, each one folder for the whole AS + A Level syllabus. `cambridge/README.md` is the context for how AS and A Level work and for the folder's conventions; `cambridge/PLAN.md` has the exams.
-- Same note conventions as above, plus:
-  - Files are named after the syllabus (`economics/notes/02-price-system.md`, `maths/notes/p1-quadratics.md`).
+- Each subject folder's `README.md` is its hub: papers, topics with rank and progress, exam technique. Topic files sit beside it, named after the syllabus (`economics/02-price-system.md`, `maths/p1-quadratics.md`). Each opens with what the syllabus asks and what it builds on from Pre-Q. Definitions and traps follow the note conventions above, plus:
   - A topic starts as a skeleton: its first line is `*Status: skeleton…*`, then one `##` per syllabus subtopic. Deleting that line makes it live.
   - *(to verify)* marks facts not yet checked against the official syllabus; never put it in a heading.
   - Decks use `#deck:Cambridge::<Subject>::…` and the note types Cambridge Basic / Cambridge Cloze.
